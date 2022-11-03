@@ -19,6 +19,8 @@ sections:
         - title: Professional Recognition
           description: ""
           url: ""
+      button: Learn More
+      url: /click-here/
   - infobar:
       title: WELCOME
       description: For more information on the different Academies and Language centres
