@@ -23,7 +23,7 @@ sections:
       url: /click-here/
   - infobar:
       title: WELCOME
-      description: For more information on the different Academies and Language centres
+      description: Find out more about our Academies and Language centres
       button: Click here
       url: /faq/
   - infopic:
@@ -48,4 +48,3 @@ sections:
       url: /info-pic3/
       alt: Image alt text
 ---
-
