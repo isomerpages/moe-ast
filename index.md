@@ -9,11 +9,16 @@ sections:
   - hero:
       title: MANY ACADEMIES, ONE AST
       background: /images/astbanner.gif
-      dropdown:
-        title: "Find Out More "
-        options:
-          - title: Hero Dropdown Element Title
-            url: ""
+      key_highlights:
+        - title: Professional Development Planning Office
+          description: ""
+          url: ""
+        - title: Professional Excellence
+          description: ""
+          url: ""
+        - title: Professional Recognition
+          description: ""
+          url: ""
   - infobar:
       title: WELCOME
       description: For more information on the different Academies and Language centres
