@@ -2,3 +2,12 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     collection: about-us
+  - title: Programmes & Publications
+    collection: programmes-and-publications
+  - title: MOE Heritage Centre
+    url: /permalink
+    sublinks: []
+  - title: Olive Staff Well Being
+    collection: olive-staff-well-being
+  - title: Contact Us
+    url: /permalink
