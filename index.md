@@ -4,29 +4,40 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Many Academies, One AST
+      background: /images/hero-banner.png
+      dropdown:
+        title: "Find Out More "
+        options:
+          - title: Hero Dropdown Element Title
+            url: ""
+  - infobar:
+      title: WELCOME
+      description: Find out more about the different Academies here!
+      button: Click here
+      url: /faq/
+  - infopic:
+      title: President's Award for Teachers
+      subtitle: What's on
+      description: Congratulations to Our PAT 2022 Recipients and Finalists!
+      button: Click here
+      url: /infopic-1/
+      alt: Image alt text
+  - infopic:
+      title: Outstanding Youth In Education Awards
+      subtitle: What's on
+      description: Congratulations to Our OYEA 2022 Recipients and Finalists!
+      button: Click here
+      url: /infopic-2/
+      alt: Image alt text
+  - infopic:
+      title: " Academy Awards for Professional Development"
+      subtitle: Infopic Subtitle
+      description: Warmest Congratulations to Fellow of AST Award Recipients!
+      button: Click here
+      url: /info-pic3/
+      alt: Image alt text
 ---
-
