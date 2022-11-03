@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Many Academies, One AST
-      background: /images/hero-banner.png
+      background: /images/astbanner.gif
       dropdown:
         title: "Find Out More "
         options:
@@ -16,7 +16,7 @@ sections:
             url: ""
   - infobar:
       title: WELCOME
-      description: Find out more about the different Academies here!
+      description: For more information on the different Academies
       button: Click here
       url: /faq/
   - infopic:
