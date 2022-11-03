@@ -1,0 +1,4 @@
+collections:
+  programmes-and-publications:
+    output: true
+    order: []
