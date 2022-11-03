@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Many Academies, One AST
+      title: MANY ACADEMIES, ONE AST
       background: /images/astbanner.gif
       dropdown:
         title: "Find Out More "
