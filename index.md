@@ -16,7 +16,7 @@ sections:
             url: ""
   - infobar:
       title: WELCOME
-      description: For more information on the different Academies
+      description: For more information on the different Academies and Language centres
       button: Click here
       url: /faq/
   - infopic:
@@ -41,4 +41,3 @@ sections:
       url: /info-pic3/
       alt: Image alt text
 ---
-
