@@ -19,7 +19,7 @@ sections:
         - title: Professional Recognition
           description: ""
           url: ""
-      button: Learn More
+      button: Find Out More
       url: /click-here/
   - infobar:
       title: WELCOME
