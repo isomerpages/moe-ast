@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Academy of Singapore Teachers (AST)
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -41,3 +41,4 @@ sections:
       url: /info-pic3/
       alt: Image alt text
 ---
+
