@@ -2,7 +2,7 @@
 layout: homepage
 title: Academy of Singapore Teachers (AST)
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/astlogo.svg
 permalink: /
 notification: ""
 sections:
@@ -48,3 +48,4 @@ sections:
       url: /info-pic3/
       alt: Image alt text
 ---
+
