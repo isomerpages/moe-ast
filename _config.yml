@@ -2,8 +2,8 @@ title: Academy of Singapore Teachers (AST)
 url: https://academyofsingaporeteachers.moe.edu.sg
 favicon: /images/astlogo.svg
 colors:
-  primary-color: "#ca2126"
-  secondary-color: "#ffffff"
+  primary-color: "#9b9b9b"
+  secondary-color: "#ca2126"
   media-colors:
     - title: media-color-one
       color: "#49759a"
