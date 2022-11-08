@@ -2,6 +2,7 @@ collections:
   oeic:
     output: true
     order:
+      - Mr Wong Shek Nin (11 to 22 July 2016).md
       - Mr Michael Dalley (28 March to 8 April 2016).md
       - Mr Li Guozhi (18 February to 4 March 2016).md
       - Associate Professor Carla L Peck (11 July to 21 August 2015).md
