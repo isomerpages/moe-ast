@@ -2,6 +2,7 @@ collections:
   our-master-teachers:
     output: true
     order:
+      - Science (Chemistry)/Dr Md Shahrin K S Moorthy.md
       - Science (Chemistry)/.keep
       - Science (Physics)/Mr Yap Boon Chien.md
       - Science (Physics)/Mr Lee Siew Lin.md
