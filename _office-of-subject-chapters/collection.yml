@@ -2,6 +2,7 @@ collections:
   office-of-subject-chapters:
     output: true
     order:
+      - Science/.keep
       - Learner Profile/Special Educational Needs Chapter.md
       - Learner Profile/Educational Support Chapter.md
       - Learner Profile/Lower Primary Learners Chapter.md
