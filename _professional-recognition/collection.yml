@@ -2,6 +2,7 @@ collections:
   professional-recognition:
     output: true
     order:
+      - OYEA/OYEA Recipients and Finalists.md
       - OYEA/OYEA Stories.md
       - OYEA/Photos of OYEA Recipients and Finalists.md
       - OYEA/.keep
