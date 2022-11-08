@@ -2,7 +2,7 @@ collections:
   programmes-and-publications:
     output: true
     order:
-      - Overview of Professional Development.md
+      - Overview of Professional Development (PD).md
       - For Education Officers/Professional Development for Education Officers.md
       - For Education Officers/Instructional Mentoring.md
       - For Education Officers/Teacher Leaders Programme.md
