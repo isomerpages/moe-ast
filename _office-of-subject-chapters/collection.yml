@@ -2,6 +2,7 @@ collections:
   office-of-subject-chapters:
     output: true
     order:
+      - Science/Chemistry Chapter.md
       - Science/Physics Chapter.md
       - Science/Nutrition and Food Science Chapter.md
       - Science/Design and Technology Chapter.md
