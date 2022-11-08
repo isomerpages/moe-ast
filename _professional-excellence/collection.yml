@@ -2,6 +2,7 @@ collections:
   professional-excellence:
     output: true
     order:
+      - Teacher Growth Model.md
       - Centre for Teaching/Centre for Teaching and Learning Excellence.md
       - Centre for Teaching/Demonstration Classes Conducted at CTLE@YISS.md
       - Centre for Teaching/.keep
