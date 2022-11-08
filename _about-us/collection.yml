@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Office of Subject Chapters/.keep
       - Our Master Teacher Network.md
       - Academies and Language Centres.md
