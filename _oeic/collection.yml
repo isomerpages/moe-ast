@@ -2,6 +2,7 @@ collections:
   oeic:
     output: true
     order:
+      - Mr Philip Lee (4 to 20 August 2014).md
       - Mr Michael Fordham (25 June to 9 July 2014).md
       - Professor Robert K Kamei (21 to 25 April 2014).md
       - Mr Cesar Gabriel Seidler (10 to 21 February 2014).md
