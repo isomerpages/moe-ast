@@ -2,6 +2,7 @@ collections:
   professional-excellence:
     output: true
     order:
+      - Networked Learning Communities/Overview.md
       - Networked Learning Communities/School Staff Developer (SSD) Network.md
       - Networked Learning Communities/Senior Teachers and Lead Teachers (ST–LT)
         Network.md
