@@ -1,4 +1,5 @@
 collections:
   office-of-subject-chapters:
     output: true
-    order: []
+    order:
+      - Learner Profile/.keep
