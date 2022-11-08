@@ -2,4 +2,5 @@ collections:
   office-of-subject-chapters:
     output: true
     order:
+      - Learner Profile/High Ability Learners Chapter.md
       - Learner Profile/.keep
