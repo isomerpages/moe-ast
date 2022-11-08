@@ -2,6 +2,7 @@ collections:
   professional-excellence:
     output: true
     order:
+      - Professional Learning Groups/Developing Effective PLCs.md
       - Professional Learning Groups/Reviewing PLCs.md
       - Professional Learning Groups/FAQs and Resources.md
       - Professional Learning Groups/.keep
