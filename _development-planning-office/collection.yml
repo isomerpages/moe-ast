@@ -1,4 +1,5 @@
 collections:
   development-planning-office:
     output: true
-    order: []
+    order:
+      - Contact Us.md
