@@ -1,0 +1,4 @@
+collections:
+  our-master-teachers:
+    output: true
+    order: []
