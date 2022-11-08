@@ -2,6 +2,7 @@ collections:
   our-master-teachers:
     output: true
     order:
+      - English Language/Ms Solastri Suyot.md
       - English Language/Mrs Emelyn Kuan.md
       - English Language/.keep
       - Chinese Language/Mdm Lim Kwee Hua 林季华.md
