@@ -1,4 +1,5 @@
 collections:
   professional-excellence:
     output: true
-    order: []
+    order:
+      - SkillsFuture for Educators/.keep
