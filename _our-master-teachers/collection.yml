@@ -2,6 +2,7 @@ collections:
   our-master-teachers:
     output: true
     order:
+      - Chinese Language/Dr Kwek Siew Hoon.md
       - Chinese Language/Dr Zheng Yingjiang 郑迎江博士.md
       - Chinese Language/Dr Goh Poh Huat 吴宝发.md
       - Chinese Language/Ms Lucy Sim.md
