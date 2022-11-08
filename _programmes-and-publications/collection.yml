@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Overview.md
+      - For Education Officers/Outstanding Educator–in–Consultancy (OEIC)
+        Programme.md
       - For Education Officers/Teachers’ Conference and ExCEL Fest 2023
         (TCEF2023).md
       - For Education Officers/.keep
