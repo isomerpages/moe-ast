@@ -1,7 +1,18 @@
 logo: /images/astlogo.svg
 links:
   - title: About Us
-    collection: about-us
+    url: /about-us/overview/
+    sublinks:
+      - title: Teachers' Council
+        url: /about-us/teachers-council/
+      - title: Our Organisation
+        url: /about-us/our-organisation/
+      - title: Office of Subject Chapters
+        url: /office-of-subject-chapters/overview/
+      - title: Our Master Teacher Network
+        url: /about-us/our-master-teacher-network/
+      - title: Academies and Language Centres
+        url: /about-us/Academies-and-Language-Centres/
   - title: Programmes & Publications
     collection: programmes-and-publications
   - title: MOE Heritage Centre
