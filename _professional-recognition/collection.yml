@@ -1,4 +1,5 @@
 collections:
   professional-recognition:
     output: true
-    order: []
+    order:
+      - International Awards/.keep
