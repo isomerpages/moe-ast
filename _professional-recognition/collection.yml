@@ -2,6 +2,8 @@ collections:
   professional-recognition:
     output: true
     order:
+      - "President’s Award for Teachers/PAT Publication: Teach to Inspire,
+        Inspire to Teach.md"
       - President’s Award for Teachers/PAT Recipients & Finalists.md
       - President’s Award for Teachers/.keep
       - OYEA/Outstanding Youth in Education Award (OYEA).md
