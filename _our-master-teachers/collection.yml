@@ -2,6 +2,7 @@ collections:
   our-master-teachers:
     output: true
     order:
+      - Tamil Language/Mr Subramaniam s o Nadaison.md
       - Tamil Language/.keep
       - Physical Education/Mr Hanif Bin Abdul Rahman.md
       - Physical Education/Mr Benjamin Tan Su–Jim.md
