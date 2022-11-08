@@ -20,7 +20,7 @@ sections:
           description: ""
           url: /professional-recognition/overview/
       button: Find Out More
-      url: /click-here/
+      url: /about-us/overview/
   - infobar:
       title: WELCOME
       description: Find out more about our Academies and Language centres
