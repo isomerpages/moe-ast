@@ -2,6 +2,7 @@ collections:
   our-master-teachers:
     output: true
     order:
+      - Educational Support/Dr Muhammad Nazir Amir.md
       - Educational Support/Mr Tan Cher Chong.md
       - Educational Support/.keep
       - Nutrition and Food Science/Mdm Gnanamany Yacob.md
