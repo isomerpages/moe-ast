@@ -2,6 +2,7 @@ collections:
   office-of-subject-chapters:
     output: true
     order:
+      - Science/Nutrition and Food Science Chapter.md
       - Science/Design and Technology Chapter.md
       - Science/.keep
       - Learner Profile/Special Educational Needs Chapter.md
