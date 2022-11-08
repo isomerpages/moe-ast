@@ -2,6 +2,7 @@ collections:
   our-master-teachers:
     output: true
     order:
+      - Music/Dr Tan–Chua Siew Ling.md
       - Music/.keep
       - Geography/Mr Yuen Kah Mun.md
       - Geography/Ms Lim Puay Yin.md
