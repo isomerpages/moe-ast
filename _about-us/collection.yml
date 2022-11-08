@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Teachers' Council.md
       - Our Organisation.md
       - Office of Subject Chapters/Example Title.md
       - Office of Subject Chapters/.keep
