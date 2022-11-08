@@ -1,4 +1,5 @@
 collections:
   oeic:
     output: true
-    order: []
+    order:
+      - Ms Promail Leung (5 to 31 August 2011).md
