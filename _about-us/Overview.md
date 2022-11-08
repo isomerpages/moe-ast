@@ -55,7 +55,7 @@ We are committed to the professional growth of teachers for student and school s
 
 It takes ten years to grow a tree; a hundred years to cultivate a man.
 
-<img src="/images/astlogo1.png" style="width:50%">
+<img src="/images/astlogo1.png" style="width:35%">
 
 The "T" in the centre symbolises the teacher who is at the heart of the Academy and of teaching.  
   
