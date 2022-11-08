@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Our Master Teacher Network.md
       - Academies and Language Centres.md
