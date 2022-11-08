@@ -2,6 +2,7 @@ collections:
   oeic:
     output: true
     order:
+      - Mr Lu Yu–Jen (22 July to 8 August 2019).md
       - Ms Susan Caldis (11 to 28 February 2019).md
       - Mr Craig Divis (16 July to 1 August 2018).md
       - Mrs Kathryn Horan (5 to 27 February 2018).md
