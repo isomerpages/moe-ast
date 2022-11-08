@@ -2,4 +2,5 @@ collections:
   professional-recognition:
     output: true
     order:
+      - International Awards/Princess Maha Chakri Award (PMCA).md
       - International Awards/.keep
