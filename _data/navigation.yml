@@ -5,8 +5,14 @@ links:
   - title: Programmes & Publications
     collection: programmes-and-publications
   - title: MOE Heritage Centre
-    url: /permalink
-    sublinks: []
+    url: https://staging.d1yxymztqoj7qn.amplifyapp.com/
+    sublinks:
+      - title: Visit
+        url: https://staging.d1yxymztqoj7qn.amplifyapp.com/visit/plan-your-visit/
+      - title: What's On
+        url: https://staging.d1yxymztqoj7qn.amplifyapp.com/whats-on/upcoming-events/
+      - title: Explore
+        url: https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/
   - title: Olive Staff Well Being
     collection: olive-staff-well-being
   - title: Contact Us
