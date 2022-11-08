@@ -2,6 +2,7 @@ collections:
   programmes-and-publications:
     output: true
     order:
+      - Professional Development for Education Officers.md
       - Overview.md
       - Professional Development for Executive & Administrative Staff.md
       - Professional Development for Allied Educators.md
