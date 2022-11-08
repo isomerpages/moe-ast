@@ -2,6 +2,7 @@ collections:
   professional-excellence:
     output: true
     order:
+      - Professional Learning Groups/About Us.md
       - Professional Learning Groups/Overview of PLC.md
       - Professional Learning Groups/3 Big Ideas, 4 Critical Questions and 5
         Dimensions for Effective PLCs.md
