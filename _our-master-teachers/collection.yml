@@ -2,6 +2,7 @@ collections:
   our-master-teachers:
     output: true
     order:
+      - Geography/Ms Lim Puay Yin.md
       - Geography/Ms Lum Kit Kuan Melanie.md
       - Geography/.keep
       - History/Mr Andrew Anthony.md
