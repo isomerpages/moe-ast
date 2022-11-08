@@ -2,6 +2,7 @@ collections:
   our-master-teachers:
     output: true
     order:
+      - English Language/Mrs Jennifer Lui.md
       - English Language/Mrs Joy Lee.md
       - English Language/Mrs Kalpana Balasubramaniam.md
       - English Language/Mrs Prisca Lee.md
