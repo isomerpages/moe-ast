@@ -2,6 +2,7 @@ collections:
   oeic:
     output: true
     order:
+      - Mr Christopher Niven (2H 2021).md
       - Dr Lee Saw Im (1H 2021).md
       - Mr Lu Yu–Jen (22 July to 8 August 2019).md
       - Ms Susan Caldis (11 to 28 February 2019).md
