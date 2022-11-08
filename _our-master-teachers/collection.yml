@@ -2,6 +2,7 @@ collections:
   our-master-teachers:
     output: true
     order:
+      - Physical Education/Dr Clara Tan.md
       - Physical Education/Ms Mabel Yong.md
       - Physical Education/Mr Tan Seck Heong.md
       - Physical Education/Mr Teng Tse Sheng.md
