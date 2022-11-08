@@ -2,5 +2,6 @@ collections:
   development-planning-office:
     output: true
     order:
+      - About PDPO.md
       - PD Resources.md
       - Contact Us.md
