@@ -2,4 +2,5 @@ collections:
   programmes-and-publications:
     output: true
     order:
+      - Professional Development for Allied Educators.md
       - Publications with the Academy.md
