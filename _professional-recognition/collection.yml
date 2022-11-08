@@ -2,6 +2,7 @@ collections:
   professional-recognition:
     output: true
     order:
+      - OYEA/Photos of OYEA Recipients and Finalists.md
       - OYEA/.keep
       - Academy Awards/Overview.md
       - Academy Awards/Nomination.md
