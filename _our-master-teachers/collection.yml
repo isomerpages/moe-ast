@@ -2,6 +2,7 @@ collections:
   our-master-teachers:
     output: true
     order:
+      - History/.keep
       - Social Studies/Mdm Premaletha Gopalakrishnan.md
       - Social Studies/.keep
       - Economics/Dr Tan Dai Hwee.md
