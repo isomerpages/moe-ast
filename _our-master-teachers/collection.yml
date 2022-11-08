@@ -2,6 +2,7 @@ collections:
   our-master-teachers:
     output: true
     order:
+      - Malay Language/Mdm Salina Bte Hussin.md
       - Malay Language/Mdm Haryati Bte Surana.md
       - Malay Language/.keep
       - Tamil Language/Dr Jeyarajadas Pandian.md
