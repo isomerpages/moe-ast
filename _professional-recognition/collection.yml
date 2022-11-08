@@ -2,6 +2,7 @@ collections:
   professional-recognition:
     output: true
     order:
+      - International Awards/Overview.md
       - International Awards/Fulbright Distinguished Awards (DA) in Teaching
         Program.md
       - International Awards/Princess Maha Chakri Award (PMCA).md
