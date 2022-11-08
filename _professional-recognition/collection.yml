@@ -2,6 +2,7 @@ collections:
   professional-recognition:
     output: true
     order:
+      - Academy Awards/AA Stories.md
       - Academy Awards/.keep
       - International Awards/Overview.md
       - International Awards/Fulbright Distinguished Awards (DA) in Teaching
