@@ -2,6 +2,7 @@ collections:
   professional-excellence:
     output: true
     order:
+      - Critical Inquiry/Critical Inquiry Courses.md
       - Critical Inquiry/.keep
       - Professional Learning Groups/About Us.md
       - Professional Learning Groups/Overview of PLC.md
