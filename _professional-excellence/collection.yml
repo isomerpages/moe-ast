@@ -2,6 +2,8 @@ collections:
   professional-excellence:
     output: true
     order:
+      - Networked Learning Communities/Senior Teachers and Lead Teachers (ST–LT)
+        Network.md
       - Networked Learning Communities/.keep
       - SkillsFuture for Educators/Overview.md
       - SkillsFuture for Educators/Areas of Practice and Levels of Practice.md
