@@ -2,6 +2,7 @@ collections:
   our-master-teachers:
     output: true
     order:
+      - Science (Physics)/Mr Lau Chor Yam.md
       - Science (Physics)/Mr Ong Kia Siang Jensen.md
       - Science (Physics)/Dr S Ravindran.md
       - Science (Physics)/.keep
