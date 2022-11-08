@@ -2,4 +2,5 @@ collections:
   oeic:
     output: true
     order:
+      - Mr Michael Robinson (31 October to 11 November 2011).md
       - Ms Promail Leung (5 to 31 August 2011).md
