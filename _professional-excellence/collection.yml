@@ -2,4 +2,5 @@ collections:
   professional-excellence:
     output: true
     order:
+      - SkillsFuture for Educators/Areas of Practice and Levels of Practice.md
       - SkillsFuture for Educators/.keep
