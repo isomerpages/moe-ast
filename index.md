@@ -12,13 +12,13 @@ sections:
       key_highlights:
         - title: Professional Development Planning Office
           description: ""
-          url: ""
+          url: /development-planning-office/overview/
         - title: Professional Excellence
           description: ""
-          url: ""
+          url: /professional-excellence/overview/
         - title: Professional Recognition
           description: ""
-          url: ""
+          url: /professional-recognition/overview/
       button: Find Out More
       url: /click-here/
   - infobar:
