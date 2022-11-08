@@ -2,6 +2,7 @@ collections:
   our-master-teachers:
     output: true
     order:
+      - CCE/Mr Osman Abdullah.md
       - CCE/.keep
       - Educational Support/Mdm Hadzar Binte Misiri.md
       - Educational Support/Dr Muhammad Nazir Amir.md
