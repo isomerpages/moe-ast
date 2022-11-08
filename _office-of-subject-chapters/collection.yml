@@ -2,6 +2,7 @@ collections:
   office-of-subject-chapters:
     output: true
     order:
+      - Humanities and CCE/Geography Chapter.md
       - Humanities and CCE/History Chapter.md
       - Humanities and CCE/Social Studies Chapter.md
       - Humanities and CCE/Economics Chapter.md
