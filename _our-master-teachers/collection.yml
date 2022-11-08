@@ -2,6 +2,7 @@ collections:
   our-master-teachers:
     output: true
     order:
+      - Economics/Dr Tan Dai Hwee.md
       - Economics/.keep
       - Mathematics (Primary)/Dr Cynthia Seto.md
       - Mathematics (Primary)/Ms Chan Min Lie.md
