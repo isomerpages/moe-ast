@@ -2,6 +2,7 @@ collections:
   our-master-teachers:
     output: true
     order:
+      - Mathematics (Primary)/Ms Teh Wan.md
       - Mathematics (Primary)/.keep
       - Mathematics (Secondary)/Dr Foo Kum Fong.md
       - Mathematics (Secondary)/Dr Leong Swee Ling.md
