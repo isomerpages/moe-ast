@@ -2,6 +2,7 @@ collections:
   oeic:
     output: true
     order:
+      - Professor Jeremy Stoddard (2022).md
       - Mr John Miller (2022).md
       - Mr Christopher Niven (2H 2021).md
       - Dr Lee Saw Im (1H 2021).md
