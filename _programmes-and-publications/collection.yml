@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - For Education Officers/Instructional Mentoring.md
       - For Education Officers/Teacher Leaders Programme.md
       - For Education Officers/Teacher–Led Workshops.md
       - For Education Officers/Teacher Work Attachment Plus (TWA) Programme.md
