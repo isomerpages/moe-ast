@@ -1,4 +1,5 @@
 collections:
   our-master-teachers:
     output: true
-    order: []
+    order:
+      - High Ability Learners/.keep
