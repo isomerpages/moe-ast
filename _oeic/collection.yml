@@ -2,6 +2,7 @@ collections:
   oeic:
     output: true
     order:
+      - Associate Professor Carla L Peck (11 July to 21 August 2015).md
       - Mr Robert Lang (6 to 16 July 2015).md
       - Mr Miles Berry (4 to 17 April 2015).md
       - Mr Philip Lee (4 to 20 August 2014).md
