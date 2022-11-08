@@ -30,6 +30,7 @@ The offices of PMTTs and MTTs are located at the Academy and the various languag
 | <img src="/images/el9.png" style="width:80px;height:100px;margin-right:15px;" align = "left"> [Ms Rita Pillai](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/English-Language/Ms-Rita-Pillai/)<br><br>Master Teacher / English Language<br><br><br>Email: [Rita\_PILLAI@moe.gov.sg](mailto:Rita_PILLAI@moe.gov.sg)<br>Contact no.: 6664 1742 |  <img src="/images/el10.png" style="width:80px;height:100px;margin-right:15px;" align = "left">[Ms Shakila Vasu](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/English-Language/Ms-Shakila-Vasu/)<br><br>Master Teacher / English Language<br><br><br>Email: [Shakila\_VASU@moe.gov.sg](mailto:Shakila_VASU@moe.gov.sg)<br>Contact no.: 6664 1757 |
 |  <img src="/images/el11.png" style="width:80px;height:100px;margin-right:15px;" align = "left">[Ms Solastri Suyot](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/English-Language/Ms-Solastri-Suyot/)<br><br>Master Teacher / English Language<br><br><br>Email: [Solastri\_SUYOT@moe.gov.sg](mailto:Solastri_SUYOT@moe.gov.sg)<br>Contact no.: 6664 1744 |  <img src="/images/el12.png" style="width:80px;height:100px;margin-right:15px;" align = "left">[Mrs Emelyn Kuan](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/English-Language/Mrs-Emelyn-Kuan/)<br><br>Master Teacher / English Language<br><br><br>Email: [Emelyn\_SOON@moe.gov.sg](mailto:Emelyn_SOON@moe.gov.sg)<br>Contact no.: 6664 1705 |
 
+# DUPLICATED BELOW
 
 |  |  |
 |---|---|
