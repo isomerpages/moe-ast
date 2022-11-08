@@ -2,6 +2,7 @@ collections:
   office-of-subject-chapters:
     output: true
     order:
+      - Mathematics/Primary Mathematics Chapter.md
       - Mathematics/Secondary Mathematics Chapter.md
       - Mathematics/.keep
       - Science/Primary Science Chapter.md
