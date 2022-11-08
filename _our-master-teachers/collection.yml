@@ -2,6 +2,7 @@ collections:
   our-master-teachers:
     output: true
     order:
+      - Science (Physics)/Mr Yap Boon Chien.md
       - Science (Physics)/Mr Lee Siew Lin.md
       - Science (Physics)/Mr Lau Chor Yam.md
       - Science (Physics)/Mr Ong Kia Siang Jensen.md
