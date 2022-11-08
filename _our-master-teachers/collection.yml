@@ -2,6 +2,7 @@ collections:
   our-master-teachers:
     output: true
     order:
+      - History/Mr Tham Chin Pang Joseph.md
       - History/Mr Yeo Tze Chiang Lloyd Luc.md
       - History/.keep
       - Social Studies/Mdm Premaletha Gopalakrishnan.md
