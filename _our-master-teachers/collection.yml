@@ -2,6 +2,7 @@ collections:
   our-master-teachers:
     output: true
     order:
+      - English Language/Ms Ayaduray Jeyalaxmy.md
       - English Language/Mrs Jennifer Lui.md
       - English Language/Mrs Joy Lee.md
       - English Language/Mrs Kalpana Balasubramaniam.md
