@@ -2,6 +2,7 @@ collections:
   oeic:
     output: true
     order:
+      - Mr Cesar Gabriel Seidler (10 to 21 February 2014).md
       - Dr Vasanthi Thiagarajan (20 to 24 January 2014).md
       - Mr Huang Aihua (12 to 20 August 2013).md
       - Mr Simon Smith (20 to 31 May 2013).md
