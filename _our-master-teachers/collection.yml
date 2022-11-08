@@ -2,6 +2,7 @@ collections:
   our-master-teachers:
     output: true
     order:
+      - Geography/Mr Yuen Kah Mun.md
       - Geography/Ms Lim Puay Yin.md
       - Geography/Ms Lum Kit Kuan Melanie.md
       - Geography/.keep
