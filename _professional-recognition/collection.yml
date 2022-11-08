@@ -2,6 +2,7 @@ collections:
   professional-recognition:
     output: true
     order:
+      - Overview.md
       - President’s Award for Teachers/Overview.md
       - President’s Award for Teachers/Nominate a Teacher for PAT.md
       - "President’s Award for Teachers/PAT Publication: Teach to Inspire,
