@@ -3,16 +3,17 @@ collections:
     output: true
     order:
       - Overview of Professional Development (PD).md
-      - For Education Officers/Professional Development for Education Officers.md
-      - For Education Officers/Instructional Mentoring.md
-      - For Education Officers/Teacher Leaders Programme.md
-      - For Education Officers/Teacher–Led Workshops.md
-      - For Education Officers/Teacher Work Attachment Plus (TWA) Programme.md
-      - For Education Officers/Outstanding Educator–in–Consultancy (OEIC)
+      - PD for Education Officers/Professional Development for Education
+        Officers.md
+      - PD for Education Officers/Instructional Mentoring.md
+      - PD for Education Officers/Teacher Leaders Programme.md
+      - PD for Education Officers/Teacher–Led Workshops.md
+      - PD for Education Officers/Teacher Work Attachment Plus (TWA) Programme.md
+      - PD for Education Officers/Outstanding Educator–in–Consultancy (OEIC)
         Programme.md
-      - For Education Officers/Teachers’ Conference and ExCEL Fest 2023
+      - PD for Education Officers/Teachers’ Conference and ExCEL Fest 2023
         (TCEF2023).md
-      - For Education Officers/.keep
+      - PD for Education Officers/.keep
       - For Executive & Administrative Staff.md
       - For Allied Educators.md
       - Publications with the Academy.md
