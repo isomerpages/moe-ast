@@ -2,6 +2,7 @@ collections:
   professional-recognition:
     output: true
     order:
+      - OYEA/Outstanding Youth in Education Award (OYEA).md
       - OYEA/Nominate a Teacher for OYEA.md
       - OYEA/OYEA Recipients and Finalists.md
       - OYEA/OYEA Stories.md
