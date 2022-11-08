@@ -2,6 +2,7 @@ collections:
   oeic:
     output: true
     order:
+      - Mr Liu Jinghai (4 to 8 March 2013).md
       - Mrs Janeth Morata–Fuentes (10 to 21 September 2012).md
       - Ms Li Zhen (1 to 15 August 2012).md
       - Mr Thomas E Daccord (31 January to 10 Febuary 2012).md
