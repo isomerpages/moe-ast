@@ -79,3 +79,10 @@ The offices of PMTTs and MTTs are located at the Academy and the various languag
 |---|---|
 | <img src="/images/geo1.png" style="width:80px;height:100px;margin-right:15px;" align = "left">[Mr Yuen Kah Mun](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Geography/Mr-Yuen-Kah-Mun/)<br><br>Master Teacher / Geography <br>(Boon Lay Secondary School)<br><br><br>Email: [Yuen\_Kah\_Mun@schools.gov.sg](mailto:Yuen_Kah_Mun@schools.gov.sg)<br>Contact no.: 6794 0161 |<img src="/images/geo2.png" style="width:60px;height:105px;margin-right:15px;" align = "left">[ Ms Lim Puay Yin](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Geography/Ms-Lim-Puay-Yin/)<br><br>Master Teacher / Music<br><br>Email: [Lim\_Puay\_Yin@moe.gov.sg](mailto:Lim_Puay_Yin@moe.gov.sg)<br>Contact no.: 6664 1427 |
 | <img src="/images/geo3.png" style="width:80px;height:109px;margin-right:15px;" align = "left">[Ms Lum Kit Kuan Melanie](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Geography/Ms-Lum-Kit-Kuan-Melanie/)<br><br>Master Teacher / Geography<br><br><br>Email: [Melanie\_Lum@moe.gov.sg](mailto:Melanie_Lum@moe.gov.sg)<br>Contact no.: 6664 1444 |  |
+
+### History
+
+|   |   |
+|---|---|
+| [Mr Andrew Anthony](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/History/Mr-Andrew-Anthony/)<br><br>Principal Master Teacher / History<br><br><br><br>Email: [Anthony\_Andrew\_Michael@moe.gov.sg](mailto:Anthony_Andrew_Michael@moe.gov.sg)<br>Contact no.: 66641445 | [Mr Tham Chin Pang Joseph](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/History/Mr-Tham-Chin-Pang-Joseph/)<br><br>Master Teacher/ History<br><br>Email: [Tham\_Chin\_Pang@moe.gov.sg](mailto:Tham_Chin_Pang@moe.gov.sg)<br>Contact no.: 6664 1438 |
+| [Mr Yeo Tze Chiang Lloyd Luc](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/History/Mr-Yeo-Tze-Chiang-Lloyd-Luc/)<br><br>Master Teacher/ History<br><br><br>Email: [Lloyd\_Luc\_Yeo@moe.gov.sg](mailto:Lloyd_Luc_Yeo@moe.gov.sg)<br>Contact no.: 6664 1446 |  |
