@@ -84,5 +84,11 @@ The offices of PMTTs and MTTs are located at the Academy and the various languag
 
 |   |   |
 |---|---|
-| [Mr Andrew Anthony](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/History/Mr-Andrew-Anthony/)<br><br>Principal Master Teacher / History<br><br><br><br>Email: [Anthony\_Andrew\_Michael@moe.gov.sg](mailto:Anthony_Andrew_Michael@moe.gov.sg)<br>Contact no.: 66641445 | [Mr Tham Chin Pang Joseph](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/History/Mr-Tham-Chin-Pang-Joseph/)<br><br>Master Teacher/ History<br><br>Email: [Tham\_Chin\_Pang@moe.gov.sg](mailto:Tham_Chin_Pang@moe.gov.sg)<br>Contact no.: 6664 1438 |
-| [Mr Yeo Tze Chiang Lloyd Luc](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/History/Mr-Yeo-Tze-Chiang-Lloyd-Luc/)<br><br>Master Teacher/ History<br><br><br>Email: [Lloyd\_Luc\_Yeo@moe.gov.sg](mailto:Lloyd_Luc_Yeo@moe.gov.sg)<br>Contact no.: 6664 1446 |  |
+| <img src="/images/hist1.png" style="width:80px;height:109px;margin-right:15px;" align = "left">[Mr Andrew Anthony](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/History/Mr-Andrew-Anthony/)<br><br>Principal Master Teacher / History<br><br><br><br>Email: [Anthony\_Andrew\_Michael@moe.gov.sg](mailto:Anthony_Andrew_Michael@moe.gov.sg)<br>Contact no.: 66641445 | <img src="/images/hist2.png" style="width:80px;height:109px;margin-right:15px;" align = "left">[Mr Tham Chin Pang Joseph](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/History/Mr-Tham-Chin-Pang-Joseph/)<br><br>Master Teacher/ History<br><br>Email: [Tham\_Chin\_Pang@moe.gov.sg](mailto:Tham_Chin_Pang@moe.gov.sg)<br>Contact no.: 6664 1438 |
+| <img src="/images/hist3.png" style="width:80px;height:109px;margin-right:15px;" align = "left">[Mr Yeo Tze Chiang Lloyd Luc](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/History/Mr-Yeo-Tze-Chiang-Lloyd-Luc/)<br><br>Master Teacher/ History<br><br><br>Email: [Lloyd\_Luc\_Yeo@moe.gov.sg](mailto:Lloyd_Luc_Yeo@moe.gov.sg)<br>Contact no.: 6664 1446 |  |
+
+### Social Studies
+
+|   |   |
+|---|---|
+| <img src="/images/ss1.png" style="width:120px;height:100px;margin-right:15px;" align = "left">[Mdm Premaletha Gopalakrishnan](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Social-Studies/Mdm-Premaletha-Gopalakrishnan/)<br><br>Master Teacher / Social Studies<br><br><br>Email: [Premaletha\_Gopalakrishnan@moe.gov.sg](mailto:Premaletha_Gopalakrishnan@moe.gov.sg)<br>Contact no.: 6664 1437 |  |
