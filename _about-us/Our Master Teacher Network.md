@@ -92,3 +92,9 @@ The offices of PMTTs and MTTs are located at the Academy and the various languag
 |   |   |
 |---|---|
 | <img src="/images/ss1.png" style="width:120px;height:100px;margin-right:15px;" align = "left">[Mdm Premaletha Gopalakrishnan](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Social-Studies/Mdm-Premaletha-Gopalakrishnan/)<br><br>Master Teacher / Social Studies<br><br><br>Email: [Premaletha\_Gopalakrishnan@moe.gov.sg](mailto:Premaletha_Gopalakrishnan@moe.gov.sg)<br>Contact no.: 6664 1437 |  |
+
+### Economics
+
+|   |   |
+|---|---|
+| <img src="/images/econs1.png" style="width:80px;height:105px;margin-right:15px;" align = "left">[Dr Tan Dai Hwee](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Economics/Dr-Tan-Dai-Hwee/)<br><br>Master Teacher / Economics<br><br><br>Email: [Tan\_Dai\_Hwee@moe.gov.sg](mailto:Tan_Dai_Hwee@moe.gov.sg)<br>Contact no.: 6664 1443 |  |
