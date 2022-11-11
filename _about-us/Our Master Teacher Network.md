@@ -36,3 +36,10 @@ The offices of PMTTs and MTTs are located at the Academy and the various languag
 | <img src="/images/cl11.png" style="width:90px;height:100px;margin-right:15px;" align = "left">[Ms Tan Geok Hoon](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Chinese-Language/Ms-Tan-Geok-Hoon/)<br><br>Master Teacher / Chinese Language<br><br><br>Email: [Geokhoon.Tan@sccl.sg](mailto:Geokhoon.Tan@sccl.sg)<br>Contact no.: 6467 5667 ext 306 | <img src="/images/cl12.png" style="width:80px;height:100px;margin-right:15px;" align = "left">[Mdm Wang Juan](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Chinese-Language/Mdm-Wang-Juan/)<br><br>Master Teacher / Chinese Language<br><br><br>Email: [Wang\_Juan@moe.gov.sg](mailto:Wang_Juan@moe.gov.sg)<br>Contact no.: 6467 5667 ext 234 |
 
 ### Malay Language
+
+|   |   |
+|---|---|
+| [Dr Fadilah Isnin]<br><br>Principal Master Teacher / Malay Language<br><br>Email: [fadilah\_isnin@schools.gov.sg](mailto:fadilah_isnin@schools.gov.sg)<br>Contact no.: 6354 6951 | [Mr Rahmat Bin Subadah]<br><br>Master Teacher / Malay Language<br><br>Email: [rahmat\_subadah@schools.gov.sg](mailto:rahmat_subadah@schools.gov.sg)<br>Contact no.: 6354 6955 |
+| [Mr Muhamad Rafi Abu Bakar]<br><br>Master Teacher / Malay Language<br><br><br>Email: [Muhamad\_Rafi\_ABU\_BAKAR@schools.gov.sg](mailto:Muhamad_Rafi_ABU_BAKAR@schools.gov.sg)<br>Contact no.: 6354 6953 | [Mr Arshid B Abdullah]<br><br>Master Teacher / Malay Language<br><br>Email: [Arshid\_ABDULLAH@schools.gov.sg](mailto:Arshid_ABDULLAH@schools.gov.sg)<br>Contact no.: 6354 6956 |
+| [Ms Siti Faridah Bte Omar]<br><br>Master Teacher / Malay Language<br><br><br>Email: [siti\_faridah\_omar@schools.gov.sg](mailto:siti_faridah_omar@schools.gov.sg)<br>Contact no.: 6354 6952 | [Mdm Salina Bte Hussin]<br><br>Master Teacher / Malay Language<br><br>Email: [salina\_hussin@schools.gov.sg](mailto:salina_hussin@schools.gov.sg)<br>Contact no.: 6354 6957 |
+| [Mdm Haryati Bte Surana]<br><br>Master Teacher / Malay Language<br><br><br>Email: [haryati\_surana@schools.gov.sg](mailto:haryati_surana@schools.gov.sg)<br>Contact no.: 6354 6954 |  |
