@@ -98,3 +98,13 @@ The offices of PMTTs and MTTs are located at the Academy and the various languag
 |   |   |
 |---|---|
 | <img src="/images/econs1.png" style="width:80px;height:105px;margin-right:15px;" align = "left">[Dr Tan Dai Hwee](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Economics/Dr-Tan-Dai-Hwee/)<br><br>Master Teacher / Economics<br><br><br>Email: [Tan\_Dai\_Hwee@moe.gov.sg](mailto:Tan_Dai_Hwee@moe.gov.sg)<br>Contact no.: 6664 1443 |  |
+
+### Mathematics (Primary)
+
+|   |   |
+|---|---|
+| <img src="/images/math1.png" style="width:80px;height:105px;margin-right:15px;" align = "left">[Dr Cynthia Seto](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Mathematics-Primary/Dr-Cynthia-Seto/)<br><br>Principal Master Teacher/ Primary Mathematics<br><br>Email: [Cynthia\_Seto@moe.gov.sg](mailto:Cynthia_Seto@moe.gov.sg)<br>Contact no.: 6664 1578 | <img src="/images/math2.png" style="width:80px;height:105px;margin-right:15px;" align = "left">[Ms Chan Min Lie](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Mathematics-Primary/Ms-Chan-Min-Lie/)<br><br>Master Teacher / Primary Mathematics<br><br>Email: [CHAN\_Min\_Lie@moe.gov.sg](mailto:CHAN_Min_Lie@moe.gov.sg)<br>Contact no.: 6664 1406 |
+| <img src="/images/math3.png" style="width:80px;height:105px;margin-right:15px;" align = "left">[Mr Choon Ming Kwang](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Mathematics-Primary/Mr-Choon-Ming-Kwang/)<br><br>Master Teacher / Primary Mathematics<br><br><br>Email: [Choon\_Ming\_Kwang@moe.gov.sg](mailto:Choon_Ming_Kwang@moe.gov.sg)<br>Contact no.: 66641445 | <img src="/images/math4.png" style="width:80px;height:105px;margin-right:15px;" align = "left">[Ms Heng Chor Hui Theresa](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Mathematics-Primary/Ms-Heng-Chor-Hui-Theresa/)<br><br>Master Teacher / Primary Mathematics<br><br><br>Email: [Theresa\_Heng@moe.gov.sg](mailto:Theresa_Heng@moe.gov.sg)<br>Contact no.: 6664 1576 |
+| <img src="/images/math5.png" style="width:80px;height:105px;margin-right:15px;" align = "left">[Ms Teh Wan](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Mathematics-Primary/Ms-Teh-Wan/)<br><br>Master Teacher / Primary Mathematics<br><br>Email: [Teh\_Wan@moe.gov.sg](mailto:Teh_Wan@moe.gov.sg)<br>Contact no.: 6664 1577 |  |
+
+### Mathematics (Secondary)
