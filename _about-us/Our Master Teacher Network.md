@@ -160,3 +160,10 @@ The offices of PMTTs and MTTs are located at the Academy and the various languag
 |---|---|
 | <img src="/images/es1.png" style="width:80px;height:100px;margin-right:15px;" align = "left">[Mdm Hadzar Binte Misiri](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Educational-Support/Mdm-Hadzar-Binte-Misiri/)<br><br>Master Teacher / Educational Support<br><br><br>Email: [Misiri\_HADZAR@moe.gov.sg](mailto:Misiri_HADZAR@moe.gov.sg)<br>Contact no.: 66641419 | <img src="/images/es2.png" style="width:80px;height:80px;margin-right:15px;" align = "left">[Dr Muhammad Nazir Amir](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Educational-Support/Dr-Muhammad-Nazir-Amir/)<br><br>Master Teacher / Educational Support<br><br><br>Email: [Muhammad\_Nazir\_Amir@moe.gov.sg](mailto:Muhammad_Nazir_Amir@moe.gov.sg)<br>Contact no.: 6664 1420 |
 |<img src="/images/es3.png" style="width:80px;height:86px;margin-right:15px;" align = "left"> [Mr Tan Cher Chong](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Educational-Support/Mr-Tan-Cher-Chong/)<br><br>Master Teacher / Educational Support<br><br><br>Email: [Tan\_Cher\_Chong@moe.gov.sg](mailto:Tan_Cher_Chong@moe.gov.sg)<br>Contact no.: 6664 1419 |  |
+
+
+### Nutrition and Food Science
+
+|   |   |
+|---|---|
+| <img src="/images/nfs.png" style="width:80px;height:106px;margin-right:15px;" align = "left"> [Mdm Gnanamany Yacob](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Nutrition-and-Food-Science/Mdm-Gnanamany-Yacob/)<br><br>Master Teacher / Nutrition and Food Science<br><br><br>Email: [Gnanamany\_Yacob@moe.gov.sg](mailto:Gnanamany_Yacob@moe.gov.sg)<br>Contact no.: 6664 1431 |  |
