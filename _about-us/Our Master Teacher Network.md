@@ -133,3 +133,9 @@ The offices of PMTTs and MTTs are located at the Academy and the various languag
 
 
 ### Science (Physics)
+
+|   |   |
+|---|---|
+| <img src="/images/sci9.png" style="width:80px;height:115px;margin-right:15px;" align = "left">[Mr Yap Boon Chien](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Science-Physics/Mr-Yap-Boon-Chien/)<br><br>Master Teacher / Physics (Changkat Changi Secondary School)<br><br><br>Email: [yap\_boon\_chien@schools.gov.sg](mailto:yap_boon_chien@schools.gov.sg)| <img src="/images/sci10.png" style="width:80px;height:100px;margin-right:15px;" align = "left">[Mr Lee Siew Lin](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Science-Physics/Mr-Lee-Siew-Lin/)<br><br>Master Teacher / Physics (Serangoon Garden Secondary School)<br><br><br>Email: [lee\_siew\_lin\_a@schools.gov.sg](mailto:lee_siew_lin_a@schools.gov.sg) |
+| <img src="/images/sci11.png" style="width:80px;height:100px;margin-right:15px;" align = "left">[Mr Lau Chor Yam](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Science-Physics/Mr-Lau-Chor-Yam/)<br><br>Master Teacher / Physics<br><br><br>Email: [Lau\_Chor\_Yam@moe.gov.sg](mailto:Lau_Chor_Yam@moe.gov.sg)<br>Contact no.: 66641426 | <img src="/images/sci12.png" style="width:80px;height:100px;margin-right:15px;" align = "left">[Mr Ong Kia Siang Jensen](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Science-Physics/Mr-Ong-Kia-Siang-Jensen/)<br><br>Master Teacher / Physics<br><br><br>Email: [ONG\_Kia\_Siang@moe.gov.sg](mailto:ONG_Kia_Siang@moe.gov.sg)<br>Contact no.: 6664 1317 |
+| <img src="/images/sci13.png" style="width:80px;height:115px;margin-right:15px;" align = "left">[Dr S.Ravindran](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Science-Physics/Dr-S-Ravindran/)<br><br>Master Teacher / Physics<br><br><br>Email: [S\_Ravindran@moe.gov.sg](mailto:S_Ravindran@moe.gov.sg)<br>Contact no.: 6664 1440 |   |
