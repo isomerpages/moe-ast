@@ -167,3 +167,15 @@ The offices of PMTTs and MTTs are located at the Academy and the various languag
 |   |   |
 |---|---|
 | <img src="/images/nfs.png" style="width:80px;height:106px;margin-right:15px;" align = "left"> [Mdm Gnanamany Yacob](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Nutrition-and-Food-Science/Mdm-Gnanamany-Yacob/)<br><br>Master Teacher / Nutrition and Food Science<br><br><br>Email: [Gnanamany\_Yacob@moe.gov.sg](mailto:Gnanamany_Yacob@moe.gov.sg)<br>Contact no.: 6664 1431 |  |
+
+### Special Needs
+
+|   |   |
+|---|---|
+|  <img src="/images/sn.png" style="width:80px;height:106px;margin-right:15px;" align = "left"> [Ms Sarinajit Kaur](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Special-Needs/Ms-Sarinajit-Kaur/)<br><br>Master Teacher / Special Educational Needs (SEN)<br><br><br>Email: [Sarinajit\_Kaur@moe.gov.sg](mailto:Sarinajit_Kaur@moe.gov.sg)<br>Contact no.: 6664 1416 |  |
+
+### High Ability Learners
+
+|   |   |
+|---|---|
+| <img src="/images/hal.png" style="width:100px;height:76px;margin-right:15px;" align = "left">[Mdm Evelyn Yeo](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/High-Ability-Learners/Mdm-Evelyn-Yeo/)<br><br>Master Teacher/ High Ability Learners<br><br><br>Email: [Evelyn\_YEO@moe.gov.sg](mailto:Evelyn_YEO@moe.gov.sg)<br>Contact no.: 66641420 |  |
