@@ -153,3 +153,10 @@ The offices of PMTTs and MTTs are located at the Academy and the various languag
 |   |   |
 |---|---|
 | <img src="/images/cce1.png" style="width:80px;height:97px;margin-right:15px;" align = "left">[Mdm Brenda Lee Chew Yan](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/CCE/Mdm-Brenda-Lee-Chew-Yan/)<br><br>Master Teacher / Character and Citizenship Education<br><br><br>Email: [Brenda\_Lee@moe.gov.sg](mailto:Brenda_Lee@moe.gov.sg)<br>Contact no.: 6664 1442 | <img src="/images/cce2.png" style="width:80px;height:97px;margin-right:15px;" align = "left">[Mr Osman Abdullah](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/CCE/Mr-Osman-Abdullah/)<br><br>Master Teacher / Character and Citizenship Education<br><br><br>Email: [Osman\_Abdullah@moe.gov.sg](mailto:Osman_Abdullah@moe.gov.sg)<br>Contact no.: 6664 1441 |
+
+### Educational Support
+
+|   |   |
+|---|---|
+| <img src="/images/es1.png" style="width:80px;height:100px;margin-right:15px;" align = "left">[Mdm Hadzar Binte Misiri](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Educational-Support/Mdm-Hadzar-Binte-Misiri/)<br><br>Master Teacher / Educational Support<br><br><br>Email: [Misiri\_HADZAR@moe.gov.sg](mailto:Misiri_HADZAR@moe.gov.sg)<br>Contact no.: 66641419 | <img src="/images/es2.png" style="width:80px;height:80px;margin-right:15px;" align = "left">[Dr Muhammad Nazir Amir](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Educational-Support/Dr-Muhammad-Nazir-Amir/)<br><br>Master Teacher / Educational Support<br><br><br>Email: [Muhammad\_Nazir\_Amir@moe.gov.sg](mailto:Muhammad_Nazir_Amir@moe.gov.sg)<br>Contact no.: 6664 1420 |
+|<img src="/images/es3.png" style="width:80px;height:86px;margin-right:15px;" align = "left"> [Mr Tan Cher Chong](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Educational-Support/Mr-Tan-Cher-Chong/)<br><br>Master Teacher / Educational Support<br><br><br>Email: [Tan\_Cher\_Chong@moe.gov.sg](mailto:Tan_Cher_Chong@moe.gov.sg)<br>Contact no.: 6664 1419 |  |
