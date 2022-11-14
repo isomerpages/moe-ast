@@ -17,3 +17,5 @@ PDPO’s work is anchored on the philosophy of ownership and leadership - that p
 Director,  
 PDPO & Professional Development Branch 1,   
 Academy of Singapore Teachers
+
+<img src="/images/pdpo1.png" style="width:80%">
