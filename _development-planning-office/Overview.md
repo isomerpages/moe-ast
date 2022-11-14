@@ -7,7 +7,7 @@ description: ""
 
 #### Guiding Philosophy of Professional Development (PD)
 
-### \- Ownership and Leadership in PD  
+##### - Ownership and Leadership in PD
 
 The Professional Development Planning Office (PDPO) was established in 2019 with the objective to have strategic oversight of PD at the system level and to engender greater coherence of PD across MOE divisions and schools. Sited in AST, PDPO’s mission to develop a coherent and forward-looking PD for MOE is aligned to AST’s focus on promoting teacher professionalism and raising the overall professional standing and quality of the teaching service through quality PD.
 
@@ -17,4 +17,3 @@ PDPO’s work is anchored on the philosophy of ownership and leadership - that p
 Director,  
 PDPO & Professional Development Branch 1,   
 Academy of Singapore Teachers
-
