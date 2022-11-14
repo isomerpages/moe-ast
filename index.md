@@ -25,7 +25,7 @@ sections:
       title: WELCOME
       description: Find out more about our Academies and Language centres
       button: Click here
-      url: /faq/
+      url: /about-us/Academies-and-Language-Centres/
   - infopic:
       title: President's Award for Teachers
       subtitle: What's on
