@@ -3,18 +3,20 @@ title: About PDPO
 permalink: /development-planning-office/about-pdpo/
 description: ""
 ---
+### About PDPO
+
 <ul class="jekyllcodex_accordion">  
   
 <li>  
   
 <input type="checkbox" id="accordion1">  
   
-<label for="accordion1">title</label>  
+<label for="accordion1">Our People</label>  
   
 <div>  
   
 <p>
-text
+<img src="/images/pdpo2.png" style="width:80%">
 </p>  
   
 </div>  
@@ -24,12 +26,14 @@ text
   
 <input type="checkbox" id="accordion2">  
   
-<label for="accordion2">title</label>  
+<label for="accordion2">Our Goals</label>  
   
 <div>  
   
 <p>
-text
+•   To establish coherence of PD across all divisions and schools through overarching PD policies and practices; and <br><br>
+
+•   To spearhead forward-looking PD that will address the emerging professional learning needs of MOE officers, and promote effective modes and means of PD.
 </p>  
   
 </div>  
@@ -40,12 +44,12 @@ text
   
 <input type="checkbox" id="accordion3">  
   
-<label for="accordion3">title</label>  
+<label for="accordion3">Our Work</label>  
   
 <div>  
   
 <p>
-text
+<img src="/images/pdpo3.png" style="width:80%">
 </p>  
   
 </div>  
@@ -53,3 +57,5 @@ text
 </li>  	
   
 </ul>
+
+<img src="/images/pdpo4.png" style="width:80%">
