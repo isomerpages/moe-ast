@@ -100,12 +100,14 @@ Through collaborative learning in a network, you could widen your   profession
   
 <input type="checkbox" id="accordion5">  
   
-<label for="accordion5">title</label>  
+<label for="accordion5">How to join us?</label>  
   
 <div>  
   
 <p>
-text
+For interest joining or leading in NLCs, please contact Mdm Lim Puay Yin (MTT/Geography) at <a href="Lim_Puay_yin@moe.gov.sg">Lim_Puay_yin@moe.gov.sg</a> <br><Br>
+
+Thank You!
 </p>  
   
 </div>  
