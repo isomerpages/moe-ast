@@ -5,6 +5,8 @@ description: ""
 ---
 ### Academies and Language Centres
 
+(NEED TO HYPERLINK TO RELEVANT STAGING SITES)
+
 |  |  |
 |---|---|
 |<img src="/images/elis.png" style="width:70px;height:50px;margin-right:15px;" align = "right">  |  [English Language Institute of Singapore (ELIS)](https://academyofsingaporeteachers.moe.edu.sg/elis/home) |
@@ -16,6 +18,8 @@ description: ""
 | <img src="/images/alc7.png" style="width:70px;height:50px;margin-right:15px;" align = "left">  | [MOE Heritage Centre (MOEHC)](https://academyofsingaporeteachers.moe.edu.sg/moehc/moe-heritage-centre) |
 | <img src="/images/alc8.png" style="width:50px;height:50px;margin-right:15px;" align = "left">  | [OLive](https://academyofsingaporeteachers.moe.edu.sg/olive/olive-staff-well-being) |
 | <img src="/images/alc9.png" style="width:70px;height:50px;margin-right:15px;" align = "left">  | [Professional Development Planning Office (PDPO)](https://academyofsingaporeteachers.moe.edu.sg/professional-development-planning-office) |
+
+### DUPLICATE
 
 |  |
 |---|
