@@ -126,7 +126,7 @@ You may contact Mr Bryan Poh (Email: <a href="bryan_poh@moe.gov.sg">bryan_poh@mo
 
 For more information, please join our <a href="https://www.opal2.moe.edu.sg/csl/s/6c317167-257b-4f0d-986f-616cd6c206cf/">“U” in Primary Science</a> Collaborative Workspace at OPAL2.0 where you will also find many primary science resources. <br><br>
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/the-vibrant-community-of-primary-science-educators.pdf">The Vibrant Community of Primary Science Educators</a> (pdf)
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/the-vibrant-community-of-primary-science-educators.pdf">The Vibrant Community of Primary Science Educators</a> (pdf)<br>
 2283 KB
 </p>  
  
