@@ -15,12 +15,12 @@ The Office of Subject Chapters in the AST is home to Principal Master and Master
 
 | Humanities & CCE | Mathematics | Science | Learner Profile |
 |---|---|---|---|
-| Geography | Primary Mathematics | Primary Science | Special Educational Needs |
-| History | Secondary Mathematics | Biology | Educational Support |
-| Social Studies |  | Chemistry | Lower Primary Learners |
-| Economics |  | Physics | High Ability Learners |
-| Principles of Accounts |  | Nutrition & Food Science |  |
-| Character and Citizenship Education |  | Design & Technology |  |
+| [Geography](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Humanities-and-CCE/geography-chapter/) | [Primary Mathematics](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Mathematics/primary-mathematics-chapter/) | [Primary Science](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Science/primary-science-chapter/) | [Special Educational Needs](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Learner-Profile/special-educational-needs-chapter/) |
+| [History](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Humanities-and-CCE/history-chapter/) | [Secondary Mathematics](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Mathematics/secondary-mathematics-chapter/) | [Biology](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Science/biology-chapter/) | [Educational Support](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Learner-Profile/educational-support-chapter/) |
+| [Social Studies](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Humanities-and-CCE/social-studies-chapter/) |  | [Chemistry](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Science/chemistry-chapter/) | [Lower Primary Learners](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Learner-Profile/lower-primary-learners-chapter/) |
+| [Economics](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Humanities-and-CCE/economics-chapter/) |  | [Physics](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Science/physics-chapter/) | [High Ability Learners](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Learner-Profile/high-ability-learners-chapter/) |
+| [Principles of Accounts](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Humanities-and-CCE/principles-of-accounts-chapter/) |  | [Nutrition & Food Science](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Science/nutrition-and-food-science-chapter/) |  |
+| [Character and Citizenship Education](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Humanities-and-CCE/character-and-citizenship-education-chapter/) |  | [Design & Technology](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Science/design-and-technology-chapter/) |  |
 
 _To find out more about the subject chapter, click on the name of each subject chapter._
 
