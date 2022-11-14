@@ -76,3 +76,5 @@ After attending the course, participants who are in Professional Learning Teams 
 </li>  
   
 </ul>
+
+<figure><img src="/images/proex16.png" style="width:75%"><figcaption> Session conducted by AST PLC team at SSD Induction</figcaption></figure>
