@@ -107,13 +107,13 @@ Confirmed dates and information about these sessions will be communicated to the
   
 <p>
   
-Every teacher is a member of a subject chapter based on the subject that he/she is teaching. Join us during our subject chapter outreach activities for a professional conversation with our members and teachers in the fraternity.
+Every teacher is a member of a subject chapter based on the subject that he/she is teaching. Join us during our subject chapter outreach activities for a professional conversation with our members and teachers in the fraternity. <br><br>
 
-You will get to know more about the subject chapter, its relevance to your professional growth and how you can be involved in the networked learning communities.  
+You will get to know more about the subject chapter, its relevance to your professional growth and how you can be involved in the networked learning communities.   <br><br>
 
-You may contact Mr Ow Yeong Wai Kit (ow_yeong_wai_kit@moe.gov.sg) if you have any queries regarding the Design & Technology subject chapter.
+You may contact Mr Ow Yeong Wai Kit (ow_yeong_wai_kit@moe.gov.sg) if you have any queries regarding the Design & Technology subject chapter. <br><br>
 
-Check out our past D&T subject chapter events here:  
+Check out our past D&T subject chapter events here:  <br><br>
 
 	
 <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/our-design-and-technology-subject-chapter-past-events68bab0a1c96041f6b2710cf79cd03f7a.pdf">our-design-and-technology-subject-chapter-past-events</a>(pdf) <br>
