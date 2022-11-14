@@ -4,11 +4,6 @@ permalink: /professional-excellence/Professional-Learning-Groups/about-us/
 description: ""
 third_nav_title: Professional Learning Groups
 ---
-|  |  |  |
-|---|---|---|
-| <img src="/images/proex10.png" style="width:80%"> |  <img src="/images/proex11.png" style="width:80%">| <img src="/images/proex12.png" style="width:80%"> |
-| <img src="/images/proex13.png" style="width:80%"> | <img src="/images/proex14.png" style="width:80%"> | <img src="/images/proex15.png" style="width:80%"> |
-
 <img src="/images/proex8.png" style="width:80%">
 
 ### About Us
@@ -30,7 +25,9 @@ The aim of the PLC process was to improve pedagogical practice, thereby fosterin
 <div>  
   
 <p>
-Thank you for joining us at 3rd SSD Networking Session where we shared the <b>Enhanced Guide to Effective PLCs</b> and the <b>tools for review</b>. Check out the photos from the event below.
+Thank you for joining us at 3rd SSD Networking Session where we shared the <b>Enhanced Guide to Effective PLCs</b> and the <b>tools for review</b>. Check out the photos from the event below. <br><br>
+	
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="https://staging.d2dfevnwgxersp.amplifyapp.com/images/proex10.png" width="206"></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="https://staging.d2dfevnwgxersp.amplifyapp.com/images/proex11.png" width="206"></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="https://staging.d2dfevnwgxersp.amplifyapp.com/images/proex12.png" width="206"></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="https://staging.d2dfevnwgxersp.amplifyapp.com/images/proex13.png" width="206"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="https://staging.d2dfevnwgxersp.amplifyapp.com/images/proex14.png" width="206"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="https://staging.d2dfevnwgxersp.amplifyapp.com/images/proex15.png" width="206"></td></tr></tbody></table>
 </p>  
   
 </div>  
