@@ -40,12 +40,35 @@ Thank you for joining us at 3rd SSD Networking Session where we shared the <b>E
   
 <input type="checkbox" id="accordion2">  
   
-<label for="accordion2">title</label>  
+<label for="accordion2">Workshops</label>  
   
 <div>  
   
 <p>
-text
+  
+<b>Leading Professional Learning Teams (PLTs) with Basic Facilitation Skills (71066)  </b> <br><br>
+
+
+Participants who lead Professional Learning Teams will be able to:<br><br>
+
+•   understand the principles of adult learning to plan and to facilitate PLT meetings;<br>
+•   identify social styles and adapt the preferred styles of facilitation to meet the needs of different groups of educators;  <br>
+•   use various process facilitation techniques; and<br>
+•   to promote meaningful dialogues using reflective thinking.  <br><br>
+    
+
+<b>Data-Driven Conversations in Professional Learning Teams (73589)</b><br><br>
+
+
+After attending the course, participants who are in Professional Learning Teams (PLTs) will be able to:<br><br>
+
+•   identify and apply an appropriate research methodology and data collection strategy for their inquiry;<br>
+•   understand data-driven conversations and how it guides the collaborative inquiry work in PLTs;<br>
+*   use appropriate tools to analyse student data to better understand the link between pedagogical intervention and student outcomes;<br>
+•   understand how data is used qualitatively and quantitatively to evaluate the effectiveness of their inquiry project; and<br>
+•   apply basic statistical tools in analysing educational data (e.g., preparing data tables, conducting simple mean level comparisons and correlational analysis as well as testing the reliability of measures).<br><br>
+
+<b>To sign up for the courses, please search for the course title or course code via the Catalogue page on OPAL2.0.</b>
 </p>  
   
 </div>  
