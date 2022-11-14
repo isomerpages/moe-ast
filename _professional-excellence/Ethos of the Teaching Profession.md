@@ -31,7 +31,7 @@ Each of the above is an important facet of an integrated Ethos of the Teaching P
 
 The compass has been chosen to depict the facets of the Ethos of the Teaching Profession. Pointing to the true north, it symbolises the constancy of values in the lives of educators.
 
-<img src="/images/proex2.png" style="width:40%">
+<img src="/images/proex2.png" style="width:30%">
 
 #### Goal of the Ethos: Towards Teacher-Led Professional Excellence
 
