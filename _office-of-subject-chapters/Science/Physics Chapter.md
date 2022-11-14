@@ -121,7 +121,7 @@ a.  be informed of the activities organised by the Chapter,<br>
 b.  sign up for Physics Chapter courses and learning sessions, and<br>
 c.  have access to the various collaborative and networking platforms.<br><br>
 
-You may contact Ms Loo Ming Yang (Academy Officer) \[Email: loo\_ming\_yang@moe.gov.sg\] or  Mr Lee Kian Wei Jelvin (Academy Officer)\[Email: Jelvin\_lee@moe.gov.sg\]should you have any queries regarding the Physics Chapter and its courses. We invite you to be an inspiring member of U in Physics.  <i>Join us today, so that we can grow together as a vibrant Physics Networked Learning Community!</i>
+You may contact Ms Loo Ming Yang (Academy Officer) \[Email: loo_ming_yang@moe.gov.sg] or  Mr Lee Kian Wei Jelvin (Academy Officer)\[Email: Jelvin_lee@moe.gov.sg]should you have any queries regarding the Physics Chapter and its courses. We invite you to be an inspiring member of U in Physics.  <i>Join us today, so that we can grow together as a vibrant Physics Networked Learning Community!</i>
 </p>  
  
 </div>  
