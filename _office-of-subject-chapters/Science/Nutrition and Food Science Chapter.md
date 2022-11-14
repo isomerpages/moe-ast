@@ -6,7 +6,7 @@ third_nav_title: Science
 ---
 ![](/images/nfsc1.png)
 
-<img src="/images/nfsc2.png" style="width:70%">
+<img src="/images/nfsc10.png" style="width:70%">
 
 
 <ul class="jekyllcodex_accordion">  
