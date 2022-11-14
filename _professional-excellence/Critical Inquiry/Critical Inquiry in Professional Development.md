@@ -73,4 +73,4 @@ AST also provides the following support to encourage teachers to embark on their
   
 </ul>
 
- <p><a href="https://staging.d2dfevnwgxersp.amplifyapp.com/critical-inquiry-courses/"><img style="width:75%" src="/images/proex7.png"></a></p>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/critical-inquiry-courses/"><img style="width:75%" src="/images/proex7.png"></a>
