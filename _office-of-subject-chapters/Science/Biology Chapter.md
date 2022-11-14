@@ -126,7 +126,7 @@ Through collaborative learning in a network, a teacher could broaden his/her pro
   
 You may sign up for Biology Chapter courses via OPAL 2.0 (from January 2020). Join our "U" in Biology collaborative workspace in OPAL today! <br><br>
 
-You may contact Mr Suresh Nadarajan (Suresh\_NADARAJAN@moe.gov.sg)should you have any queries regarding the Biology Chapter and its courses.
+You may contact Mr Suresh Nadarajan (Suresh_NADARAJAN@moe.gov.sg)should you have any queries regarding the Biology Chapter and its courses.
 </p>  
  
 </div>  
