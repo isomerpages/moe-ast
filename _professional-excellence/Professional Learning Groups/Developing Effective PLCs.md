@@ -20,12 +20,18 @@ In a Professional Learning Community (PLC), all staff (including AEDs and EAS), 
   
 <input type="checkbox" id="accordion1">  
   
-<label for="accordion1">title</label>  
+<label for="accordion1">School Leaders</label>  
   
 <div>  
   
 <p>
-text
+School leaders play a critical role in transforming their school as a PLC. They provide the foundation of each school’s PLC effort by providing goals and direction underpinned by shared mission, vision and values. They lead the key drivers of PLC in their efforts by providing the necessary support for Professional Learning Teams (PLTs) to meet their objectives. <br><br>
+
+School leaders are also responsible for creating the right environment for their schools to build a strong learning culture among their staff. By providing the necessary resources and setting in place the proper structure and processes, they help build an environment where collaboration and continual professional learning can flourish. (Hipp and Huffman, 2003)<br><br>
+
+Click the images below to download the documents (OPAL login required). <br><br>
+
+<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50897"><img style="width:25%" src="/images/proex28.png" align=left></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72111"><img style="width:26%" src="/images/proex29.png" align=left></a>
 </p>  
   
 </div>  
@@ -35,12 +41,19 @@ text
   
 <input type="checkbox" id="accordion2">  
   
-<label for="accordion2">title</label>  
+<label for="accordion2">School Staff Developers</label>  
   
 <div>  
   
 <p>
-text
+School Staff Developers (SSDs) are crucial links between school leaders and PLTs, in their role as the champion for staff learning. By riding on the PLC platform, SSDs can create and drive learning opportunities, as well as facilitate staff ownership and leadership of their professional learning and development. <br><br>
+
+The SSD working with different departments in the school is to ensure that decisions made should therefore focus on both staff and students’ learning needs, achieving a balanced outcome.<br><br>
+
+Click the images below to download the documents (OPAL login required). <br><br>
+
+<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50903"><img style="width:25%" src="/images/proex30.png" align=left></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72113"><img style="width:26%" src="/images/proex31.png" align=left></a>
+
 </p>  
   
 </div>  
@@ -51,12 +64,18 @@ text
   
 <input type="checkbox" id="accordion3">  
   
-<label for="accordion3">title</label>  
+<label for="accordion3">PLT leaders</label>  
   
 <div>  
   
 <p>
-text	
+The PLT leaders are essential to the success of any PLC. Their effective facilitation can enhance the sharing and deepen the learning among members of the various PLTs in the PLC. PLT leaders must take into consideration, members’ varying personalities, experiences and beliefs in order to work effectively together to achieve the PLC goals.<br><br>
+
+Maintaining and maximising the effectiveness of their PLTs can be a complex task for the PLT leaders/facilitators. Thus, the role of a PLT leader may be taken on by key personnel, teacher leader or staff with high leadership potential who can effectively lead his/her team in facilitating the processes of PLC.<br><br>
+
+Click the images below to download the documents (OPAL login required). <br><br>
+	
+<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50905"><img style="width:25%" src="/images/proex32.png" align=left></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72109"><img style="width:26%" src="/images/proex33.png" align=left></a>
   
 </p>  
   
@@ -68,12 +87,36 @@ text
   
 <input type="checkbox" id="accordion4">  
   
-<label for="accordion4">title</label>  
+<label for="accordion4">Teacher leaders</label>  
   
 <div>  
   
 <p>
-text
+Teacher leaders play an important role as pedagogical leaders, sharing their expertise on subject content knowledge and pedagogical content knowledge in PLC. They champion continuous staff learning and collaborate with one another to contribute to the professional learning and development of their fellow colleagues. Teacher leaders should work closely with the school management team on decisions on teaching and learning matters in the school, and this includes PLC-related matters.<br><br>
+
+Click the images below to download the documents (OPAL login required).<br><br>
+
+<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50907"><img style="width:25%" src="/images/proex34.png" align=left></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72115"><img style="width:26%" src="/images/proex35.png" align=left></a>
+</p>  
+  
+</div>  
+  
+</li>  	
+
+<li>  
+  
+<input type="checkbox" id="accordion5">  
+  
+<label for="accordion5">PLT Members</label>  
+  
+<div>  
+  
+<p>
+Every staff in PLTs plays an important role for the success of their teams. All team members are interdependently responsible for the success of the PLT, sharing ownership for student achievement. PLT members must work collaboratively to achieve the PLC goals, with each individual taking up role(s) with clear details on how he/she can contribute and relate to the overall work of the PLC.<br><br>
+
+Click the images below to download the documents (OPAL login required).<br><br>
+
+<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50909"><img style="width:25%" src="/images/proex36.png" align=left></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72117"><img style="width:26%" src="/images/proex37.png" align=left></a>
 </p>  
   
 </div>  
