@@ -15,7 +15,7 @@ third_nav_title: Learner Profile
   
 <input type="checkbox" id="accordion1">  
   
-<label for="accordion1">Objectives of the X Chapter</label>  
+<label for="accordion1">Objectives of the High Ability Learners Chapter</label>  
   
 <div>  
   
@@ -31,7 +31,7 @@ third_nav_title: Learner Profile
   
 <input type="checkbox" id="accordion2">  
   
-<label for="accordion2">Our X Master Teacher </label>  
+<label for="accordion2">Our High Ability Learners Master Teachers </label>  
   
 <div>  
   
