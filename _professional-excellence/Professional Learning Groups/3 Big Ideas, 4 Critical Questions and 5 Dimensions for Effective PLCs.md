@@ -32,7 +32,7 @@ To achieve this purpose, school leaders and teachers must be guided by a clear a
 
 Adapted from DuFour and Eaker, 1998  <br><br>
 
-These questions enable teachers to clarify exactly what each student must learn, consider how they can monitor each student’s learning in a timely way and provide systematic interventions. These intervention strategies ensure students receive additional support for learning when they have difficulties. They also ensure learning is enriched when students have already attained the intended outcomes.<br>
+These questions enable teachers to clarify exactly what each student must learn, consider how they can monitor each student’s learning in a timely way and provide systematic interventions. These intervention strategies ensure students receive additional support for learning when they have difficulties. They also ensure learning is enriched when students have already attained the intended outcomes.<br><br>
 
 <b>4 Critical Questions </b> <br><br>
 
@@ -43,7 +43,7 @@ PLT members must be clear about the knowledge, skills and values (KSVs) students
 
 Schools with teachers who have a shared understanding of what students are expected to learn, are generally more effective in achieving desired student outcomes than those who work in silos. <br><br>
 	
-<img src="/images/proex26.png" style="width:80%">
+<img src="/images/proex26.png" style="width:60%"><br><br>
 	
 <i>Question 2: How will we know when they have learned it?</i><br><br>
 
