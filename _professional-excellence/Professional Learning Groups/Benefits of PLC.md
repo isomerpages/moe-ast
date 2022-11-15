@@ -29,7 +29,7 @@ are works of sifting over a previous event to take into account new information 
 <div>  
   
 <p>
-<img src="/images/proex23.png" style="width:180px;height:180px;margin-right:15px;" align = "left">Students in effective schools as PLCs benefit from increased student achievement and learning outcomes as they receive systematic and timely interventions to address learning gaps and extend their learning.
+<img src="/images/proex23.png" style="width:160px;height:160px;margin-right:15px;" align = "left"><br>Students in effective schools as PLCs benefit from increased student achievement and learning outcomes as they receive systematic and timely interventions to address learning gaps and extend their learning.
 </p>  
   
 </div>  
@@ -44,7 +44,7 @@ are works of sifting over a previous event to take into account new information 
 <div>  
   
 <p>
-<img src="/images/proex24.png" style="width:180px;height:180px;margin-left:15px;" align = "right">A collaborative school culture fosters increased staff commitment to make changes to pedagogical practices, and a greater sense of shared responsibility for students’ holistic growth. <br><br>
+<img src="/images/proex24.png" style="width:160px;height:160px;margin-left:15px;" align = "right">A collaborative school culture fosters increased staff commitment to make changes to pedagogical practices, and a greater sense of shared responsibility for students’ holistic growth. <br><br>
 
 As the goal of PLCs is to ultimately improve student outcomes, conversations among staff would be more focused on this. Staff would be more willing to voice their differing opinions and step out of their comfort zones; they learn from one another and experiment with new instructional strategies as they have strong peer support.
 </p>  
