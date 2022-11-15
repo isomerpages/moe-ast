@@ -129,7 +129,7 @@ Click the images below to download the documents (OPAL login required).<br><br>
 
 #### What kind of conversations are you having in your PLC?
 
-<img src="/images/proex38.png" style="width:80%">
+<img src="/images/proex38.png" style="width:50%">
 
 According to Nelson et al (2010), staff should avoid conversations that are ‘superficially focused on sharing stories of practice’. Instead, staff should seek to \[have\] collegial dialogues which would offer a more incisive look into the actual teaching and learning (Nelson et al, 2010). They found that congenial school culture tends to ‘preserve the status quo’ rather than encourage ‘more critical questions’ that ‘probe into the nature of what students learn as a result of specific instructional practices’ (Nelson et al, 2010).
 
