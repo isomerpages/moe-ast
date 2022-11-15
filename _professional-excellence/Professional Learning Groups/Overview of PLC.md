@@ -55,7 +55,7 @@ It is where educators work interdependently to achieve teaching goals for which 
 <div>  
   
 <p>
-<img src="/images/proex20.png" style="width:300px;height:200px;margin-right:15px;" align = "left">When staff share tacit knowledge and effective pedagogy in PLC existing within a collegial environment, the quality of teaching is consistently better. The development of a culture of learning and excellence among staff is an asset for students as their achievement levels are consequently raised.
+<img src="/images/proex20.png" style="width:300px;height:180px;margin-right:15px;" align = "left">When staff share tacit knowledge and effective pedagogy in PLC existing within a collegial environment, the quality of teaching is consistently better. The development of a culture of learning and excellence among staff is an asset for students as their achievement levels are consequently raised.
   
 </p>  
   
