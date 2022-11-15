@@ -31,7 +31,7 @@ School leaders are also responsible for creating the right environment for their
 
 Click the images below to download the documents (OPAL login required). <br><br>
 
-<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50897"><img style="width:25%" src="/images/proex28.png" align=left></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72111"><img style="width:26%" src="/images/proex29.png" align=left></a>
+<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50897"><img style="width:5%" src="/images/proex28.png" align=left></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72111"><img style="width:5%" src="/images/proex29.png" align=left></a><br><br><br>
 </p>  
   
 </div>  
@@ -52,7 +52,7 @@ The SSD working with different departments in the school is to ensure that decis
 
 Click the images below to download the documents (OPAL login required). <br><br>
 
-<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50903"><img style="width:25%" src="/images/proex30.png" align=left></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72113"><img style="width:26%" src="/images/proex31.png" align=left></a>
+<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50903"><img style="width:15%" src="/images/proex30.png" align=left></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72113"><img style="width:15%" src="/images/proex31.png" align=left></a><br><br><br>
 
 </p>  
   
@@ -75,7 +75,7 @@ Maintaining and maximising the effectiveness of their PLTs can be a complex task
 
 Click the images below to download the documents (OPAL login required). <br><br>
 	
-<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50905"><img style="width:25%" src="/images/proex32.png" align=left></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72109"><img style="width:26%" src="/images/proex33.png" align=left></a>
+<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50905"><img style="width:25%" src="/images/proex32.png" align=left></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72109"><img style="width:26%" src="/images/proex33.png" align=left></a><br><br><br>
   
 </p>  
   
@@ -96,7 +96,7 @@ Teacher leaders play an important role as pedagogical leaders, sharing their exp
 
 Click the images below to download the documents (OPAL login required).<br><br>
 
-<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50907"><img style="width:25%" src="/images/proex34.png" align=left></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72115"><img style="width:26%" src="/images/proex35.png" align=left></a>
+<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50907"><img style="width:25%" src="/images/proex34.png" align=left></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72115"><img style="width:26%" src="/images/proex35.png" align=left></a><br><br><br>
 </p>  
   
 </div>  
@@ -116,7 +116,7 @@ Every staff in PLTs plays an important role for the success of their teams. All 
 
 Click the images below to download the documents (OPAL login required).<br><br>
 
-<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50909"><img style="width:25%" src="/images/proex36.png" align=left></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72117"><img style="width:26%" src="/images/proex37.png" align=left></a>
+<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50909"><img style="width:25%" src="/images/proex36.png" align=left></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72117"><img style="width:26%" src="/images/proex37.png" align=left></a><br><br><br>
 </p>  
   
 </div>  
