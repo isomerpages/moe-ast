@@ -8,7 +8,7 @@ third_nav_title: Professional Learning Groups
 
 Every staff plays a key role in building a culture of professional learning through collaborative efforts in their PLC.
 
-<img src="/images/proex27.png" style="width:80%">
+<img src="/images/proex27.png" style="width:50%">
 
 ### Roles and Responsibilities in a PLC
 
