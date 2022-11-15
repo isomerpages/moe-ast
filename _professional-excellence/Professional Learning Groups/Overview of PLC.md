@@ -50,7 +50,7 @@ It is where educators work interdependently to achieve teaching goals for which 
   
 <input type="checkbox" id="accordion3">  
   
-<label for="accordion3">title</label>  
+<label for="accordion3">System</label>  
   
 <div>  
   
