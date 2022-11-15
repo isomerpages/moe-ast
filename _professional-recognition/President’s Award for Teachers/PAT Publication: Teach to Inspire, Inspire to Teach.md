@@ -8,7 +8,7 @@ third_nav_title: President’s Award for Teachers
 
 The PAT recipients and finalists inspire their student to achieve their best and work towards their dreams. Their enthusiasm for teaching and learning spur their peers on, leading them to strive for excellence in the imparting of knowledge and values to students. Guided by the Ethos of the Teaching Profession, these teachers go the extra mile to ensure that every child develops holistically and emerges as confident and competent students of the 21st Century.
 
- [ge](/files/pat1.pdf)
+
 <ul class="jekyllcodex_accordion">  
   
 <li>  
@@ -20,13 +20,13 @@ The PAT recipients and finalists inspire their student to achieve their best and
 <div>  
   
 <p>
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/pat1.pdf">PAT Publication 2021 - 18th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br> 
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/pat1.pdf">PAT Publication 2021 - 18th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/pat1.pdf">PAT Publication 2020 - 17th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/pat1.pdf">PAT Publication 2020 - 17th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/pat1.pdf">PAT Publication 2019 - 16th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/pat1.pdf">PAT Publication 2019 - 16th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/pat1.pdf">PAT Publication 2018 - 15th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/pat1.pdf">PAT Publication 2018 - 15th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 
 
 <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/professional-recognition/Presidents-Award-for-Teachers/publication/">PAT Publication 2018 - 15th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>Re-upload this pdf<br><br>
 
