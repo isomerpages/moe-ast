@@ -62,7 +62,7 @@ As the goal of PLCs is to ultimately improve student outcomes, conversations amo
 <div>  
   
 <p>
-<img src="/images/proex25.png" style="width:180px;height:180px;margin-right:15px;" align = "left">Staff who are involved in effective PLCs are generally better informed, professionally renewed and motivated to inspire students. They can achieve greater content mastery and higher staff morale and satisfaction.
+<img src="/images/proex25.png" style="width:160px;height:160px;margin-right:15px;" align = "left">Staff who are involved in effective PLCs are generally better informed, professionally renewed and motivated to inspire students. They can achieve greater content mastery and higher staff morale and satisfaction.
   
 </p>  
   
