@@ -4,7 +4,7 @@ permalink: /our-master-teachers/Malay-Language/Mdm-Haryati-Bte-Surana/
 description: ""
 third_nav_title: Malay Language
 ---
-<img src="/images/mt30.png" style="width:90%">
+<img src="/images/mt31.png" style="width:90%">
 
 Cikgu Haryati Surana telah berkecimpung dalam kerjaya guru semenjak tahun 1993 setelah mendapat Diploma Pendidikan dari NIE-NTU. Selepas itu beliau meningkatkan diri dan menerima Ijazah Sarjana Muda (Kepujian) Bahasa Melayu dari Universiti Malaya pada tahun 2006. Seterusnya beliau meraih Sarjana Pendidikan Bahasa Melayu pada tahun 2013. Semasa berada di sekolah beliau pernah memegang jawatan Ketua Subjek Bahasa Melayu. Kemudian beliau dilantik menjadi Guru Kanan (Research, Pedagogy dan Assessment) pada tahun 2015. Tahun seterusnya, beliau dilantik sebagai Guru Peneraju Bahasa Melayu dan Guru Pakar pada tahun 2018.
 
