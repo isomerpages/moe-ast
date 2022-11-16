@@ -274,29 +274,29 @@ Access the <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019
 <div>  
   
 <p>
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-1.pdf">text</a><br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-1.pdf">Reaching Out to the Invisible Kids(.pdf, 254.4 KB)</a><br>Charmain Han Mingfang<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-2.pdf">text</a><br>XX<br><br>	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-2.pdf">Learning through Drama(.pdf, 277.78 KB)</a><br>Faith Huang Huiru<br><br>	
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-3.pdf">text</a><br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-3.pdf">The Multiplier Effect(.pdf, 265.94 KB)</a><br>Farah Bte Syed Haider Alsagoff<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-4.pdf">text</a><br>XX<br><br>	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-4.pdf">Sweeping Change(.pdf, 242.81 KB)</a><br>Joy Zhang-Low Ai Ling<br><br>	
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-5.pdf">text</a><br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-5.pdf">Just Let Them Play!(.pdf, 248.47 KB)</a><br>Muhamad Fadly Bin Mohd Ariff<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-6.pdf">text</a><br>XX<br><br>	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-6.pdf">Underdogs can Rule(.pdf, 236.43 KB)</a><br>Chiew Jing Wen<br><br>	
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-7.pdf">text</a><br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-7.pdf">The Social Innovator(.pdf, 245.29 KB)</a><br>Daniel Soh Wei Quan<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-8.pdf">text</a><br>XX<br><br>	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-8.pdf">Curiosity, the Best Teacher!(.pdf, 281.85 KB)</a><br>Germain Kang Yin Ga<br><br>	
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-9.pdf">text</a><br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-9.pdf">Movie "Science" and the Real Science of Life(.pdf, 250.54 KB)</a><br>Mohammed Ibrahim Bin Mohd Samsudin<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-10.pdf">text</a><br>XX<br><br>	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-10.pdf">Teacher of Art Teachers(.pdf, 319.3 KB)</a><br>Sarene Loh Kah Lye<br><br>	
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-11.pdf">text</a><br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-11.pdf">Why Not?(.pdf, 245.29 KB)</a><br>Simon Sng Kuo Wai<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-12.pdf">text</a><br>XX<br><br>		
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-12.pdf">Lessons Beyond Schooldays(.pdf, 268 KB)</a><br>Tan Li Si<br><br>		
 
 </p>  
   
