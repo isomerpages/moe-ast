@@ -103,7 +103,11 @@ third_nav_title: OYEA
 <div>  
   
 <p>
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/">text</a>
+<b> Recipient's Stories</b><br><br>	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-.pdf">text</a><br>XX<br>XX<br><br>
+	
+<b>Finalists' Stories</b><br><br>		
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-.pdf">text</a><br>XX<br>XX<br><br>	
   
 </p>  
   
@@ -120,7 +124,11 @@ third_nav_title: OYEA
 <div>  
   
 <p>
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/">text</a>
+<b> Recipient's Stories</b><br><br>	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-.pdf">text</a><br>XX<br>XX<br><br>
+	
+<b>Finalists' Stories</b><br><br>		
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-.pdf">text</a><br>XX<br>XX<br><br>	
 </p>  
   
 </div>  
@@ -136,7 +144,10 @@ third_nav_title: OYEA
 <div>  
   
 <p>
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/">text</a>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-.pdf">text</a><br>XX<br>XX<br><br>
+	
+<b>Finalists' Stories</b><br><br>		
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-.pdf">text</a><br>XX<br>XX<br><br>	
 </p>  
   
 </div>  
@@ -151,7 +162,10 @@ third_nav_title: OYEA
 <div>  
   
 <p>
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/">text</a>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-.pdf">text</a><br>XX<br>XX<br><br>
+	
+<b>Finalists' Stories</b><br><br>		
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-.pdf">text</a><br>XX<br>XX<br><br>	
 </p>  
   
 </div>  
@@ -167,7 +181,10 @@ third_nav_title: OYEA
 <div>  
   
 <p>
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/">text</a>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2016-.pdf">text</a><br>XX<br>XX<br><br>
+	
+<b>Finalists' Stories</b><br><br>		
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2016-.pdf">text</a><br>XX<br>XX<br><br>	
   
 </p>  
   
@@ -184,7 +201,10 @@ third_nav_title: OYEA
 <div>  
   
 <p>
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/">text</a>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2015-.pdf">text</a><br>XX<br>XX<br><br>
+	
+<b>Finalists' Stories</b><br><br>		
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2015-.pdf">text</a><br>XX<br>XX<br><br>	
 </p>  
   
 </div>  
@@ -199,7 +219,10 @@ third_nav_title: OYEA
 <div>  
   
 <p>
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/">text</a>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-.pdf">text</a><br>XX<br>XX<br><br>
+	
+<b>Finalists' Stories</b><br><br>		
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-.pdf">text</a><br>XX<br>XX<br><br>	
 </p>  
   
 </div>  
