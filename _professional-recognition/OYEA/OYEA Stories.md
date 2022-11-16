@@ -165,38 +165,38 @@ Access the OYEA 2020 Primary Noteworthy Practices of the 3 nominees from the Se
 <div>  
   
 <p>
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-1.pdf">text</a><br>XX<br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-1.pdf">TURNING COMPLAINTS INTO OPPORTUNITIES FOR LEARNING(.pdf, 486.57 KB)</a><br>Abirami d/o Archunan  <br>IJ (Kellock)  <br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-2.pdf">text</a><br>XX<br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-2.pdf">FUN, THE ONLY CONSTANT(.pdf, 357.35 KB)</a><br>Goh Poh Huat Martin  <br>Temasek Primary School  <br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-3.pdf">text</a><br>XX<br>XX<br><br>	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-3.pdf">CATERPILLARS AND CHRYSANTHEMUM(.pdf, 379.22 KB)</a><br>Tang Li Hui Donica  <br>Cantonment Primary School  <br><br>	
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-4.pdf">text</a><br>XX<br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-4.pdf">GAME TO HEAR ABOUT VALUES(.pdf, 398.36 KB)</a><br>Lim Wei Sheng <br>Jing Shan Primary School  <br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-5.pdf">text</a><br>XX<br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-5.pdf">STRUMMING THEIR WAY TO SUCCESS(.pdf, 380.78 KB)</a><br>Adela Josephine  <br>Juying Primary School <br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-6.pdf">text</a><br>XX<br>XX<br><br>	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-6.pdf">THE JOY OF LEARNING CLUB(.pdf, 388.93 KB)</a><br>Ow Yeong Wai Kit  <br>Bukit Batok Secondary School<br><br>	
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-7.pdf">text</a><br>XX<br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-7.pdf">BUILDING A VILLAGE; FIGHTING TOGETHER(.pdf, 379.16 KB)</a><br>Tan Han Rong, Joel  <br>Fairfield Methodist School (Secondary) <br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-8.pdf">text</a><br>XX<br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-8.pdf">FOOD FOR GOOD(.pdf, 319.28 KB)</a><br>Angela Ho Jiawen  <br>Serangoon Garden Secondary School<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-9.pdf">text</a><br>XX<br>XX<br><br>	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-9.pdf">YOUNG MAN, DON’T GIVE UP(.pdf, 362.63 KB)</a><br>Kevin Joseph Francis <br>Spectra Secondary School<br><br>	
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-10.pdf">text</a><br>XX<br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-10.pdf">BETTER THAN THE BEST GRADE(.pdf, 461.6 KB)</a><br>See Wei Liang, Clement <br>Compassvale Secondary School<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-11.pdf">text</a><br>XX<br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-11.pdf">TEACHING YOUR CHILD TO BE THE TEACHER(.pdf, 374.07 KB)</a><br>Pooi Ming Shurn Benjamin  <br>Chua Chu Kang Secondary School<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-12.pdf">text</a><br>XX<br>XX<br><br>		
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-12.pdf">TO BE THE BEST VERSION OF YOU(.pdf, 489.04 KB)</a><br>Lim Chuan Li  <br>Temasek Junior College<br><br>		
 	
-<b><U>2020 Noteworth Practices</u></b><br><br>		
+<b><U>2019 Noteworth Practices</u></b><br><br>		
 	
 <b>Primary Schools</b><br><br>
 
 1) LEARNING ABOUT CYBERWELLNESS THE FUN WAY by <b>Matthew Sim</b><br>
 
 2) WRITING WITH TAD by <b>Dashni D/O Ravindran</b><br><br>	
-Access the <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-13.pdf">text</a>of the 2 nominees from the Primary Schools. <br><br>
+Access the <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-13.pdf">OYEA Primary Noteworthy Practices(.pdf, 1.92 MB)</a>of the 2 nominees from the Primary Schools. <br><br>
 	
 <b>Secondary Schools/ NUS High School</b><br><br>	
 
@@ -206,7 +206,7 @@ Access the <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019
 
 3) '4+1' Programme by <b>Lim Bing Hui</b>	<Br><br>
 	
-Access the <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-14.pdf">text</a>of the 3 nominees from the Secondary Schools and NUS High School of Math and Science.<br>	
+Access the <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-14.pdf">OYEA Secondary Noteworthy Practices(.pdf, 4.67 MB)</a>of the 3 nominees from the Secondary Schools and NUS High School of Math and Science.<br>	
 </p>  
   
 </div>  
