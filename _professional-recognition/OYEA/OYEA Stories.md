@@ -104,29 +104,29 @@ third_nav_title: OYEA
   
 <p>
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-1.pdf">text</a><br>XX<br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-1.pdf">Bringing School to Life with Music(.pdf, 224.54 KB)</a><br>Ameerah Sharainee Zain Binti Sha Aril Zain  <br>Riverside Primary School<br><br>
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-2.pdf">text</a><br>XX<br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-2.pdf">From the School Stage to Mediacorp’s Suria(.pdf, 296.56 KB)</a><br>Amirul Asri Bin Hussin<br>Evergreen Primary School<br><br>
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-3.pdf">text</a><br>XX<br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-3.pdf">Navigating students to discover their best self(.pdf, 278.07 KB)</a><br>Ang Kok Wee Alex<br>Northbrooks Secondary School<br><br>
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-4.pdf">text</a><br>XX<br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-4.pdf">Putting on My Grandfather’s Glasses(.pdf, 305.24 KB)</a><br>Anushia-Devi D/O Balachandran<br>Teck Ghee Primary School<br><br>
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-5.pdf">text</a><br>XX<br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-5.pdf">Interest is the Best Teacher(.pdf, 257.73 KB) </a><br>Chen Jingjing<br>Alexandra Primary School <br><br>
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-6.pdf">text</a><br>XX<br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-6.pdf">The Unbreakable Bond Between Teachers and Students(.pdf, 309.12 KB)</a><br>Koh Bee Choo<br>Compassvale Secondary School<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-7.pdf">text</a><br>XX<br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-7.pdf">Finding the Voice Within(.pdf, 238.7 KB) </a><br>Koh Han Yeow, Shane  <br>River Valley High School<br><br>
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-8.pdf">text</a><br>XX<br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-8.pdf">Drawing Life Lessons from Story Books(.pdf, 327.26 KB)</a><br>Lim Kok Wei Desmond  <br>Oasis Primary School<br><br>
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-9.pdf">text</a><br>XX<br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-9.pdf">Bringing Humanities to Life and Making it Sing(.pdf, 313.44 KB)</a><br>Wong Wei Ming Jared  <br>Temasek Junior College<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-10.pdf">text</a><br>XX<br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-10.pdf">Curiosity + Values + Motivation: Using Science to Reach Every Student(.pdf, 233.58 KB)</a><br>Yang Wenqing  <br>Juying Secondary School<br><br>
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-11.pdf">text</a><br>XX<br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-11.pdf">Staying Two Tech Steps Ahead(.pdf, 233.03 KB)</a><br>Yap Zhi Jun Vivienne  <br>Kranji Primary School  <br><br>
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-12.pdf">text</a><br>XX<br>XX<br><br>	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-12.pdf">Embracing Controversies in the Classroom(.pdf, 274.38 KB)</a><br>Yong Min Hui Vicki <br>Swiss Cottage Secondary School <br><br>	
 	
 	
 <b><U>2020 Noteworth Practices</u></b><br><br>		
@@ -137,18 +137,18 @@ Empowering High-Needs Students through ‘Project Chrysalis’ by <b>Mr Sim Swe
 
 Achieve Multiplication Mastery through Multiplication Challenge by <b>Ms Chong Lay Cheng, Emma</b><br>
 
-Excite Learning Through Digital Escape Rooms by <b>Mdm Farah Filza Binte Muhammad Rajaie</b><br>
+Excite Learning Through Digital Escape Rooms by <b>Mdm Farah Filza Binte Muhammad Rajaie</b><br><br>
 
-Access the OYEA 2020 Primary Noteworthy Practices of the 3 nominees from the Primary Schools:	<br><a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-13.pdf">text</a><br><br>	
+Access the OYEA 2020 Primary Noteworthy Practices of the 3 nominees from the Primary Schools:	<br><a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-13.pdf">OYEA 2020 Primary Noteworthy Practices(.pdf, 1.86 MB)</a><br><br>	
 <b>Secondary Schools</b><br><br>
 
 Infusing Mindfulness in the PE Curriculum and Sports by <b>Mr Aw Si Kuan</b><br>
 
 Using Games to Promote the Joy of Learning in History and Social Studies by <b>Mr Chen Quansheng, Jason</b><br>
 
-Use of Escape Rooms to Excite and Engage students in Mathematics Lessons and Beyond by <b>Mr Tan Sheng Yan Samuel</b><br>
+Use of Escape Rooms to Excite and Engage students in Mathematics Lessons and Beyond by <b>Mr Tan Sheng Yan Samuel</b><br><br>
 
-Access the OYEA 2020 Primary Noteworthy Practices of the 3 nominees from the Secondary Schools:	<br><a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-14.pdf">text</a><br>
+Access the OYEA 2020 Primary Noteworthy Practices of the 3 nominees from the Secondary Schools:	<br><a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-14.pdf">OYEA 2020 Secondary Noteworthy Practices(.pdf, 1.63 MB)</a><br>
   
 </p>  
   
