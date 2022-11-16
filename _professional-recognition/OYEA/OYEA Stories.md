@@ -222,9 +222,44 @@ Access the <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019
 <div>  
   
 <p>
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-.pdf">text</a><br>XX<br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-1.pdf">Everyone can get up and groove(.pdf, 337.79 KB)</a><br>Willy Ong Wei Li <br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-.pdf">text</a><br>XX<br>XX<br><br>	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-2.pdf">Empowering students to make a difference(.pdf, 332.35 KB)</a><br>Sylvianne Devajothi <br><br>	
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-3.pdf">Technology, a teacher’s best friend(.pdf, 359.96 KB)</a><br>Tan Si Hua <br><br>
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-4.pdf">Reel to real(.pdf, 342.21 KB)</a><br>Ng Wan Jun <br><br>	
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-5.pdf">Creativity is not enough(.pdf, 317.47 KB)</a><br>Toh Pei Min <br><br>
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-6.pdf">Helping students pick a CCA they love(.pdf, 333.41 KB)</a><br>Chan Wen Hui<br><br>	
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-7.pdf">It all starts with saying “No” to correction tape(.pdf, 325.32 KB)</a><br>Goh Peishi <br><br>
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-8.pdf">Being a lighthouse for my students(.pdf, 353.3 KB</a><br>Muhammad Khaliq s/o Mohamed Saleem <br><br>	
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-9.pdf">When passion leads to your dream job(.pdf, 281.35 KB)</a><br>Wong Yi Fong  <br><br>
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-10.pdf">Who says you can’t become a leader?(.pdf, 353.25 KB)</a><br>Tang Li Tang <br><br>		
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-11.pdf">Keeping language and culture alive(.pdf, 350.9 KB)</a><br>Muhammad Andi Bin Mohammed Zulkepli<br><br>
+	
+	
+<b> Read about other noteworthy practices below: </b><Br><br>		
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-12.pdf">Applying Visible Thinking in Character Education for Lower Primary Learners(.pdf, 300.22 KB)</a><br>Anna Shii Tuong Sen<br><br>	
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-13.pdf">Using Online Games to Teach Concepts(.pdf, 187.6 KB)</a><br>Hendri Adriadi Bin Rizal Ismunandar <br><br>
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-14.pdf">Designing a Project-based Learning Package for English Language(.pdf, 190.8 KB)</a><br>Lee May Ping Jasmine  <br><br>	
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-15.pdf">Infusing World Issues into the Classroom to Develop Concerned Citizens(.pdf, 172.58 KB)</a><br>S Srijith <br><br>
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-16.pdf">Promoting Innovation , Social Entrepreneurship and Community Problem-solving(.pdf, 270.84 KB)</a><br>Tan Mei San <br><br>		
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-17.pdf">Developing Applied Learning Programme in Chemical and Applied Sciences(.pdf, 219.13 KB)</a><br>Ting Chu Hwee Agnes<br><br>
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-18.pdf">A Community Approach to Inculcating Cyber Wellness(.pdf, 178.25 KB)</a><br>Zhang Yanchun Angelia<br><br>		
 </p>  
   
 </div>  
@@ -243,6 +278,8 @@ Access the <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019
 	
 <b>Finalists' Stories</b><br><br>		
 <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-.pdf">text</a><br>XX<br>XX<br><br>	
+	
+
 </p>  
   
 </div>  
