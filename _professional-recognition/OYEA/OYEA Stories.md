@@ -4,7 +4,7 @@ permalink: /professional-recognition/OYEA/stories/
 description: ""
 third_nav_title: OYEA
 ---
-<ul class="jekyllcodex_accordion1">  
+<ul class="jekyllcodex_accordion">  
   
 <li>  
   
