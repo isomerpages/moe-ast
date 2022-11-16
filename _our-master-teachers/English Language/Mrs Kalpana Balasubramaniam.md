@@ -4,7 +4,7 @@ permalink: /our-master-teachers/English-Language/Mrs-Kalpana-Balasubramaniam/
 description: ""
 third_nav_title: English Language
 ---
-<img src="/images/mt6.png" style="width:80%">
+<img src="/images/mt7.png" style="width:80%">
 
 #### Profile
 
