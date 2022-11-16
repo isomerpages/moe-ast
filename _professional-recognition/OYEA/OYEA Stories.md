@@ -103,11 +103,52 @@ third_nav_title: OYEA
 <div>  
   
 <p>
-<b> Recipient's Stories</b><br><br>	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-.pdf">text</a><br>XX<br>XX<br><br>
+
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-1.pdf">text</a><br>XX<br>XX<br><br>
+
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-2.pdf">text</a><br>XX<br>XX<br><br>
+
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-3.pdf">text</a><br>XX<br>XX<br><br>
+
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-4.pdf">text</a><br>XX<br>XX<br><br>
+
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-5.pdf">text</a><br>XX<br>XX<br><br>
+
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-6.pdf">text</a><br>XX<br>XX<br><br>
 	
-<b>Finalists' Stories</b><br><br>		
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-.pdf">text</a><br>XX<br>XX<br><br>	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-7.pdf">text</a><br>XX<br>XX<br><br>
+
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-8.pdf">text</a><br>XX<br>XX<br><br>
+
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-9.pdf">text</a><br>XX<br>XX<br><br>
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-10.pdf">text</a><br>XX<br>XX<br><br>
+
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-11.pdf">text</a><br>XX<br>XX<br><br>
+
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-12.pdf">text</a><br>XX<br>XX<br><br>	
+	
+	
+<b><U>2020 Noteworth Practices</u></b><br><br>		
+	
+<b>Primary Schools</b><br><br>
+
+Empowering High-Needs Students through ‘Project Chrysalis’ by <b>Mr Sim Swee Sheng, Danny</b><br>
+
+Achieve Multiplication Mastery through Multiplication Challenge by <b>Ms Chong Lay Cheng, Emma</b><br>
+
+Excite Learning Through Digital Escape Rooms by <b>Mdm Farah Filza Binte Muhammad Rajaie</b><br>
+
+Access the OYEA 2020 Primary Noteworthy Practices of the 3 nominees from the Primary Schools:	<br><a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-13.pdf">text</a><br><br>	
+<b>Secondary Schools</b><br><br>
+
+Infusing Mindfulness in the PE Curriculum and Sports by <b>Mr Aw Si Kuan</b><br>
+
+Using Games to Promote the Joy of Learning in History and Social Studies by <b>Mr Chen Quansheng, Jason</b><br>
+
+Use of Escape Rooms to Excite and Engage students in Mathematics Lessons and Beyond by <b>Mr Tan Sheng Yan Samuel</b><br>
+
+Access the OYEA 2020 Primary Noteworthy Practices of the 3 nominees from the Secondary Schools:	<br><a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-14.pdf">text</a><br>
   
 </p>  
   
