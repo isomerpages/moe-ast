@@ -165,11 +165,48 @@ Access the OYEA 2020 Primary Noteworthy Practices of the 3 nominees from the Se
 <div>  
   
 <p>
-<b> Recipient's Stories</b><br><br>	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-.pdf">text</a><br>XX<br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-1.pdf">text</a><br>XX<br>XX<br><br>
 	
-<b>Finalists' Stories</b><br><br>		
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-.pdf">text</a><br>XX<br>XX<br><br>	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-2.pdf">text</a><br>XX<br>XX<br><br>
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-3.pdf">text</a><br>XX<br>XX<br><br>	
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-4.pdf">text</a><br>XX<br>XX<br><br>
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-5.pdf">text</a><br>XX<br>XX<br><br>
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-6.pdf">text</a><br>XX<br>XX<br><br>	
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-7.pdf">text</a><br>XX<br>XX<br><br>
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-8.pdf">text</a><br>XX<br>XX<br><br>
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-9.pdf">text</a><br>XX<br>XX<br><br>	
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-10.pdf">text</a><br>XX<br>XX<br><br>
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-11.pdf">text</a><br>XX<br>XX<br><br>
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-12.pdf">text</a><br>XX<br>XX<br><br>		
+	
+<b><U>2020 Noteworth Practices</u></b><br><br>		
+	
+<b>Primary Schools</b><br><br>
+
+1) LEARNING ABOUT CYBERWELLNESS THE FUN WAY by <b>Matthew Sim</b><br>
+
+2) WRITING WITH TAD by <b>Dashni D/O Ravindran</b><br><br>	
+Access the <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-13.pdf">text</a>of the 2 nominees from the Primary Schools. <br><br>
+	
+<b>Secondary Schools/ NUS High School</b><br><br>	
+
+1) The Privilege Walk by <b>Ong Wee Yong</b><br>
+
+2) DIY Water Filtration System by <b>Janani D/O Balakrishnan</b><Br>
+
+3) '4+1' Programme by <b>Lim Bing Hui</b>	<Br><br>
+	
+Access the <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-14.pdf">text</a>of the 3 nominees from the Secondary Schools and NUS High School of Math and Science.<br>	
 </p>  
   
 </div>  
@@ -187,7 +224,6 @@ Access the OYEA 2020 Primary Noteworthy Practices of the 3 nominees from the Se
 <p>
 <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-.pdf">text</a><br>XX<br>XX<br><br>
 	
-<b>Finalists' Stories</b><br><br>		
 <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-.pdf">text</a><br>XX<br>XX<br><br>	
 </p>  
   
