@@ -392,29 +392,33 @@ Access the <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019
 <div>  
   
 <p>
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-1.pdf">text</a><br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-1.pdf">Adding Love, Subtracting Fear(.pdf, 116.08 KB)</a><br>Chan Yu Ling Josephine<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-2.pdf">text</a><br>XX<br><br>	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-2.pdf">Creating Opportunities for Students to Learn Interdependently(.pdf, 14.8 KB)</a><br>Nur’ Izzati Atikah Bte Suhaiemi<br><br>	
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-3.pdf">text</a><br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-3.pdf">Teaching Beyond the Academics(.pdf, 1.12 MB)</a><br>Tan Mei San<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-4.pdf">text</a><br>XX<br><br>	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-4.pdf">Inspiring Change(.pdf, 10.8 KB)</a><br>Gidwani Poojalal<br><br>	
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-5.pdf">text</a><br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-5.pdf">Who I Am As a Teacher(.pdf, 14.14 KB)</a><br>Nur Ain Binte Ahmad<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-6.pdf">text</a><br>XX<br><br>	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-6.pdf">Inspired to Inspire(.pdf, 157.34 KB)</a><br>Goh De Hao Samuel<br><br>	
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-7.pdf">text</a><br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-7.pdf">Teaching Values, Valuing Teaching(.pdf, 12.73 KB)</a><br>Chua Shi Hui<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-8.pdf">text</a><br>XX<br><br>	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-8.pdf">An Opportunity to Give Back(.pdf, 376.82 KB)</a><br>Lim Leong Thye Benny<br><br>	
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-9.pdf">text</a><br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-9.pdf">Teachers Heal the Soul(.pdf, 11.39 KB)</a><br>Lin Xiaojun<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-10.pdf">text</a><br>XX<br><br>	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-10.pdf">Investing in Our Future(.pdf, 8.72 KB)</a><br>Mohamed Ashiq Bin Mohamed Elia<br><br>	
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-11.pdf">text</a><br>XX<br><br>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-11.pdf">Evolving from Student to Teacher(.pdf, 14.92 KB)</a><br>Khairiah Bte Hairoman<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-12.pdf">text</a><br>XX<br><br>	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-12.pdf">Every Student Matters: Every Teacher Matters(.pdf, 10.25 KB)</a><br>Seet Siew Lin Pamela<br><br>	
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-13.pdf">Value Every Student(.pdf, 118.04 KB)</a><br>Eugene Lee Chun Yang<br><br>	
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2014-14.pdf">Teaching from Experience(.pdf, 56.14 KB)</a><br>Toh Jin Tian<br><br>			
 </p>  
   
 </div>  
