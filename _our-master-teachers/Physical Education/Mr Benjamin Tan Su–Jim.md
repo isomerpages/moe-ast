@@ -4,7 +4,7 @@ permalink: /our-master-teachers/Physical-Education/Mr-Benjamin-Tan-Su-Jim/
 description: ""
 third_nav_title: Physical Education
 ---
-<img src="/images/xxx.png" style="width:80%">
+<img src="/images/mt38.png" style="width:80%">
 
 #### Profile
 
