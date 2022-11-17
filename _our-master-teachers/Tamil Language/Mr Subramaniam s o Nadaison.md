@@ -4,7 +4,7 @@ permalink: /our-master-teachers/Tamil-Language/Mr-Subramaniam-s/o-Nadaison/
 description: ""
 third_nav_title: Tamil Language
 ---
-<img src="/images/xxx.png" style="width:80%">
+<img src="/images/mt36.png" style="width:90%">
 
 #### Profile
 
