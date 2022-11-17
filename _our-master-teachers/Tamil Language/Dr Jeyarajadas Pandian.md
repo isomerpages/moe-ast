@@ -4,7 +4,7 @@ permalink: /our-master-teachers/Tamil-Language/Dr-Jeyarajadas-Pandian/
 description: ""
 third_nav_title: Tamil Language
 ---
-<img src="/images/xxx.png" style="width:80%">
+<img src="/images/mt33.png" style="width:90%">
 
 #### Profile
 
