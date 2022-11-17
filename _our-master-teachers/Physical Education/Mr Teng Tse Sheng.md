@@ -4,7 +4,7 @@ permalink: /our-master-teachers/Physical-Education/Mr-Teng-Tse-Sheng/
 description: ""
 third_nav_title: Physical Education
 ---
-<img src="/images/xxx.png" style="width:80%">
+<img src="/images/mt42.png" style="width:80%">
 
 #### Profile
 
