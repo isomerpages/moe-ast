@@ -4,7 +4,7 @@ permalink: /our-master-teachers/Tamil-Language/Mdm-Manjula-d/o-Ramasamy/
 description: ""
 third_nav_title: Tamil Language
 ---
-<img src="/images/xxx.png" style="width:80%">
+<img src="/images/mt35.png" style="width:80%">
 
 #### Profile
 
