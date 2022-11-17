@@ -4,7 +4,7 @@ permalink: /our-master-teachers/Tamil-Language/Mdm-Alli-d/o-Allagoo/
 description: ""
 third_nav_title: Tamil Language
 ---
-<img src="/images/xxx.png" style="width:80%">
+<img src="/images/mt34.png" style="width:75%">
 
 #### Profile
 
