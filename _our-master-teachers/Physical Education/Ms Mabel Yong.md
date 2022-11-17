@@ -4,7 +4,7 @@ permalink: /our-master-teachers/Physical-Education/Ms-Mabel-Yong/
 description: ""
 third_nav_title: Physical Education
 ---
-<img src="/images/xxx.png" style="width:80%">
+<img src="/images/mt40.png" style="width:80%">
 
 #### Profile
 
