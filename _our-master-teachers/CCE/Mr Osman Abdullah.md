@@ -16,5 +16,5 @@ As a member of the Public Service Facilitator Network, Osman is also involved in
 **Professional Involvement and Contributions**
 
 1\. Redesigning Pedagogy International Conference 2015: Every Teacher a CCE Teacher: Teacher Leaders in CCE for the 21st Century.<br>
-2. Teachers’ Conference 2016: Empowering teachers through co-teaching in Character and Citizenship Education (CCE): A Journey…<br>
-3. Redesigning Pedagogy International Conference 2017: Two Heads are better than one. Co- facilitating Learning Experiences in the CCE Classroom.
+2\. Teachers’ Conference 2016: Empowering teachers through co-teaching in Character and Citizenship Education (CCE): A Journey…<br>
+3\. Redesigning Pedagogy International Conference 2017: Two Heads are better than one. Co- facilitating Learning Experiences in the CCE Classroom.
