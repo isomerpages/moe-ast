@@ -13,6 +13,6 @@ Mdm Brenda Lee Chew Yan is Master Teacher of CCE. She joined the teaching servic
 
 **Professional Involvement and Contributions**
 
-1.  Character and Citizenship Education Conference 2011: Active and Concerned Citizens. Building Character for Community
-2.  Redesigning Pedagogy International Conference 2015: Use of Levels of Implementation (LoI) Tool for Implementation of CCE in school
-3.  Teachers’ Conference 2016: Empowering teachers through co-teaching in Character and Citizenship Education (CCE): A Journey… 4. Redesigning Pedagogy International Conference 2017: Two Heads are better than one. Co- facilitating Learning Experiences in the CCE Classroom.
+1\.  Character and Citizenship Education Conference 2011: Active and Concerned Citizens. Building Character for Community <br>
+2.  Redesigning Pedagogy International Conference 2015: Use of Levels of Implementation (LoI) Tool for Implementation of CCE in school<br>
+3.  Teachers’ Conference 2016: Empowering teachers through co-teaching in Character and Citizenship Education (CCE): A Journey… <br>4. Redesigning Pedagogy International Conference 2017: Two Heads are better than one. Co- facilitating Learning Experiences in the CCE Classroom.
