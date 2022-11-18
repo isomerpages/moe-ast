@@ -14,8 +14,7 @@ To empower herself to advise teachers on how to support low progress learners an
 
 **Professional Involvement and Contributions**
 
-1\.  Teachers’ Conference 2021: Creating a Positive Classroom Culture through Positive Teacher Language <br>
-2.  Uplift & Educational Support (UES) Seminar 2021: Applying Principles of Brain–based Learning to Support Low Progress Learners
+1\.  Teachers’ Conference 2021: Creating a Positive Classroom Culture through Positive Teacher Language <br>2.  Uplift & Educational Support (UES) Seminar 2021: Applying Principles of Brain–based Learning to Support Low Progress Learners
 
 **Publication**
 
