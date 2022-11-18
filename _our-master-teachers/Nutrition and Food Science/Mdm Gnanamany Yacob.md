@@ -17,8 +17,8 @@ In her present role at AST, she serves the fraternity through capacity building 
 Professional Involvement and Contributions
 
 1\.  Redesigning Pedagogy International Conference 2017: #JoyofLearning trough Context Based Learning<br>
-2.  Food and Consumer Education Seminar 2015, Using Alternative Assessment to Imbue Communication, Collaboration and Information Seeking Skills in the learning of FCE while using VIA, MOE.<br>
-3.  Academy Symposium 2013: Lesson Study to Enhance Student engagement in Nutrition and Food Science, Academy of Singapore Teachers<br>
-4.  Partnership for Developing Classroom Practices: A Learning Forum for Mentoring Teachers- Mentoring Processes in Jurongville, NIE, 2012<br>
-5.  3rd NIE-AHES Home Economics Symposium 2010, Class-wide Peer Tutoring: An integrated strategy to improve Secondary 3 Food & Nutrition engagement, 2010<br>
-6.  Asia Pacific Educational Research Association Conference, MI Mealplanner, 2008
+2\.  Food and Consumer Education Seminar 2015, Using Alternative Assessment to Imbue Communication, Collaboration and Information Seeking Skills in the learning of FCE while using VIA, MOE.<br>
+3\.  Academy Symposium 2013: Lesson Study to Enhance Student engagement in Nutrition and Food Science, Academy of Singapore Teachers<br>
+4\.  Partnership for Developing Classroom Practices: A Learning Forum for Mentoring Teachers- Mentoring Processes in Jurongville, NIE, 2012<br>
+5\.  3rd NIE-AHES Home Economics Symposium 2010, Class-wide Peer Tutoring: An integrated strategy to improve Secondary 3 Food & Nutrition engagement, 2010<br>
+6\.  Asia Pacific Educational Research Association Conference, MI Mealplanner, 2008
