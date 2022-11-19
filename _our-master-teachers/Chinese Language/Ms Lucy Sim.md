@@ -33,12 +33,12 @@ Bangkok Patana International School
 MOE CPDD LLB2  
 1996 - 1997
 
-**HOD/MTL  
-**Yishun Scecondary School   
+**HOD/MTL**
+<br>Yishun Scecondary School   
 1991 - 1995
 
-**Chinese Language Teacher  
-**Yishun Scecondary School   
+**Chinese Language Teacher**
+<br>Yishun Scecondary School   
 1988 - 1991
 
 ##### Research Interests
