@@ -14,7 +14,7 @@ Premaletha started her teaching journey as an Economics teacher and then moved o
 
 **Professional Involvement and Sharing**
 
-1\.  Premaletha S (2013). Challenges in Teaching and Learning Normal Technical Social Studies. Critical Inquiry, NIE.<Br>
-2.  Premaletha S (2015). Strategies in classroom Teaching of Controversial Issues. Critical Inquiry project. Indiana University. Fulbright DAT 2015.<br>
-3.  GopalaKrishnan (2012). Action Research paper at WALs on Professional Development in YTSS.<br>
-4.  GopalaKrishnan (2011). Developing Creative and Critical thinking Skill through Paul’s Elements of Thinking with the SS subject teachers in the Zones.
+1\. Premaletha S (2013). Challenges in Teaching and Learning Normal Technical Social Studies. Critical Inquiry, NIE.<Br>
+2\. Premaletha S (2015). Strategies in classroom Teaching of Controversial Issues. Critical Inquiry project. Indiana University. Fulbright DAT 2015.<br>
+3\. GopalaKrishnan (2012). Action Research paper at WALs on Professional Development in YTSS.<br>
+4\.  GopalaKrishnan (2011). Developing Creative and Critical thinking Skill through Paul’s Elements of Thinking with the SS subject teachers in the Zones.
