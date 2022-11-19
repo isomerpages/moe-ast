@@ -23,7 +23,7 @@ He firmly believes that building professional capability and capacity of teacher
     6.  Conceptual Change
 <Br>
 
-2.  Presentation and Publication of Research Papers<br><br>
+2\.  Presentation and Publication of Research Papers<br><br>
     1.  Four-Tier Diagnostic Test to assess Students’ Understanding of Gravitational Concepts. (Accepted for oral presentation at the World Physics Education Conference, 2012)
     2.  Gravity or Gravitation: A study of students’ Alternate Conception when learning Physics. (Accepted for oral presentation at the World Physics Education Conference, 2012)
     3.  Assessing Students’ Understanding of Physics in a Virtual World Setting. (Published in IJC COE for New Media Arts and shared with all Schools in 2010)
