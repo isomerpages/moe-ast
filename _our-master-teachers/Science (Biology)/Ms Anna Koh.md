@@ -17,7 +17,7 @@ Prior to her accreditation as Master Teacher in 2017, Ms Koh taught in the same 
 _Publications, Conferences, Workshops, etc._
 
 1\.  Redesigning Pedagogy International Conference, 2015: “The use of variation theory as a framework in pedagogical design: a case study using human digestion in lower secondary science”<br>
-2.  Cluster ICT-Infused Teaching and Learning Professional Development Seminar, 2015: “The use of real-time cloud-based ICT in assessment for learning and strategic classroom instructions”<br>
-3.  5th NT Professional Focus Group Meeting, 2013: “Engaging N(T) students through authentic learning”<br>
-4.  ERAS Conference, 2011: “Empowered by collaboration: Teacher motivation and expertise in professional learning communities”<br>
-5. ERAS Conference, 2009: “A study of the characteristics contributing to the development of true community of practice”
+2\.  Cluster ICT-Infused Teaching and Learning Professional Development Seminar, 2015: “The use of real-time cloud-based ICT in assessment for learning and strategic classroom instructions”<br>
+3\.  5th NT Professional Focus Group Meeting, 2013: “Engaging N(T) students through authentic learning”<br>
+4\.  ERAS Conference, 2011: “Empowered by collaboration: Teacher motivation and expertise in professional learning communities”<br>
+5\. ERAS Conference, 2009: “A study of the characteristics contributing to the development of true community of practice”
