@@ -24,11 +24,11 @@ He firmly believes that building professional capability and capacity of teacher
 <Br>
 
 2\.  Presentation and Publication of Research Papers<br><br>
-    1.  Four-Tier Diagnostic Test to assess Students’ Understanding of Gravitational Concepts. (Accepted for oral presentation at the World Physics Education Conference, 2012)
-    2.  Gravity or Gravitation: A study of students’ Alternate Conception when learning Physics. (Accepted for oral presentation at the World Physics Education Conference, 2012)
-    3.  Assessing Students’ Understanding of Physics in a Virtual World Setting. (Published in IJC COE for New Media Arts and shared with all Schools in 2010)
-    4.  Using Microsoft Learning Gateway (MLG) as a tool to provide students with Scaffolding in learning Mechanics (Presented at the ICCE 2005, NTU)
-    5.  Publication: Curriculum Materials and Handbook with CPDD
+         1\.     Four-Tier Diagnostic Test to assess Students’ Understanding of Gravitational Concepts. (Accepted for oral presentation at the World Physics Education Conference, 2012) <br>
+2\.  Gravity or Gravitation: A study of students’ Alternate Conception when learning Physics. (Accepted for oral presentation at the World Physics Education Conference, 2012)<br>
+    3\.  Assessing Students’ Understanding of Physics in a Virtual World Setting. (Published in IJC COE for New Media Arts and shared with all Schools in 2010)<br>
+    4\.  Using Microsoft Learning Gateway (MLG) as a tool to provide students with Scaffolding in learning Mechanics (Presented at the ICCE 2005, NTU)<br>
+    5\.  Publication: Curriculum Materials and Handbook with CPDD
         *   Member of review committee for the revised HOD Science Handbook (2012)
         *   Reviewer for the draft copy of Teaching of Secondary School Physics (2011)
         *   Member of the working committee for School Science Laboratory Safety Regulations (2006)
