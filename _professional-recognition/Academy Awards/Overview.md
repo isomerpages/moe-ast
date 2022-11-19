@@ -13,4 +13,3 @@ The **Academy Awards for Professional Development** recognise and affirm the e
 1\.  Fellow of Academy of Singapore Teachers,<br>
 2\.  Associate of Academy of Singapore Teachers, and<br>
 3\.  Partner of Academy of Singapore Teachers.
- 
