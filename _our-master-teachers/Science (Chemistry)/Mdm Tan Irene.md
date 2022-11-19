@@ -15,11 +15,11 @@ Prior to her appointed as Master Teacher in 2008, Ms Tan taught in the same scho
 **Professional Involvement and Contributions**
 
 1\. ERAS Conference, 2006: Leveraging on Project Work to Enhance School and Community Spirit at Jurong Secondary School<br><br>
-2. 32ndIAEA Conference, 2006: Innovations and Best Practices, Authentic Assessment through Innovative Project Work <Br><br>
-3. ICCE Conference, 2006: Using IT to Power and Support Problem-Based Engaged Learning<Br><br>
-4. TLLM Seminar, 2007: Using PBL as a Pedagogical Approach for Scientific Inquiry in Secondary one Classrooms<Br><br>
-5. APERA Conference, 2008: Learning Chemistry through PBL Approach<Br><br>
-6. PBL Symposium at Republic Polytechnic, 2009: Incorporating Thinking Tools to Enhance Facilitation of Problem-Based Learning<Br><br>
-7. International Conference on Thinking (ICOT), 2009: Affinity Diagram Thinking Tool to Enhance Higher Order Thinking Skills<Br><br>
-8. Shanghai International Forum on Science Literacy of Precollege Students (2011): Teaching Science through Inquiry (presented in Mandarin)<Br><br>
-9. World Association of Lesson Study (WALS) Conference (2011): Understanding Teachers' Discourse at Post Research Lesson Conferences
+2\. 32ndIAEA Conference, 2006: Innovations and Best Practices, Authentic Assessment through Innovative Project Work <Br><br>
+3\. ICCE Conference, 2006: Using IT to Power and Support Problem-Based Engaged Learning<Br><br>
+4\. TLLM Seminar, 2007: Using PBL as a Pedagogical Approach for Scientific Inquiry in Secondary one Classrooms<Br><br>
+5\. APERA Conference, 2008: Learning Chemistry through PBL Approach<Br><br>
+6\. PBL Symposium at Republic Polytechnic, 2009: Incorporating Thinking Tools to Enhance Facilitation of Problem-Based Learning<Br><br>
+7\. International Conference on Thinking (ICOT), 2009: Affinity Diagram Thinking Tool to Enhance Higher Order Thinking Skills<Br><br>
+8\. Shanghai International Forum on Science Literacy of Precollege Students (2011): Teaching Science through Inquiry (presented in Mandarin)<Br><br>
+9\. World Association of Lesson Study (WALS) Conference (2011): Understanding Teachers' Discourse at Post Research Lesson Conferences
