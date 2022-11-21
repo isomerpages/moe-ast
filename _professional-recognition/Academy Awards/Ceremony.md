@@ -36,7 +36,7 @@ For the full list of awardees, please click on this [List of Fellow Associate P
 <p>
 <img src="/images/aa3.png" style="width:60%"><br><br>
 	
-For the full list of awardees, please click on this [List of Fellow Associate Partner of AST Award Recipients 2020(.pdf, 107.99 KB)](/files/aac1.pdf)
+For the full list of awardees, please click on this <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac1.pdf">List of Fellow Associate Partner of AST Award Recipients 2020(.pdf, 107.99 KB)</a>
 </p>  
   
 </div>  
