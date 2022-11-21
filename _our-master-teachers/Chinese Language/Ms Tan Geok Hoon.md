@@ -104,7 +104,7 @@ Training for Conversational Chinese Instructors
 [Conference Papers](https://sccl.sg/en/about/organizational-structure/staff/68-master-teacher/199-mdm-tan-geok-hoon.html#collapse1_2)
 
 1\.  Gong, C., Chin, C.K., Tay, B.P., & Tan, G.H. (2014) Enhance teachers’ composition teaching literacy through Wiki Platform in a Self-directed Learning Mode. In Proceedings of The 12th International Conference on Chinese Pedagogy. Heilongjiang, China: People's Publishing House.<br>
-2.  Chin, C.K., Tan, G.H., Gong, C., & Tay, B.P. (2013) Feasible Strategies to Promote Students’ Self-directed Learning Ability in Middle School Composition Teaching--Using STAD Mode. Paper presented at 3rd International Conference on Teaching and Learning of Chinese as a Second Language, Singapore.
+2\.  Chin, C.K., Tan, G.H., Gong, C., & Tay, B.P. (2013) Feasible Strategies to Promote Students’ Self-directed Learning Ability in Middle School Composition Teaching--Using STAD Mode. Paper presented at 3rd International Conference on Teaching and Learning of Chinese as a Second Language, Singapore.
 
 [Patents/Teaching Toolkits](https://sccl.sg/en/about/organizational-structure/staff/68-master-teacher/199-mdm-tan-geok-hoon.html#collapse1_3)
 
