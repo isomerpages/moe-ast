@@ -204,8 +204,10 @@ For the full list of winners, please click on <a href="https://staging.d2dfevnwg
   
 <p>
 <b>Who are the award recipients of Fellow of Academy of Singapore Teachers 2014? </b>	<br><br>
-	
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="https://staging.d2dfevnwgxersp.amplifyapp.com/images/aa18.png" alt="Image" width="109" height="164"></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:600;font-style:inherit;color:#484848">Mr Muhamad Salahuddin Bin Ibrahim</span><br><span style="font-weight:600;font-style:inherit;color:#484848">Serangoon Junior College</span></td></tr></tbody></table> <br><br>
+
+| <img src="/images/aa18.png" style="width:32%"> <br>
+<br><B>Mr Muhamad Salahuddin Bin Ibrahim</b><br><b>Serangoon Junior College</b>
+ <br><br>
 	
 For the full list of winners, please click on <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aar2014.pdf">AA Recipients 2014 (.pdf, 158.81 KB)</a>
 </p>  
@@ -214,7 +216,7 @@ For the full list of winners, please click on <a href="https://staging.d2dfevnwg
   
 </li>  	
 	
-	<li>  
+<li>  
   
 <input type="checkbox" id="accordion9">  
   
@@ -225,7 +227,8 @@ For the full list of winners, please click on <a href="https://staging.d2dfevnwg
 <p>
 <b>Who are the award recipients of Fellow of Academy of Singapore Teachers 2013? </b>	<br><br>
 	
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="https://staging.d2dfevnwgxersp.amplifyapp.com/images/aa19.png" alt="Image" width="130" height="185"></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:600;color:#484848">Mr Su Zhangka</span><br><span style="font-weight:600;color:#484848">Nanyang Girls’ High School</span></td></tr></tbody></table><br><br>
+<img src="/images/aa19.png" style="width:32%"> <br>
+<b>Mr Su Zhangka</b><br><b>Nanyang Girls' High School</b> |<br><br>
 	
 For the full list of winners, please click on <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aar2013.pdf">AA Recipients 2013 (.pdf, 222.29 KB)</a>
 </p>  
