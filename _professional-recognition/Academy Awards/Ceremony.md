@@ -4,6 +4,12 @@ permalink: /professional-recognition/Academy-Awards/ceremony/
 description: ""
 third_nav_title: Academy Awards
 ---
+CHECK:
+[1](/files/aac1.pdf)
+[2](/files/aac2.pdf)
+[3](/files/aac3.pdf)
+[4](/files/aac4.pdf)
+
 <img src="/images/aa1.png" style="width:60%">
 
 For the full list of awardees, please click on this [List of Fellow Associate Partner of AST Award Recipients 2022 (1)(.pdf, 388.5 KB)](/files/aac1.pdf)
@@ -52,8 +58,11 @@ For the full list of awardees, please click on this <a href="https://staging.d2
 <div>  
   
 <p>
-<img src="/images/aa.png" style="width:60%">
-  
+<img src="/images/aa4.png" style="width:60%"><br><br>
+	
+For the full list of awardees, please click on this <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac1.pdf">List of Fellow Associate Partner of AST Award Recipients 2019(.pdf, 416.46 KB)</a>
+	
+	[Fellow Associate Partner of AST 2019 list(.pdf, 416.46 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/professional-recognition-docs/academy-awards-for-professional-development-docs/fellow-associate-partner-of-ast-2019-list.pdf?sfvrsn=a15cc062_0 "Fellow Associate Partner of AST 2019 list")
 </p>  
   
 </div>  
