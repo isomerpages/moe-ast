@@ -75,7 +75,17 @@ My Fulbright Experience started when award recipients were asked to participate 
   
 I gained a rich learning experience from the school visits, auditing courses at Indiana University, and having professional conversations with teachers, lecturers and students.  To me, the cross-cultural experience, which is the intent of this Fulbright experience, was indeed the icing on the cake.  This invaluable experience is the best gift bestowed to me, as an individual, and as a teacher.	<br><br>
 	
-TABLE HERE	
+TABLE HERE	<br><br>
+I enjoyed the many interactions with fellow educators whom I met through presentations, and other academic and social meet-ups. Through the conversations, I was exposed to the American culture, be it through food, hobbies or sports. For recreation, I participated in activities with the locals such as golfing and drumming. I must express my appreciation to Jacob Butler (course administrator) for being most helpful; to past and present Fulbrighters like Alex (2016), Kate (2017), Martha (2016), David (2015), and Nathan (2017) for their warm welcome and generosity; and to the teachers who have since become close friends: Susan and Steven. <br><br>
+
+  
+The various cultural exchanges gave me new insights. I was able to learn more about what it means to be a teacher in different international and cultural contexts, often over cosy home-cooked meals which we took turns to prepare. The 17 other Fulbrighters and I shared our aims and inspirations, and the challenges we faced in our professional practice. I found it fulfilling and rewarding to be exposed to educational issues all over the world in these rich, meaningful interactions.<br><br>
+
+<b>Professional Development</b><br><br>
+I conducted a fieldwork session through an environmental sciences lesson fieldwork organised by Bloomington High School, and was able to interact with students. It was a challenge to officially take students out and to talk to them about geography education as there are stark differences between our curricula.  What I really enjoyed that day was teaching them how to observe the environment and doing field sketches with them. The sketches produced were of high quality, and I was very pleased with their performance.	<br><br>
+	
+	
+<img src="/images/prore33.png" style="width:80%">	
 </p>  
   
 </div>  
