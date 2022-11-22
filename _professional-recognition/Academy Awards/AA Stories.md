@@ -15,9 +15,9 @@ third_nav_title: Academy Awards
 <div>  
   
 <p>
-1) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac1.pdf">text</a><br><b>XX</b><br><b>XX</b><br><br>
+1) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac1.pdf">Chang Suo Hui_Kranji Primary School_2021(.pdf, 54.77 KB)</a><br><b>Chang Suo Hui</b><br><b>Kranji Primary School</b><br><br>
 	
-2) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac1.pdf">text</a><br><b>XX</b><br><b>XX</b><br><br>	
+2) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac2.pdf">Yeo Leng Choo_Victoria Junior College_2021(.pdf, 55.94 KB)</a><br><b>Yeo Leng Choo</b><br><b>Victoria Junior College</b><br><br>	
 </p>  
   
 </div>  
@@ -27,7 +27,7 @@ third_nav_title: Academy Awards
   
 <input type="checkbox" id="accordion2">  
   
-<label for="accordion2">AA Citations 20</label>  
+<label for="accordion2">AA Citations 2020</label>  
   
 <div>  
   
