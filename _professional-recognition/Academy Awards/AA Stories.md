@@ -45,14 +45,14 @@ third_nav_title: Academy Awards
   
 <input type="checkbox" id="accordion3">  
   
-<label for="accordion3">AA Citations 20</label>  
+<label for="accordion3">AA Citations 2019</label>  
   
 <div>  
   
 <p>
-1) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac1.pdf">text</a><br><b>XX</b><br><b>XX</b><br><br>
+1) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac1.pdf">Ong Daphne Rachel_Broadrick Secondary School_2019(.pdf, 13.91 KB)</a><br><b>Ong Daphne Rachel</b><br><b>Broadrick Secondary School</b><br><br>
 	
-2) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac1.pdf">text</a><br><b>XX</b><br><b>XX</b><br><br>	
+2) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac5.pdf">Chan Min Lie_Edgefield Primary School_2019(.pdf, 14.43 KB)</a><br><b>Chan Min Lie</b><br><b>Edgefield Primary School</b><br><br>	
   
 </p>  
   
@@ -64,7 +64,7 @@ third_nav_title: Academy Awards
   
 <input type="checkbox" id="accordion4">  
   
-<label for="accordion4">AA Citations 20</label>  
+<label for="accordion4">AA Citations 2018</label>  
   
 <div>  
   
