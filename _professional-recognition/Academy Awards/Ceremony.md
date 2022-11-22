@@ -6,14 +6,14 @@ third_nav_title: Academy Awards
 ---
 2018:
 
-|<img src="/images/aa5.png" style="width:60%">  | <img src="/images/aa6.png" style="width:60%"> | <img src="/images/aa7.png" style="width:60%"> |
+|<img src="/images/aa5.png" style="width:77%">  | <img src="/images/aa6.png" style="width:78%"> | <img src="/images/aa7.png" style="width:70%"> |
 |---|---|---|
 | **Tan Kwee Tin** <br>**Huamin Primary School** |  **Hadzar Bte Misiri**  <br>**Seng Kang Primary School** | **Melvin Chan Joo Seng**  <br> **Teck Whye Secondary School** |
 
 
 2017:
 
-|<img src="/images/aa9.png" style="width:60%">  | <img src="/images/aa10.png" style="width:60%"> | <img src="/images/aa11.png" style="width:60%"> |
+|<img src="/images/aa9.png" style="width:70%">  | <img src="/images/aa10.png" style="width:80%"> | <img src="/images/aa11.png" style="width:65%"> |
 |---|---|---|
 | **Linda Hou Yin Fatt** <br>**Holy Innocents' Primary School** |  **Lai Kuan Hoe Leslie**  <br>**Innova Primary School** | **Ira Wati Binti Sukaimi**  <br> **Mayflower Secondary School** |
 
@@ -25,9 +25,24 @@ third_nav_title: Academy Awards
 
 2015:
 
-|<img src="/images/aa15.png" style="width:60%">  | <img src="/images/aa16.png" style="width:73%"> | <img src="/images/aa17.png" style="width:72%"> |
+|<img src="/images/aa15.png" style="width:70%">  | <img src="/images/aa16.png" style="width:73%"> | <img src="/images/aa17.png" style="width:72%"> |
 |---|---|---|
 | **Ng Kee Yah Theresa** <br>**Ngee Ann Secondary School** |  **Lye Wai Leng**  <br>**National Junior College** | **Poh Meng Leng**  <br> **Educational Technology Division** |
+
+2014:
+
+| <img src="/images/aa18.png" style="width:32%"> |
+|---|
+| **Mr Muhamad Salahuddin Bin Ibrahim** <br>**Serangoon Junior College** |
+
+2013:
+
+| <img src="/images/aa19.png" style="width:32%"> |
+|---|
+| **Mr Su Zhangka** <br>**Nanyang Girls' High School** |
+
+
+delete everything above
 
 <img src="/images/aa1.png" style="width:60%">
 
@@ -188,7 +203,11 @@ For the full list of winners, please click on <a href="https://staging.d2dfevnwg
 <div>  
   
 <p>
-<img src="/images/aa.png" style="width:60%">
+<b>Who are the award recipients of Fellow of Academy of Singapore Teachers 2014? </b>	<br><br>
+	
+TABLE HERE <br><br>
+	
+For the full list of winners, please click on <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aar2014.pdf">AA Recipients 2014 (.pdf, 158.81 KB)</a>
 </p>  
   
 </div>  
@@ -204,7 +223,11 @@ For the full list of winners, please click on <a href="https://staging.d2dfevnwg
 <div>  
   
 <p>
-<img src="/images/aa.png" style="width:60%">
+<b>Who are the award recipients of Fellow of Academy of Singapore Teachers 2013? </b>	<br><br>
+	
+TABLE HERE <br><br>
+	
+For the full list of winners, please click on <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aar2013.pdf">AA Recipients 2013 (.pdf, 222.29 KB)</a>
 </p>  
   
 </div>  
@@ -219,7 +242,24 @@ For the full list of winners, please click on <a href="https://staging.d2dfevnwg
 <div>  
   
 <p>
-<img src="/images/aa.png" style="width:60%">
+For the full list of winners, please click on <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aar2013.pdf">AA Recipients 2013 (.pdf, 222.29 KB)</a> <br><br>
+	
+<b> Fellow of the Academy of Singapore Teachers</b> <br><br>
+	
+	
+<b> Associate of the Academy of Singapore Teachers (Primary Schools)</b> <br><br>	
+	
+	
+<b> Associate of the Academy of Singapore Teachers (Secondary Schools)</b> <br><br>		
+	
+<b> Associate of the Academy of Singapore Teachers (Junior Colleges)</b> <br><br>			
+	
+
+<b> Associate of the Academy of Singapore Teachers (MOE HQ)</b> <br><br>				
+	
+<b> Partner of the Academy of Singapore Teachers</b> <br><br>				<b>Organisation</b> <br><br>
+	
+	
 </p>  
   
 </div>  
