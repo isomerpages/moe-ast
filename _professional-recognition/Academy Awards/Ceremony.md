@@ -4,15 +4,15 @@ permalink: /professional-recognition/Academy-Awards/ceremony/
 description: ""
 third_nav_title: Academy Awards
 ---
-CHECK:
-[1](/files/aac1.pdf)
-[2](/files/aac2.pdf)
-[3](/files/aac3.pdf)
-[4](/files/aac4.pdf)
+2018:
+
+|<img src="/images/aa5.png" style="width:60%">  | <img src="/images/aa6.png" style="width:60%"> | <img src="/images/aa7.png" style="width:60%"> |
+|---|---|---|
+| **Tan Kwee Tin** <br>**Huamin Primary School** |  **Hadzar Bte Misiri**  <br>**Seng Kang Primary School** | **Melvin Chan Joo Seng**  <br> **Teck Whye Secondary School** |
 
 <img src="/images/aa1.png" style="width:60%">
 
-For the full list of awardees, please click on this [List of Fellow Associate Partner of AST Award Recipients 2022 (1)(.pdf, 388.5 KB)](/files/aac1.pdf)
+For the full list of awardees, please click on this [List of Fellow Associate Partner of AST Award Recipients 2022 (1)(.pdf, 388.5 KB)](/files/aar2022.pdf)
 
 <ul class="jekyllcodex_accordion">  
   
@@ -42,7 +42,7 @@ For the full list of awardees, please click on this [List of Fellow Associate P
 <p>
 <img src="/images/aa3.png" style="width:60%"><br><br>
 	
-For the full list of awardees, please click on this <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac1.pdf">List of Fellow Associate Partner of AST Award Recipients 2020(.pdf, 107.99 KB)</a>
+For the full list of awardees, please click on this <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aar2020.pdf">List of Fellow Associate Partner of AST Award Recipients 2020(.pdf, 107.99 KB)</a>
 </p>  
   
 </div>  
@@ -60,7 +60,7 @@ For the full list of awardees, please click on this <a href="https://staging.d2
 <p>
 <img src="/images/aa4.png" style="width:60%"><br><br>
 	
-For the full list of awardees, please click on this <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac3.pdf">List of Fellow Associate Partner of AST Award Recipients 2019(.pdf, 416.46 KB)</a>
+For the full list of awardees, please click on this <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aar2019.pdf">List of Fellow Associate Partner of AST Award Recipients 2019(.pdf, 416.46 KB)</a>
 
 	
 <B>To view the event photos, please click this</B> <a href="https://www.kc27photography.com/Other/AST-Academy-Awards-2019/">link</a> 
@@ -79,7 +79,15 @@ For the full list of awardees, please click on this <a href="https://staging.d2
 <div>  
   
 <p>
-<img src="/images/aa.png" style="width:60%">
+<b>Who are the award recipients of Fellow of Academy of Singapore Teachers 2018? </b>	<br><br>
+	
+TABLE HERE <br><br>
+	
+<b>For the full list of winners, please click on this<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aar2018.pdf">Link</a>  .  </b><Br><br>
+
+<b>To view the event photos, please click this <a href="https://www.kc27photography.com/Other/AST-Academy-Awards-2018">link</a>  or scan the QR code below.	</b>
+	
+
 </p>  
   
 </div>  
