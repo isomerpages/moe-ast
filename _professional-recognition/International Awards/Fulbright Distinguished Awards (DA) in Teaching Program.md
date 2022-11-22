@@ -157,7 +157,7 @@ text
   
 <input type="checkbox" id="accordion3">  
   
-<label for="accordion3">Distinguished Fulbright Award in Teaching 2017</label>  
+<label for="accordion3">Distinguished Fulbright Award in Teaching 2016</label>  
   
 <div>  
   
@@ -174,7 +174,7 @@ text
   
 <input type="checkbox" id="accordion4">  
   
-<label for="accordion4">Distinguished Fulbright Award in Teaching 2017</label>  
+<label for="accordion4">Distinguished Fulbright Award in Teaching 2015</label>  
   
 <div>  
   
@@ -190,7 +190,7 @@ text
   
 <input type="checkbox" id="accordion5">  
   
-<label for="accordion5">Distinguished Fulbright Award in Teaching 2017</label>  
+<label for="accordion5">Distinguished Fulbright Award in Teaching 2014</label>  
   
 <div>  
   
@@ -206,7 +206,7 @@ text
   
 <input type="checkbox" id="accordion6">  
   
-<label for="accordion6">Distinguished Fulbright Award in Teaching 2017</label>  
+<label for="accordion6">Distinguished Fulbright Award in Teaching 2013</label>  
   
 <div>  
   
@@ -223,7 +223,7 @@ text
   
 <input type="checkbox" id="accordion7">  
   
-<label for="accordion7">Distinguished Fulbright Award in Teaching 2017</label>  
+<label for="accordion7">Distinguished Fulbright Award in Teaching 2012</label>  
   
 <div>  
   
