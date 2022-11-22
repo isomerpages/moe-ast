@@ -6,7 +6,7 @@ third_nav_title: International Awards
 ---
 ### Fulbright Distinguished Awards (DA) in Teaching Program
 
-|  |  |  |
+| <img src="/images/prore25.png" style="width:76%">  | <img src="/images/prore26.png" style="width:72%">  | <img src="/images/prore27.png" style="width:82%"> |
 |---|---|---|
 | **Ms Valerie Baptist<br> Catholic Junior College** | **Mr Ong Ching Meng<br> Cedar Girls' Secondary School** | **Mr Thomas Lim<br> Nan Hua Primary School** |
 | [Reflection (Valerie) Final.docx(.pdf, 738.86 KB)](/files/fre1.pdf) | [Reflection (Chin Meng) Final.docx(.pdf, 737.9 KB)](/files/fre2.pdf) | [Reflection (Thomas) Final(.pdf, 1.61 MB)](/files/fre3.pdf) |
@@ -37,6 +37,22 @@ Educators who return from the DA Program in the U.S. will share their learning a
 <input type="checkbox" id="accordion1">  
   
 <label for="accordion1">2018-2019 Fulbright Recipients' Experiences</label>  
+  
+<div>  
+  
+<p>
+TEXT
+	
+</p>  
+  
+</div>  
+  
+</li>  
+<li>  
+  
+<input type="checkbox" id="accordion2">  
+  
+<label for="accordion2">Distinguished Fulbright Award in Teaching 2017</label>  
   
 <div>  
   
@@ -75,7 +91,7 @@ My Fulbright Experience started when award recipients were asked to participate 
   
 I gained a rich learning experience from the school visits, auditing courses at Indiana University, and having professional conversations with teachers, lecturers and students.  To me, the cross-cultural experience, which is the intent of this Fulbright experience, was indeed the icing on the cake.  This invaluable experience is the best gift bestowed to me, as an individual, and as a teacher.	<br><br>
 	
-TABLE HERE	<br><br>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="https://staging.d2dfevnwgxersp.amplifyapp.com/images/prore31.png" width="346"></th><th style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="https://staging.d2dfevnwgxersp.amplifyapp.com/images/prore32.png" width="292"></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">American Embassy (Singapore), with Charge de ‘Affair, Embassy Staff, Academy of Singapore (Ministry of Education) Officers, and Past and Present Singapore Fulbrighters</td><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">School of Education, Indiana University (14 November 2017) with My Two Fellow Singaporean Fulbrighters, Rebecca (L) and Angelynna (R)</td></tr></tbody></table><br><br>
 I enjoyed the many interactions with fellow educators whom I met through presentations, and other academic and social meet-ups. Through the conversations, I was exposed to the American culture, be it through food, hobbies or sports. For recreation, I participated in activities with the locals such as golfing and drumming. I must express my appreciation to Jacob Butler (course administrator) for being most helpful; to past and present Fulbrighters like Alex (2016), Kate (2017), Martha (2016), David (2015), and Nathan (2017) for their warm welcome and generosity; and to the teachers who have since become close friends: Susan and Steven. <br><br>
 
   
@@ -132,21 +148,6 @@ As I worked on my inquiry project, I was able to probe and to deepen my own unde
 I have been privileged to have learnt so much, both professionally and personally, through my Fulbright attachment in the US.  The friendships forged with fellow Fulbright educators from all over the world are a reminder to me that despite the differences in nationality, race, and religion, we have one thing in common: the desire to improve teaching and learning and to become better teachers for our students. The Fulbright programme might have ended, and it will be but one of the many journeys I will embark on in my quest to grow professionally to become a better teacher.	
 	
 	
-</p>  
-  
-</div>  
-  
-</li>  
-<li>  
-  
-<input type="checkbox" id="accordion2">  
-  
-<label for="accordion2">Distinguished Fulbright Award in Teaching 2017</label>  
-  
-<div>  
-  
-<p>
-text
 </p>  
   
 </div>  
