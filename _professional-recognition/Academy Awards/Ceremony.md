@@ -10,6 +10,13 @@ third_nav_title: Academy Awards
 |---|---|---|
 | **Tan Kwee Tin** <br>**Huamin Primary School** |  **Hadzar Bte Misiri**  <br>**Seng Kang Primary School** | **Melvin Chan Joo Seng**  <br> **Teck Whye Secondary School** |
 
+
+2017:
+
+|<img src="/images/aa9.png" style="width:60%">  | <img src="/images/aa10.png" style="width:60%"> | <img src="/images/aa11.png" style="width:60%"> |
+|---|---|---|
+| **Linda Hou Yin Fatt** <br>**Holy Innocents' Primary School** |  **Lai Kuan Hoe Leslie**  <br>**Innova Primary School** | **Ira Wati Binti Sukaimi**  <br> **Mayflower Secondary School** |
+
 <img src="/images/aa1.png" style="width:60%">
 
 For the full list of awardees, please click on this [List of Fellow Associate Partner of AST Award Recipients 2022 (1)(.pdf, 388.5 KB)](/files/aar2022.pdf)
