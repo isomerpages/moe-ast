@@ -10,7 +10,7 @@ third_nav_title: Academy Awards
   
 <input type="checkbox" id="accordion1">  
   
-<label for="accordion1">AA Citations 20</label>  
+<label for="accordion1">AA Citations 2021</label>  
   
 <div>  
   
