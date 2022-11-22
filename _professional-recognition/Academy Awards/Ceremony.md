@@ -60,9 +60,10 @@ For the full list of awardees, please click on this <a href="https://staging.d2
 <p>
 <img src="/images/aa4.png" style="width:60%"><br><br>
 	
-For the full list of awardees, please click on this <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac1.pdf">List of Fellow Associate Partner of AST Award Recipients 2019(.pdf, 416.46 KB)</a>
+For the full list of awardees, please click on this <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac3.pdf">List of Fellow Associate Partner of AST Award Recipients 2019(.pdf, 416.46 KB)</a>
+
 	
-	[Fellow Associate Partner of AST 2019 list(.pdf, 416.46 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/professional-recognition-docs/academy-awards-for-professional-development-docs/fellow-associate-partner-of-ast-2019-list.pdf?sfvrsn=a15cc062_0 "Fellow Associate Partner of AST 2019 list")
+<B>To view the event photos, please click this</B> <a href="https://www.kc27photography.com/Other/AST-Academy-Awards-2019/">link</a> 
 </p>  
   
 </div>  
