@@ -4,46 +4,6 @@ permalink: /professional-recognition/Academy-Awards/ceremony/
 description: ""
 third_nav_title: Academy Awards
 ---
-2018:
-
-|<img src="/images/aa5.png" style="width:77%">  | <img src="/images/aa6.png" style="width:78%"> | <img src="/images/aa7.png" style="width:70%"> |
-|---|---|---|
-| **Tan Kwee Tin** <br>**Huamin Primary School** |  **Hadzar Bte Misiri**  <br>**Seng Kang Primary School** | **Melvin Chan Joo Seng**  <br> **Teck Whye Secondary School** |
-
-
-2017:
-
-|<img src="/images/aa9.png" style="width:70%">  | <img src="/images/aa10.png" style="width:80%"> | <img src="/images/aa11.png" style="width:65%"> |
-|---|---|---|
-| **Linda Hou Yin Fatt** <br>**Holy Innocents' Primary School** |  **Lai Kuan Hoe Leslie**  <br>**Innova Primary School** | **Ira Wati Binti Sukaimi**  <br> **Mayflower Secondary School** |
-
-2016:
-
-| <img src="/images/aa13.png" style="width:60%"> | <img src="/images/aa14.png" style="width:60%"> |
-|---|---|
-| **Pang Yen Ping** <br>**Gan Eng Seng School** | **Chan Puay San** <br>**Innova Junior College** |
-
-2015:
-
-|<img src="/images/aa15.png" style="width:70%">  | <img src="/images/aa16.png" style="width:73%"> | <img src="/images/aa17.png" style="width:72%"> |
-|---|---|---|
-| **Ng Kee Yah Theresa** <br>**Ngee Ann Secondary School** |  **Lye Wai Leng**  <br>**National Junior College** | **Poh Meng Leng**  <br> **Educational Technology Division** |
-
-2014:
-
-| <img src="/images/aa18.png" style="width:32%"> |
-|---|
-| **Mr Muhamad Salahuddin Bin Ibrahim** <br>**Serangoon Junior College** |
-
-2013:
-
-| <img src="/images/aa19.png" style="width:32%"> |
-|---|
-| **Mr Su Zhangka** <br>**Nanyang Girls' High School** |
-
-
-delete everything above
-
 <img src="/images/aa1.png" style="width:60%">
 
 For the full list of awardees, please click on this [List of Fellow Associate Partner of AST Award Recipients 2022 (1)(.pdf, 388.5 KB)](/files/aar2022.pdf)
