@@ -85,7 +85,9 @@ TABLE HERE <br><br>
 	
 <b>For the full list of winners, please click on this<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aar2018.pdf">Link</a>  .  </b><Br><br>
 
-<b>To view the event photos, please click this <a href="https://www.kc27photography.com/Other/AST-Academy-Awards-2018">link</a>  or scan the QR code below.	</b>
+<b>To view the event photos, please click this <a href="https://www.kc27photography.com/Other/AST-Academy-Awards-2018">link</a>  or scan the QR code below.	</b><Br><br>
+
+<img src="/images/aa8.png" style="width:30%"> 
 	
 
 </p>  
