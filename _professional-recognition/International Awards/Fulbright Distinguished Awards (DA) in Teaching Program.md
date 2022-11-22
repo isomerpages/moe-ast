@@ -129,12 +129,12 @@ What then, is this Fulbright experience? It is definitely not the inquiry projec
 <b>Growing Personally as an Individual</b><br>
 Living and working with the Fulbright teachers has made me more culturally aware and sensitive, to become more appreciative of cultural differences and diversity. One thing that really struck me was the fact that food binds everyone together, regardless of which part of the world we are from. Coming from Singapore, where social functions centre around food, I realised that dining in social gatherings cuts across many cultures all over the world. Having many cultures under one roof meant we had ample opportunities to bond over food. All of us, including the Singaporean Fulbrighters, had regular food gatherings where we shared our own local food and stories,  and learned and appreciated one another’s cultural practices.  The many regular cultural events on campus also enhanced my appreciation for the diversity of cultures present within the US.<br><br>
 	
-<img src="/images/prore35.png" style="width:30%">	<br><br><i>Singapore Fulbrighters Hosting a Makan Session for the International Fulbrighters</i><br><br>
+<img src="/images/prore35.png" style="width:50%">	<br><br><i>Singapore Fulbrighters Hosting a Makan Session for the International Fulbrighters</i><br><br>
 
   
 One of the most memorable events that took place at Indiana University was the solar eclipse on 22 August 2017. It was amazing to see thousands of students on campus converge to watch the solar eclipse. There was a carnival-like atmosphere with booths set up by students and professors to educate and to engage everyone about the eclipse. Being in Indiana, I was fortunate to witness 94.1% of the sun covered by the moon—almost a total eclipse. It was awe-inspiring and another reminder that science is all around us and very much a part of our lives.		<br><br>
 	
-<img src="/images/prore36.png" style="width:30%">	<br><br>
+<img src="/images/prore36.png" style="width:50%">	<br><br>
 	
 While in the US, I had the opportunity to interact with the locals and to experience Halloween in America where children and adults dress up in costumes and go trick-or-treating. We see this in the movies and hear about it, but nothing beats experiencing it in person and soaking in the festivities. It was really exciting. What really surprised me was seeing how resourceful and creative people were in designing their costumes. They were not the typical bought-off-the-shelf costumes, but rather, the costumes were put together with everyday materials found around the house.<br><br>
 
@@ -163,8 +163,11 @@ I have been privileged to have learnt so much, both professionally and personall
 <div>  
   
 <p>
-text	
-  
+<b><u>Dr Muhammad Nazir Bin Amir</u></b><br><br>
+
+The Fulbright Distinguished Awards Teaching Program was indeed an enriching learning experience for me. Apart from living and interacting with twenty wonderful teachers from ten different countries, I had the chance to experience American cultural practices, visit a considerable number of institutions of learning, and was provided with various opportunities that allowed me to gain ideas to enhance my teaching.  <br><br>
+	
+<img src="/images/prore37.png" style="width:50%">	
 </p>  
   
 </div>  
