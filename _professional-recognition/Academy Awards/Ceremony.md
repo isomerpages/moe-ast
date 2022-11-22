@@ -112,7 +112,15 @@ TABLE HERE <br><br>
 <div>  
   
 <p>
-<img src="/images/aa.png" style="width:60%">
+<b>Who are the award recipients of Fellow of Academy of Singapore Teachers 2017? </b>	<br><br>
+	
+TABLE HERE <br><br>
+	
+<b>For the full list of winners, please click on this<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aar2017.pdf">List of AST Award Recipients 2017 (.pdf, 328.83 KB)</a>  .  </b><Br><br>
+
+<b>To view the event photos, please click this <a href="http://www.kc27photography.com/Other/AST-Academy-Awards-2017-/">http://www.kc27photography.com/Other/AST-Academy-Awards-2017-/</a>  or scan the QR code below.	</b><Br><br>
+
+<img src="/images/aa12.png" style="width:30%"> 
 </p>  
   
 </div>  
