@@ -32,9 +32,9 @@ third_nav_title: Academy Awards
 <div>  
   
 <p>
-1) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac1.pdf">text</a><br><b>XX</b><br><b>XX</b><br><br>
+1) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac3.pdf">Cheng Mee Eng_Princess Elizabeth Primary School_2020(.pdf, 17.83 KB)</a><br><b>Cheng Mee Eng</b><br><b>Princess Elizabeth Primary School</b><br><br>
 	
-2) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac1.pdf">text</a><br><b>XX</b><br><b>XX</b><br><br>	
+
 </p>  
   
 </div>  
@@ -50,7 +50,7 @@ third_nav_title: Academy Awards
 <div>  
   
 <p>
-1) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac1.pdf">Ong Daphne Rachel_Broadrick Secondary School_2019(.pdf, 13.91 KB)</a><br><b>Ong Daphne Rachel</b><br><b>Broadrick Secondary School</b><br><br>
+1) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac4.pdf">Ong Daphne Rachel_Broadrick Secondary School_2019(.pdf, 13.91 KB)</a><br><b>Ong Daphne Rachel</b><br><b>Broadrick Secondary School</b><br><br>
 	
 2) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac5.pdf">Chan Min Lie_Edgefield Primary School_2019(.pdf, 14.43 KB)</a><br><b>Chan Min Lie</b><br><b>Edgefield Primary School</b><br><br>	
   
