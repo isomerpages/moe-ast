@@ -17,6 +17,18 @@ third_nav_title: Academy Awards
 |---|---|---|
 | **Linda Hou Yin Fatt** <br>**Holy Innocents' Primary School** |  **Lai Kuan Hoe Leslie**  <br>**Innova Primary School** | **Ira Wati Binti Sukaimi**  <br> **Mayflower Secondary School** |
 
+2016:
+
+| <img src="/images/aa13.png" style="width:60%"> | <img src="/images/aa14.png" style="width:60%"> |
+|---|---|
+| **Pang Yen Ping** <br>**Gan Eng Seng School** | **Chan Puay San** <br>**Innova Junior College** |
+
+2015:
+
+|<img src="/images/aa15.png" style="width:60%">  | <img src="/images/aa16.png" style="width:73%"> | <img src="/images/aa17.png" style="width:72%"> |
+|---|---|---|
+| **Ng Kee Yah Theresa** <br>**Ngee Ann Secondary School** |  **Lye Wai Leng**  <br>**National Junior College** | **Poh Meng Leng**  <br> **Educational Technology Division** |
+
 <img src="/images/aa1.png" style="width:60%">
 
 For the full list of awardees, please click on this [List of Fellow Associate Partner of AST Award Recipients 2022 (1)(.pdf, 388.5 KB)](/files/aar2022.pdf)
@@ -135,7 +147,11 @@ TABLE HERE <br><br>
 <div>  
   
 <p>
-<img src="/images/aa.png" style="width:60%">
+<b>Who are the award recipients of Fellow of Academy of Singapore Teachers 2016? </b>	<br><br>
+	
+TABLE HERE <br><br>
+	
+For the full list of winners, please click on <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aar2016.pdf">AA Recipients 2016 (.pdf, 214.68 KB)</a>
 </p>  
   
 </div>  
@@ -151,7 +167,11 @@ TABLE HERE <br><br>
 <div>  
   
 <p>
-<img src="/images/aa.png" style="width:60%">
+<b>Who are the award recipients of Fellow of Academy of Singapore Teachers 2015? </b>	<br><br>
+	
+TABLE HERE <br><br>
+	
+For the full list of winners, please click on <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aar2015.pdf">AA Recipients 2015 (.pdf, 162.06 KB)</a>
   
 </p>  
   
