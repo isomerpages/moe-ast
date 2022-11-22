@@ -99,7 +99,16 @@ Students who needed additional help in grasping English may be reassigned to ano
   
 Attending social studies conferences both in Indiana and San Francisco (National Council of Social Studies 2017) provided me with an excellent opportunity to share my work on citizenship and values in Singapore with the teachers, and to learn best practices from them.  I found the sharing sessions particularly motivating and useful as I learnt about the cognitive process behind the creation of the lesson plans, and also gained insights on Assessment, Pedagogy and Curriculum as experienced by practitioners.<br><br>
 	
-<img src="/images/prore33.png" style="width:80%">	<br><br>	
+<img src="/images/prore34.png" style="width:30%">	<br><br>	
+
+<i>Participating in the National Council of Social Studies Annual Conference at San Francisco from 15-19 November 2017</i><br><br>
+
+Through the conference and professional conversations with the teachers and students, and the classes I audited at Indiana University, I redefined my inquiry project on how fieldwork could be taught to my Normal (Academic) students. I realised how my teaching in the class could be improved and how to provide more scaffolding to encourage my students to think and to write in the fieldwork domain. I am excited to share my learning and these approaches through hands-on sharing and workshop sessions with my fellow colleagues back in Singapore.<br><br>
+
+<b>Personal Growth</b> <br><br>
+What then, is this Fulbright experience? It is definitely not the inquiry project alone, but the many meaningful interactions with fellow teaching practitioners from around the world.  This experience is beyond written words. I am thankful and grateful for this once-in-a-lifetime opportunity.	<Br><br>
+	
+	
 </p>  
   
 </div>  
