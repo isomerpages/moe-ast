@@ -19,7 +19,7 @@ For the full list of awardees, please click on this [List of Fellow Associate P
 <div>  
   
 <p>
-<img src="/images/aa2.png" style="width:60%">
+<img src="/images/aa2.png" style="width:40%">
 </p>  
   
 </div>  
@@ -165,7 +165,7 @@ For the full list of winners, please click on <a href="https://staging.d2dfevnwg
 <p>
 <b>Who are the award recipients of Fellow of Academy of Singapore Teachers 2014? </b>	<br><br>
 
-| <img src="/images/aa18.png" style="width:32%"> <br>
+<img src="/images/aa18.png" style="width:32%"> <br>
 <br><B>Mr Muhamad Salahuddin Bin Ibrahim</b><br><b>Serangoon Junior College</b>
  <br><br>
 	
@@ -188,7 +188,7 @@ For the full list of winners, please click on <a href="https://staging.d2dfevnwg
 <b>Who are the award recipients of Fellow of Academy of Singapore Teachers 2013? </b>	<br><br>
 	
 <img src="/images/aa19.png" style="width:32%"> <br>
-<b>Mr Su Zhangka</b><br><b>Nanyang Girls' High School</b> |<br><br>
+<b>Mr Su Zhangka</b><br><b>Nanyang Girls' High School</b> <br><br>
 	
 For the full list of winners, please click on <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aar2013.pdf">AA Recipients 2013 (.pdf, 222.29 KB)</a>
 </p>  
