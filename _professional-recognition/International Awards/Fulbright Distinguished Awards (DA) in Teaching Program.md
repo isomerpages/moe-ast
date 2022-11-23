@@ -6,14 +6,6 @@ third_nav_title: International Awards
 ---
 ### Fulbright Distinguished Awards (DA) in Teaching Program
 
-ACCORD 6:
-
-| <img src="/images/prore69.png" style="width:70%"><br>	 | <img src="/images/prore70.png" style="width:70%"> | <img src="/images/prore71.png" style="width:50%"> |
-|---|---|---|
-| Mdm Wong Kai Yeok, June<br>Master Teacher<br>AST | Mdm Lynette <br>Ann Liew Ai Ping<br>School Staff Developer<br>Clementi Town Sec School | Mdm Varalackshmi Hariharan<br>Master Teacher<br>English Language Institude Singapore. |
-
-TO BE DELETED
-
 The DA Program is one of the flagship international educational exchange programs supported by the U.S. government. It brings outstanding international educators to the United States (U.S.) for a semester-long program to pursue individual or group projects, take courses for professional development at a U.S. host university, and observe and share their expertise with U.S. colleagues.
 
 The DA Program has provided our educators with good exposure and understanding of teaching and learning practices in overseas institutions and schools, and has allowed them to more deeply appreciate the strengths and areas of relative weakness of our education system as they engage in professional networked learning and dialogue with educators from the U.S. and from other participating countries.
