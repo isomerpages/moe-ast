@@ -541,7 +541,7 @@ Final Thoughts<br><br>
 Before my Fulbright experience, I had the opportunity of studying overseas twice, but those experiences, while enriching on their own, did not give me a deepened, personal understanding of the local education system. In graduate school, I had read literature on classroom teaching, student profiles and social justice, but it was invaluable to have the opportunity to experience, to see and to hear first-hand something which no textbook could ever offer as in the Fulbright experience. Just having had the opportunity to teach students in a local high school answered some on my long-pondered-over questions. It also struck me that the spirit of community service and volunteerism is dominant in the U.S., and this is certainly something we need to build on in Singapore.<br><br>	
 
 There are certain learning attributes and attitudes that are universal and they transcend cultures, ethnicities and boundaries. There are also culture-specific student learning and teacher professional traits that have been shaped by generations of policies in the U.S.  Despite doing better in PISA, we in Singapore still have a long way to learn and to grow.	<br><br>		
-
+<img src="/images/prore68.png" style="width:50%">	<br><br>	
 </p>  
   
 </div>  
