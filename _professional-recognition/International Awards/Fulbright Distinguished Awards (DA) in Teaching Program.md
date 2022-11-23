@@ -193,7 +193,7 @@ Ms Hanane Chahidi (Morocco), Dr Nazir Amir (Singapore) and Dr Simon McMillan (Ne
 <img src="/images/prore40.png" style="width:65%"><figcaption> 	
 NASA’s Kennedy Space Centre in Cape Canaveral, Florida</figcaption><br><br>		
 	
-One important learning point I gathered was the need for learning experiences to be made fun and engaging for students across all age groups, particularly those who are academically at-risk. This is especially important as this has a positive effect in motivating them. A way this is being carried out in U.S. educational institutions is through the promotion of learning through playing and making. This is an evident practice that was observed during my visits to Project-based Learning (PBL) schools where I observed toy cars being used in a physics lesson to teach the concept of kinematics.	
+One important learning point I gathered was the need for learning experiences to be made fun and engaging for students across all age groups, particularly those who are academically at-risk. This is especially important as this has a positive effect in motivating them. A way this is being carried out in U.S. educational institutions is through the promotion of learning through playing and making. This is an evident practice that was observed during my visits to Project-based Learning (PBL) schools where I observed toy cars being used in a physics lesson to teach the concept of kinematics.	<br><br>
 </p>  
   
 </div>  
