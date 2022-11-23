@@ -414,7 +414,7 @@ The Distinguished Fulbright Awards in Teaching (DFAT) Programme 2013 was awarded
 
 The DFAT programme 2013 was held in Washington D.C. from 13 August 2013 to 13 December 2013. Based at a school of education at University of Maryland, the programme offered the awardees invaluable opportunities for professional collaboration and networking, and for learning about educational issues in a global context.  Working with educational experts, their learning experiences in the programme included auditing courses, attending conferences, and conducting research in their area of interest.  They also had the opportunity to observe and to teach classes in the U.S. schools. The awardees have since gained a deeper understanding of the educational system and culture in the U.S.<br><br>
 
- <img src="/images/prore59.png" style="width:30%" align=left> <img src="/images/prore60.png" style="width:30%" align=left> <img src="/images/prore61.png" style="width:30%" align=left>			<br><br>
+ <img src="/images/prore59.png" style="width:30%" align=left> <img src="/images/prore60.png" style="width:30%" align=left> <img src="/images/prore61.png" style="width:30%" align=left>			<br><br><br><br><br><br><br><br><br><br>
 
 Below are their personal reflections after the Fulbright programme:<br><br>
 
