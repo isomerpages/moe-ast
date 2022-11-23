@@ -220,6 +220,44 @@ My Fulbright experience has been wonderful! Living on campus, interacting with a
 <img src="/images/prore44.png" style="width:65%"><figcaption> 	
 Dr Nazir with Host Family: Keith and Ann Miser before Coming back to Singapore</figcaption><br><br>	
 	
+<b><u>Lim Peiwen</u></b>
+
+<b>Growing Professionally as an Educator</b><br><br>
+
+The 4-month Fulbright Distinguished Awards in Teaching Program experience has been the most fulfilling professional journey I have undergone as an educator. It was such a privilege to have the time and space to be reflective about myself as an educator and to dwell deeper into the work I do.	<br><br>
+	
+<img src="/images/prore45.png" style="width:65%"><figcaption> 	
+CIEDR Welcome Night for 2016 Fulbrighters at Indiana University (IU), School of Education</figcaption><br><br>		
+	
+One of the highlights of the Fulbright experience was the opportunity to audit courses in Indiana University (IU). The course on sustainable communities has helped enrich my content knowledge about environmental sustainability. This area of work is close to my heart and it was really an eye-opener to get to hear from the students and lecturer in the class share their experiences of the different parts of U.S., as well as the international perspectives from India, Nigeria, South Korea and Germany.<br><br>
+
+  
+Participating in the dialogues has allowed me to take a critical look at the environmental efforts that we have in Singapore.  These exchanges have proven to be a great repository of resources on how we can adopt and adapt certain good practices from other countries. The rich learning has definitely given me the “big picture” of what environmental education should be about. Instead of looking at education in isolation when educating the young about the environment, I have learnt the importance of collaboration and how the different agencies can come together in order to achieve environmental sustainability. While I am really excited about the possibilities that these new perspectives can bring, I am also realistic to note that for such practices to be implemented, the change in mind-set is the key element that we need to bring about to effectively shape young minds and to educate them on environmental sustainability.<br><br>
+
+  
+Being on this programme gave me the privilege to listen to the inquiry project presentations of the other 20 Fulbrighters (both U.S. and international). It was most wonderful to listen to their candid sharing on the challenges that they faced in their countries, on the areas that they did well, on the areas for improvement in their education system, and on their aspirations and hopes for change in the future. From the sharing, the passion and conviction of these educators were inspiring, especially so when many of them work in environments that are plagued with social issues like high juvenile crime rate and drug problems. Through my interactions with them, I felt a strong sense of fraternity. Despite teaching at different geographical locations, we are all working towards a common goal that is to educate the next generation and to prepare them well for the future.	<br><br>
+	
+<img src="/images/prore46.png" style="width:65%"><figcaption> 	
+Conference panellist at Teach to Lead® Summit in Washington DC 2016</figcaption><br><br>		
+
+I was also given the chance to participate in Teach to Lead® Summit as a conference panellist. The Teach to Lead® Summit hosts regional Teacher Leadership Summits to help spotlight and to advance the ground-breaking, teacher-led work that is happening in states, districts, and schools across the country.
+
+  
+Another area that I have had the chance to delve deeper in is citizenship education. From the conversations with the classroom teachers and classmates in the courses I audited to the IU professors, I have learned the importance of moving away from the “game show contestant” approach in the classroom to prepare students for the real world. One common theme that was consistently reiterated is that besides equipping students with knowledge and skills to succeed in the global economy, it is also essential to develop the ability in students to understand the cultural values, practices and interests in our world today.  The need to understand diversity and to help students develop “religious literacy” is more urgent than ever in the light of our increasingly diverse world.
+
+  
+This realisation has great implication for the work I do in school. I have come to realise that civic education should not be focused on just factual recall type-“game show contestant” knowledge, but more of providing students with the opportunities to navigate authentic real-world complexities and to appreciate the contours of beliefs and practices that shape society’s and people’s lives, commitments and allegiances. Aligned with one of the 21st Century Competencies: civic literacy, global awareness and cross-cultural skills, I strongly feel that the development of religious fluency ought to be an integral part that we should address in citizenship education.
+
+**Personal Growth**  
+This Fulbright Distinguished Awards in Teaching Program experience has been the longest period that I have been away from home. Being in my thirties, it has been a difficult experience to be on my own for so long, away from my family. I must say that the hardest part of the trip was the initial few weeks in having to deal with homesickness and to adjust to being independent in terms of meal preparation and performing some cleaning chores! From this experience, I have become more independent, reflective and resilient, and I became more appreciative of my loved ones back at home.
+
+  
+Even though there were many challenges, the experience was made better with the friends whom I have made during the programme. Staying near one another in the same apartment building helped us bond as a community. We had opportunities to hang out, cook, have conversations and even work out together. As a result, our friendship was strengthened. It is beautiful how we are from places worlds apart and yet have come to appreciate one another’s culture, values and belief system and became close friends, one another’s pillar of support, while we are away from home.
+
+  
+Specifically, becoming close friends with the Palestinian teachers has been the most wonderful and most precious experience for me. Their life stories of having to live through wars have taught me important lessons on resilience and how much I have taken peace in Singapore for granted. These two Palestinian teachers have shown me the meaning of strength and conviction. The stories that they have shared were truly inspiring and served as great reminders of our calling as educators. I have seen them standing up for their religion; summoning the courage to correct misconceptions that others have about Islam, speaking up for the rights of women and exuding the great pride they have to be Palestinians. My interactions with them have been the most precious life lesson on national identity and conviction.	
+	
+	
 </p>  
   
 </div>  
