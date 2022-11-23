@@ -194,6 +194,32 @@ Ms Hanane Chahidi (Morocco), Dr Nazir Amir (Singapore) and Dr Simon McMillan (Ne
 NASA’s Kennedy Space Centre in Cape Canaveral, Florida</figcaption><br><br>		
 	
 One important learning point I gathered was the need for learning experiences to be made fun and engaging for students across all age groups, particularly those who are academically at-risk. This is especially important as this has a positive effect in motivating them. A way this is being carried out in U.S. educational institutions is through the promotion of learning through playing and making. This is an evident practice that was observed during my visits to Project-based Learning (PBL) schools where I observed toy cars being used in a physics lesson to teach the concept of kinematics.	<br><br>
+	
+<img src="/images/prore41.png" style="width:65%"><figcaption> 	
+Toy Cars Being Used in A Physics Lesson to Teach the Concept of Kinematics</figcaption><br><br>			
+	
+Through my observations in the classes that I have been to, it was not uncommon for teachers to adopt design-based activities, where students engage in the process of designing and making items to learn new concepts. Another lesson that I observed involved students taking part in the making and testing of raft boats in a swimming pool as a way to deepen their understanding of material science and buoyancy, amongst other science and mathematics concepts. Personally, I found it interesting that a student leader mentioned how she had dressed up as a mermaid when presenting her group’s raft to the teacher. A photograph of the colourful raft was showcased on the school’s television terminal to serve as a form of affirmation of the students’ effort. The raft and mermaid looked colourful and presentable. The encouragement by the physics teacher in getting his students to incorporate knowledge and skills gained from ‘Art & Craft’ such as designing, sketching, colouring, and crafting into this physics lesson seemed to have motivated the students, and instilled a sense of pride in their final project.<br><br>
+	
+The concept of PBL was not limited to students’ learning; teachers too, embraced this form of learning. At a STEM Education conference in California, I joined many other teachers in coming up with fun project-based STEAM activities, using only simple materials that would be suitable to present science and mathematics content to our students. One can see the excitement of my fellow teacher participants throughout the process of making science-based toy projects, and feel a sense of achievement when they have completed their projects. I observed how many of them spent time to carefully design, make and colour their toys which led to them feeling proud of their work.	<br><br>
+
+<img src="/images/prore42.png" style="width:65%"><figcaption> 	
+STEAM-based Electronic and Mechanical Gadgets made by Teacher Participants</figcaption><br><br>				
+	
+In addition to classroom STEAM practices, I was also able to see how the design-and-make approach contributes to student motivation and engagement in their after-school programmes. One such example is a solar car developed by Century High School’s Engineering Design Academy. Teachers and students worked together in designing and making a solar car, which eventually took part in a race.  Along the design and fabrication processes, students picked up skills in working with common hand-and-power tools, as well as learnt how to use computer programs such as SolidWorks and the use of 3D printers.	<br><br>
+
+<img src="/images/prore43.png" style="width:65%"><figcaption> 	
+Dr Nazir in a Solar Car Developed by Century High School’s Engineering Design Academy</figcaption><br><br>				
+
+Such observations suggest that Normal (Technical) ((N(T)) students in Singapore can be motivated to enjoy learning concepts in science and mathematics through STEAM approaches. This idea is further supported by research articles which highlight that the time spent in learning and applying ‘Art & Craft’ skills in science lessons should not be seen as ‘inferior’ when compared to gaining science content through other forms of instruction (such as stepped-through hands-on experiments), since the approach provides a way for students to be cognitively and emotionally connected to the learning content.<br><br>
+
+I find that a practical way to start carrying out such fun and feasible design-based STEAM activities back in Singapore is to enhance several STEM projects that my colleagues and I are currently working on with our N(T) students. I intend to share such approaches through hands-on sharings and workshop sessions.<br><br>
+
+<b>Concluding Thoughts</b><br> 
+My Fulbright experience has been wonderful! Living on campus, interacting with a diverse group of people, and being able to gain such rich learning experiences have definitely enriched me as a person. I will cherish every moment of this experience. It is indeed and honour and privilege to have been a part of this programme.	<br><br>
+	
+<img src="/images/prore44.png" style="width:65%"><figcaption> 	
+Dr Nazir with Host Family: Keith and Ann Miser before Coming back to Singapore</figcaption><br><br>	
+	
 </p>  
   
 </div>  
