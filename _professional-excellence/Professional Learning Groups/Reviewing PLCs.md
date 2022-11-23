@@ -25,7 +25,7 @@ The Professional Learning Community Assessment—Revised (PLCA—R) is a 'diagno
 
 School leaders and School Staff Developers may use this instrument to gather staff’s perceptions on PLC to inform them of the areas to further develop the PLC. In order to get a more holistic understanding of the state of their PLC, however, school leaders and School Staff Developers should follow up with more conversations with PLT leaders and members. <br><br>
 
-Click <a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50913">here</a> .
+Click <a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50913">here</a>to download the Guide to PLCA—R (OPAL2.0 login required).
 </p>  
   
 </div>  
