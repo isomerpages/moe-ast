@@ -465,11 +465,11 @@ Every country, in its own way, is trying to grapple with the realities of educat
 The Place of An End (Or Another Possible Beginning): The Place of Possibilities<br><br>
 
 Professional learning for me seems to embrace this paradigm of an emerging and negotiable practice, dependent on the different and situated contexts of the schools/classrooms that I will be working in, the learning that is constantly being constructed, and the people who engage with it. The DFAT programme has been a life-changing classroom. I hope that I can help my fellow teachers realise the wonderful promise and potential that is their classrooms.  We are all in this journey together; teachers, students and educators involved in professional learning like my fellow Master Teachers and me. The journey is about understanding this place called the classroom, and our different roles in making it a place of learning for all.<br><br>
-<img src="/images/prore64.png" style="width:30%" align=left> <img src="/images/prore65.png" style="width:30%" align=left>				
+<img src="/images/prore64.png" style="width:50%" align=left> <img src="/images/prore65.png" style="width:30%" align=left>				
  <br><br>		
 	
 Mr Ivin Chan<br><br>
-<img src="/images/prore65.png" style="width:50%">	<br><br>		
+<img src="/images/prore66.png" style="width:40%">	<br><br>		
 	
 In August 2012, when I applied for the DFAT programme 2013, I had not expected to even make it to the interviews, let alone be one of the three teachers representing Singapore to the U.S. Moreover, after going through the first and second rounds of interviews, I realised I was one of the younger teachers to be shortlisted for the final selection process. I was really humbled by the experience and dedication of the teachers who were with me throughout the different rounds of interviews, and I felt honoured just to be a part of the selection interviews. The reality of my actually going to the U.S. did not set in until I found myself seated on a plane bound for Washington Dulles Airport in August 2013. The 20-plus-hour flight to me was akin to a kid holding his breath as his car was being dragged to the highest point of the roller coaster ride; indeed, the four months that followed was as exhilarating as the best rides at Universal Studios.<br><br>		
 
@@ -502,7 +502,7 @@ If you asked me what my biggest take-away from the DFAT programme was, I would s
 Ms Lee Mun Yee<br><br>		
 
 First Experiences	<br><br>		
-<img src="/images/prore66.png" style="width:50%">	<br><br>	
+<img src="/images/prore67.png" style="width:50%">	<br><br>		<br><br>	
 	
 I have been to the U.S. a few times as a tourist prior to the DFAT Programme. Typically, those experiences were fleeting. They would be limited to the prominent sites and usual tourist spots to visit, impressions of the weather, a sampling of foods prepared by others, and perhaps some memories of using the public transport. I would call those experiences a “postcard montage”.<br><br>	
 
@@ -541,7 +541,7 @@ Final Thoughts<br><br>
 Before my Fulbright experience, I had the opportunity of studying overseas twice, but those experiences, while enriching on their own, did not give me a deepened, personal understanding of the local education system. In graduate school, I had read literature on classroom teaching, student profiles and social justice, but it was invaluable to have the opportunity to experience, to see and to hear first-hand something which no textbook could ever offer as in the Fulbright experience. Just having had the opportunity to teach students in a local high school answered some on my long-pondered-over questions. It also struck me that the spirit of community service and volunteerism is dominant in the U.S., and this is certainly something we need to build on in Singapore.<br><br>	
 
 There are certain learning attributes and attitudes that are universal and they transcend cultures, ethnicities and boundaries. There are also culture-specific student learning and teacher professional traits that have been shaped by generations of policies in the U.S.  Despite doing better in PISA, we in Singapore still have a long way to learn and to grow.	<br><br>		
-<img src="/images/prore67.png" style="width:50%">	<br><br>	
+
 </p>  
   
 </div>  
