@@ -408,7 +408,101 @@ In the programme, we were treated to cultural visits in major cities, including 
 <div>  
   
 <p>
-text
+<b>DISTINGUISHED FULBRIGHT AWARDS IN TEACHING (DFAT) PROGRAMME 2013</b><br><br>
+
+The Distinguished Fulbright Awards in Teaching (DFAT) Programme 2013 was awarded to three teachers: Mr William Grosse, Master Teacher of English Language Institute of Singapore (ELIS); Mr Ivin Chan, Subject Head, (Learning Technologies) of Anderson Secondary School; and Ms Lee Mun Yee, HOD (Aesthetics) of Orchid Park Secondary School<br><br>
+
+The DFAT programme 2013 was held in Washington D.C. from 13 August 2013 to 13 December 2013. Based at a school of education at University of Maryland, the programme offered the awardees invaluable opportunities for professional collaboration and networking, and for learning about educational issues in a global context.  Working with educational experts, their learning experiences in the programme included auditing courses, attending conferences, and conducting research in their area of interest.  They also had the opportunity to observe and to teach classes in the U.S. schools. The awardees have since gained a deeper understanding of the educational system and culture in the U.S.<br><br>
+
+ <img src="/images/prore59.png" style="width:30%" align=left> <img src="/images/prore60.png" style="width:30%" align=left> <img src="/images/prore61.png" style="width:30%" align=left>			<br><br>
+
+Below are their personal reflections after the Fulbright programme:<br><br>
+
+ 
+
+Mr William Grosse<br><br>
+
+The Place of Place<br>
+
+We shall not cease from exploration<br>
+
+And the end of all our exploring<br>
+
+Will be to arrive where we started<br>
+
+And know the place for the first time.	<br><br>
+	
+<img src="/images/prore62.png" style="width:50%">	<br><br>		
+	
+ LITTLE GIDDING (No. 4 of “Four Quartets” T.S. Eliot)<br><br>		
+	
+My Fulbright experience, like all good and rich learning, has been a journey. It started off as a journey to a place thousands of miles away from home, and slowly morphed into several wonderful detours into different places, all of which have changed me. These places enabled and “forced” me to relook, to reinterpret, to rediscover and to re-understand a number of “facts”, beliefs, assumptions and truths.<br><br>		
+
+The Place of Learning: Classroom as My Home	<br><br>		
+	
+<img src="/images/prore63.png" style="width:50%">	<br><br>	
+
+Observing American students in their classes reminded me of the students I had the great fortune to teach and to learn from in my three decades of being a teacher. I was asked to share something about myself and Singapore during first day for my school attachment. I did this with the four classes I had the good fortune to sit in, to observe and to co-teach. In my first class, I told the students that they reminded me so much of the students I taught in Singapore: how they behaved, how they expressed themselves, and their mannerisms–near replicas of the students I loved to teach back in Singapore. I told them I felt at home. One of them shouted out, “We love you too, Mr. Grosse”. I was home.<br><br>
+
+The Place of Professional Learning<br><br>
+
+Improvement above all entails “learning to do the right things in the setting where you work”.<br><br>
+
+ (Elmore, R p. 73);(2004). School Reform from the Inside Out. Cambridge, MA: Harvard University Press.<br><br>
+
+Throughout my 30 years of teaching, my primary school pupils were the focus of my growth and development, both as a professional, and as a person. Two years ago, that focus enlarged to welcome and include my fellow teachers. My work will attempt, as always, to impact both sets of learners and the learnings that are necessary for both.<br><br>
+
+The Fulbright programme gave me the time and space to, as GK Chesterton has always exhorted, “take a more loving look at the real”. “Real” in this case was the highly complex, contextualised and particular world that is the teacher and his/her classroom.<br><br>
+
+Every classroom is different.  How I learned with, and from teachers will be strongly shaped by the unique contexts in which they work and practise their craft. Each classroom is a place where teachers do their best to meet the daily challenges of doing good work; to bring about deep, meaningful learning. My work is to help teachers do things right, and to do the right things in that special place called the classroom.<br><br>
+
+The Place of People: Fulbrighters (The Family I Never Knew I Had)<br><br>
+
+I have learnt much with, and from my fellow Fulbrighters.  My understanding and appreciation for the true complexity of education was brought to deeper and more nuanced levels through formal seminars, and especially through the informal and lengthy conversations over meals. All education systems are works in progress. We all face different and yet similar concerns and issues. We have much to teach and to learn from one another. My interaction and conversation with academics from the faculty of the University of Maryland provided many ideas and perspectives that created dissonance, provided support, and encouraged me to articulate and to grapple with the ideas for my capstone project. My school attachments and visits gave me an “on the ground” perspective, seeing how different schools in different counties were each trying to grapple with new curriculum, new practices, new expectations, and new systems.<br><br>
+
+Every country, in its own way, is trying to grapple with the realities of education in the 21st Century. Each must find its own road. Each must make its own place.<br><br>
+
+The Place of An End (Or Another Possible Beginning): The Place of Possibilities<br><br>
+
+Professional learning for me seems to embrace this paradigm of an emerging and negotiable practice, dependent on the different and situated contexts of the schools/classrooms that I will be working in, the learning that is constantly being constructed, and the people who engage with it. The DFAT programme has been a life-changing classroom. I hope that I can help my fellow teachers realise the wonderful promise and potential that is their classrooms.  We are all in this journey together; teachers, students and educators involved in professional learning like my fellow Master Teachers and me. The journey is about understanding this place called the classroom, and our different roles in making it a place of learning for all.<br><br>
+<img src="/images/prore64.png" style="width:30%" align=left> <img src="/images/prore65.png" style="width:30%" align=left>				
+ <br><br>		
+	
+Mr Ivin Chan<br><br>
+<img src="/images/prore65.png" style="width:50%">	<br><br>		
+	
+In August 2012, when I applied for the DFAT programme 2013, I had not expected to even make it to the interviews, let alone be one of the three teachers representing Singapore to the U.S. Moreover, after going through the first and second rounds of interviews, I realised I was one of the younger teachers to be shortlisted for the final selection process. I was really humbled by the experience and dedication of the teachers who were with me throughout the different rounds of interviews, and I felt honoured just to be a part of the selection interviews. The reality of my actually going to the U.S. did not set in until I found myself seated on a plane bound for Washington Dulles Airport in August 2013. The 20-plus-hour flight to me was akin to a kid holding his breath as his car was being dragged to the highest point of the roller coaster ride; indeed, the four months that followed was as exhilarating as the best rides at Universal Studios.
+
+Forging Friendships
+
+One of the best things about the DFAT programme was the opportunity to meet and to interact with like-minded teachers from around the world. I had the distinct privilege of sharing and of living with unique individuals from countries like Argentina, Finland, India and Morocco. It felt almost like being in Professional Learning Communities (PLCs) with excellent master teachers, and yet, without the pressure of meeting datelines and organisational targets, 24-7, for four whole months! That was to me one of the greatest learning experiences one could have. On top of that, I had the joy of meeting wonderful professors at the University of Maryland. My mentor, Dr Diane Ketelhut, not only visited Singapore, but was also just as passionate about harnessing ICT in science lessons as I was! We had so many discussions about the use of ICT in science lessons, along with my favourite topic of good Singapore food. She also helped to arrange for meetings with different organisations such as the Bill and Melinda Gates Foundation, where I gained much insight on the current trends in ICT in education, and on the thinking behind the Common Core Standards.
+
+I also enjoyed spending time with other professors from the university and was so thankful for their generous time given to me. I recalled meeting Dr Frank Lyman, one of the most brilliant educators I have known, and was fortunate enough to have him to brainstorm ideas with me for my capstone project, which he did willingly and gladly.
+
+There were other educators I had met at the different high schools, like my host school Montgomery Blair High School, whose staff gave much of their time to accommodate my visits to their classes, and who provided valuable insight to the U.S. education system. I remembered sitting in one of their PLCs discussing how different teachers dealt with cheating cases in their classes. I realised that regardless of language or culture, teenagers all over the world are basically the same. Teachers need to be firm and fair in dealing with them, and seeking to understand them first will help them learn.
+
+As the old saying goes:
+
+ “They don’t care what you know until they know that you care”.
+
+Crystallising my Capstone Project
+
+My capstone project was on assessing students’ learning of 21st century skills in the classroom. The word “assessment” probably means diﬀerent things to diﬀerent people. To students and teachers in the U.S., it probably means regular quizzes and state-wide high-stakes tests. In Singapore, it would typically bring up the thoughts of our standardised examinations like the Primary School Leaving Examinations (or PSLE) or the GCE “O” and “A” levels. In fact, the word “assessment” comes from the latin word “assidere”, which means “to sit with”. Personally, it elicits an image of a master craftsman sitting beside a pupil observing and giving guidance where necessary as the pupil practises his craft. In my capstone report, I wrote about the ideal role of assessment. Instead of regular summative tests and quizzes, assessment should be challenging, part of the learning process and used for evaluating both teaching and learning. In essence, after much reflection and sharing among educators, I decided to borrow ideas from Dr Frank Lyman’s "Thinktrix", and created a lesson package that encouraged students to ask each other questions in order to probe their thinking and understanding of the topic.
+
+Therefore, in order to assess and to learn, teachers must empower students to ask better and in-depth questions about learning. And for students to do so, they must be equipped with a common language and the right frame of mind in order to talk deeply about the topic or discipline they are engaged in. The teacher’s role is therefore not just to dispense information, but to encourage conversation and to establish ground rules and roles for discussion to take place, so that learning can be deeper and more meaningful.
+
+Counting what Counts
+
+Not everything that can be counted counts, and not everything that counts can be counted.
+
+ Albert Einstein
+
+If you asked me what my biggest take-away from the DFAT programme was, I would say it was the time to reflect. I realised that stopping to think was important. We could be so easily swept away by the tide of work and deadlines that we forget why we are doing what we are doing. My hope is to bring this habit of reflection into my classroom, my department and my school, where students, teachers and school leaders will take the time to inculcate the discipline to reflect and then to discuss, so that we can learn from one another. Learning is not just about grades or marks, nor is it just about good answers to questions, but also about good questions as well.
+
+Ms Lee Mun Yee
+
+First Experiences	
+	
 </p>  
   
 </div>  
@@ -442,6 +536,7 @@ text
   
 <p>
 text
+	
 </p>  
   
 </div>  
