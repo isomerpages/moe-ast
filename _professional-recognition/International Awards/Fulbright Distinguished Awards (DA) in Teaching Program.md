@@ -11,11 +11,7 @@ third_nav_title: International Awards
 | **Ms Valerie Baptist<br> Catholic Junior College** | **Mr Ong Ching Meng<br> Cedar Girls' Secondary School** | **Mr Thomas Lim<br> Nan Hua Primary School** |
 | [Reflection (Valerie) Final.docx(.pdf, 738.86 KB)](/files/fre1.pdf) | [Reflection (Chin Meng) Final.docx(.pdf, 737.9 KB)](/files/fre2.pdf) | [Reflection (Thomas) Final(.pdf, 1.61 MB)](/files/fre3.pdf) |
 
-ACCORDION 1:
 
-| <img src="/images/prore31.png" style="width:80%"> | <img src="/images/prore32.png" style="width:80%"> |
-|---|---|
-| American Embassy (Singapore), with Charge de ‘Affair, Embassy Staff, Academy of Singapore (Ministry of Education) Officers, and Past and Present Singapore Fulbrighters | School of Education, Indiana University (14 November 2017) with My Two Fellow Singaporean Fulbrighters, Rebecca (L) and Angelynna (R) |
 
 
 DELETE ABOVE
