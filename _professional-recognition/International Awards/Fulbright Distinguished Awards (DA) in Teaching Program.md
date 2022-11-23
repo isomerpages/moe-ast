@@ -6,7 +6,7 @@ third_nav_title: International Awards
 ---
 ### Fulbright Distinguished Awards (DA) in Teaching Program
 
-| <img src="/images/prore25.png" style="width:76%">  | <img src="/images/prore26.png" style="width:72%">  | <img src="/images/prore27.png" style="width:82%"> |
+| <img src="/images/prore25.png" style="width:76%">  | <img src="/images/prore26.png" style="width:72%">  | <img src="/images/prore27.png" style="width:75%"> |
 |---|---|---|
 | **Ms Valerie Baptist<br> Catholic Junior College** | **Mr Ong Ching Meng<br> Cedar Girls' Secondary School** | **Mr Thomas Lim<br> Nan Hua Primary School** |
 | [Reflection (Valerie) Final.docx(.pdf, 738.86 KB)](/files/fre1.pdf) | [Reflection (Chin Meng) Final.docx(.pdf, 737.9 KB)](/files/fre2.pdf) | [Reflection (Thomas) Final(.pdf, 1.61 MB)](/files/fre3.pdf) |
