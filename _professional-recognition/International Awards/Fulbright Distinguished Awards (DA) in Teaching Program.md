@@ -240,24 +240,53 @@ Being on this programme gave me the privilege to listen to the inquiry project p
 <img src="/images/prore46.png" style="width:65%"><figcaption> 	
 Conference panellist at Teach to Lead® Summit in Washington DC 2016</figcaption><br><br>		
 
-I was also given the chance to participate in Teach to Lead® Summit as a conference panellist. The Teach to Lead® Summit hosts regional Teacher Leadership Summits to help spotlight and to advance the ground-breaking, teacher-led work that is happening in states, districts, and schools across the country.
+I was also given the chance to participate in Teach to Lead® Summit as a conference panellist. The Teach to Lead® Summit hosts regional Teacher Leadership Summits to help spotlight and to advance the ground-breaking, teacher-led work that is happening in states, districts, and schools across the country.<br><br>		
 
   
-Another area that I have had the chance to delve deeper in is citizenship education. From the conversations with the classroom teachers and classmates in the courses I audited to the IU professors, I have learned the importance of moving away from the “game show contestant” approach in the classroom to prepare students for the real world. One common theme that was consistently reiterated is that besides equipping students with knowledge and skills to succeed in the global economy, it is also essential to develop the ability in students to understand the cultural values, practices and interests in our world today.  The need to understand diversity and to help students develop “religious literacy” is more urgent than ever in the light of our increasingly diverse world.
+Another area that I have had the chance to delve deeper in is citizenship education. From the conversations with the classroom teachers and classmates in the courses I audited to the IU professors, I have learned the importance of moving away from the “game show contestant” approach in the classroom to prepare students for the real world. One common theme that was consistently reiterated is that besides equipping students with knowledge and skills to succeed in the global economy, it is also essential to develop the ability in students to understand the cultural values, practices and interests in our world today.  The need to understand diversity and to help students develop “religious literacy” is more urgent than ever in the light of our increasingly diverse world.<br><br>		
 
   
-This realisation has great implication for the work I do in school. I have come to realise that civic education should not be focused on just factual recall type-“game show contestant” knowledge, but more of providing students with the opportunities to navigate authentic real-world complexities and to appreciate the contours of beliefs and practices that shape society’s and people’s lives, commitments and allegiances. Aligned with one of the 21st Century Competencies: civic literacy, global awareness and cross-cultural skills, I strongly feel that the development of religious fluency ought to be an integral part that we should address in citizenship education.
+This realisation has great implication for the work I do in school. I have come to realise that civic education should not be focused on just factual recall type-“game show contestant” knowledge, but more of providing students with the opportunities to navigate authentic real-world complexities and to appreciate the contours of beliefs and practices that shape society’s and people’s lives, commitments and allegiances. Aligned with one of the 21st Century Competencies: civic literacy, global awareness and cross-cultural skills, I strongly feel that the development of religious fluency ought to be an integral part that we should address in citizenship education.<br><br>		
 
-**Personal Growth**  
-This Fulbright Distinguished Awards in Teaching Program experience has been the longest period that I have been away from home. Being in my thirties, it has been a difficult experience to be on my own for so long, away from my family. I must say that the hardest part of the trip was the initial few weeks in having to deal with homesickness and to adjust to being independent in terms of meal preparation and performing some cleaning chores! From this experience, I have become more independent, reflective and resilient, and I became more appreciative of my loved ones back at home.
-
-  
-Even though there were many challenges, the experience was made better with the friends whom I have made during the programme. Staying near one another in the same apartment building helped us bond as a community. We had opportunities to hang out, cook, have conversations and even work out together. As a result, our friendship was strengthened. It is beautiful how we are from places worlds apart and yet have come to appreciate one another’s culture, values and belief system and became close friends, one another’s pillar of support, while we are away from home.
+<b>Personal Growth</b><br> 	
+This Fulbright Distinguished Awards in Teaching Program experience has been the longest period that I have been away from home. Being in my thirties, it has been a difficult experience to be on my own for so long, away from my family. I must say that the hardest part of the trip was the initial few weeks in having to deal with homesickness and to adjust to being independent in terms of meal preparation and performing some cleaning chores! From this experience, I have become more independent, reflective and resilient, and I became more appreciative of my loved ones back at home.<br><br>		
 
   
-Specifically, becoming close friends with the Palestinian teachers has been the most wonderful and most precious experience for me. Their life stories of having to live through wars have taught me important lessons on resilience and how much I have taken peace in Singapore for granted. These two Palestinian teachers have shown me the meaning of strength and conviction. The stories that they have shared were truly inspiring and served as great reminders of our calling as educators. I have seen them standing up for their religion; summoning the courage to correct misconceptions that others have about Islam, speaking up for the rights of women and exuding the great pride they have to be Palestinians. My interactions with them have been the most precious life lesson on national identity and conviction.	
+Even though there were many challenges, the experience was made better with the friends whom I have made during the programme. Staying near one another in the same apartment building helped us bond as a community. We had opportunities to hang out, cook, have conversations and even work out together. As a result, our friendship was strengthened. It is beautiful how we are from places worlds apart and yet have come to appreciate one another’s culture, values and belief system and became close friends, one another’s pillar of support, while we are away from home.<br><br>		
+
+  
+Specifically, becoming close friends with the Palestinian teachers has been the most wonderful and most precious experience for me. Their life stories of having to live through wars have taught me important lessons on resilience and how much I have taken peace in Singapore for granted. These two Palestinian teachers have shown me the meaning of strength and conviction. The stories that they have shared were truly inspiring and served as great reminders of our calling as educators. I have seen them standing up for their religion; summoning the courage to correct misconceptions that others have about Islam, speaking up for the rights of women and exuding the great pride they have to be Palestinians. My interactions with them have been the most precious life lesson on national identity and conviction.	<br><br>		
 	
+<img src="/images/prore47.png" style="width:65%"><figcaption> 	
+Graduation from the Fulbright Distinguished Awards in Teaching Program 2016</figcaption><br><br>			
 	
+In conclusion, my experience in the U.S. has been the most wonderful learning experience. As the journey came to a close, I have also grown to understand that there is no one “best” system. It is about learning from one another, keeping the conversations and dialogues alive and most importantly, keeping an open mind to always learn and explore.<br><br>
+<b><u>Ong Lay Kheng</u></b>
+
+<b>An Overview of My Fulbright Program Experience</b><br><br>	
+
+The best teachers are lifelong learners. Teachers must recognise that learning can take place in many forms, and at any time. Any encounter can prove to be a learning experience. The Fulbright experience has provided me with the opportunity to develop professionally as an educator, and personally as an individual. Words cannot do justice to the myriad experiences during my four-month stint as a Singapore Fulbright Awardee, but I will attempt to recount the highlights in this reflection.	<br><br>		
+	
+<img src="/images/prore48.png" style="width:65%"><figcaption> 	
+Orientation Session with 2016 Fulbright Awardees from All around the World in Washington D.C.</figcaption><br><br>		
+	
+<b>Courses at Indiana University (IU)</b><br><br>	
+
+As part of the Fulbright Program, I was given the opportunity to audit courses at Indiana University (IU), Bloomington. Besides providing me with good content knowledge, the intellectual sparring with my lecturers and course mates reminded me of the importance of being cognizant of what is foregrounded in each educational system. I have learnt to put on a critical lens in the quest for continual improvement in the respective educational systems I have encountered. This has helped me grow professionally. <br><br>	
+   
+In terms of personal development, I found myself benefitting most from the lessons that required me to relate my personal experiences with what was discussed in class. This has allowed me to construct personal meaning for myself by building on my prior knowledge. This made it easier for me to synthesise the theoretical knowledge with my own experiences. I was compelled to objectively examine and to question my current beliefs and practices as an educator. Hopefully, this will help me to grow into a better educator who will be able to address future challenges by assimilating best practices while avoiding the potential pitfalls deliberated on in the courses.	<br><br>		
+	
+<img src="/images/prore49.png" style="width:65%"><figcaption> 	
+The Beautiful Indiana University (IU) Campus where the 2016 Fulbright Awardees Were Hosted</figcaption><br><br>		
+	
+School Observation at Bloomington High School North<br><br>		
+
+An extremely valuable experience was the opportunity to visit a public school in Bloomington, Indiana. The school visit at Bloomington High School North offered a glimpse into an education system that was considerably different from Singapore. The lesson observations had been illuminating in providing a realistic picture of how inquiry-based learning (IBL) can be executed in the secondary classroom. The lesson on “Introduction to Social Sciences” provided the blueprint for the lesson plans proposed in my inquiry project. The operationalisation of the principles of IBL made this lesson particularly valuable to the purpose of my research. The analysis of the lesson materials, such as PowerPoint slides and worksheets used in this lesson, also informed the eventual design of lesson plans and teaching materials for my final project.<br><br>		
+
+During my attachment at the school, I learned to be a respectful observer. As I observed practices that did not resonate with my education belief, I would ask appropriate questions to gain further insights into the practices, while bearing in mind my position as an outsider of the local educational system. I have to accept that there can be approaches that differ from my own experience as a teacher, since certain practices have to be modified to suit the learning needs of students as well as the learning environment. This ability to acknowledge variations in educational practices has allowed me to appreciate the key consideration that context plays in determining how teaching and learning pans out in different situations.		<br><br>		
+	
+<img src="/images/prore50.png" style="width:65%"><figcaption> 	
+With My Faculty Advisor, Ms. Patricia Wilson and Host Teacher, Mr.  Geoffrey Aiken from Bloomington High School North at the Fulbright Distinguished Awards in Teaching Program Welcome Dinner</figcaption><br><br>		
 </p>  
   
 </div>  
