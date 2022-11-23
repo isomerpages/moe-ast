@@ -167,7 +167,33 @@ I have been privileged to have learnt so much, both professionally and personall
 
 The Fulbright Distinguished Awards Teaching Program was indeed an enriching learning experience for me. Apart from living and interacting with twenty wonderful teachers from ten different countries, I had the chance to experience American cultural practices, visit a considerable number of institutions of learning, and was provided with various opportunities that allowed me to gain ideas to enhance my teaching.  <br><br>
 	
-<img src="/images/prore37.png" style="width:50%">	
+<img src="/images/prore37.png" style="width:75%"><figcaption> 	
+Singapore Teachers of Fulbright Distinguished Award in Teaching Program 2016 (From left to right: Ms Lim Peiwen, Dr Nazir Amir, and Ms Ong Lay Kheng)</figcaption> <br><br>
+
+<b>Cultural Experiences</b> <br><br>
+
+Through the Fulbright Distinguished Award in Teaching Program, I was given a chance to experience cultural practices, such as Halloween and Thanksgiving, which are unique to Americans. There are a lot of bonding activities during these cultural festivals. For example, during Halloween, one can see how the towns are lit up with Halloween pumpkins that are laid out in the gardens of homes. Witnessing families dressed up as interesting characters and children going from one house to another collecting candy and sweets was a worthwhile experience. I had the privilege to be invited to a Halloween festival in Professor Keith Barton’s house, along with the other Fulbright teachers. It was indeed fun dressing up and participating in the activities and learning about Halloween culture.	 <br><br>	
+
+<img src="/images/prore38.png" style="width:65%"><figcaption> 	
+Fulbright Teachers Dressed up on Halloween</figcaption><br><br>	
+	
+
+Another cultural festival which I had the chance to experience was Thanksgiving. Thanksgiving was a family tradition where families would gather to have Thanksgiving dinner, similar to the sit-down family reunion dinners during our Chinese New Year celebration. I had the privilege to be invited to a Thanksgiving dinner at Dr Adam Maltese’s house, along with a few other Fulbright teachers. Turkey was the main dish, along with pumpkin cakes and lots of other good food. This mirrors the unique dishes that we, as Singaporeans, have during specific cultural festivals. This practice of bringing family and friends close together during festivals shows the importance of relationships in the American society.<br><br>	
+
+  
+Immersing myself in such cultural experiences has allowed me to reflect on our common identities. Even though we may be thousands of miles apart, we still hold many similar core values such as family unity dear to our hearts.<br><br>	
+
+  
+<b>Inquiry Project</b><br>
+The Fulbright Distinguished Award in Teaching Program has provided me with avenues to explore how STEAM (Science, Technology, Engineering, Arts and Mathematics) activities in U.S. educational institutions can benefit academically at-risk students. I was able to gain many ideas through personal observations and interactions, with educators and students during my school visits, conferences, seminars, and through educational visits to the museums and Science Centers such as National Aeronautics and Space Administration (NASA).	<br><br>	
+	
+<img src="/images/prore39.png" style="width:65%"><figcaption> 	
+Ms Hanane Chahidi (Morocco), Dr Nazir Amir (Singapore) and Dr Simon McMillan (New Zealand) on a visit to Signature School, Evansville, Indiana</figcaption><br><br>		
+	
+<img src="/images/prore40.png" style="width:65%"><figcaption> 	
+NASA’s Kennedy Space Centre in Cape Canaveral, Florida</figcaption><br><br>		
+	
+One important learning point I gathered was the need for learning experiences to be made fun and engaging for students across all age groups, particularly those who are academically at-risk. This is especially important as this has a positive effect in motivating them. A way this is being carried out in U.S. educational institutions is through the promotion of learning through playing and making. This is an evident practice that was observed during my visits to Project-based Learning (PBL) schools where I observed toy cars being used in a physics lesson to teach the concept of kinematics.	
 </p>  
   
 </div>  
