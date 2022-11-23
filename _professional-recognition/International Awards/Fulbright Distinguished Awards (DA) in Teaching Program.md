@@ -8,7 +8,7 @@ third_nav_title: International Awards
 
 ACCORD 6:
 
-| <img src="/images/prore69.png" style="width:50%"><br>	 | <img src="/images/prore70.png" style="width:50%"> | <img src="/images/prore71.png" style="width:50%"> |
+| <img src="/images/prore69.png" style="width:70%"><br>	 | <img src="/images/prore70.png" style="width:70%"> | <img src="/images/prore71.png" style="width:50%"> |
 |---|---|---|
 | Mdm Wong Kai Yeok, June<br>Master Teacher<br>AST | Mdm Lynette <br>Ann Liew Ai Ping<br>School Staff Developer<br>Clementi Town Sec School | Mdm Varalackshmi Hariharan<br>Master Teacher<br>English Language Institude Singapore. |
 
