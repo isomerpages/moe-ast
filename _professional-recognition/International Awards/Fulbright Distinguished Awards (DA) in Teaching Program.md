@@ -612,7 +612,7 @@ Americans are very big on the ‘Next Step’, and like them, I embrace the fact
 
 Mdm  Lynette Ann Liew Ai Ping	<br><br>	
 	
-<img src="/images/prore78png" style="width:30%">	<br><br>
+<img src="/images/prore78.png" style="width:30%">	<br><br>
 
 Global and Local. These are the two words that best describe my experience while on the Distinguished Fulbright Awards in Teaching (DFA) programme. On a personal level, I had the opportunity to meet with other Fulbright teachers from 7 different countries: Argentina, Finland, India, Israel, Morocco, Mexico and South Africa. My roommates were from India and Finland. Both ladies brought with them so many different cultural perspectives and practices, which enriched my four-month stint in the US. I had initially thought that I knew a great deal about Indian culture as I have a number of Indian friends in Singapore.<br><br>
 
@@ -647,7 +647,67 @@ Finally, I was able to share with all I had met what it means to be a teacher in
 Three teachers received the Distinguished Fulbright Awards in Teaching (DFA) programme 2011.  The three teachers were Mrs Viyaya Rani Nadarajah, Master Teacher of Academy of Singapore Teachers, Mdm Wong Mei Leng Anne, then Lead Teacher of Catholic High (Primary) School, and Mr Long Tian Heng Michael, Lead Teacher of Northland Primary School. <br><br>
 
 Three of them were in Washington for the programme from 15 August 2011 to 19 December 2011. The DFA programme was based at a school of education at University of Maryland, and offered them opportunities for professional collaboration, and for learning about educational issues in a global context.  The awardees got to audit courses, attend conferences, and conduct research in their area of interest.  They also consulted with educational experts, and observed and taught classes in American schools. This attachment truly gave them a deeper understanding about the educational system and culture in the U.S.A.<br><br>
+<img src="/images/prore79.png" style="width:50%" align=left>	
+<img src="/images/prore80.png" style="width:50%" align=left>	
+<img src="/images/prore81.png" style="width:50%" align=left>	
+<img src="/images/prore82.png" style="width:50%" align=left>		<Br><br>		
 	
+The Fulbright experience has been an exciting and enriching one for them. Below are their personal reflections after the attachment.<Br><br>		
+	
+Mrs Viyaya Rani Nadarajah	<Br><br>		
+
+<img src="/images/prore83.png" style="width:30%">	<Br><br>		
+	
+My E3 Fulbright Experience<Br><br>		
+
+  
+
+The Fulbright experience was a memorable 18-week ‘lived experience’ that was totally enriching, engaging and empowering.<Br><br>		
+
+  
+
+The first E – an enriching experience that provided for a broad view of the cultural, social, educational, historical, political landscape in the United States of America. From the start of the programme till the final weeks, participants were given a taste of being an ‘everyday American’ by watching a baseball and an American football match.<Br><br>		
+
+  
+
+We also got the chance to observe and to learn about the rich historical and cultural experiences of the country through visits at the famous Smithsonian museums, and through viewing the site of the last historic battle for freedom at Yorktown.  The experiences of the 18th century settlement of Colonial Williamsburg at Virginia were recreated to enliven the learning journey. As educators, we also explored a wide spectrum of elementary, middle and high schools, both public and private ones, reputed for their various niche areas in curricular and leadership programmes. To give us a feel of the governance and political life of the country, we were briefed at state buildings at the Capitol, the House of Senate in Annapolis.  We were privileged to  hear the Mayor of College Park share his views and plans for the district too.  <Br><br>		
+
+  
+
+The second E – an engaging experience that was so varied in nature, and one that brought diverse groups of people to interact, to learn and to understand for a truly American and international experience. Each of the eight countries that participated in the programme hosted an international day of cuisine and cultural shows that allowed for opportunities to learn and to interact with one another, fostering deeper bonds of friendship. The visits to American homes of lecturers and officials provided insights to the warm hospitality and social etiquette norms of the Americans. The participation at classes, seminars and dialogues with educators at the College of Education, University of Maryland, provided for intellectual discourse on educational issues pertaining not only to the American system, but also those which were relevant at the international sphere, e.g. global competencies. The highlight of the engagement was the undertaking of a Capstone project that allowed me to observe teacher practitioners deploying differentiated instruction (DI) in the classrooms, to read up on current research on DI, to discuss with teacher trainers and school leaders,  and to propose a framework that would effectively support teachers in their transference of practice for DI.<Br><br>		
+
+  
+
+  
+
+The final and most treasured E – an empowering programme that provided me with the time and space to plan and to engage with experts in varied areas of curricular and instructional practices, allowing me to sharpen my own professional learning and providing for possible collaborative practices that would enhance my role as a Master Teacher.<Br><br>		
+
+  
+  
+
+Mdm Wong Mei Leng Anne	<Br><br>		
+
+<img src="/images/prore84.png" style="width:30%">	<Br><br>		
+
+The Fulbright experience has given me a lot of time to read up on current research and to discuss education issues with colleagues with international perspectives. This has helped me to better understand the current research on education, and to see its relevance in classroom teaching, especially in preparing our students more effectively for the future. Given the exposure to other cultures, I am also more sensitive to the cultural differences that affect the needs of the learners. No one method would work equally well for everybody in the same class; hence, there is a need for me as a practitioner to be sensitive to the needs of the students and to tap on their experiences, so that I can differentiate within the classroom for more effective learning. <Br><br>	
+
+Personally, I grew with confidence in conducting research as I sought to complete my project. In the course of being guided by the faculty mentor, I learnt that in being a mentor to the adults, it is important to believe in them and to give them the confidence and space to learn on their own. This does not mean that the mentor should adopt a hands-off approach totally. It means that the mentor should aim to make time for the mentee especially when he/she asks for it. My mentor has taught me valuable lessons in this regard as he strove to understand what my learning experience has been, and helped me frame my project to best reflect my learning experience. On top of that, he led me by providing useful reading resources and by directing me to the relevant people in order to help me achieve what I had set out to do. The mentoring experience that I benefited as a learner has inspired me to become a better mentor as well.  <Br><br>	
+
+  
+
+Mr Long Tian Heng Michael	<Br><br>		
+
+<img src="/images/prore85.png" style="width:30%">	<Br><br>		
+Anticipation is the driving force behind this journey.  I was looking forward to more learning, while visiting places and meeting people from other cultures and other education systems.   Regardless of our differences, there is always something valuable that one can take away.<Br><br>	
+
+  
+
+Having the opportunity to be immersed in the world of academia balanced with the perspectives of practitioners, I begin to appreciate the theory-practice nexus.  It has inspired me to get my theoretical understanding in place, and to continue to question the ‘what’, ‘why’, and ‘how’ of my thoughts and actions.<Br><br>	
+
+  
+
+Through this programme, I also begin to realise the importance of inspiring students to want to go to school because it is more meaningful than labouring with the old mindset of merely getting them to score a string of A’s.  Thus, this has greatly impacted the way I teach, and has helped me see education from a different light.
+
 </p>  
   
 </div>  
