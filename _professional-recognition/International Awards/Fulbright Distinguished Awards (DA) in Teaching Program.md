@@ -464,7 +464,7 @@ Every country, in its own way, is trying to grapple with the realities of educat
 The Place of An End (Or Another Possible Beginning): The Place of Possibilities<br><br>
 
 Professional learning for me seems to embrace this paradigm of an emerging and negotiable practice, dependent on the different and situated contexts of the schools/classrooms that I will be working in, the learning that is constantly being constructed, and the people who engage with it. The DFAT programme has been a life-changing classroom. I hope that I can help my fellow teachers realise the wonderful promise and potential that is their classrooms.  We are all in this journey together; teachers, students and educators involved in professional learning like my fellow Master Teachers and me. The journey is about understanding this place called the classroom, and our different roles in making it a place of learning for all.<br><br>
-<img src="/images/prore64.png" style="width:50%" align=left> <img src="/images/prore65.png" style="width:30%" align=left>				
+<img src="/images/prore64.png" style="width:50%" align=left> <img src="/images/prore65.png" style="width:50%" align=left>				
  <br><br>		
 	
 Mr Ivin Chan<br><br>
@@ -642,7 +642,11 @@ Finally, I was able to share with all I had met what it means to be a teacher in
 <div>  
   
 <p>
-text
+<b>DISTINGUISHED FULBRIGHT AWARDS IN TEACHING (DFA) PROGRAMME 2011</b><br><br>
+
+Three teachers received the Distinguished Fulbright Awards in Teaching (DFA) programme 2011.  The three teachers were Mrs Viyaya Rani Nadarajah, Master Teacher of Academy of Singapore Teachers, Mdm Wong Mei Leng Anne, then Lead Teacher of Catholic High (Primary) School, and Mr Long Tian Heng Michael, Lead Teacher of Northland Primary School. <br><br>
+
+Three of them were in Washington for the programme from 15 August 2011 to 19 December 2011. The DFA programme was based at a school of education at University of Maryland, and offered them opportunities for professional collaboration, and for learning about educational issues in a global context.  The awardees got to audit courses, attend conferences, and conduct research in their area of interest.  They also consulted with educational experts, and observed and taught classes in American schools. This attachment truly gave them a deeper understanding about the educational system and culture in the U.S.A.<br><br>
 	
 </p>  
   
