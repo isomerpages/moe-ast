@@ -300,12 +300,99 @@ Despite the differences found in the educational systems all over the world, wha
   
 <input type="checkbox" id="accordion4">  
   
-<label for="accordion4">Distinguished Fulbright Award in Teaching 2015</label>  
+<label for="accordion4">Distinguished Fulbright Award in Teaching 2014</label>  
   
 <div>  
   
 <p>
-text
+The Fulbright Distinguished Awards in Teaching (DA) Program 2014 was awarded to three teachers: Mrs Mohana Ratnam (SSD) from Regent Secondary School, Mrs Christine Sim (HOD/Science) from Tanjong Katong Girls’ School and Mr Jeremy Lee (HOD/CCE, ICT & Partnerships) from Punggol View Primary School.<br><br>
+	
+<img src="/images/prore52.png" style="width:50%">	<br><br>
+	
+Our Fulbright DAs at the Orientation in Washington, DC (Aug 2014)
+
+The DA Program 2014 was held in Bloomington, Indiana, the United States of America from 11 August 2014 to 11 December 2014. Based at a school of education at University of Indiana, the programme offered the awardees invaluable opportunities for professional collaboration and networking, and for learning about educational issues in a global context. Working with educational experts, their learning experiences in the programme included auditing courses, attending conferences, and conducting research in their area of interest. They also had the opportunity to observe and to teach classes in the American schools. The awardees have since gained a deeper understanding of the educational system and culture in America.	<br><br>
+	
+<img src="/images/prore53.png" style="width:50%">	<br><br>
+	
+USA and International Fulbright DAs during the Orientation in Washington, DC (Aug 2014)<br>
+
+What follows are personal reflections of the deep learning these three Fulbrighters have gained through this professional learning experience.<br><br>
+	
+<b> Mrs Mohana Ratnam</b>	<br><br>
+<img src="/images/prore54.png" style="width:50%">	<br><br>
+
+Mohana feeling on top of the world at Willis Tower Sky Deck<br><br>
+
+The trip to self-discovery<br><br>
+
+As we embarked on this journey, we had one common agenda in mind, which was to increase mutual understanding between the people of the United States and the people of other countries. Indeed, where can one have an opportunity to understand the challenges and dynamics of different countries—Morocco, Finland, India, New Zealand and Singapore—in a short span of time other than in the Fulbright programme?<br><br>
+
+  
+Through staying together and through sharing insights from individual perspectives, we began to appreciate and to understand one another; through that, we started to grow further as a person with new insights and wisdom. It allowed me to reach my highest goal of self-discovery that everyone is part of the same ‘human family’. It led me to the diverse, creative and compassionate community that made up this team of 11 Fulbrighters for 2014. To be one of the 11 international citizens in the world to have been awarded a Fulbright Distinguished Awards in Teaching, and to have been able to conduct research in an area of my interest: professional development of teachers, was the highlight of my experience. The Washington experience where I was given the opportunity to meet not only the international Fulbrighters but also the local Fulbrighters enabled me to establish open communication and long-term cooperative relationships.<br><br>
+
+<img src="/images/prore55.png" style="width:50%">	<br><br>	
+	
+Learning and Sharing  <br>
+During the deep conversations and reflections with the keynote speakers and other Fulbrighters, I had the opportunity to share perspectives on Singapore’s education, politics, economics, social norms and culture with educators from different countries. Active participation during class discussions enabled me to demonstrate the qualities of service, excellence and leadership.   <br>
+I even got the chance to share my experiences with students of Indiana University (IU) when I audited the university courses, and this has enabled me to grow both personally and professionally. Friday seminars in IU enabled me to delve deeper into issues such as racial and gender inequality in schools, influx of immigrant minors with little or no grasp in English Language, special education, and differentiation in the classroom. These discussions have given me greater depth of understanding about education for all and the true meaning of inclusiveness. The opportunity to work with the principal, teachers and students of Bloomington High School (BHSN) was yet another enriching experience, both professionally and personally. Being able to inspire the teachers and the students of BHSN in some way gave me a personal sense of satisfaction.<br><br>
+
+  
+School trip to Charles A. Tindley Accelerated School  <br>
+The school trip to Charles A. Tindley Accelerated School allowed me to see how a school leader actualised the vision of providing college preparation. The school served a single purpose: to help each student gain admittance into a highly selective college or university. Their approach to education was best summed up by three bold words: College or Die. Others might not feel comfortable with the phrase, but College or Die was emblazoned in giant letters in the hallway of the Charles A. Tindley Accelerated School. The school provided a powerful learning experience that intellectually engaged, inspired, and spurred academic achievement through a challenging and interactive college-preparatory curriculum. All programmes initiated in the school were supported by research findings. Students came into the school with a clear message that the school was about preparing them for college, and parents were expected to support this endeavour. Every student in the school had a clear aspiration to succeed and make it into college.  <br> 
+The idea of having high expectations for students and professional development revolving around this message resonated well with me. It also reflected the strong belief in teachers that they could help their students to achieve this self-efficacy. My Capstone project is centred around this belief, and is entitled ‘Empowering Teachers to Become Transformational Leaders’. Teachers being leaders themselves must share the same vision with the school, the parents and the community to bring the best out of the students and to make them successful in their endeavours.	<br><br>
+	
+<b> Mrs Christine Sim</b><br><br>	
+	
+The Fulbright Experience  <br>	
+The Fulbright programme provided me with a rich and holistic learning experience. The programme involved a number of organisations from Indiana, Chicago, New York, Arizona and Florida. These organisations opened not just their doors, but also their expertise and experiences related to education with us. I found this form of face-to-face learning very fruitful.	<br><br>
+
+<img src="/images/prore56.png" style="width:50%">	<br><br>	
+Digging to hide “human bones” in the woods for a science class<br>
+
+Personally, I treasure the time and space during these four months to discover and to learn more about the places and faces in Bloomington. I enjoyed and appreciated interacting with the locals because that is the best way to get a denizen’s perspective of America and its culture.<br>
+
+Working on an inquiry-based Capstone Project would be one of the highlights of the programme for me. I had the opportunity of working with Professor Bob Sherwood (my faculty advisor) who helped me with my Capstone Project. With his wealth of experience and knowledge about science education, Prof Sherwood was able to provide me good advice and point me to researches to fill the gaps in my Capstone Project.<br>
+
+He helped me sharpened my slant of the Capstone Project and worked with me on the use of statistics from the data I had collected. I am thankful that Prof Sherwood was very patient and took the time to understand my Capstone Project and provided me the little nudges, e.g., relevant reading on research or tools, to move me in the right direction.
+<br>
+I also found time to volunteer in the Indiana University’s science outreach (Saturday Science Quest for Kids) for seven weekends. I took the opportunity to learn about teaching and learning of science by interacting with the youths, as well as by observing instructors (doctoral students of science education) to better understand how learning activities could interest students and promote learning of science.	<br><br>
+
+<img src="/images/prore57.png" style="width:50%">	<br><br>	
+
+For me, the amalgamation of professional and personal growth through the formal programme components, culture immersions and other informal aspects had been one whereby the sum of 1 and 1 is greater than 2. I appreciate my experience as a Fulbrighter, for this programme wholeheartedly supports and provides teachers with an amazing development opportunity in an American setting. It inspires us to want to pay it forward, and to make a difference to our communities and students back home.<br>
+
+I have started sharpening my school’s science curriculum (main curriculum, science outreach, science event as well as our science student development programme) to provide quality teaching and learning experiences that are rich in inquiry for our students.<br>
+
+Continuing from a science talent programme for primary school students developed and run by my science teachers and me, we are including for this year workshops for primary science teachers who are keen to start science talent programmes in their own school.   <br><br>
+  
+I will also be collaborating with fellow Fulbright awardee, Ms Micki Ward (Fulbright DA 2014/2015), USA, on two school-based projects: one involving ICT in the science classroom, and the other involving a science student talent management programme.<br>
+
+To Each His Own—“Preparing Youths Now for the Future”  <br><br>
+  
+From the many discussions I had had with the local and international (New Zealand, Finland, India and Morocco) Fulbright awardees, I noted some common trends in education, such as 21st Century Competencies, student-centric and values-driven education, global perspectives, as well as habit of minds and character development.<br>
+
+Given the representation and diversity of the group, there seemed to be not one common approach, framework or tool used. However, it was agreed that schools and teachers must have certain levels of autonomy to determine how they could best achieve the student outcomes—our youths must have the knowledge, skills and personal attributes to function well and to contribute in an environment filled with global and diverse challenges.<br>
+
+Here is my humble six-word line to describe what all schools are aiming to achieve: “Preparing youths now for the future.”	<br><br>
+	
+<b> Mr Jeremy Lee</b><br><br>
+
+<img src="/images/prore58.png" style="width:50%">	<br><br>	
+	
+Thoughts from the Fullbright Experience<br><br>
+
+Education is a lifelong process that cannot be too heavily scripted nor overtly assessed. I find that Singapore and America lie at two extremes, we can sometimes be heavily centralised and scripted to the point that there is the fear that our teachers will lose the ability to creatively engage and teach. In America, the lack of a centralised developed curriculum and materials also leads to the great disparity between those students who are taught by great teachers and those who are not.<br><br>
+
+Our system is a good system, and it is very strong in processes, but what will ultimately make the difference between a good system and a great system is whether you have great teachers. Some have a natural flair for teaching, and there must be recognition of them within the system. The great teacher has the X factor that motivates kids. They bring about the unquantifiable difference. The identification, recognition and retention of such great teachers must be on-going.<br><br>
+
+I believe that education is a deeply personal process which we can never ever hope to engineer. We need great teachers, teachers that no amount of training can produce unless there is already the underlying X factor.<br><br>
+
+My Experience in Bloomington<br><br>
+
+The locals in Bloomington, Indiana, are generally very open to people from elsewhere. This is the heartland of America. It is still predominantly white and they are openly friendly to people. They are polite, non-discriminating and curious to know more of the world out there. Even when travelling out of Bloomington, I never did once experience discrimination or disrespect on account of my ethnicity. Strangers would greet you on the street. At social or work-related events, people would ask you about where you are from, and would want to know more.<br><br>
+
+In the programme, we were treated to cultural visits in major cities, including Washington, Chicago and Indiana. We even had retired professors taking us out on weekends to enjoy the sights and life in Bloomington!	
 </p>  
   
 </div>  
@@ -316,7 +403,7 @@ text
   
 <input type="checkbox" id="accordion5">  
   
-<label for="accordion5">Distinguished Fulbright Award in Teaching 2014</label>  
+<label for="accordion5">Distinguished Fulbright Award in Teaching 2013</label>  
   
 <div>  
   
@@ -332,7 +419,7 @@ text
   
 <input type="checkbox" id="accordion6">  
   
-<label for="accordion6">Distinguished Fulbright Award in Teaching 2013</label>  
+<label for="accordion6">Distinguished Fulbright Award in Teaching 2012</label>  
   
 <div>  
   
@@ -349,7 +436,7 @@ text
   
 <input type="checkbox" id="accordion7">  
   
-<label for="accordion7">Distinguished Fulbright Award in Teaching 2012</label>  
+<label for="accordion7">Distinguished Fulbright Award in Teaching 2011</label>  
   
 <div>  
   
