@@ -287,6 +287,22 @@ During my attachment at the school, I learned to be a respectful observer. As I 
 	
 <img src="/images/prore50.png" style="width:65%"><figcaption> 	
 With My Faculty Advisor, Ms. Patricia Wilson and Host Teacher, Mr.  Geoffrey Aiken from Bloomington High School North at the Fulbright Distinguished Awards in Teaching Program Welcome Dinner</figcaption><br><br>		
+	
+<b>Bloomington Worldwide Friendship (BWF)</b><br><br>		
+
+While professional learning and experiences are important aspects of the Fulbright Program, the power of human connection should never be understated. The Fulbright experience would not be complete without getting to know the American society beyond the school environment. Through the BWF, I was fortunate enough to be matched with Cindy, the President of BWF, whose hospitality made Bloomington a home away from home.<br><br>		
+
+Under the care of Cindy, weekends were packed with fascinating activities designed to showcase the American way of life. One of the more memorable moments was when we had a cook-out at her house where the glorious summer weather and Cindy’s homemade barbeque sauce on a succulent rack of ribs made it the most delectable barbeque I ever had. Because of Cindy, the world of American football was also no longer a mystery as she patiently explained the intricacies of the game over a delicious buffet of hotdogs and tacos. Having the chance to immerse myself into the everyday lives of the American people has allowed me to understand and appreciate the culture better.	<br><br>		
+	
+<img src="/images/prore51.png" style="width:55%"><figcaption> 	
+Visiting Parke County with Cindy and Friends</figcaption><br><br>	
+
+<b>Conclusion</b><br>
+A quote by Lao Tzu reads that a journey of a thousand mile starts from a single step. The Fulbright experience is certainly an enriching and fulfilling journey. Personally, I have gained much insight of myself as an individual, an educator and a Singaporean. Professionally, I have benefitted much from the insightful interactions with American educators and my fellow Fulbrighters. These interactions have opened my eyes to the different educational systems and approaches globally.<br><br>
+
+Despite the differences found in the educational systems all over the world, what stood out is the common desire of all educators to prepare our students to be world citizens with the right attitude and skills to contribute to society in future. Participation in the Fulbright Program is my first step in an unceasing journey to becoming a better teacher. I aspire to be someone who will guide my students to successfully navigate the increasingly complicated global landscape of the 21st century.	
+	
+	
 </p>  
   
 </div>  
