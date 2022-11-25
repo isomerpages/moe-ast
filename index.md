@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: MANY ACADEMIES, ONE AST
-      background: /images/astbanner.gif
+      background: /images/banner.jpeg
       key_highlights:
         - title: Professional Development Planning Office
           description: ""
