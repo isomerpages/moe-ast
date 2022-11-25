@@ -27,12 +27,22 @@ The modules in the milestone programmes reflect the expected scope of impact and
   
 <input type="checkbox" id="accordion1">  
   
-<label for="accordion1">title</label>  
+<label for="accordion1">Teacher Leaders Programme 1 (TLP 1)</label>  
   
 <div>  
   
 <p>
-text
+The programme aims to enable Senior Teacher participants to <br><br>
+
+•  develop a shared understanding of the core beliefs and the role of STs in bringing out the full potential of their students;<br>
+•  build their capacity to lead and facilitate teams, manage working relationships, and foster a collaborative professional culture in their schools; and<br>
+•  keep up-to-date with current issues, trends, and developments in curriculum, pedagogy, and assessment and to enable STs to contribute innovatively in teaching and learning.<br><br>
+
+<u>Programme Description</u>
+
+Senior Teacher participants will acquire and apply key knowledge and skills to impact the teaching community within the school. The modules address topics such as curriculum leadership, coaching and mentoring, teacher leadership, assessment literacy, professional ethics, and community engagement.  To further enhance Senior Teachers’ grounding in research methodology and skills, there is a research component where Senior Teachers design and implement a school-based research project (Capstone Project).
+
+Within six months after the programme, Senior Teacher participants will pilot their team research project (Capstone Project) before presenting the outcomes and evaluation of the implementation of this project to NIE and their peers.
 </p>  
   
 </div>  
@@ -63,7 +73,18 @@ text
 <div>  
   
 <p>
-text	
+<b>Teacher Leaders Programme 1 (TLP1)</b><br><br>
+
+<u>Target Audience</u> <br>
+
+Appointed Senior Teachers (STs) with at least one-year experience in the role<br><br>
+
+<u>Duration </u> <br> 
+10-week programme with two intakes in January and June/July annually<br><br><br><br>
+
+<u>Programme Objectives</u><br><br>
+
+
   
 </p>  
   
