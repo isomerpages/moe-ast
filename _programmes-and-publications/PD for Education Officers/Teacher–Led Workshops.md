@@ -4,7 +4,7 @@ permalink: /programmes-and-publications/For-Education-Officers/teacher-led-works
 description: ""
 third_nav_title: PD for Education Officers
 ---
-<img style="width:80%" src="/images/tlw1.png">
+<img src="/images/tlw1.png" style="width:80%">
 
 #### Rationale of Teacher-Led Workshops
 
@@ -12,13 +12,13 @@ Teacher-Led Workshops (TLWs) are conducted by teachers for teachers. Guided by t
 
 #### Objectives of Teacher-Led Workshops
 
-<img style="width:80%" src="/images/tlw2.png">
+<img src="/images/tlw2.png" style="width:80%">
 
 <ul class="jekyllcodex_accordion">  
   
 <li>  
   
-<input id="accordion1" type="checkbox">  
+<input type="checkbox" id="accordion1">  
   
 <label for="accordion1">Structure of Teacher-Led Workshops</label>  
   
@@ -27,20 +27,20 @@ Teacher-Led Workshops (TLWs) are conducted by teachers for teachers. Guided by t
 <p>
 From 2020, TLWs are conducted through three different modes of delivery: online via videoconferencing, e-learning (e-TLW) and face-to-face (skills based and subject to national posture).<br><br>
 	
-<img style="width:60%" src="/images/tlw3.png">	<br><br>
+<img src="/images/tlw3.png" style="width:60%">	<br><br>
 	
 Online via video conferencing and face-to-face workshops are held in the afternoons of Tuesdays, Thursdays and Fridays (usually in the months of February, March, April, July, and August).<br><br>
 
-The structure of an&nbsp;<b>online via video conferencing</b>&nbsp;TLW is as follows:	<br><br>
-<img style="width:60%" src="/images/tlw4.png">	<br><br>	
+The structure of <b>online via video conferencing</b>is as follows:	<br><br>
+<img src="/images/tlw4.png" style="width:60%">	<br><br>	
 	
-The structure of a&nbsp;<b>face-to-face</b>&nbsp;TLW (subject to national posture) is as follows:	<br><br>
-<img style="width:60%" src="/images/tlw5.png">	<br><br>		
+The structure of <b>face-to-face</b> TLW (subject to national posture) is as follows:	<br><br>
+<img src="/images/tlw5.png" style="width:60%">	<br><br>		
 	
 * An online TLW and an e-TLW will not have a scheduled tea break, and should be planned to run for not more than two hours.<br><br>	
 
-The structure of a&nbsp;<b>e-learning</b>&nbsp;TLW (mounted in OPAL2.0) is as follows:	<br><br>
-<img style="width:60%" src="/images/tlw6.png">	<br><br>	
+The structure of an <b>e-learning</b>TLW (mounted in OPAL2.0) is as follows:	<br><br>
+<img src="/images/tlw6.png" style="width:60%">	<br><br>	
 	
 </p>  
   
@@ -49,28 +49,28 @@ The structure of a&nbsp;<b>e-learning</b>&nbsp;TLW (mounted in OPAL2.0) is as fo
 </li>  
 	
 <li>	
-<input id="accordion2" type="checkbox">  
+<input type="checkbox" id="accordion2">  
   
 <label for="accordion2">Application for Teacher-Led Workshop</label>  
   
 <div>  
   
 <p>
-<b>Application for 2023 Teacher-Led Workshop is&nbsp;<a href="https://go.gov.sg/tlw2023application">[closed]</a></b><br><br>
+<b>Application for 2023 Teacher-Led Workshop is XXXXX</b><br><br>
 
-1.  AST calls for proposals from teachers to apply to conduct TLWs yearly. These proposed TLWs should minimally have been&nbsp;shared before at school-/cluster-based platforms&nbsp;and facilitators should&nbsp;obtain approval from their Principals&nbsp;before applying.<br><br>
+1.  AST calls for proposals from teachers to apply to conduct TLWs yearly. These proposed TLWs should minimally have been shared before at school-/cluster-based platforms&nbsp;and facilitators should obtain approval from their Principals before applying.<br><br>
     
-2.  TLWs are conducted individually or in teams of up to&nbsp;three&nbsp;facilitators. Correspondences will be made through the Main Facilitator via emails or calls.<br><br>
+2.  TLWs are conducted individually or in teams of up to three facilitators. Correspondences will be made through the Main Facilitator via emails or calls.<br><br>
     
 3.  Facilitators should propose a TLW that is relevant to the teaching level of students that they have applied their pedagogy/approach in their own classroom and school. For example, Junior College/Centralised Institute teachers should not be proposing a workshop meant for Primary school teachers.<br><br>
     
-4.  <b>OVC TLW will be the&nbsp;preferred&nbsp;mode for TLWs from 2023</b>. Subject to approval, facilitator(s) may propose for their TLWs to be conducted as<br>
+4.  <b>OVC TLW will be the preferred mode for TLWs from 2023</b>. Subject to approval, facilitator(s) may propose for their TLWs to be conducted as<br>
 •   F2F TLW, to be held at AST or at the facilitators’ school (for location-based TLW); or<br>
 •   e-TLW, e-learning TLWs that are hosted on OPAL2.0.<br><br>
         
-5.  Facilitators may wish to refer to the&nbsp;<b>‘2023 Teacher-led Workshop (TLW) Application Information Sheet’</b>&nbsp;for more important information, such as the objectives, possible modes of TLW, proposed flow, eligibility criteria and timeline of application process.<br><br>
+5.  Facilitators may wish to refer to the <b>‘2023 Teacher-led Workshop (TLW) Application Information Sheet’</b> for more important information, such as the objectives, possible modes of TLW, proposed flow, eligibility criteria and timeline of application process.<br><br>
     
-6.  Facilitators may wish to refer to the&nbsp;**‘****2023 TLW Application Preparatory Worksheet****’**&nbsp;to guide the process of submitting their application through the Google Form&nbsp;[(](file:///C:/Users/MOE-70154J/Desktop/()[https://go.gov.sg/tlw2023application](https://go.gov.sg/tlw2023application)[)](https://go.gov.sg/tlw2023application).
+6.  Facilitators may wish to refer to the <b>'2023 TLW Application Preparatory Worksheet'</b>to guide the process of submitting their application through the Google Form [(](file:///C:/Users/MOE-70154J/Desktop/()[https://go.gov.sg/tlw2023application](https://go.gov.sg/tlw2023application)[)](https://go.gov.sg/tlw2023application).
     
 7.  Facilitators should submit their applications through the Google form ([https://go.gov.sg/tlw2023application](https://go.gov.sg/tlw2023application)) with the following materials:
     *   Completed 2023 TLW Facilitation Plan Template (in .doc or .docx format only); and
@@ -81,19 +81,20 @@ The structure of a&nbsp;<b>e-learning</b>&nbsp;TLW (mounted in OPAL2.0) is as fo
     *   Ms Foo Shi Jia ([FOO\_Shi\_Jia@moe.gov.sg](mailto:FOO_Shi_Jia@moe.gov.sg)) and
     *   Mr Koh Bing Qin ([KOH\_Bing\_Qin@moe.gov.sg](mailto:KOH_Bing_Qin@moe.gov.sg)).
         
-9.  After TLWs are conducted, AST will extend e-Certificates of Appreciation and the collated feedback from their TLW participants to the facilitators through their Principals.&nbsp;
+9.  After TLWs are conducted, AST will extend e-Certificates of Appreciation and the collated feedback from their TLW participants to the facilitators through their Principals. <br><br>
 
-Documents for TLW application
-=============================
+<b>Documents for TLW application</b><br><br>
 
-1.  [2023 Teacher-led Workshop (TLW) Application Information Sheet(.pdf, 353.98 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/programmes-publications-docs/teacher-led-workshops/2022/2023-teacher-led-workshop-(tlw)-application-information-sheet.pdf?sfvrsn=5036716b_0 "2023 Teacher-led Workshop (TLW) Application Information Sheet")
-2.  [2023 TLW Application Preparatory Worksheet(.docx, 580.64 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/programmes-publications-docs/teacher-led-workshops/2022/2023-tlw-application-preparatory-worksheet.docx?sfvrsn=b734c17d_0 "2023 TLW Application Preparatory Worksheet")
-3.  [2023 TLW Facilitation Plan Template(.docx, 30.62 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/programmes-publications-docs/teacher-led-workshops/2022/2023-tlw-facilitation-plan-template.docx?sfvrsn=de5fa32c_0 "2023 TLW Facilitation Plan Template")  
+1.  [2023 Teacher-led Workshop (TLW) Application Information Sheet(.pdf, 353.98 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/programmes-publications-docs/teacher-led-workshops/2022/2023-teacher-led-workshop-(tlw)-application-information-sheet.pdf?sfvrsn=5036716b_0 "2023 Teacher-led Workshop (TLW) Application Information Sheet")<br><br>
+	
+2.  [2023 TLW Application Preparatory Worksheet(.docx, 580.64 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/programmes-publications-docs/teacher-led-workshops/2022/2023-tlw-application-preparatory-worksheet.docx?sfvrsn=b734c17d_0 "2023 TLW Application Preparatory Worksheet")<br><br>
+	
+3.  [2023 TLW Facilitation Plan Template(.docx, 30.62 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/programmes-publications-docs/teacher-led-workshops/2022/2023-tlw-facilitation-plan-template.docx?sfvrsn=de5fa32c_0 "2023 TLW Facilitation Plan Template")  <br><br>
     
 
 <b>Application Link</b>
 
-Please fill up the form with the necessary details and the required documents at&nbsp;[https://go.gov.sg/tlw2023application](https://go.gov.sg/tlw2023application)&nbsp;(recommended). Alternatively, please access the form using the QR code below:
+Please fill up the form with the necessary details and the required documents at [https://go.gov.sg/tlw2023application](https://go.gov.sg/tlw2023application)&nbsp;(recommended). Alternatively, please access the form using the QR code below:
 </p>  
   
 </div>  
@@ -102,7 +103,7 @@ Please fill up the form with the necessary details and the required documents at
   
 <li>  
   
-<input id="accordion3" type="checkbox">  
+<input type="checkbox" id="accordion3">  
   
 <label for="accordion3">title</label>  
   
