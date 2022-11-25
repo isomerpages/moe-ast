@@ -115,12 +115,20 @@ Please fill up the form with the necessary details and the required documents at
   
 <input type="checkbox" id="accordion3">  
   
-<label for="accordion3">title</label>  
+<label for="accordion3">Teacher-Led Workshop 2022</label>  
   
 <div>  
   
 <p>
-text	
+There are a total of 197 Teacher-led Workshops (TLWs) that will be conducted in 2022.<br><br>
+
+Click on the link below to download the offerings for TLWs suitable for Primary School Teachers.<br><br>
+
+Click on the link below to download the offerings for TLWs suitable for Secondary School/ Junior College/ Centralised Institute Teachers.<br><br>
+
+Registration for TLWs is via [OPAL2.0](https://www.opal2.moe.edu.sg/) and on a limited first-come-first-served basis!<br><br>
+
+You can also visit our newly created Google Site that houses live information of the 2022 TLWs through this link <a href="http://go.gov.sg/ast-tlw-site">here</a>  or by scanning the QR code below.<br><br>
   
 </p>  
   
