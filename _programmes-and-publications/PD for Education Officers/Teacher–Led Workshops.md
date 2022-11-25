@@ -70,16 +70,16 @@ The structure of an <b>e-learning</b>TLW (mounted in OPAL2.0) is as follows:	<br
         
 5.  Facilitators may wish to refer to the <b>‘2023 Teacher-led Workshop (TLW) Application Information Sheet’</b> for more important information, such as the objectives, possible modes of TLW, proposed flow, eligibility criteria and timeline of application process.<br><br>
     
-6.  Facilitators may wish to refer to the <b>'2023 TLW Application Preparatory Worksheet'</b>to guide the process of submitting their application through the Google Form [(](file:///C:/Users/MOE-70154J/Desktop/()[https://go.gov.sg/tlw2023application](https://go.gov.sg/tlw2023application)[)](https://go.gov.sg/tlw2023application).
+6.  Facilitators may wish to refer to the <b>'2023 TLW Application Preparatory Worksheet'</b>to guide the process of submitting their application through the Google Form <a href="https://go.gov.sg/tlw2023application">https://go.gov.sg/tlw2023application</a> .<br><br>
     
-7.  Facilitators should submit their applications through the Google form ([https://go.gov.sg/tlw2023application](https://go.gov.sg/tlw2023application)) with the following materials:
-•  Completed 2023 TLW Facilitation Plan Template (in .doc or .docx format only); and
-•  Existing presentation slides used for previous sharing (in .PDF format only).
+7.  Facilitators should submit their applications through the Google form <a href="https://go.gov.sg/tlw2023application">https://go.gov.sg/tlw2023application</a> with the following materials:<br> 
+•  Completed 2023 TLW Facilitation Plan Template (in .doc or .docx format only); and<br> 
+•  Existing presentation slides used for previous sharing (in .PDF format only).<br><br>
         
-8.  Should there be any queries, please contact the AST TLW team,
-•  Mr Jason Law ([Jason\_LAW@moe.gov.sg](mailto:Jason_LAW@moe.gov.sg)),
-•   Ms Foo Shi Jia ([FOO\_Shi\_Jia@moe.gov.sg](mailto:FOO_Shi_Jia@moe.gov.sg)) and
-•   Mr Koh Bing Qin ([KOH\_Bing\_Qin@moe.gov.sg](mailto:KOH_Bing_Qin@moe.gov.sg)).
+8.  Should there be any queries, please contact the AST TLW team,<br> 
+•  Mr Jason Law ([Jason\_LAW@moe.gov.sg](mailto:Jason_LAW@moe.gov.sg)),<br> 
+•   Ms Foo Shi Jia ([FOO\_Shi\_Jia@moe.gov.sg](mailto:FOO_Shi_Jia@moe.gov.sg)) and<br> 
+•   Mr Koh Bing Qin ([KOH\_Bing\_Qin@moe.gov.sg](mailto:KOH_Bing_Qin@moe.gov.sg)).<br> <br> 
         
 9.  After TLWs are conducted, AST will extend e-Certificates of Appreciation and the collated feedback from their TLW participants to the facilitators through their Principals. <br><br>
 
