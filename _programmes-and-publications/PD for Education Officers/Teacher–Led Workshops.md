@@ -4,7 +4,7 @@ permalink: /programmes-and-publications/For-Education-Officers/teacher-led-works
 description: ""
 third_nav_title: PD for Education Officers
 ---
-<img style="width:80%" src="/images/tlw1.png">
+<img src="/images/tlw1.png" style="width:80%">
 
 #### Rationale of Teacher-Led Workshops
 
@@ -12,13 +12,13 @@ Teacher-Led Workshops (TLWs) are conducted by teachers for teachers. Guided by t
 
 #### Objectives of Teacher-Led Workshops
 
-<img style="width:80%" src="/images/tlw2.png">
+<img src="/images/tlw2.png" style="width:80%">
 
 <ul class="jekyllcodex_accordion">  
   
 <li>  
   
-<input id="accordion1" type="checkbox">  
+<input type="checkbox" id="accordion1">  
   
 <label for="accordion1">Structure of Teacher-Led Workshops</label>  
   
@@ -27,20 +27,20 @@ Teacher-Led Workshops (TLWs) are conducted by teachers for teachers. Guided by t
 <p>
 From 2020, TLWs are conducted through three different modes of delivery: online via videoconferencing, e-learning (e-TLW) and face-to-face (skills based and subject to national posture).<br><br>
 	
-<img style="width:60%" src="/images/tlw3.png">	<br><br>
+<img src="/images/tlw3.png" style="width:60%">	<br><br>
 	
 Online via video conferencing and face-to-face workshops are held in the afternoons of Tuesdays, Thursdays and Fridays (usually in the months of February, March, April, July, and August).<br><br>
 
 The structure of <b>online via video conferencing</b>is as follows:	<br><br>
-<img style="width:60%" src="/images/tlw4.png">	<br><br>	
+<img src="/images/tlw4.png" style="width:60%">	<br><br>	
 	
 The structure of <b>face-to-face</b> TLW (subject to national posture) is as follows:	<br><br>
-<img style="width:60%" src="/images/tlw5.png">	<br><br>		
+<img src="/images/tlw5.png" style="width:60%">	<br><br>		
 	
 * An online TLW and an e-TLW will not have a scheduled tea break, and should be planned to run for not more than two hours.<br><br>	
 
 The structure of an <b>e-learning</b>TLW (mounted in OPAL2.0) is as follows:	<br><br>
-<img style="width:60%" src="/images/tlw6.png">	<br><br>	
+<img src="/images/tlw6.png" style="width:60%">	<br><br>	
 	
 </p>  
   
@@ -49,7 +49,7 @@ The structure of an <b>e-learning</b>TLW (mounted in OPAL2.0) is as follows:	<br
 </li>  
 	
 <li>	
-<input id="accordion2" type="checkbox">  
+<input type="checkbox" id="accordion2">  
   
 <label for="accordion2">Application for Teacher-Led Workshop</label>  
   
@@ -73,13 +73,13 @@ The structure of an <b>e-learning</b>TLW (mounted in OPAL2.0) is as follows:	<br
 6.  Facilitators may wish to refer to the <b>'2023 TLW Application Preparatory Worksheet'</b>to guide the process of submitting their application through the Google Form [(](file:///C:/Users/MOE-70154J/Desktop/()[https://go.gov.sg/tlw2023application](https://go.gov.sg/tlw2023application)[)](https://go.gov.sg/tlw2023application).
     
 7.  Facilitators should submit their applications through the Google form ([https://go.gov.sg/tlw2023application](https://go.gov.sg/tlw2023application)) with the following materials:
-    *   Completed 2023 TLW Facilitation Plan Template (in .doc or .docx format only); and
-    *   Existing presentation slides used for previous sharing (in .PDF format only).
+•  Completed 2023 TLW Facilitation Plan Template (in .doc or .docx format only); and
+•  Existing presentation slides used for previous sharing (in .PDF format only).
         
 8.  Should there be any queries, please contact the AST TLW team,
-    *   Mr Jason Law ([Jason\_LAW@moe.gov.sg](mailto:Jason_LAW@moe.gov.sg)),
-    *   Ms Foo Shi Jia ([FOO\_Shi\_Jia@moe.gov.sg](mailto:FOO_Shi_Jia@moe.gov.sg)) and
-    *   Mr Koh Bing Qin ([KOH\_Bing\_Qin@moe.gov.sg](mailto:KOH_Bing_Qin@moe.gov.sg)).
+•  Mr Jason Law ([Jason\_LAW@moe.gov.sg](mailto:Jason_LAW@moe.gov.sg)),
+•   Ms Foo Shi Jia ([FOO\_Shi\_Jia@moe.gov.sg](mailto:FOO_Shi_Jia@moe.gov.sg)) and
+•   Mr Koh Bing Qin ([KOH\_Bing\_Qin@moe.gov.sg](mailto:KOH_Bing_Qin@moe.gov.sg)).
         
 9.  After TLWs are conducted, AST will extend e-Certificates of Appreciation and the collated feedback from their TLW participants to the facilitators through their Principals. <br><br>
 
@@ -103,7 +103,7 @@ Please fill up the form with the necessary details and the required documents at
   
 <li>  
   
-<input id="accordion3" type="checkbox">  
+<input type="checkbox" id="accordion3">  
   
 <label for="accordion3">title</label>  
   
