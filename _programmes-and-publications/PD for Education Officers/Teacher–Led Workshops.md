@@ -98,7 +98,13 @@ Upload the doc files above. <br><br>
 
 <b>Application Link</b>
 
-Please fill up the form with the necessary details and the required documents at [https://go.gov.sg/tlw2023application](https://go.gov.sg/tlw2023application)&nbsp;(recommended). Alternatively, please access the form using the QR code below:
+Please fill up the form with the necessary details and the required documents at <a href="https://go.gov.sg/tlw2023application">https://go.gov.sg/tlw2023application</a> Alternatively, please access the form using the QR code below: <br><br>
+	
+<img src="/images/tlw8.png" style="width:30%">	<br><br>
+	
+<b>What are our facilitators' thoughts on facilitating TLW?</b><br><br>
+<img src="/images/tlw9.png" style="width:60%">	
+	
 </p>  
   
 </div>  
