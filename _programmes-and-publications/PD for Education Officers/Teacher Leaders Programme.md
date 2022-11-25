@@ -32,17 +32,27 @@ The modules in the milestone programmes reflect the expected scope of impact and
 <div>  
   
 <p>
+<b>Teacher Leaders Programme 1 (TLP1)</b><br><br>
+
+<u>Target Audience</u><br>
+
+Appointed Senior Teachers (STs) with at least one-year experience in the role<br><br>
+
+<u>Duration  </u><br>
+10-week programme with two intakes in January and June/July annually<br><br>
+	
+<u>Programme Objectives </u>	<br>
 The programme aims to enable Senior Teacher participants to <br><br>
 
 •  develop a shared understanding of the core beliefs and the role of STs in bringing out the full potential of their students;<br>
 •  build their capacity to lead and facilitate teams, manage working relationships, and foster a collaborative professional culture in their schools; and<br>
 •  keep up-to-date with current issues, trends, and developments in curriculum, pedagogy, and assessment and to enable STs to contribute innovatively in teaching and learning.<br><br>
 
-<u>Programme Description</u>
+<u>Programme Description</u><br><br>
 
-Senior Teacher participants will acquire and apply key knowledge and skills to impact the teaching community within the school. The modules address topics such as curriculum leadership, coaching and mentoring, teacher leadership, assessment literacy, professional ethics, and community engagement.  To further enhance Senior Teachers’ grounding in research methodology and skills, there is a research component where Senior Teachers design and implement a school-based research project (Capstone Project).
+Senior Teacher participants will acquire and apply key knowledge and skills to impact the teaching community within the school. The modules address topics such as curriculum leadership, coaching and mentoring, teacher leadership, assessment literacy, professional ethics, and community engagement.  To further enhance Senior Teachers’ grounding in research methodology and skills, there is a research component where Senior Teachers design and implement a school-based research project (Capstone Project).<br><br>
 
-Within six months after the programme, Senior Teacher participants will pilot their team research project (Capstone Project) before presenting the outcomes and evaluation of the implementation of this project to NIE and their peers.
+Within six months after the programme, Senior Teacher participants will pilot their team research project (Capstone Project) before presenting the outcomes and evaluation of the implementation of this project to NIE and their peers.<br><br>
 </p>  
   
 </div>  
@@ -52,12 +62,33 @@ Within six months after the programme, Senior Teacher participants will pilot th
   
 <input type="checkbox" id="accordion2">  
   
-<label for="accordion2">title</label>  
+<label for="accordion2">Teacher Leaders Programme 2 (TLP 2)</label>  
   
 <div>  
   
 <p>
-text
+<b>Teacher Leaders Programme 2 (TLP 2)</b><br><br>
+
+<u>Target Audience</u><br> 
+
+Appointed Lead Teachers (LTs)<br><br>
+
+<u>Duration</u> <br> 
+10-week programme with one intake in January annually<br><br>
+
+<u>Programme Objectives</u><br>
+
+The programme aims to enable Lead Teacher participants to<br><br>
+
+•   develop a shared understanding of the core beliefs and the role of LTs in bringing out the full potential of their students;<br>
+•   build their capacity to lead and facilitate teams, manage working relationships, and foster a collaborative professional culture in their schools and clusters; and<br>
+•   keep up-to-date with current issues, trends, and developments in curriculum, pedagogy, and assessment, and to enable LTs to contribute innovatively in teaching and learning.<br><br>
+
+<u>Programme Description</u><br><br>
+
+Lead Teacher participants will acquire and apply key knowledge and skills to impact the teaching community at the cluster level. They will understand the work and impact of Master Teachers (MTTs) at the AST academies and language centres through a five-day attachment. In addition, Lead Teachers will also learn and broaden their perspectives through visits to educational institutions overseas.<br><br>
+
+Within six months after the programme, Lead Teacher participants will apply their learning by completing a capstone project and sharing at the cluster or network levels.
 </p>  
   
 </div>  
@@ -68,23 +99,27 @@ text
   
 <input type="checkbox" id="accordion3">  
   
-<label for="accordion3">title</label>  
+<label for="accordion3">Teacher Leaders Programme 3 (TLP 3)</label>  
   
 <div>  
   
 <p>
-<b>Teacher Leaders Programme 1 (TLP1)</b><br><br>
+<b>Teacher Leaders Programme 3 (TLP 3)</b><Br><br>
 
-<u>Target Audience</u> <br>
+<u>Target Audience</u><br> 
 
-Appointed Senior Teachers (STs) with at least one-year experience in the role<br><br>
+Newly appointed Master Teachers (MTTs)<br><br> 
 
-<u>Duration </u> <br> 
-10-week programme with two intakes in January and June/July annually<br><br><br><br>
+<u>Duration</u><br> 
 
-<u>Programme Objectives</u><br><br>
+Two-week induction programme in January<br><br> 
 
+<u>Programme Objectives</u><br> 
 
+The programme aims to enable participants to acquire and apply a repertoire of knowledge and skills at the zonal and national levels to enhance instructional leadership, collaboration, and mentoring.<br><br>
+
+<u>Programme Description  </u><br> 
+There are five core modules. The modules are designed to enhance and deepen newly appointed MTTs’ capacity as pedagogical leaders and instructional mentors to others.
   
 </p>  
   
