@@ -227,9 +227,10 @@ For any enquiries, please contact us at [AST\_OEIC@moe.edu.sg](mailto:AST_OEIC@
 <div>  
   
 <p>
-<a href="link">text</a><br> 
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Mr-Michael-Robinson/">Mr Michael Robinson (31 October to 11 November 2011)
+</a><br> 
 	
-<a href="link">text</a>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Ms-Promail-Leung/">Ms Promail Leung (5 to 31 August 2011)</a>
 </p>  
   
 </div>  
