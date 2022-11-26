@@ -26,3 +26,8 @@ Local educators may be interested to conduct learning journeys to the native cou
  
 
 You may access the materials and videos of the various workshops via this URL: [https://go.gov.sg/oeicwiki](https://safe.menlosecurity.com/https:/go.gov.sg/oeicwiki) (OPAL2.0 login is required.)
+
+<img src="/images/oeicqr.png" style="width:30%">
+
+For any enquiries, please contact us at [AST\_OEIC@moe.edu.sg](mailto:AST_OEIC@moe.edu.sg).
+
