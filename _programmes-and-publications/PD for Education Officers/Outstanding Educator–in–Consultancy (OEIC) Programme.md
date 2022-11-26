@@ -169,11 +169,11 @@ For any enquiries, please contact us at [AST\_OEIC@moe.edu.sg](mailto:AST_OEIC@
 <div>  
   
 <p>
-<a href="link">Mr Philip Lee (4 to 20 August 2014)</a><br> 
-<a href="link">Mr Michael Fordham (25 June to 9 July 2014)</a><br> 
-<a href="link">Professor Robert K Kamei (21 to 25 April 2014)</a><br> 
-<a href="link">Mr Cesar Gabriel Seidler (10 to 21 February 2014)</a><br> 	
-<a href="link">Dr Vasanthi Thiagarajan (20 to 24 January 2014)</a>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Mr-Philip-Lee/">Mr Philip Lee (4 to 20 August 2014)</a><br> 
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Mr-Michael-Fordham/">Mr Michael Fordham (25 June to 9 July 2014)</a><br> 
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Professor-Robert-K-Kamei/">Professor Robert K Kamei (21 to 25 April 2014)</a><br> 
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Mr-Cesar-Gabriel-Seidler/">Mr Cesar Gabriel Seidler (10 to 21 February 2014)</a><br> 	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Dr-Vasanthi-Thiagarajan/">Dr Vasanthi Thiagarajan (20 to 24 January 2014)</a>
 </p>  
   
 </div>  
