@@ -189,9 +189,9 @@ For any enquiries, please contact us at [AST\_OEIC@moe.edu.sg](mailto:AST_OEIC@
 <div>  
   
 <p>
-<a href="link">text</a><br> 
-	
-<a href="link">text</a>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Mr-Huang-Aihua/">Mr Huang Aihua (12 to 20 August 2013)</a><br> 
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Mr-Simon-Smith/">Mr Simon Smith (20 to 31 May 2013)</a><br> 
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Mr-Liu-Jinghai/">Mr Liu Jinghai (4 to 8 March 2013)</a>
   
 </p>  
   
