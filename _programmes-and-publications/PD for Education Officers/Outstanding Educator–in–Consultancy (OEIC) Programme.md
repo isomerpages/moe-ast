@@ -77,9 +77,9 @@ For any enquiries, please contact us at [AST\_OEIC@moe.edu.sg](mailto:AST_OEIC@
 <div>  
   
 <p>
-<a href="link">text</a><br> 
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Mr-Lu-Yu-Jen/">Mr Lu Yu-Jen (22 July to 8 August 2019)</a><br> 
 	
-<a href="link">text</a>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Ms-Susan-Caldis/">Ms Susan Caldis (11 to 28 February 2019)</a>
 </p>  
   
 </div>  
@@ -95,9 +95,10 @@ For any enquiries, please contact us at [AST\_OEIC@moe.edu.sg](mailto:AST_OEIC@
 <div>  
   
 <p>
-<a href="link">text</a><br> 
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Mr-Craig-Divis/">Mr Craig Divis (16 July to 1 August 2018)</a><br> 
 	
-<a href="link">text</a>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Mrs-Kathryn-Horan/">Mrs Kathryn Horan (5 to 27 February 2018)
+</a>
 </p>  
   
 </div>  
@@ -113,9 +114,8 @@ For any enquiries, please contact us at [AST\_OEIC@moe.edu.sg](mailto:AST_OEIC@
 <div>  
   
 <p>
-<a href="link">text</a><br> 
-	
-<a href="link">text</a>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Mrs-Sevinc/">Mrs Sevinç Göksen-Zayim (6 to 22 February 2017)</a><br> 
+
   
 </p>  
   
