@@ -208,9 +208,10 @@ For any enquiries, please contact us at [AST\_OEIC@moe.edu.sg](mailto:AST_OEIC@
 <div>  
   
 <p>
-<a href="link">text</a><br> 
-	
-<a href="link">text</a>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Mrs-Janeth-Morata-Fuentes/">Mrs Janeth Morata-Fuentes (10 to 21 September 2012)</a><br> 
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Ms-Li-Zhen/">Ms Li Zhen (1 to 15 August 2012)</a><br> 
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Mr-Thomas-E-Daccord/">Mr Thomas E Daccord (31 January to 10 February 2012)</a><br> 	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Mr-B-Justin-Reich/">Mr B. Justin Reich (26 January to 3 February 2012)</a>
 </p>  
   
 </div>  
