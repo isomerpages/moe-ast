@@ -152,9 +152,9 @@ For any enquiries, please contact us at [AST\_OEIC@moe.edu.sg](mailto:AST_OEIC@
 <div>  
   
 <p>
-<a href="link">text</a><br> 
-	
-<a href="link">text</a>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Associate-Professor-Carla-L-Peck/">Associate Professor Carla L. Peck (11 July to 21 August 2015)</a><br> 
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Mr-Robert-Lang/">Mr Robert Lang (6 to 16 July 2015)</a><br> 	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Mr-Miles-Berry/">Mr Miles Berry (4 to 17 April 2015)</a>
 </p>  
   
 </div>  
