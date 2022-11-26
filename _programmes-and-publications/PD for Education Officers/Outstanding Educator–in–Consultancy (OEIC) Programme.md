@@ -132,9 +132,11 @@ For any enquiries, please contact us at [AST\_OEIC@moe.edu.sg](mailto:AST_OEIC@
 <div>  
   
 <p>
-<a href="link">text</a><br> 
-	
-<a href="link">text</a>
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Dr-Joseph-Levine/">Dr Joseph Levine (10 to 26 August 2016)
+</a><br> 
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Mr-Wong-Shek-Nin/">Mr Wong Shek Nin (11 to 22 July 2016)</a><br> 
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Mr-Michael-Dalley/">Mr Michael Dalley (28 March to 8 April 2016)</a><br> 	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Mr-Li-Guozhi/">Mr Li Guozhi (18 February to 4 March 2016)</a>
 </p>  
   
 </div>  
