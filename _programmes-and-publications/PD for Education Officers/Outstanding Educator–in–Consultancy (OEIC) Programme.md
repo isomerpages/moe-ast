@@ -42,7 +42,9 @@ For any enquiries, please contact us at [AST\_OEIC@moe.edu.sg](mailto:AST_OEIC@
 <div>  
   
 <p>
-text
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Mr-John-Miller/">Mr John Miller (2022)</a><br> 
+	
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Professor-Jeremy-Stoddard/">Professor Jeremy Stoddard (2022)</a>
 </p>  
   
 </div>  
@@ -57,7 +59,9 @@ text
 <div>  
   
 <p>
-text
+<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/oeic/Dr-Lee-Saw-Im/">Dr Lee Saw Im (1H 2021)</a><br> 
+	
+<a href="link">Mr Christopher Niven (2H 2021)</a>
 </p>  
   
 </div>  
@@ -73,7 +77,9 @@ text
 <div>  
   
 <p>
-text
+<a href="link">text</a><br> 
+	
+<a href="link">text</a>
 </p>  
   
 </div>  
@@ -89,7 +95,9 @@ text
 <div>  
   
 <p>
-text
+<a href="link">text</a><br> 
+	
+<a href="link">text</a>
 </p>  
   
 </div>  
@@ -105,7 +113,9 @@ text
 <div>  
   
 <p>
-text	
+<a href="link">text</a><br> 
+	
+<a href="link">text</a>
   
 </p>  
   
@@ -122,7 +132,9 @@ text
 <div>  
   
 <p>
-text
+<a href="link">text</a><br> 
+	
+<a href="link">text</a>
 </p>  
   
 </div>  
@@ -138,7 +150,9 @@ text
 <div>  
   
 <p>
-text
+<a href="link">text</a><br> 
+	
+<a href="link">text</a>
 </p>  
   
 </div>  
@@ -153,7 +167,9 @@ text
 <div>  
   
 <p>
-text
+<a href="link">text</a><br> 
+	
+<a href="link">text</a>
 </p>  
   
 </div>  
@@ -169,7 +185,9 @@ text
 <div>  
   
 <p>
-text	
+<a href="link">text</a><br> 
+	
+<a href="link">text</a>
   
 </p>  
   
@@ -186,7 +204,9 @@ text
 <div>  
   
 <p>
-text
+<a href="link">text</a><br> 
+	
+<a href="link">text</a>
 </p>  
   
 </div>  
@@ -202,7 +222,9 @@ text
 <div>  
   
 <p>
-text
+<a href="link">text</a><br> 
+	
+<a href="link">text</a>
 </p>  
   
 </div>  
