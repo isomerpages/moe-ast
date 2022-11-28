@@ -25,11 +25,11 @@ Cesar took reference from MOE’s Science Curriculum Framework and planned an in
 
 What was interesting about his worksheet was how the affective domain was activated through the questions, as well as how the aspects of science in daily life, ethics and attitudes, and science and the environment were also covered in the lesson.
 
-<figure><img src="/images/op74.png" style="width:75%"><figcaption>Lab Lesson at Broadrick Secondary School</figcaption></figure>
+<figure><img src="/images/op73.png" style="width:75%"><figcaption>Lab Lesson at Broadrick Secondary School</figcaption></figure>
 
 There was a segment for students to write down their feelings and emotions during the experiment. Science lab lessons seldom require students to articulate their emotions, and it was interesting to read the positive comments from the students. They were excited about conducting the experiment by themselves, and wrote that they enjoyed working with their friends to “find the cause of” the change in colour of the litmus paper. This desire to “find the cause” is, to Cesar, what teachers should be nurturing in students: the spirit of curiosity and discovery.
 
-<figure><img src="/images/op75.png" style="width:75%"><figcaption>Questions from Cesar's Worksheet</figcaption></figure>
+<figure><img src="/images/op74.png" style="width:75%"><figcaption>Questions from Cesar's Worksheet</figcaption></figure>
 
 In this two-period lesson, Cesar showed that it was possible to incorporate all aspects of the Science Curriculum Framework. Cesar expressed how thrilled he was to find the guiding principles by which he had been designing and planning his lessons encapsulated and neatly condensed in Singapore’s Science Curriculum Framework.
 
@@ -45,4 +45,4 @@ Cesar himself is the epitome of life-long learning. His first language is Spanis
 
 For video snippets of his experiments and Cesar’s resources, do visit the Outstanding-Educator-in-Residence group on OPAL.
 
-<figure><img src="/images/op76.png" style="width:75%"><figcaption>Master Class with Hands-on Experiments</figcaption></figure>
+<figure><img src="/images/op75.png" style="width:75%"><figcaption>Master Class with Hands-on Experiments</figcaption></figure>
