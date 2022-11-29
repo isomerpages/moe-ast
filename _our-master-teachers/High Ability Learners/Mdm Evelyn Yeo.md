@@ -36,6 +36,6 @@ Yeo, E. (with Lee, P. & Chue, K.L). (2018, Nov 12-14). _Engaging High Ability L
 
 **Selected Publications**
 
-Yeo, E. (with Lee, P. & Chue, K.L). (2020). Engaging High Progress Learners in the English Language Classroom. _EL Classroom Inquiry_. 2020 (10), 26-35. [https://academyofsingaporeteachers.moe.edu.sg/elis/resources/read/classroom-inquiry-digests](https://academyofsingaporeteachers.moe.edu.sg/elis/resources/read/classroom-inquiry-digests)
+Yeo, E. (with Lee, P. & Chue, K.L). (2020). Engaging High Progress Learners in the English Language Classroom. _EL Classroom Inquiry_. 2020 (10), 26-35. [https://academyofsingaporeteachers.moe.edu.sg/elis/resources/read/classroom-inquiry-digests]([https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/classroom-inquiry-digests/](https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/classroom-inquiry-digests/))
 
-Yeo, E. & Iqbal, S. (2021, Nov). Exploring Teachers’ and Students’ Beliefs about Written Feedback in Writing. _ELIS Research Fund Reports_. Online publication. [https://academyofsingaporeteachers.moe.edu.sg/elis/resources/read/elis-research-fund-reports](https://academyofsingaporeteachers.moe.edu.sg/elis/resources/read/elis-research-fund-reports)
+Yeo, E. & Iqbal, S. (2021, Nov). Exploring Teachers’ and Students’ Beliefs about Written Feedback in Writing. _ELIS Research Fund Reports_. Online publication. [https://academyofsingaporeteachers.moe.edu.sg/elis/resources/read/elis-research-fund-reports]([https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/elis-research-fund-reports/](https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/elis-research-fund-reports/))
