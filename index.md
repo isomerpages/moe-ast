@@ -41,7 +41,7 @@ sections:
       button: Click here
       url: /professional-recognition/OYEA/overview/
       alt: Image alt text
-      image: /images/infopic2.png
+      image: /images/info.png
   - infopic:
       title: " Academy Awards for Professional Development"
       subtitle: Infopic Subtitle
