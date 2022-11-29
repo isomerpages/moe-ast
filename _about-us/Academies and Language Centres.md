@@ -15,7 +15,6 @@ description: ""
 | <img src="/images/mlc.png" style="width:70px;height:50px;margin-right:15px;" align = "left"> | [Malay Language Centre of Singapore (MLCS)](https://academyofsingaporeteachers.moe.edu.sg/mlcs/home) |
 | <img src="/images/alc5.png" style="width:90px;height:50px;margin-right:15px;" align = "left">  | [Umar Pulavar Tamil Language Centre (UPTLC/PDTL)](https://academyofsingaporeteachers.moe.edu.sg/pdtl/home) |
 | <img src="/images/alc6.png" style="width:80px;height:50px;margin-right:15px;" align = "left">  | [Singapore Centre for Chinese Language (SCCL)](https://sccl.sg/en/)  |
-| <img src="/images/alc7.png" style="width:70px;height:50px;margin-right:15px;" align = "left">  | [MOE Heritage Centre (MOEHC)](https://academyofsingaporeteachers.moe.edu.sg/moehc/moe-heritage-centre) |
-| <img src="/images/alc8.png" style="width:50px;height:50px;margin-right:15px;" align = "left">  | [OLive](https://academyofsingaporeteachers.moe.edu.sg/olive/olive-staff-well-being) |
+| <img src="/images/alc7.png" style="width:70px;height:50px;margin-right:15px;" align = "left">  | [MOE Heritage Centre (MOEHC)](https://staging.d1yxymztqoj7qn.amplifyapp.com/) |
+| <img src="/images/alc8.png" style="width:50px;height:50px;margin-right:15px;" align = "left">  | [OLive](https://staging.d2ck8l3cjc64ct.amplifyapp.com/) |
 | <img src="/images/alc9.png" style="width:70px;height:50px;margin-right:15px;" align = "left">  | [Professional Development Planning Office (PDPO)](https://academyofsingaporeteachers.moe.edu.sg/professional-development-planning-office) |
-
