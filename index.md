@@ -33,6 +33,7 @@ sections:
       button: Click here
       url: /infopic-1/
       alt: Image alt text
+      image: /images/infopic1.png
   - infopic:
       title: Outstanding Youth In Education Awards
       subtitle: What's on
@@ -40,6 +41,7 @@ sections:
       button: Click here
       url: /infopic-2/
       alt: Image alt text
+      image: /images/infopic2.png
   - infopic:
       title: " Academy Awards for Professional Development"
       subtitle: Infopic Subtitle
@@ -47,4 +49,5 @@ sections:
       button: Click here
       url: /info-pic3/
       alt: Image alt text
+      image: /images/infopic3.png
 ---
