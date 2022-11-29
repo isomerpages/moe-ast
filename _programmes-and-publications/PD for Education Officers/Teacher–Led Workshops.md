@@ -85,13 +85,13 @@ The structure of an <b>e-learning</b>TLW (mounted in OPAL2.0) is as follows:	<br
 
 <b>Documents for TLW application</b><br><br>
 
-1. <a href="link">2023 Teacher-led Workshop (TLW) Application Information Sheet(.pdf, 353.98 KB)</a>  <br><br>
+1. <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/tlw1.pdf">2023 Teacher-led Workshop (TLW) Application Information Sheet(.pdf, 353.98 KB)</a>  <br><br>
 	
 	
-2.  <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/tlw1.pdf">2023 TLW Application Preparatory Worksheet(.docx, 580.64 KB) </a><br><br>
+2.  <a href="https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/programmes-publications-docs/teacher-led-workshops/2022/2023-tlw-application-preparatory-worksheet.docx?sfvrsn=b734c17d_0">2023 TLW Application Preparatory Worksheet(.docx, 580.64 KB) </a><br><br>
 
 	
-3.  <a href="1.  [2023 TLW Facilitation Plan Template(.docx, 30.62 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/programmes-publications-docs/teacher-led-workshops/2022/2023-tlw-facilitation-plan-template.docx?sfvrsn=de5fa32c_0">023 TLW Facilitation Plan Template(.docx, 30.62 KB)</a> <br><br><br>
+3.  <a href="https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/programmes-publications-docs/teacher-led-workshops/2022/2023-tlw-facilitation-plan-template.docx?sfvrsn=de5fa32c_0">1023 TLW Facilitation Plan Template(.docx, 30.62 KB)</a> <br><br><br>
 	
 Upload the doc files above. <br><br>	
     
