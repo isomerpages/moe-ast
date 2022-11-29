@@ -31,7 +31,7 @@ sections:
       subtitle: What's on
       description: Congratulations to Our PAT 2022 Recipients and Finalists!
       button: Click here
-      url: /infopic-1/
+      url: https://staging.d2dfevnwgxersp.amplifyapp.com/professional-recognition/Presidents-Award-for-Teachers/overview/
       alt: Image alt text
       image: /images/infopic1.png
   - infopic:
@@ -39,7 +39,7 @@ sections:
       subtitle: What's on
       description: Congratulations to Our OYEA 2022 Recipients and Finalists!
       button: Click here
-      url: /infopic-2/
+      url: /professional-recognition/OYEA/overview/
       alt: Image alt text
       image: /images/infopic2.png
   - infopic:
@@ -47,7 +47,7 @@ sections:
       subtitle: Infopic Subtitle
       description: Warmest Congratulations to Fellow of AST Award Recipients!
       button: Click here
-      url: /info-pic3/
+      url: /professional-recognition/Academy-Awards/overview/
       alt: Image alt text
       image: /images/infopic3.png
 ---
