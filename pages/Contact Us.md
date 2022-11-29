@@ -36,7 +36,7 @@ Drivers are advised to park at the nearby&nbsp;[Gillman Barracks](https://www.sg
 
 #### English Language Institute of Singapore
 
-Email: [MOE\_ELIS\_Academy@moe.gov.sg](mailto:MOE_ELIS_Academy@moe.gov.sg)<br>Website: [academyofsingaporeteachers.moe.edu.sg/elis](https://academyofsingaporeteachers.moe.edu.sg/elis)<br>
+Email: [MOE\_ELIS\_Academy@moe.gov.sg](mailto:MOE_ELIS_Academy@moe.gov.sg)<br>Website: [academyofsingaporeteachers.moe.edu.sg/elis](https://staging.d1wti0p44mqune.amplifyapp.com/)<br>
 Contact no.: +65 6664 1724<br>ELIS Contact Page: [academyofsingaporeteachers.moe.edu.sg/elis/contact-us](https://academyofsingaporeteachers.moe.edu.sg/elis/contact-us)<br>
 
 <img style="width:30%" src="/images/c2.png">
@@ -83,7 +83,7 @@ Website: [academyofsingaporeteachers.moe.edu.sg/professional-development-plannin
 #### OLive Staff Well Being
 
 Email: [moe\_swb@moe.gov.sg](mailto:moe_swb@moe.gov.sg) <br>
-Website: [academyofsingaporeteachers.moe.edu.sg/olive](https://academyofsingaporeteachers.moe.edu.sg/olive)
+Website: [academyofsingaporeteachers.moe.edu.sg/olive](https://staging.d2ck8l3cjc64ct.amplifyapp.com/)
 Contact No.: 6664 1474
 
 #### Ministry of Education Sports and Recreation Club (MESRC)
@@ -95,5 +95,5 @@ Contact No.: 6468 0305 / 6879 7445
 #### iCARE
 
 Email: [moe\_icare@moe.gov.sg](mailto:moe_icare@moe.gov.sg) <br>
-Website: [academyofsingaporeteachers.moe.edu.sg/olive/icare](https://academyofsingaporeteachers.moe.edu.sg/olive/icare)<br>
-Contact No.: 6664 1392 / 6664 1393 (Weekdays from 8am-5.30pm except public holidays) 
+Website: [academyofsingaporeteachers.moe.edu.sg/olive/icare](https://staging.d2ck8l3cjc64ct.amplifyapp.com/olive/icare/)<br>
+Contact No.: 6664 1392 / 6664 1393 (Weekdays from 8am-5.30pm except public holidays)
