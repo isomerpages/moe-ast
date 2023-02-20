@@ -28,7 +28,6 @@ sections:
       url: /about-us/Academies-and-Language-Centres/
   - infopic:
       title: President's Award for Teachers
-      subtitle: What's on
       description: Congratulations to Our PAT 2022 Recipients and Finalists!
       button: Click here
       url: https://staging.d2dfevnwgxersp.amplifyapp.com/professional-recognition/Presidents-Award-for-Teachers/overview/
@@ -36,7 +35,6 @@ sections:
       image: /images/infopic1.png
   - infopic:
       title: Outstanding Youth In Education Awards
-      subtitle: What's on
       description: Congratulations to Our OYEA 2022 Recipients and Finalists!
       button: Click here
       url: /professional-recognition/OYEA/overview/
@@ -44,7 +42,6 @@ sections:
       image: /images/info.png
   - infopic:
       title: " Academy Awards for Professional Development"
-      subtitle: Infopic Subtitle
       description: Warmest Congratulations to Fellow of AST Award Recipients!
       button: Click here
       url: /professional-recognition/Academy-Awards/overview/
