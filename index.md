@@ -47,4 +47,8 @@ sections:
       url: /professional-recognition/Academy-Awards/overview/
       alt: Image alt text
       image: /images/infopic3.png
+  - resources:
+      title: Latest Articles
+      subtitle: Multimedia
+      button: View all articles
 ---
