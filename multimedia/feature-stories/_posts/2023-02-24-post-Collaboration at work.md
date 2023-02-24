@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: /images/bc10.png
 ---
+![](/images/bc10.png)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi maximus hendrerit ipsum, sit amet cursus lacus interdum nec. Suspendisse ornare leo non massa ornare faucibus. Quisque convallis maximus tempor. Praesent maximus felis non justo ullamcorper, non interdum orci hendrerit. Morbi tristique libero est. Integer quis ultrices diam. Nunc sit amet gravida nulla, at rhoncus diam. In ut tempus enim. Nunc vel lectus vel nulla consequat rhoncus.
 
 Nam mattis ligula non turpis tincidunt pulvinar. Mauris non sagittis libero. Mauris at ullamcorper nisl, sollicitudin gravida nisl. Etiam tortor nunc, facilisis in libero at, dapibus viverra arcu. Phasellus nulla odio, dapibus a mauris vel, sollicitudin congue mi. Quisque congue neque posuere, hendrerit risus maximus, iaculis elit. Morbi dictum velit quis varius sodales. Aliquam eget augue nec felis ultrices rhoncus. Proin venenatis nunc a elit accumsan laoreet. Proin vehicula fermentum nisi ac semper.
