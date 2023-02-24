@@ -35,3 +35,5 @@ links:
         url: https://staging.d2ck8l3cjc64ct.amplifyapp.com/olive/mesrc/
   - title: Contact Us
     url: /ast-contact-us/
+  - title: Multimedia
+    resource_room: true
