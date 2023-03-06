@@ -21,8 +21,8 @@ PMCA is a royal award to be presented by Her Royal Highness Princess Maha Chakri
 <p>
 	
 <b>Congratulations to PMCA 2017 recipient!</b><br><br>
-<img src="/images/prore86.png" style="width:30%"><br><br>
-<b>Mdm Sarabjeet Kaur D/O Hardip Singh from Anderson Primary School at the 2nd Princess Maha Chakri Award Ceremony.</b>	<br><br>
+<img src="/images/prore86.png" style="width:30%">
+<center>Mdm Sarabjeet Kaur D/O Hardip Singh from Anderson Primary School at the 2nd Princess Maha Chakri Award Ceremony.</center>	<br>
 	
 Click here <a href="https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/professional-recognition-docs/international-awards-documents/pmca_2017_story.docx?sfvrsn=3fc125ee_0">2017 Story(.docx, 1.41 MB)</a> to read her story. <br><br>
 	
@@ -41,13 +41,12 @@ Click here <a href="https://academyofsingaporeteachers.moe.edu.sg/docs/default-s
 <div>  
   
 <p>
-<img src="/images/prore87.png" style="width:30%"><br><br>
-	
-<b> Ai Lian at PMCA award ceremony 2015</b><br><br>
+<img src="/images/prore87.png" style="width:30%">
+<center> Ai Lian at PMCA award ceremony 2015</center><br>
 <b>Congratulations to our PMCA 2015 winner!</b><br><br>	
 	
-<img src="/images/prore88.png" style="width:30%"><br><br>	
-<b> Madam Lim Ai Lian</b><br><br>
+<img src="/images/prore88.png" style="width:30%">
+<center> Madam Lim Ai Lian</center><br>
 	
 A Privilege To Teach<br><br>
  
@@ -68,7 +67,7 @@ Slowly but surely, with sheer determination and the support of both home and sch
   
 
 Throughout my teaching experience, I became aware that some of my students came from homes where they did not receive much attention from their parents. For some, their homes no longer provided them with security and love but had become a battleground where economic and emotional survival was a daily reality. This made me realise the need to create an inclusive and caring classroom community where every child feels valued. 
-<br><br>Celebrate Every Child<br><br>“Too often we underestimate the power of a touch, a smile, a kind word, a listening ear, an honest compliment, or the smallest act of caring, all of which have the potential to turn a life around.”<br><br>Leo Buscaglia_                                          
+<br><br>Celebrate Every Child<br><br>“Too often we underestimate the power of a touch, a smile, a kind word, a listening ear, an honest compliment, or the smallest act of caring, all of which have the potential to turn a life around.”<br><br>Leo Buscaglia                                          
 
 <br><br>
 
@@ -128,6 +127,4 @@ Lead, care and inspire – I will continue to do my best to lead, care for and i
   
 </div>  
   
-</li>  
-  
-  
+</li>
