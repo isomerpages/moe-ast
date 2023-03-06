@@ -6,27 +6,29 @@ third_nav_title: President’s Award for Teachers
 ---
 ### PAT Publication: Teach to Inspire, Inspire to Teach
 
-The PAT recipients and finalists inspire their student to achieve their best and work towards their dreams. Their enthusiasm for teaching and learning spur their peers on, leading them to strive for excellence in the imparting of knowledge and values to students. Guided by the Ethos of the Teaching Profession, these teachers go the extra mile to ensure that every child develops holistically and emerges as confident and competent students of the 21st Century.
+The PAT recipients and finalists inspire their student to achieve their best and work towards their dreams. Their enthusiasm for teaching and learning spur their peers on, leading them to strive for excellence in the imparting of knowledge and values to students.&nbsp;Guided by the Ethos of the Teaching Profession, these teachers go the extra mile to ensure that every child develops holistically and emerges as confident and competent students of the 21st&nbsp;Century.
 
 
 <ul class="jekyllcodex_accordion">  
   
 <li>  
   
-<input type="checkbox" id="accordion1">  
+<input id="accordion1" type="checkbox">  
   
 <label for="accordion1">Read about the inspiring stories of PAT recipients and finalists</label>  
   
 <div>  
   
 <p>
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/pat1.pdf">PAT Publication 2021 - 18th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/pat1.pdf">PAT Publication 2020 - 17th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 
+<a href="https://academyofsingaporeteachers.moe.edu.sg/pat-publication/MOE-PAT20221125/PAT_Publication_2022/index.html#p=1">PAT Publication 2022 - 19th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 	
+<a>PAT Publication 2021 - 18th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 
+	
+<a href="https://academyofsingaporeteachers.moe.edu.sg/pat-publication/MOE-PAT20200918/PAT_Publication_2020/index.html#p=1">PAT Publication 2020 - 17th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/pat1.pdf">PAT Publication 2019 - 16th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 
+<a href="https://academyofsingaporeteachers.moe.edu.sg/pat-publication/MOE-PAT20191004/PAT_Finalists_2019/mobile/index.html">PAT Publication 2019 - 16th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/pat1.pdf">PAT Publication 2018 - 15th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 
+<a href="https://academyofsingaporeteachers.moe.edu.sg/pat-publication/MOE-PAT_20181002/">PAT Publication 2018 - 15th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 
 
 <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/professional-recognition/Presidents-Award-for-Teachers/publication/">PAT Publication 2018 - 15th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>Re-upload this pdf<br><br>
 
@@ -53,7 +55,7 @@ The PAT recipients and finalists inspire their student to achieve their best and
 </li>  
 <li>  
   
-<input type="checkbox" id="accordion2">  
+<input id="accordion2" type="checkbox">  
   
 <label for="accordion2">Read about other noteworthy practices here</label>  
   
@@ -62,21 +64,21 @@ The PAT recipients and finalists inspire their student to achieve their best and
 <p>
 <b><u>2019 Noteworthy Practices</u></b> <br><br>
 
-<b>Primary Schools</b><Br><br>
+<b>Primary Schools</b><br><br>
 
-1) Teacher About Me Learning Chinese Through Rap Music by <b>Jiao Fuzhen</b><br><br>
+1) Teacher About Me Learning Chinese Through Rap Music by&nbsp;<b>Jiao Fuzhen</b><br><br>
 
-2) YES! Programme (Young Exploring Scientists) by <b>Ong Ee Lee</b><br><br>
+2) YES! Programme (Young Exploring Scientists) by&nbsp;<b>Ong Ee Lee</b><br><br>
 
-Access the <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/pat7.pdf">PAT Primary Noteworthy Practices(.pdf, 1.44 MB</a> of the 2 nominees from the Primary Schools. <br><br>
+Access the&nbsp;<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/pat7.pdf">PAT Primary Noteworthy Practices(.pdf, 1.44 MB</a> of the 2 nominees from the Primary Schools. <br><br>
 	
-<b>Secondary Schools</b><br><Br>
+<b>Secondary Schools</b><br><br>
 
-1) Reaching Out to the Community through Applied Learning Programme (ALP) by <b>Neo Peck Wee Joel</b><br><br>
+1) Reaching Out to the Community through Applied Learning Programme (ALP) by&nbsp;<b>Neo Peck Wee Joel</b><br><br>
 
-2) Use of Historical Simulations to teach Conceptual Understanding in the History Classroom by <b>Chew Ee</b><br><br>
+2) Use of Historical Simulations to teach Conceptual Understanding in the History Classroom by&nbsp;<b>Chew Ee</b><br><br>
 
-Access the <img src="/images/xxx.png" style="width:80%">  <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/pat8.pdf">PAT Secondary Noteworthy Practices(.pdf, 4.76 MB)</a> of the 2 nominees from the Secondary Schools. <Br><Br>
+Access the&nbsp;<img style="width:80%" src="/images/xxx.png"> &nbsp;<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/pat8.pdf">PAT Secondary Noteworthy Practices(.pdf, 4.76 MB)</a> of the 2 nominees from the Secondary Schools. <br><br>
 	
 <b><u>2018 Noteworthy Practices</u></b> <br><br>
 
