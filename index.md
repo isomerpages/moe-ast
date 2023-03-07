@@ -11,6 +11,16 @@ sections:
       background: /images/banner.jpeg
       button: About Us
       url: /about-us/overview/
+      key_highlights:
+        - title: Professional Development Planning Office
+          description: Key Highlight description
+          url: /development-planning-office/overview/
+        - title: Professional Excellence
+          description: ""
+          url: " /professional-excellence/overview/"
+        - title: Professional Recognition
+          description: ""
+          url: " /professional-recognition/overview/"
   - infopic:
       title: President's Award for Teachers
       description: Congratulations to Our PAT 2022 Recipients and Finalists!
