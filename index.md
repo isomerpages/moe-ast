@@ -13,9 +13,6 @@ sections:
         - title: ""
           description: ""
           url: ""
-        - title: ""
-          description: ""
-          url: ""
       button: About Us
       url: /about-us/overview/
   - infobar:
