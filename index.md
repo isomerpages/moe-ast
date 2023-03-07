@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: MANY ACADEMIES, ONE AST
+      title: MANY ACADEMIES, ONE FAMILY
       background: /images/banner.jpeg
       key_highlights:
         - title: Professional Development Planning Office
@@ -19,7 +19,7 @@ sections:
         - title: Professional Recognition
           description: ""
           url: /professional-recognition/overview/
-      button: Find Out More
+      button: About Us
       url: /about-us/overview/
   - infobar:
       title: WELCOME
