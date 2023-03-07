@@ -11,11 +11,6 @@ sections:
       background: /images/banner.jpeg
       button: About Us
       url: /about-us/overview/
-  - infobar:
-      title: WELCOME
-      description: Find out more about our Academies and Language centres
-      button: Click here
-      url: /about-us/Academies-and-Language-Centres/
   - infopic:
       title: President's Award for Teachers
       description: Congratulations to Our PAT 2022 Recipients and Finalists!
