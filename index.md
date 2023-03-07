@@ -10,15 +10,12 @@ sections:
       title: MANY ACADEMIES, ONE FAMILY
       background: /images/banner.jpeg
       key_highlights:
-        - title: Professional Development Planning Office
+        - title: ""
           description: ""
-          url: /development-planning-office/overview/
-        - title: Professional Excellence
+          url: ""
+        - title: ""
           description: ""
-          url: /professional-excellence/overview/
-        - title: Professional Recognition
-          description: ""
-          url: /professional-recognition/overview/
+          url: ""
       button: About Us
       url: /about-us/overview/
   - infobar:
