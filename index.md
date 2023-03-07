@@ -9,10 +9,6 @@ sections:
   - hero:
       title: Welcome to AST
       background: /images/banner.jpeg
-      key_highlights:
-        - title: ""
-          description: ""
-          url: ""
       button: About Us
       url: /about-us/overview/
   - infobar:
