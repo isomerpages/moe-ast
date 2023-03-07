@@ -13,7 +13,7 @@ sections:
       url: /about-us/overview/
       key_highlights:
         - title: Professional Development Planning Office
-          description: Key Highlight description
+          description: ""
           url: /development-planning-office/overview/
         - title: Professional Excellence
           description: ""
