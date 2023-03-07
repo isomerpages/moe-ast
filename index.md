@@ -49,6 +49,6 @@ sections:
       image: /images/infopic3.png
   - resources:
       title: Latest Articles
-      subtitle: Multimedia
+      subtitle: Stories
       button: View all articles
 ---
