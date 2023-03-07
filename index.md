@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: MANY ACADEMIES, ONE FAMILY
+      title: Welcome to AST
       background: /images/banner.jpeg
       key_highlights:
         - title: ""
