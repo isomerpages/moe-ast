@@ -7,6 +7,7 @@ third_nav_title: PLCs
 <img src="/images/proex8.png" style="width:80%">
 
 
+
 <img src="/images/proex9.png" style="width:80%">
 
 The aim of the PLC process was to improve pedagogical practice, thereby fostering a culture of professional excellence in schools and across the system. A school becomes a PLC when the Professional Learning Teams (PLTs) work towards the realisation of articulated PLC goals, embodied in the [3 Big Ideas, 4 Critical Questions and 5 Dimensions for Effective PLCs](https://staging.d2dfevnwgxersp.amplifyapp.com/professional-excellence/our-plc-journey/ideas-questions-dimensions-for-effective-plcs/), and learn together as a community.   
