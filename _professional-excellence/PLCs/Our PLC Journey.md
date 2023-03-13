@@ -4,12 +4,8 @@ permalink: /professional-excellence/our-plc-journey/about-us/
 description: ""
 third_nav_title: PLCs
 ---
-
-
-
 <img src="/images/proex8.png" style="width:80%">
 
-### About Us
 
 <img src="/images/proex9.png" style="width:80%">
 
