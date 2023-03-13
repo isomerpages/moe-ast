@@ -12,13 +12,13 @@ sections:
       button: About Us
       url: /about-us/overview/
       key_highlights:
-        - title: Professional Development Planning Office
+        - title: Spotlight
           description: ""
           url: /development-planning-office/overview/
-        - title: Professional Excellence
+        - title: Events
           description: ""
           url: " /professional-excellence/overview/"
-        - title: Professional Recognition
+        - title: Stories
           description: ""
           url: " /professional-recognition/overview/"
   - infopic:
