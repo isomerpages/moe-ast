@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Humanities and CCE
 ---
 ![](/images/ohc1.png)
-test
 <img src="/images/ohc2.png" style="width:70%">
 
 <ul class="jekyllcodex_accordion">  
@@ -67,8 +66,8 @@ We organise various professional learning activities for you:<br><br>
 <div>  
   
 <p>
-<img src="/images/ohc6.png" style="width:80%"><Br>
-  
+<img src="/images/core-team2023.png" style="width:80%"><Br>
+
 </p>  
   
 </div>  
@@ -82,18 +81,21 @@ We organise various professional learning activities for you:<br><br>
 <label for="accordion4">Our Calendar of Events</label>  
   
 <div>  
-  
+
 <p>
-<img src="/images/ohc7.png" style="width:80%"><Br>
-<img src="/images/ohc8.png" style="width:80%"><Br>
+	<center><b>2023 Workshops by History Subject Chapter in OPAL 2.0</b></center>
+<img src="/images/events01.png" style="width:80%"><Br>
+	<center><b>Summary of NLCs for 2023</b><br><br>
+		(Do email the MTT and coordinator if you are interested to be part of the NLC)</center>
+<img src="/images/nlc01.png" style="width:80%"><Br>
 <img src="/images/ohc9.png" style="width:80%"><Br>
 <img src="/images/ohc10.png" style="width:80%"><Br>
 <img src="/images/ohc11.png" style="width:80%"><Br>
 <img src="/images/ohc12.png" style="width:80%"><Br>
 <img src="/images/ohc13.png" style="width:80%"><Br>
-<img src="/images/ohc14.png" style="width:80%"><Br>
-<img src="/images/ohc15.png" style="width:80%"><Br>
-
+<center><b>Meetings</b></center>
+<img src="/images/meeting01.png" style="width:80%"><Br>
+<img src="/images/meeting02.png" style="width:80%"><Br>
 </p>  
   
 </div>  
@@ -111,22 +113,54 @@ We organise various professional learning activities for you:<br><br>
 <p>
 Every History teacher is automatically a member of the History Chapter. You can join us at the next Subject Chapter Meeting where you will get to know more about our Subject Chapter and its relevance to your professional growth.<Br><Br>
 
-For information regarding WORKSHOPS, log on to OPAL2.0.<Br><Br>
+Do check out our <b>Calendar of Events</b> tab for upcoming workshops and events.<Br><Br>
 
-If you would like to find out more about NETWORKED LEARNING COMMUNITIES (NLC), please contact MTT Joseph Tham. The networks that we currently have are:<Br><Br>
+If you would like to find out more about our Networked Learning Communities (NLC), please contact MTT Lloyd or MTT Joseph. Current NLCs include:<Br><Br>
 
-1.  Malayan History<Br>
-2.  Southeast Asian History<Br>
-3.  Teaching History through Games<Br>
-4.  Teaching Lower Secondary History<Br>
-5.  Reading, Thinking and Writing for Historical Sources: Upper Sec<Br>
-6.  Using Mine craft to Create Ancient Singapore<Br>
-7.  Concept-based Learning (JC)<Br><Br>
+1.    Differentiated Instruction (DI) NLC	<br>Lloyd_Luc_YEO@moe.gov.sg
+2.    Virtual LJ NLC	<br>Lloyd_Luc_YEO@moe.gov.sg
+3.    Interdisciplinary Learning NLC	<br>Lloyd_Luc_YEO@moe.gov.sg
+4.    Blended Learning in History NLC	<br>THAM_Chin_Pang@moe.gov.sg
+5.    Lower Secondary History NLC	<br>THAM_Chin_Pang@moe.gov.sg
+6.    Concept-based Teaching NLC	<br>THAM_Chin_Pang@moe.gov.sg
 
 Join our "U" in History collaborative work space in OPAL2.0 today!<Br><Br>
 
 Should you have any queries regarding the History Chapter and its courses, you may reach:<Br><Br>
-<img src="/images/ohc16.png" style="width:80%">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-58bx{background-color:#E9E9E9;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-r3aw{background-color:#E9E9E9;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-r3aw">Master Teacher</th>
+    <th class="tg-r3aw">Lloyd Yeo</th>
+    <th class="tg-58bx"><a href="mailto:Lloyd_Luc_YEO@moe.gov.sg"><span style="color:#CA2126;background-color:transparent">Lloyd_Luc_YEO@moe.gov.sg</span></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-r3aw">Master Teacher</td>
+    <td class="tg-r3aw">Joseph Tham</td>
+    <td class="tg-58bx"><a href="mailto:THAM_Chin_Pang@moe.gov.sg"><span style="color:#CA2126;background-color:transparent">THAM_Chin_Pang@moe.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-r3aw">Academy Officer</td>
+    <td class="tg-r3aw">Arwinder Kaur</td>
+    <td class="tg-58bx"><a href="mailto:Arwinder_kaur@moe.gov.sg"><span style="color:#CA2126;background-color:transparent">Arwinder_kaur@moe.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+Join our “Facebook” social media page for latest updates
+
+SG History teachers: <a href="https://www.facebook.com/groups/365900394326375">https://www.facebook.com/groups/365900394326375</a>
 </p>  
   
 </div>  
