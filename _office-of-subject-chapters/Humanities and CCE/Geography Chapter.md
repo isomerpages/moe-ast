@@ -6,6 +6,7 @@ third_nav_title: Humanities and CCE
 ---
 ![](/images/osc5.png)
 
+
 <img src="/images/osc6.png" style="width:70%">
 
 <ul class="jekyllcodex_accordion">  
@@ -90,10 +91,13 @@ Through collaborative learning in a network, you could widen your   professional
 <img src="/images/ws-05.png" style="width:80%"><Br>
 <img src="/images/ws-06.png" style="width:80%"><Br>
 <img src="/images/ws-07.png" style="width:80%"><Br>
+<img src="/images/ws-07.png" style="width:80%"><Br>
+<img src="/images/nlc-01.png" style="width:80%"><Br>
+<img src="/images/nlc-02.png" style="width:80%"><Br>
+<img src="/images/nlc-qr.png" style="width:60%"><Br>
 </p>  
-
 </div>  
-  
+
 </li>  	
   
 <li>  
@@ -114,4 +118,3 @@ Thank You!
   
 </li>  		
 </ul>
-
