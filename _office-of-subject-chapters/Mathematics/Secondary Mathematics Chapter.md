@@ -87,8 +87,7 @@ A community of competent teacher leaders who inspire the learning and teaching o
 <div>  
   
 <p>
-<img src="/images/smc10.png" style="width:80%"><Br>
-  
+<img src="//images/coreteam2023.png" style="width:80%"><Br>
 </p>  
   
 </div>  
