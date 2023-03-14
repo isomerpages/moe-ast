@@ -126,18 +126,21 @@ A community of competent teacher leaders who inspire the learning and teaching o
 <div>  
   
 <p>
-All Secondary Mathematics Teachers are members of the Secondary Mathematics Chapter. You are most welcome to join us at any of our Mathematics Chapter Events. <br><br>
-
+All Secondary Mathematics Teachers are members of the Secondary Mathematics Chapter. You are most welcome to join us at any of our Mathematics Chapter Events.
+<br><br>
+If you are interested in joining any of our networked learning communities (NLCs), kindly email the respective master teachers in charge. For general enquiries on our chapter events, workshops or NLCs, kindly send an email to our Academy Officer:
+<br><br>
+<a href="jacey_lau@moe.gov.sg">Jacey Lau (Ms)</a>
+<br><br>
 If you are interested in joining any of our networked learning communities (NLCs), kindly email the respective master teachers in charge. For general enquiries on our chapter events, workshops or NLCs, kindly send an email to our Academy Officer:<Br><br>
+You can also to join our <a href="https://go.gov.sg/secmath">U in Secondary Mathematics</a> social collaboration space in OPAL2.0 to stay connected with all Sec/JC Mathematics teachers and to receive updates on chapter events.
 
-Chan Ho Lun (Mr): CHAN_ho_lun@moe.gov.sg <br><br>
+Follow these 3 simple steps to become a member of our collaborative space.
 	
-You can also to join our <a href="https://go.gov.sg/secmath">'U in Secondary Mathematics'</a>  social collaboration space in OPAL2.0 to stay connected with all Sec/JC Mathematics teachers and to receive updates on chapter events.<br><br>
-	
-Follow these 3 simple steps to become a member of our collaborative space.<br><br>
-	
-<img src="/images/pmc17.png" style="width:80%"><Br>
+<img src="/images/6%20.jpg" 
+     style="width:60%">
 </p>  
+	
   
 </div>  
   
