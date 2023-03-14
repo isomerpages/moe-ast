@@ -38,11 +38,11 @@ Click here <a href="https://academyofsingaporeteachers.moe.edu.sg/docs/default-s
   
 <p>
 <img src="/images/prore87.png" style="width:30%">
-<center> Ai Lian at PMCA award ceremony 2015</center><br>
+<center> Mdm Lim Ai Lian at PMCA award ceremony 2015</center><br>
 <b>Congratulations to our PMCA 2015 winner!</b><br><br>	
 	
 <img src="/images/prore88.png" style="width:30%">
-<center> Madam Lim Ai Lian</center><br>
+<center> Mdm Lim Ai Lian</center><br>
 	
 A Privilege To Teach<br><br>
  
