@@ -96,10 +96,7 @@ For details of the core team members, please visit the Economics Chapter one-sto
 <div>  
   
 <p>
-<img src="/images/ec6.png" style="width:80%"><Br>
-<img src="/images/ec7.png" style="width:80%"><Br>
-<img src="/images/ec8.png" style="width:80%"><Br>
-
+For details of our calendar of events, please visit the Economics Chapter one-stop site <a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=663118">here</a>  (sign-in to OPAL2.0 required).
 
 </p>  
   
@@ -116,9 +113,10 @@ For details of the core team members, please visit the Economics Chapter one-sto
 <div>  
   
 <p>
-<img src="/images/ec9.png" style="width:80%"><Br>
+You may contact our Master Teachers at <a href="tan_dai_hwee@moe.gov.sg">tan_dai_hwee@moe.gov.sg</a> or <a href="khoo_gee_hwee@moe.gov.sg">khoo_gee_hwee@moe.gov.sg</a>
 </p>  
-  
+	
+	
 </div>  
   
 </li>  		
