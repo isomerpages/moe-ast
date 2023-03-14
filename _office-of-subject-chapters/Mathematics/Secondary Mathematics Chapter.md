@@ -6,9 +6,19 @@ third_nav_title: Mathematics
 ---
 ![](/images/smc1.png)
 
-<img src="/images/smc2.png" style="width:70%">
-
+<img src="/images/sec-math-mtts-jan23.png" style="width:70%">
+![]()
 The Secondary Mathematics Chapter champions quality learning in mathematics by building teacher capacity, encouraging pedagogical innovations and facilitating research-informed practice to impact student learning. It aims to build a culture of professionalism and pride in the teaching of mathematics. Besides upholding professional standards in mathematics, the Secondary Mathematics Chapter will serve as a focal point for mathematics teachers to collaborate and network. Through partnerships with various MOE divisions and external partners, the Secondary Mathematics Chapter seeks to raise the professional standards in the learning and teaching of mathematics in Singapore.
+
+**A special announcement:**
+
+In promoting STEM education among our teachers, 49 team advisers were engaged in sustained professional learning to mentor their team of students for the International Mathematical Modelling Challenge (IM²C) 2021. 
+
+Hwa Chong Institution has emerged as one of two top teams, out of 51 teams from 27 countries/regions, to be accorded the Outstanding Award in the international round of IM²C. This is the second consecutive win in IM²C for Singapore. Victoria School was accorded the Honorable Mention award.
+
+Congratulations to Hwa Chong Institution and Victoria School for doing Singapore proud! More details can be found at [https://www.immcsingapore.org/](https://www.immcsingapore.org/).  
+
+You can access the video of the IMMC 2021 Virtual Award and Sharing Session [here](https://app.wipster.io/Review/CQq-OAC154NjA8moiT64SQThjM48BnQvD_LbOOiCi28BdAVcgQ).
 
 **A special announcement:**
 
