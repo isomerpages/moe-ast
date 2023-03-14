@@ -49,8 +49,9 @@ A community of competent teacher leaders who inspire the learning and teaching o
 <img src="/images/pmc5.png" style="width:80%"><Br>
 <img src="/images/pmc6.png" style="width:80%"><Br>
 <img src="/images/pmc7.png" style="width:80%"><Br>
+<img src="/images/lgb-writeup.png" style="width:80%"><Br>
+<img src="/images/csh-writeup-jan23.png" style="width:80%"><Br>
 </p>  
-  
 </div>  
   
 </li>  
