@@ -1,5 +1,5 @@
 collections:
-  programmes-and-publications:
+  professional-learning:
     output: true
     order:
       - Overview of Professional Development (PD).md
