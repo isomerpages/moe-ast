@@ -63,9 +63,9 @@ Through collaborative learning in a network, you could widen your   profession
 <div>  
   
 <p>
-<img src="/images/ssct1.png" style="width:80%"><Br>
-<img src="/images/ssct2.png" style="width:80%"><Br>
-  
+<img src="/images/tm01.png" style="width:80%"><Br>
+<img src="/images/tm02.png" style="width:80%"><Br>
+<img src="/images/tm03.png" style="width:80%">
 </p>  
   
 </div>  
