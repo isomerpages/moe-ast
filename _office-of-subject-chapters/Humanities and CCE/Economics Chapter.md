@@ -6,7 +6,7 @@ third_nav_title: Humanities and CCE
 ---
 ![](/images/ec1.png)
 
-<img src="/images/ec2.png" style="width:70%">
+<img src="/images/top-pic-01.png" style="width:70%">
 
 All teachers teaching Economics are members of the Economics Chapter. We invite you to be an inspiring member of U in Economics.  _Join us today, so that we can grow together as a vibrant Economics Networked Learning Community!_
 
@@ -58,8 +58,8 @@ The Economics Chapter aims to:<br><br>
 <div>  
   
 <p>
-<img src="/images/ec4.png" style="width:80%"><Br>
-
+<img src="/images/tdh.png" style="width:80%"><Br>
+<img src="/images/kgh.png" style="width:80%"><Br>
 </p>  
   
 </div>  
@@ -76,8 +76,9 @@ The Economics Chapter aims to:<br><br>
   
 <p>
 	
-The Economics Chapter is led by the Master Teacher who works closely with a core team that comprises representatives from CPDD, ETD and Teacher Leaders from all zones. <br><br>
-<img src="/images/ec5.png" style="width:80%"><Br>
+The Economics Chapter is led by the Master Teachers who work closely with a core team that comprises representatives from CPDD, ETD and Teacher Leaders from all zones.
+
+For details of the core team members, please visit the Economics Chapter one-stop site	<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=663118">here</a>  (sign-in to OPAL2.0 required).
 
   
 </p>  
