@@ -14,7 +14,7 @@ PMCA is a royal award to be presented by Her Royal Highness Princess Maha Chakri
   
 <input type="checkbox" id="accordion1">  
   
-<label for="accordion1">Latest Recipient</label>  
+<label for="accordion1">2017 Recipient</label>  
   
 <div>  
   
@@ -32,7 +32,7 @@ Click here <a href="https://academyofsingaporeteachers.moe.edu.sg/docs/default-s
   
 <input type="checkbox" id="accordion2">  
   
-<label for="accordion2">Stories of PMCA Recipients 2015</label>  
+<label for="accordion2">2015 Recipient</label>  
   
 <div>  
   
