@@ -7,7 +7,7 @@ third_nav_title: Mathematics
 ![](/images/smc1.png)
 
 <img src="/images/sec-math-mtts-jan23.png" style="width:70%">
-![]()
+
 The Secondary Mathematics Chapter champions quality learning in mathematics by building teacher capacity, encouraging pedagogical innovations and facilitating research-informed practice to impact student learning. It aims to build a culture of professionalism and pride in the teaching of mathematics. Besides upholding professional standards in mathematics, the Secondary Mathematics Chapter will serve as a focal point for mathematics teachers to collaborate and network. Through partnerships with various MOE divisions and external partners, the Secondary Mathematics Chapter seeks to raise the professional standards in the learning and teaching of mathematics in Singapore.
 
 **A special announcement:**
@@ -87,7 +87,7 @@ A community of competent teacher leaders who inspire the learning and teaching o
 <div>  
   
 <p>
-<img src="//images/coreteam2023.png" style="width:80%"><Br>
+<img src="/images/coreteam2023.png" style="width:80%"><Br>
 </p>  
   
 </div>  
@@ -104,14 +104,13 @@ A community of competent teacher leaders who inspire the learning and teaching o
   
 <p>
 
-<img src="/images/smc11.png" style="width:80%"><Br>
-<img src="/images/smc12.png" style="width:80%"><Br>
-<img src="/images/smc13.png" style="width:80%"><Br>
-<img src="/images/smc14.png" style="width:80%"><Br>
-<img src="/images/smc15.png" style="width:80%"><Br>
-<img src="/images/smc16.png" style="width:80%"><Br>
+<img src="/images/ws23-1.png" style="width:80%"><Br>
+<img src="/images/ws23-2.png" style="width:80%"><Br>
+<img src="/images/ws23-3.png" style="width:80%"><Br>
+<img src="/images/ws23-4.png" style="width:80%"><Br>
+<img src="/images/ws23-5.png" style="width:80%"><Br>
+<img src="/images/ws23-6.png" style="width:80%"><Br>
 
- 
 </p>  
   
 </div>  
