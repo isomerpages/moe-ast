@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Welcome to AST
+      title: Welcome to the Academy of Singapore Teachers
       background: /images/banner.jpeg
       button: About Us
       url: /about-us/overview/
