@@ -6,6 +6,10 @@ third_nav_title: Humanities and CCE
 ---
 ![](/images/osc5.png)
 
+![](/images/events-01.png)
+![](/images/events-02.png)
+
+
 <img src="/images/osc6.png" style="width:70%">
 
 <ul class="jekyllcodex_accordion">  
