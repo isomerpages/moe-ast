@@ -5,4 +5,5 @@ description: ""
 ---
 ### Our Organisation
 
-<img src="/images/orgchart1.png" style="width:80%">
+<img src="/images/ast-org-chart---jan23.jpg" style="width:80%">
+
