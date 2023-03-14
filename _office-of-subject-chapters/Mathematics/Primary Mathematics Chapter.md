@@ -82,20 +82,22 @@ A community of competent teacher leaders who inspire the learning and teaching o
 <div>  
   
 <p>
-<img src="/images/pmc9.png" style="width:80%"><Br>
-<img src="/images/pmc10.png" style="width:80%"><Br>
-<img src="/images/pmc11.png" style="width:80%"><Br>
-<img src="/images/pmc12.png" style="width:80%"><Br>
-<img src="/images/pmc13.png" style="width:80%"><Br>
-<img src="/images/pmc14.png" style="width:80%"><Br>
-<img src="/images/pmc15.png" style="width:80%"><Br>
-<img src="/images/pmc16.png" style="width:80%"><Br>
-<img src="/images/pmc17.png" style="width:80%"><Br>
-<img src="/images/pmc18.png" style="width:80%"><Br>
-<img src="/images/pmc19.png" style="width:80%"><Br>
- 
+	<center><b><u>Mathematics Chapter Events in 2023</u></b></center>
+<img src="/images/pmc%20events.png" style="width:80%"><Br>
+<img src="/images/prmathws-01.png" style="width:80%"><Br>
+<img src="/images/prmathws-02.png" style="width:80%"><Br>
+<img src="/images/prmathws-03.png" style="width:80%"><Br>
+<img src="/images/prmathws-04.png" style="width:80%"><Br>
+<img src="/images/prmathws-05.png" style="width:80%"><Br>
+<img src="/images/prmathws-06.png" style="width:80%"><Br>
+<img src="/images/prmathws-07.png" style="width:80%"><Br>
+<img src="/images/prmathws-08.png" style="width:80%"><Br>
+<img src="/images/prmathws-09.png" style="width:80%"><Br>
+<img src="/images/prmathws-10.png" style="width:80%"><Br>
+<img src="/images/prmathws-11.png" style="width:80%"><Br>
+<img src="/images/nlc.png" style="width:80%"><Br>
 </p>  
-  
+
 </div>  
   
 </li>  	
