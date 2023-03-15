@@ -2,6 +2,7 @@ collections:
   our-master-teachers:
     output: true
     order:
+      - English Language/Dr Lucy Fernandez.md
       - English Language/Mdm Jennifer Lim Choon Yeoh.md
       - English Language/Dr Florence Lee.md
       - English Language/Mr Charles Matthew Peters.md
