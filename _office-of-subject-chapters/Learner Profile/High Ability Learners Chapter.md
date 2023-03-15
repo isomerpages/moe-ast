@@ -75,19 +75,24 @@ The High Ability Learners Chapter at the Academy of Singapore Teachers is suppor
 <div>  
   
 <p>
+<b>Core Meetings</b><br><br>
+All sessions will be conducted from 2.30 p.m. to 5.30 p.m. unless otherwise stated.<br><br>
+<img src="/images/coretmmtg.png" style="width:70%"><br><br>
+Workshops and Networked Learning Communities (NLCs) facilitated by the HAL Chapter<br><br>
+<img src="/images/learning-opps.jpg" style="width:70%"><br><br>
+Click <a href="https://go.gov.sg/workshopsnlcs2023">here</a> to access the workshop and NLC synopses, dates/time/venue and registration links.
+	
+<b>Professional Learning Activities facilitated by the HAL Chapter</b><br><br>
+	
+<img src="/images/halc-1.png" style="width:70%"><br><br>
+*Registration is through email invitations sent to schools
+<br><br>    
+<b>Teacher Leadership Development Activities for Appointed Senior Teachers (STs) and Lead Teachers (LTs)/ Learning Needs (HAL)</b><br><br>
+<img src="/images/halc-2.png" style="width:70%"><br>
 
-<img src="/images/halc6.png" style="width:70%"><br>
-<img src="/images/halc7.png" style="width:70%"><br>
-<img src="/images/halc8.png" style="width:70%"><br>
-<img src="/images/halc9.png" style="width:70%"><br>
-<img src="/images/halc10.png" style="width:70%"><br>
-<img src="/images/halc11.png" style="width:70%"><br>
-<img src="/images/halc12.png" style="width:70%"><br>
-<img src="/images/halc13.png" style="width:70%"><br>
-<img src="/images/halc14.png" style="width:70%"><br>
-<img src="/images/halc15.png" style="width:70%"><br>
-<img src="/images/halc16.png" style="width:70%"><br>
- 
+<b>Overview of 2023 HAL PD offerings by Gifted Education Branch (GEB), CPDD 1</b><br><br>
+Click <a href="https://go.gov.sg/gebhalcourses2023">here</a> to find out more about these learning opportunities.
+	
 </p>  
   
 </div>  
@@ -104,11 +109,19 @@ The High Ability Learners Chapter at the Academy of Singapore Teachers is suppor
   
 <p>
   
-All primary, secondary and JC teachers teaching HALs are members of the HAL Chapter. You are most welcome to join us at any of our HAL Chapter events. <br><br>
+All teachers supporting HALs are members of the High Ability Learners (HAL). You are most welcome to join us at any of our HAL Chapter professional learning events.
 
-If you are interested in joining any of our networked learning communities (NLCs), kindly email the master teacher in charge. For general enquiries on our chapter events, workshops or NLCs, kindly send an email to our Academy Officer: Yu Xinyi (Ms): <a href="yu_xinyi@moe.gov.sg">yu_xinyi@moe.gov.sg</a
+<b>HAL Chapter Wikisite on OPAL 2.0</b><br><br>
+Click <a href="https://go.gov.sg/memberofhalchapter">here</a> to join our online learning community on OPAL 2.0. You will get access to learning resources and be updated on our professional learning activities.
+
 	
-	
+<b>HAL Chapter mailing list</b><br><br>
+Click <a href="https://go.gov.sg/joinhalnetwork">here</a> to be kept on the HAL Chapter mailing list.
+
+For general enquiries on our chapter professional learning events or workshops, kindly send an email to:
+
+<a href="cindy_wah@moe.gov.sg">Ms Cindy Wah, Mentor Coach (Officer supporting the HAL Chapter)</a>,  or 
+<a href="evelyn_yeo@moe.gov.sg">Mdm Evelyn Yeo, Master Teacher/ HAL</a>
 </p>  
  
 </div>  
