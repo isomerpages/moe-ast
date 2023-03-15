@@ -83,11 +83,11 @@ The Special Educational Needs Chapter at the Academy of Singapore Teachers is su
   
 <p>
 The SEN Chapter @ AST is made up of a committed and passionate group of teachers which comprises our Teacher Leaders Learning Needs (SEN).
-
+<br><br>
 <i>The Teacher Leader community aims to strengthen and leverage a vibrant community of educators by providing pedagogical leadership and mentorship to enhance the quality and capability of the teaching fraternity for improved student outcomes.</i>
-
+<br><br>
 The SEN Chapter facilitates regular Networked Learning Sessions (NLS) and tea meet ups to better support the growth and development of our TLs.
-
+<br><br>
 <b>Professional Learning- Networked Learning Sessions for Teacher Leaders Learning Needs (SEN)</b><br>
 <img src="/images/nls-1.png" style="width:70%"><br><br>
 <b><i>All Teacher Leaders (SEN) are strongly encouraged to attend these sessions to ensure alignment in messaging and SEN support nationwide.</i></b>
