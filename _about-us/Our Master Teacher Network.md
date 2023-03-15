@@ -3,7 +3,7 @@ title: Our Master Teacher Network
 permalink: /about-us/our-master-teacher-network/
 description: ""
 ---
-### Our Master Teacher Network
+### Our Master Teacher
 
 <img src="/images/omtn1.png" style="width:80%">
 
