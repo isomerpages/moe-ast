@@ -6,7 +6,7 @@ third_nav_title: Science
 ---
 ![](/images/pc1.png)
 
-<img src="/images/pc2.png" style="width:70%">
+<img src="/images/physicsmtts.jpg" style="width:70%">
 
 
 <ul class="jekyllcodex_accordion">  
@@ -73,10 +73,9 @@ The Physics Chapter strives to raise the professional standard in the subject di
 <div>  
   
 <p>
-<b>2021-2022 Core Team</b>
-<img src="/images/pc8.png" style="width:80%"><Br>
-<img src="/images/pc9.png" style="width:80%"><Br>
-  
+<b>2023 - 2024 Core Team </b>
+<img src="/images/physc-coreteam.jpg" style="width:80%"><Br>
+<img src="/images/coreteamtable.png" style="width:80%"><Br>
 </p>  
   
 </div>  
@@ -93,12 +92,9 @@ The Physics Chapter strives to raise the professional standard in the subject di
   
 <p>
 
-<img src="/images/pc10.png" style="width:80%"><Br>
-<img src="/images/pc11.png" style="width:80%"><Br>
-<img src="/images/pc12.png" style="width:80%"><Br>
-<img src="/images/pc13.png" style="width:80%"><Br>
-
-
+<img src="/images/physics-1.png" style="width:80%"><Br>
+<img src="/images/physics-2.png" style="width:80%"><Br>
+<img src="/images/physics-3.png" style="width:80%"><Br>
  
 </p>  
   
@@ -115,13 +111,13 @@ The Physics Chapter strives to raise the professional standard in the subject di
 <div>  
   
 <p>
-All Physics teachers  are strongly encouraged to join the <a href="http://mydesk.opal.moe.edu.sg/cos/o.x?c=/ca4_mydesk/grpcoll&gid=96&func=view">U in Physics</a> group on OPAL. As a member of the Physics teaching fraternity, you can:<Br><br>
+All Physics teachers  are strongly encouraged to join the <a href="http://mydesk.opal.moe.edu.sg/cos/o.x?c=/ca4_mydesk/grpcoll&gid=96&func=view">U in Physics</a> group on OPAL. As a member of the Physics teaching fraternity, you can:
+	
+1.  be informed of the activities organised by the Chapter,
+2.  sign up for Physics Chapter courses and learning sessions, and
+3.  have access to the various collaborative and networking platforms.
 
-a.  be informed of the activities organised by the Chapter,<br>
-b.  sign up for Physics Chapter courses and learning sessions, and<br>
-c.  have access to the various collaborative and networking platforms.<br><br>
-
-You may contact Ms Loo Ming Yang (Academy Officer) \[Email: loo_ming_yang@moe.gov.sg] or  Mr Lee Kian Wei Jelvin (Academy Officer)\[Email: Jelvin_lee@moe.gov.sg]should you have any queries regarding the Physics Chapter and its courses. We invite you to be an inspiring member of U in Physics.  <i>Join us today, so that we can grow together as a vibrant Physics Networked Learning Community!</i>
+You may contact <a href="andy_yeo@moe.gov.sg">Mr Andy Yeo (Academy Officer)</a> should you have any queries regarding the Physics Chapter and its courses. We invite you to be an inspiring member of U in Physics.  Join us today, so that we can grow together as a vibrant Physics Networked Learning Community!</i>
 </p>  
  
 </div>  
