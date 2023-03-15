@@ -117,20 +117,43 @@ The SEN Chapter facilitates regular Networked Learning Sessions (NLS) and tea me
   
 <input type="checkbox" id="accordion5">  
   
-<label for="accordion5">How to join us?</label>  
+<label for="accordion5">For those interested in Teacher Leadership (SEN)</label>  
   
 <div>  
   
 <p>
   
-Every teacher supporting students with special educational needs is a member of the SEN Chapter. We invite you to be an active member of the SEN Chapter.
+<b>For those interested in the Teaching Track (Teacher Leaders Learning Needs SEN</b>
+
+<img src="/images/ws2.png" style="width:70%">
+
+<b>Registration is through email invites sent to schools</b>
+	
+	
+</p>  
+ 
+</div>  
+  
+</li>  		
+<li>  
+  
+<input type="checkbox" id="accordion6">  
+  
+<label for="accordion6">Our Calendar of Events</label>  
+<div>  
+  
+<p>
+  
+<b>The SEN Chapter @ AST invites teachers to join us in the following Professional Development platforms.<br><br>
+Professional Learning -Workshops for all Education Officers</b>
+
+<img src="/images/calendarofevents.png" style="width:70%">
+
+<b>Registration for workshops/webinars closes 1 week ahead of the start date or when spaces are full. We encourage no more than 3 participants per school for each workshop to allow schools to network and learn from others. <br><br>
+Professional Learning-Sharing by schools for all personnel supporting SEN</b>
 <br><br>
-<i>Join us today,  so that we continue to grow together as a vibrant fraternity of enabled educators!</i><br><br>
-	
-•   All sessions are held via online modes from 2.30 to 5.30pm unless otherwise stated.<br>
-•   Do contact Lee_Kai_En@moe.gov.sg or Sarinajit_KAUR@moe.gov.sg, if you have any queries.
-	
-	
+<img src="/images/seminar.png" style="width:70%"><br><br>
+<b>Registration for the above webinars will be through email blasts to the SSDs and SEN Champions 2 months ahead of each platform</b>
 </p>  
  
 </div>  
