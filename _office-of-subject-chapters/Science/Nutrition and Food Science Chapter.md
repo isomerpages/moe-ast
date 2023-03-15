@@ -63,7 +63,7 @@ Through collaborative learning in the NFS professional network, teachers cou
 <div>  
   
 <p>
-<img src="/images/nfsc3.png" style="width:70%">
+<img src="/images/core-tm-jan23.png" style="width:70%">
   
 </p>  
   
