@@ -22,7 +22,7 @@ PMCA is a royal award to be presented by Her Royal Highness Princess Maha Chakri
 	
 <center><b>Congratulations to PMCA 2017 recipient!</b></center><br><br>
 <img src="/images/prore86.png" style="width:30%">
-<center>Mdm Sarabjeet Kaur D/O Hardip Singh from Anderson Primary School at the 2nd Princess Maha Chakri Award Ceremony.</center>	<br>
+<small><center>Mdm Sarabjeet Kaur D/O Hardip Singh from Anderson Primary School at the 2nd Princess Maha Chakri Award Ceremony.</center></small><br>
 	
 Click here <a href="https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/professional-recognition-docs/international-awards-documents/pmca_2017_story.docx?sfvrsn=3fc125ee_0">2017 Story(.docx, 1.41 MB)</a> to read her story. 
 </p>
@@ -41,17 +41,17 @@ Click here <a href="https://academyofsingaporeteachers.moe.edu.sg/docs/default-s
   
 <p>
 <img src="/images/prore87.png" style="width:30%">
-<center> Mdm Lim Ai Lian at PMCA award ceremony 2015</center><br>
+<small><center> Mdm Lim Ai Lian at PMCA award ceremony 2015</center></small><br>
 <center><b>Congratulations to our PMCA 2015 winner!</b></center><br><br>	
 	
 <img src="/images/prore88.png" style="width:30%">
-<center> Mdm Lim Ai Lian</center><br><br>
+<small><center> Mdm Lim Ai Lian</center></small><br><br>
 	
 <b>A Privilege To Teach</b><br><br>
  
 It has been my privilege to teach children from disadvantaged backgrounds, low-progress learners, and students with special educational needs. This has been a rewarding journey for me because I can impact them both in and out of the classrooms. While every classroom presents a unique community of learners, it is important to identify and utilize different strategies and differentiated learning to reach out to every student. What works for one child might not work for another. It takes extra effort to figure out how to best relate to each of my students and find a way to connect with them, but I make it a point to do so. This is important because once students believe that their teacher truly cares for them, then there is no limit to what they can achieve.	<br><br>
 <img src="/images/prore89.png" style="width:60%"><br>
-<small<center>Sharing at ExcelFest with other educators</center></small><br><br>	
+<small><center>Sharing at ExcelFest with other educators</center></small><br><br>	
 	
 <b>No Child Left Behind</b>
 <br><br>
