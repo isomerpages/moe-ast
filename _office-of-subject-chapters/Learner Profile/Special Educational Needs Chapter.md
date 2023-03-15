@@ -61,7 +61,6 @@ The Special Educational Needs Chapter at the Academy of Singapore Teachers is su
 <b>Core Team Members 2023</b><br><br>
 
 <b>Our representatives from NIE & MOE</b><br><br>
-
 <img src="/images/nie.png" style="width:70%"><br><br>
 <b>Our zonal representatives from school</b><br><br>
 <img src="/images/schoolreps.png" style="width:70%">
@@ -78,20 +77,36 @@ The Special Educational Needs Chapter at the Academy of Singapore Teachers is su
   
 <input type="checkbox" id="accordion4">  
   
-<label for="accordion4">Our Calendar of Events</label>  
+<label for="accordion4">Our SEN Teacher Leaders</label>  
   
 <div>  
   
 <p>
+The SEN Chapter @ AST is made up of a committed and passionate group of teachers which comprises our Teacher Leaders Learning Needs (SEN).
 
-<img src="/images/senc6.png" style="width:70%">
-<img src="/images/senc7.png" style="width:70%">
-<img src="/images/senc8.png" style="width:70%">
-<img src="/images/senc9.png" style="width:70%">
-<img src="/images/senc10.png" style="width:70%">
-<img src="/images/senc11.png" style="width:70%">
+<i>The Teacher Leader community aims to strengthen and leverage a vibrant community of educators by providing pedagogical leadership and mentorship to enhance the quality and capability of the teaching fraternity for improved student outcomes.</i>
 
- 
+The SEN Chapter facilitates regular Networked Learning Sessions (NLS) and tea meet ups to better support the growth and development of our TLs.
+
+<b>Professional Learning- Networked Learning Sessions for Teacher Leaders Learning Needs (SEN)</b><br>
+<img src="/images/nls-1.png" style="width:70%"><br><br>
+<b><i>All Teacher Leaders (SEN) are strongly encouraged to attend these sessions to ensure alignment in messaging and SEN support nationwide.</i></b>
+<br><br>
+<b>Professional Learning- Workshops for Teacher Leaders Learning Needs</b><br><br>
+<img src="/images/workshop1.png" style="width:70%">
+<br><br>
+	<b>Invitation and registration for the above will be through email invites.</b>
+<br><br>
+	<b>Role specific growth and development platforms</b>
+<ul>
+	<li>For newly appointed Teacher Leaders (Learning Needs/SEN)</li>
+</ul>
+<img src="/images/ws1.png" style="width:70%"><br><br>
+<ul>
+	<li>For core team members</li>
+</ul>
+<img src="/images/ws2.png" style="width:70%">
+
 </p>  
   
 </div>  
