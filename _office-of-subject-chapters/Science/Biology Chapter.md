@@ -6,8 +6,7 @@ third_nav_title: Science
 ---
 ![](/images/bc1.png)
 
-<img src="/images/bc2.png" style="width:70%">
-
+<img src="/images/2023biochaptermtts.jpg" style="width:70%">
 
 <ul class="jekyllcodex_accordion">  
   
@@ -61,10 +60,9 @@ We organise various professional learning events for you:<br><br>
   
 <p>
 
-<img src="/images/bc5.png" style="width:80%"><Br>
-<img src="/images/bc6.png" style="width:80%"><Br>
 <img src="/images/bc7.png" style="width:80%"><Br>
-
+<img src="/images/bc6.png" style="width:80%"><Br>
+<img src="/images/bc5.png" style="width:80%"><Br>
 
 </p>  
   
@@ -81,10 +79,9 @@ We organise various professional learning events for you:<br><br>
 <div>  
   
 <p>
-<img src="/images/bc8.png" style="width:80%"><Br>
-<img src="/images/bc9.png" style="width:80%"><Br>
-<img src="/images/bc10.png" style="width:80%"><Br>
-  
+<img src="/images/biocoreteamtable.png" style="width:80%"><Br>
+<img src="/images/2023coreteam-png.jpg" style="width:80%"><Br>
+
 </p>  
   
 </div>  
@@ -101,12 +98,8 @@ We organise various professional learning events for you:<br><br>
   
 <p>
 
-<img src="/images/bc11.png" style="width:80%"><Br>
-<img src="/images/bc12.png" style="width:80%"><Br>
-<img src="/images/bc13.png" style="width:80%"><Br>
-
-
- 
+Please click on the following <a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=697826">link</a> and join our <b>U in Biology Chapter</b> Community to find out more!
+	
 </p>  
   
 </div>  
@@ -122,11 +115,10 @@ We organise various professional learning events for you:<br><br>
 <div>  
   
 <p>
-Through collaborative learning in a network, a teacher could broaden his/her professional knowledge and improve his/her practice. The workshops run by Master Teachers adopt a 5C approach whereby participants are guided in translating what they learn at the workshops into classroom practice.  <br><br>
-  
-You may sign up for Biology Chapter courses via OPAL 2.0 (from January 2020). Join our "U" in Biology collaborative workspace in OPAL today! <br><br>
+Through collaborative learning in a network, a teacher could broaden his/her professional knowledge and improve his/her practice. The workshops run by Master Teachers adopt a 5C approach whereby participants are guided in translating what they learn at the workshops into classroom practice.
 
-You may contact Mr Suresh Nadarajan (Suresh_NADARAJAN@moe.gov.sg)should you have any queries regarding the Biology Chapter and its courses.
+You may sign up for Biology Chapter courses via <a href="http://opal2.moe.edu.sg/">OPAL 2.0</a>.
+
 </p>  
  
 </div>  
