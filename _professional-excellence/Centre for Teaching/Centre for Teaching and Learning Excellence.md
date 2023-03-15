@@ -39,7 +39,7 @@ During the pre- and post-lesson discussions, teacher participants can look forwa
 
 **Target audience:** All teachers, including pre-service teachers
 
-Click on this [link](/professional-excellence/centre-for-teaching-and-learning-excellence/demonstration-classes-conducted-at-ctle@yiss) to access short videos of the demonstration classes conducted at CTLE@YISS.
+Click on this [link](/professional-excellence/Centre-for-Teaching/demonstration-classes/) to access short videos of the demonstration classes conducted at CTLE@YISS.
 
 **Seminars and Bite-sized Webinars**
 
