@@ -205,7 +205,7 @@ For the full list of winners, please click on <a href="https://staging.d2dfevnwg
 <div>  
   
 <p>
-For the full list of winners, please click on <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aar2013.pdf">AA Recipients 2013 (.pdf, 222.29 KB)</a> <br><br>
+For the full list of winners, please click on <a href="/files/aa-recipients-2012.pdf">AA Recipients 2012(.pdf, 151.31 KB)</a> <br><br>
 	
 <b> Fellow of the Academy of Singapore Teachers</b> <br><br>
 	
