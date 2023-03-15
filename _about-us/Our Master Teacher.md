@@ -5,9 +5,6 @@ description: ""
 ---
 ### Our Master Teacher
 
-![]()
-![](/images/jennifer-lim.jpg)
-![](/images/lucy-fernandez-4.png)
 ![](/images/serene.jpg)
 <img src="/images/omtn1.png" style="width:80%">
 
@@ -27,6 +24,7 @@ The offices of PMTTs and MTTs are located at the Academy and the various languag
 | <img src="/images/el7.png" style="width:80px;height:100px;margin-right:15px;" align = "left">[Mrs Kalpana Balasubramaniam](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/English-Language/Mrs-Kalpana-Balasubramaniam/)<br><br>Master Teacher / English <Br>Language<br><br>Email: [Kalpana\_BALASUBRAMANIAM@moe.gov.sg](mailto:Kalpana_BALASUBRAMANIAM@moe.gov.sg)<br>Contact no.: 6664 1737 | <img src="/images/el8.png" style="width:80px;height:100px;margin-right:15px;" align = "left">[Mrs Prisca Lee](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/English-Language/Mrs-Prisca-Lee/)<br><br>Master Teacher / English Language<br><br>Email: [Prisca\_Lee@moe.gov.sg](mailto:Prisca_Lee@moe.gov.sg)<br>Contact no.: 6664 1745 |
 | <img src="/images/el9.png" style="width:80px;height:100px;margin-right:15px;" align = "left"> [Ms Rita Pillai](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/English-Language/Ms-Rita-Pillai/)<br><br>Master Teacher / English Language<br><br><br>Email: [Rita\_PILLAI@moe.gov.sg](mailto:Rita_PILLAI@moe.gov.sg)<br>Contact no.: 6664 1742 |  <img src="/images/el10.png" style="width:80px;height:100px;margin-right:15px;" align = "left">[Ms Shakila Vasu](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/English-Language/Ms-Shakila-Vasu/)<br><br>Master Teacher / English Language<br><br><br>Email: [Shakila\_VASU@moe.gov.sg](mailto:Shakila_VASU@moe.gov.sg)<br>Contact no.: 6664 1757 |
 |  <img src="/images/el11.png" style="width:80px;height:100px;margin-right:15px;" align = "left">[Ms Solastri Suyot](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/English-Language/Ms-Solastri-Suyot/)<br><br>Master Teacher / English Language<br><br><br>Email: [Solastri\_SUYOT@moe.gov.sg](mailto:Solastri_SUYOT@moe.gov.sg)<br>Contact no.: 6664 1744 |  <img src="/images/el12.png" style="width:90px;height:100px;margin-right:15px;" align = "left">[Mrs Emelyn Kuan](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/English-Language/Mrs-Emelyn-Kuan/)<br><br>Master Teacher / English Language<br><br><br>Email: [Emelyn\_SOON@moe.gov.sg](mailto:Emelyn_SOON@moe.gov.sg)<br>Contact no.: 6664 1705 |
+| <img src="/images/jennifer-lim.jpg" style="width:80px;height:110px;margin-right:15px;" align = "left">[Mdm Jennifer Lim Choon Yeoh](/our-master-teachers/English-Language/jennifer-lim-choon-yeoh/)<br><br>Master Teacher / English Language<br><br>Email: [Jennifer_CY_lim@moe.gov.sg](mailto:Jennifer_CY_lim@moe.gov.sg)<br>Contact no.: 6664 1749 | <img src="/images/lucy-fernandez-4.png" style="width:80px;height:110px;margin-right:15px;" align = "left">[Dr Lucy Fernandez](/our-master-teachers/English-Language/lucy-fernandez/)<br><br>Principal Master Teacher / English Language<br><br>Email: [Lucy_Oliver_Fernandez@moe.gov.sg](mailto:Lucy_Oliver_Fernandez@moe.gov.sg)<br>Contact no.: 6664 1741 |
 
 ### Chinese Language
 
