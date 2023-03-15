@@ -39,7 +39,6 @@ The HAL Chapter serves as a focal point for teachers and Teacher Leaders of HALs
 <div>  
   
 <p>
-<img src="/images/halc3.png" style="width:70%"><br>
 <img src="/images/halc4.png" style="width:70%">
 
 </p>  
@@ -57,8 +56,10 @@ The HAL Chapter serves as a focal point for teachers and Teacher Leaders of HALs
 <div>  
   
 <p>
-<img src="/images/halc5.png" style="width:70%">
-  
+The High Ability Learners Chapter at the Academy of Singapore Teachers is supported by a core team made up of representatives from the four school zones, MOE (including the Gifted Education Branch and Educational Technology Division) as well as the National Institute of Education.<br><br>
+<img src="/images/coretm-01.png" style="width:70%"><br><br>
+<img src="/images/coretm-025bb51516e54b447f8cdc9570991d93e2.png" style="width:70%">
+
 </p>  
   
 </div>  
