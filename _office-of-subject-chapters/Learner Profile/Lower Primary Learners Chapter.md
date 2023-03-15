@@ -60,7 +60,7 @@ LPL Learning Day
 <div>  
   
 <p>
-<img src="/images/lplc3.png" style="width:70%">
+<img src="/images/lplc3.png" style="width:80%">
 
 </p>  
   
