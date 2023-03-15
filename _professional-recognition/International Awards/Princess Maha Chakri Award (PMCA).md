@@ -20,7 +20,7 @@ PMCA is a royal award to be presented by Her Royal Highness Princess Maha Chakri
   
 <p>
 	
-<b>Congratulations to PMCA 2017 recipient!</b><br><br>
+<center><b>Congratulations to PMCA 2017 recipient!</b></center><br><br>
 <img src="/images/prore86.png" style="width:30%">
 <center>Mdm Sarabjeet Kaur D/O Hardip Singh from Anderson Primary School at the 2nd Princess Maha Chakri Award Ceremony.</center>	<br>
 	
