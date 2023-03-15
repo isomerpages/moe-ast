@@ -8,7 +8,7 @@ third_nav_title: Science
 
 <img src="/images/nfsc10.png" style="width:70%">
 
-
+![](/images/nfc-01.png)
 <ul class="jekyllcodex_accordion">  
   
 <li>  
@@ -47,9 +47,9 @@ Through collaborative learning in the NFS professional network, teachers cou
 <p>
 
 <img src="/images/nfsc2.png" style="width:70%">
+<img src="/images/anglk-writeup-jan23.png" style="width:70%">
 
 </p>  
-  
 </div>  
   
 </li>  
