@@ -2,6 +2,7 @@ collections:
   our-master-teachers:
     output: true
     order:
+      - English Language/Dr Florence Lee.md
       - English Language/Mr Charles Matthew Peters.md
       - English Language/Dr Tay May Yin.md
       - English Language/Mr Cedric Leong.md
