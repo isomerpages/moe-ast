@@ -125,7 +125,7 @@ This is a collaborative space in OPAL. You will get to know more about our LPL C
 
 For general enquiries on our chapter events or workshops, kindly send an email to our Academy Officer:<br><br>
 
- Ms Denise Ann Yeoh : <a href="Denise_Ann_Yeoh@moe.gov.sg">Denise_Ann_Yeoh@moe.gov.sg</a> 
+Audrey SIM (Ms): <a href="Audrey_sim@moe.gov.sg">Audrey_sim@moe.gov.sg</a> 
 	
 	
 </p>  
