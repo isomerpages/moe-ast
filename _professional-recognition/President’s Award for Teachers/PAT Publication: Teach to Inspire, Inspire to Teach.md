@@ -22,7 +22,8 @@ The PAT recipients and finalists inspire their student to achieve their best and
 <p>
 	
 <a href="https://academyofsingaporeteachers.moe.edu.sg/pat-publication/MOE-PAT20221125/PAT_Publication_2022/index.html#p=1">PAT Publication 2022 - 19th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 	
-<a>PAT Publication 2021 - 18th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 
+	
+<a href="https://academyofsingaporeteachers.moe.edu.sg/pat-publication/MOE-PAT20211012/PAT_Publication_2021/index.html#p=1">PAT Publication 2021 - 18th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 
 	
 <a href="https://academyofsingaporeteachers.moe.edu.sg/pat-publication/MOE-PAT20200918/PAT_Publication_2020/index.html#p=1">PAT Publication 2020 - 17th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 
 
