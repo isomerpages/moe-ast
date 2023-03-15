@@ -51,16 +51,23 @@ Through partnerships with schools, divisions in MOE, the National Institute of E
   
 <input type="checkbox" id="accordion3">  
   
-<label for="accordion3">Our Subject Chapter Core Team</label>  
+<label for="accordion3">Our SEN Core Team</label>  
   
 <div>  
   
 <p>
-The Special Educational Needs Chapter at the Academy of Singapore Teachers is supported by a core team made up of representatives from the four school zones, MOE (including Special Educational Needs Division and Educational Technology Division) as well as the National Institute of Education. <br><br>
+The Special Educational Needs Chapter at the Academy of Singapore Teachers is supported by a core team made up of representatives from the four school zones, MOE (including Special Educational Needs Division and Educational Technology Division) as well as the National Institute of Education.<br><br>
 
-<img src="/images/senc4.png" style="width:70%">
-<img src="/images/senc5.png" style="width:70%">
-  
+<b>Core Team Members 2023</b><br><br>
+
+<b>Our representatives from NIE & MOE</b><br><br>
+
+<img src="/images/nie.png" style="width:70%"><br><br>
+<b>Our zonal representatives from school</b><br><br>
+<img src="/images/schoolreps.png" style="width:70%">
+<b>Our team from the Academy of Singapore Teachers</b><br><br>
+<img src="/images/astreps.png" style="width:70%">
+	
 </p>  
   
 </div>  
