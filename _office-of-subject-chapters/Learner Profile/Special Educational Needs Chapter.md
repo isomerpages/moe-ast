@@ -180,4 +180,25 @@ Professional Learning-Sharing by schools for all personnel supporting SEN</b>
 </div>  
   
 </li>  		
+<li>  
+  
+<input type="checkbox" id="accordion8">  
+  
+<label for="accordion8">How to join us?</label>  
+  
+<div>  
+  
+<p>
+  
+Every teacher supporting students with special educational needs is a member of the SEN Chapter. We invite you to be an active member of the SEN Chapter by attending our various platforms and online community.
+	
+Join us today, so that we continue to grow together as a vibrant fraternity of enabled educators!
+
+Do contact <a href="Rachel_Teo@moe.gov.sg">Rachel_Teo@moe.gov.sg</a> or <a href="Sarinajit_KAUR@moe.gov.sg">Sarinajit_KAUR@moe.gov.sg</a> , if you have any queries.
+	
+</p>  
+ 
+</div>  
+  
+</li>  		
 </ul>
