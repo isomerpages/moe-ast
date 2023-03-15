@@ -81,13 +81,13 @@ Through collaborative learning in the NFS professional network, teachers cou
   
 <p>
 
-<img src="/images/nfsc4.png" style="width:70%">
-<img src="/images/nfsc5.png" style="width:70%">
-<img src="/images/nfsc6.png" style="width:70%">
-<img src="/images/nfsc7.png" style="width:70%">
+<img src="/images/nfs-01.png" style="width:70%"><br>
+<img src="/images/nfs-02.png" style="width:70%"><br>
+<img src="/images/nfs-03.png" style="width:70%"><br>
+<img src="/images/nfs-04.png" style="width:70%"><br>
+<img src="/images/nfs-05.png" style="width:70%"><br>
+<img src="/images/nfs-06.png" style="width:70%"><br>
 
-
- 
 </p>  
   
 </div>  
@@ -103,11 +103,11 @@ Through collaborative learning in the NFS professional network, teachers cou
 <div>  
   
 <p>
-Join us at the next NFS Chapter event (please refer to the schedule of events below) to engage in professional learning and professional conversations with fellow NFS teachers. If you are a Lead Teacher or Senior Teacher, look out for information on our next ST-LT Networked Learning Session, where teachers come together to dialogue and network to support the fraternity through relevant professional development opportunities. <br><br>
+Join us at the next NFS Chapter event (please refer to schedule) to engage in professional learning and professional conversations with fellow NFS teachers. If you are a Lead Teacher or Senior Teacher, look out for information on our next ST-LT Networked Learning Session, where teachers come together to dialogue and network to support the fraternity through relevant professional development opportunities.
 
-You may contact Ms Li Ziyi <a href="li_ziyi@moe.gov.sg">li_ziyi@moe.gov.sg</a>  should you have any queries regarding the Nutrition and Food Science Chapter and its courses.  All NFS teachers are also welcomed to join the <a href="https://www.opal2.moe.edu.sg/csl/s/F3CD3238-F6EB-4339-A455-34A69A694455">"U in Nutrition and Food Science"</a> OPAL collaboration group to connect with the NFS fraternity online. You can also find out about our past events here.</i>
+You may contact <a href="lee_yu_xuan@moe.gov.sg">Ms Lee Yu Xuan ([lee_yu_xuan@moe.gov.sg]</a> should you have any queries regarding the Nutrition and Food Science Chapter and its courses.  All NFS teachers are also welcomed to join the <a href="https://safe.menlosecurity.com/https:/www.opal2.moe.edu.sg/csl/s/F3CD3238-F6EB-4339-A455-34A69A694455/topic/manage">[‘U in Nutrition and Food Science]</a>’ OPAL collaboration group to connect with the NFS fraternity online. You can also find out about our past events there.
 </p>  
- 
+	
 </div>  
   
 </li>  		
