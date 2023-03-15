@@ -77,8 +77,8 @@ LPL Learning Day
 <div>  
   
 <p>
-<img src="/images/lplc4.png" style="width:70%">
-  
+<h2>Our LPL Chapter Core Team</h2>
+<img src="/images/lplsc-jan23.png" style="width:70%">
 </p>  
   
 </div>  
