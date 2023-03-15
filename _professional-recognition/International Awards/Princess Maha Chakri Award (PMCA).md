@@ -51,7 +51,7 @@ Click here <a href="https://academyofsingaporeteachers.moe.edu.sg/docs/default-s
  
 It has been my privilege to teach children from disadvantaged backgrounds, low-progress learners, and students with special educational needs. This has been a rewarding journey for me because I can impact them both in and out of the classrooms. While every classroom presents a unique community of learners, it is important to identify and utilize different strategies and differentiated learning to reach out to every student. What works for one child might not work for another. It takes extra effort to figure out how to best relate to each of my students and find a way to connect with them, but I make it a point to do so. This is important because once students believe that their teacher truly cares for them, then there is no limit to what they can achieve.	<br><br>
 <img src="/images/prore89.png" style="width:60%"><br>
-<center>Sharing at ExcelFest with other educators</center><br><br>	
+<small<center>Sharing at ExcelFest with other educators</center></small><br><br>	
 	
 <b>No Child Left Behind</b>
 <br><br>
@@ -110,8 +110,8 @@ Next, I will be embarking on Creative Play Therapy, a pilot project that aims to
 
 Founded on the belief that every child can succeed, I conceptualised and designed the “Helping Individual Pupils Succeed” (HIPS) Resource Toolkit to help teachers access critical information and practical strategies to help support students who were suspectedof or diagnosed with special educational needs. The primary goal of this toolkit is to enhance teachers’ understanding of special educational needs and equip them with effective teaching and learning strategies. This complements the current range of support provided for students with special educational needs, and will be used during the VIP CLUB and in-class support sessions.	<Br><bR>
 	
-<img src="/images/prore90.png" style="width:60%">	<Br>
-<center>Recipients of the PMCA 2015</center><Br><br>
+<img src="/images/prore90.png" style="width:30%">	<Br>
+<small><center>Recipients of the PMCA 2015</center></small><Br><br>
 
 <b>A Teacher's Heartbeat</b><Br><br>
 
