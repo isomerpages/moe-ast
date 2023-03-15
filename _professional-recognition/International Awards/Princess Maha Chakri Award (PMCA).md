@@ -110,7 +110,7 @@ Next, I will be embarking on Creative Play Therapy, a pilot project that aims to
 Founded on the belief that every child can succeed, I conceptualised and designed the “Helping Individual Pupils Succeed” (HIPS) Resource Toolkit to help teachers access critical information and practical strategies to help support students who were suspectedof or diagnosed with special educational needs. The primary goal of this toolkit is to enhance teachers’ understanding of special educational needs and equip them with effective teaching and learning strategies. This complements the current range of support provided for students with special educational needs, and will be used during the VIP CLUB and in-class support sessions.	<Br><bR>
 	
 <img src="/images/prore90.png" style="width:30%">	<Br><br>
-<b>  Recipients of the PMCA 2015</b><Br><br>
+<center>Recipients of the PMCA 2015</center><Br><br>
 
 <b>A Teacher's Heartbeat</b><Br><br>
 
