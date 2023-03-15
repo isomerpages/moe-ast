@@ -124,9 +124,9 @@ The SEN Chapter facilitates regular Networked Learning Sessions (NLS) and tea me
 <p>
   
 <b>For those interested in the Teaching Track (Teacher Leaders Learning Needs SEN</b>
-
+<br><br>
 <img src="/images/ws2.png" style="width:70%">
-
+<br><br>
 <b>Registration is through email invites sent to schools</b>
 	
 	
