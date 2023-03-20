@@ -15,7 +15,7 @@ sections:
       title: Spotlights
       description: Congratulations to Our PAT 2022 Recipients and Finalists!
       button: Click here
-      url: /professional-recognition/presidents-award-for-teachers/recipients-and-finalists/
+      url: /professional-excellence/presidents-award-for-teachers/recipients-and-finalists/
       alt: Image alt text
       image: /images/prore1.png
   - infopic:
