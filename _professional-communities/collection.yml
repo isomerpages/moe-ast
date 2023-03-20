@@ -2,6 +2,7 @@ collections:
   professional-communities:
     output: true
     order:
+      - NLC/Overview.md
       - NLC/.keep
       - PLC/FAQs and Resources.md
       - PLC/Reviewing PLCs.md
