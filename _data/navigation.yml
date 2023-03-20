@@ -53,15 +53,15 @@ links:
       - title: PD Guides
         url: /development-planning-office/pd-resources/
   - title: About Us
-    url: /permalink
+    url: "#"
     sublinks:
       - title: Who We Are
         url: /permalink
       - title: Teachers' Council
-        url: /permalink
+        url: /about-us/teachers-council/
       - title: AST Master Teachers
         url: /permalink
       - title: Academies & Language Centres
-        url: /permalink
+        url: /about-us/academies-and-language-centres/
       - title: Contact Us
-        url: /permalink
+        url: /ast-contact-us/
