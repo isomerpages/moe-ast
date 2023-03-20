@@ -1,5 +1,5 @@
 collections:
-  pd-guides:
+  resources:
     output: true
     order:
       - PD Guides.md
