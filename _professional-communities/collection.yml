@@ -2,10 +2,7 @@ collections:
   professional-communities:
     output: true
     order:
-      - NLC/Senior Teachers and Lead Teachers (ST–LT) Network.md
-      - NLC/School Staff Developer (SSD) Network.md
-      - NLC/Overview.md
-      - NLC/.keep
+      - PLC/.keep
       - PLC/FAQs and Resources.md
       - PLC/Reviewing PLCs.md
       - PLC/Developing Effective PLCs.md
@@ -14,4 +11,7 @@ collections:
       - PLC/Benefits of PLC.md
       - PLC/Our PLC Journey.md
       - PLC/Overview of PLC.md
-      - PLC/.keep
+      - NLC/.keep
+      - NLC/Senior Teachers and Lead Teachers (ST–LT) Network.md
+      - NLC/School Staff Developer (SSD) Network.md
+      - NLC/Overview.md
