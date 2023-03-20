@@ -1,5 +1,4 @@
 collections:
   awards:
     output: true
-    order:
-      - OYEA/.keep
+    order: []
