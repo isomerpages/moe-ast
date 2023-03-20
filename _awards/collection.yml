@@ -2,5 +2,4 @@ collections:
   awards:
     output: true
     order:
-      - OYEA/Outstanding Youth in Education Award (OYEA).md
       - OYEA/.keep
