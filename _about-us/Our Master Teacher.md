@@ -3,7 +3,7 @@ title: Our Master Teacher
 permalink: /about-us/about-us/our-master-teachers/
 description: ""
 ---
-### Our Master Teacher
+### AST Master Teachers
 
 <img src="/images/omtn1.png" style="width:80%">
 
