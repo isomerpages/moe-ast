@@ -3,14 +3,14 @@ collections:
     output: true
     order:
       - PLC/.keep
-      - PLC/FAQs and Resources.md
-      - PLC/Reviewing PLCs.md
-      - PLC/Developing Effective PLCs.md
+      - PLC/Overview of PLC.md
+      - PLC/Our PLC Journey.md
+      - PLC/Benefits of PLC.md
       - PLC/3 Big Ideas, 4 Critical Questions and 5 Dimensions for Effective
         PLCs.md
-      - PLC/Benefits of PLC.md
-      - PLC/Our PLC Journey.md
-      - PLC/Overview of PLC.md
+      - PLC/Developing Effective PLCs.md
+      - PLC/Reviewing PLCs.md
+      - PLC/FAQs and Resources.md
       - NLC/.keep
       - NLC/Senior Teachers and Lead Teachers (ST–LT) Network.md
       - NLC/School Staff Developer (SSD) Network.md
