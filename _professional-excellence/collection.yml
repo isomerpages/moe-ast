@@ -2,7 +2,6 @@ collections:
   professional-excellence:
     output: true
     order:
-      - Awards/.keep
       - Overview.md
       - Ethos of the Teaching Profession.md
       - Teacher Growth Model.md
@@ -13,6 +12,7 @@ collections:
       - Centre for Teaching/.keep
       - Centre for Teaching/Centre for Teaching and Learning Excellence.md
       - Centre for Teaching/Demonstration Classes Conducted at CTLE@YISS.md
+      - Awards/.keep
       - Critical Inquiry/.keep
       - Critical Inquiry/Critical Inquiry in Professional Development.md
       - Critical Inquiry/Critical Inquiry Courses.md
