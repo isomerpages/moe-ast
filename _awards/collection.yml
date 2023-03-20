@@ -1,5 +1,5 @@
 collections:
-  professional-recognition:
+  awards:
     output: true
     order:
       - President’s Award for Teachers/Overview.md
