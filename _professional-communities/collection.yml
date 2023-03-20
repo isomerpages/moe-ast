@@ -2,6 +2,7 @@ collections:
   professional-communities:
     output: true
     order:
+      - NLC/School Staff Developer (SSD) Network.md
       - NLC/Overview.md
       - NLC/.keep
       - PLC/FAQs and Resources.md
