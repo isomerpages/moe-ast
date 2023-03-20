@@ -20,7 +20,7 @@ sections:
       image: /images/infopic1.png
   - infopic:
       title: Events
-      description: Congratulations to Our OYEA 2022 Recipients and Finalists!
+      description: Teachers' Conference and ExCEL Fest is back!
       button: Click here
       url: /events/tcef2023/
       alt: Image alt text
