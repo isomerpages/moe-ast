@@ -2,6 +2,7 @@ collections:
   professional-communities:
     output: true
     order:
+      - PLC/.keep
       - Overview of PLC.md
       - Our PLC Journey.md
       - Benefits of PLC.md
