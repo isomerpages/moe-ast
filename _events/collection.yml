@@ -1,5 +1,4 @@
 collections:
   events:
     output: true
-    order:
-      - TCEF2023/.keep
+    order: []
