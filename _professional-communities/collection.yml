@@ -2,6 +2,7 @@ collections:
   professional-communities:
     output: true
     order:
+      - PLC/FAQs and Resources.md
       - PLC/Reviewing PLCs.md
       - PLC/Developing Effective PLCs.md
       - PLC/3 Big Ideas, 4 Critical Questions and 5 Dimensions for Effective
