@@ -23,8 +23,8 @@ sections:
       description: Teachers' Conference and ExCEL Fest is back!
       button: Click here
       url: /tcef-publicity01
-      alt: Image alt text
-      image: /images/events-stage.jpg
+      alt: TCEF2023
+      image: /images/TCEF2023-01.jpg
   - infopic:
       title: " Articles"
       description: Warmest Congratulations to Fellow of AST Award Recipients!
