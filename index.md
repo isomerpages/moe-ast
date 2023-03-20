@@ -22,7 +22,7 @@ sections:
       title: Events
       description: Congratulations to Our OYEA 2022 Recipients and Finalists!
       button: Click here
-      url: /professional-recognition/OYEA/overview/
+      url: /events/tcef2023/
       alt: Image alt text
       image: /images/info.png
   - infopic:
