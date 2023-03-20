@@ -2,4 +2,4 @@ collections:
   development-planning-office:
     output: true
     order:
-      - PD Resources.md
+      - PD Guides.md
