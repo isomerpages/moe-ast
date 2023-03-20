@@ -3,7 +3,6 @@ title: PD Guides
 permalink: /development-planning-office/pd-resources/
 description: ""
 ---
-
 ### PD Resources
 
 
@@ -13,7 +12,7 @@ description: ""
   
 <input type="checkbox" id="accordion1">  
   
-<label for="accordion1">PD Resources (Local)</label>  
+<label for="accordion1">PD Guides (Local)</label>  
   
 <div>  
   
