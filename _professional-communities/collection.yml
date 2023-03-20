@@ -1,4 +1,5 @@
 collections:
   professional-communities:
     output: true
-    order: []
+    order:
+      - Overview of PLC.md
