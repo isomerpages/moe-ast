@@ -1,5 +1,4 @@
 collections:
   events:
     output: true
-    order:
-      - TCEF 2023.md
+    order: []
