@@ -3,7 +3,7 @@ title: PD Guides
 permalink: /development-planning-office/pd-resources/
 description: ""
 ---
-### PD Resources
+### PD Guides
 
 
 <ul class="jekyllcodex_accordion">  
