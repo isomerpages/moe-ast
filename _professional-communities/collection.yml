@@ -2,6 +2,7 @@ collections:
   professional-communities:
     output: true
     order:
+      - NLC/Senior Teachers and Lead Teachers (ST–LT) Network.md
       - NLC/School Staff Developer (SSD) Network.md
       - NLC/Overview.md
       - NLC/.keep
