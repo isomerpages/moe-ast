@@ -1,7 +1,7 @@
 logo: /images/astlogo.svg
 links:
   - title: Professional Learning
-    url: /programmes-and-publications/overview/
+    url: "#"
     sublinks:
       - title: For EO
         url: /programmes-and-publications/for-education-officers/professional-development/
@@ -13,3 +13,17 @@ links:
         url: /about-us/about-us/our-master-teachers/
       - title: TWA+
         url: /programmes-and-publications/for-education-officers/twa/
+  - title: Professional Communities
+    url: /permalink
+    sublinks: []
+  - title: Professional Excellence
+    url: "#"
+    sublinks:
+      - title: Ethos
+        url: /professional-excellence/ethos/
+      - title: Teacher Growth Model
+        url: /professional-excellence/teacher-growth-model/
+      - title: Singapore Teaching Practice
+        url: /professional-excellence/the-singapore-teaching-practice/
+      - title: Submenu Title
+        url: /permalink
