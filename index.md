@@ -11,13 +11,6 @@ sections:
       background: /images/banner.jpeg
       button: About Us
       url: /about-us/overview/
-      key_highlights:
-        - title: ""
-          description: ""
-          url: ""
-        - title: ""
-          description: ""
-          url: " "
   - infopic:
       title: President's Award for Teachers
       description: Congratulations to Our PAT 2022 Recipients and Finalists!
