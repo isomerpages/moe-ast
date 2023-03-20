@@ -24,6 +24,7 @@ sections:
       button: Click here
       url: /events/tcef2023/
       alt: Image alt text
+      image: /images/events-stage.jpg
   - infopic:
       title: " Articles"
       description: Warmest Congratulations to Fellow of AST Award Recipients!
