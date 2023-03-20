@@ -12,15 +12,12 @@ sections:
       button: About Us
       url: /about-us/overview/
       key_highlights:
-        - title: Spotlight
+        - title: ""
           description: ""
-          url: /development-planning-office/overview/
-        - title: Events
+          url: ""
+        - title: ""
           description: ""
-          url: " /professional-excellence/overview/"
-        - title: Stories
-          description: ""
-          url: " /professional-recognition/overview/"
+          url: " "
   - infopic:
       title: President's Award for Teachers
       description: Congratulations to Our PAT 2022 Recipients and Finalists!
