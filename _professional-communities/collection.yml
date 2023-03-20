@@ -2,6 +2,8 @@ collections:
   professional-communities:
     output: true
     order:
+      - PLC/3 Big Ideas, 4 Critical Questions and 5 Dimensions for Effective
+        PLCs.md
       - PLC/Benefits of PLC.md
       - PLC/Our PLC Journey.md
       - PLC/Overview of PLC.md
