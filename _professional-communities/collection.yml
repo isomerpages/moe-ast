@@ -2,4 +2,5 @@ collections:
   professional-communities:
     output: true
     order:
+      - Our PLC Journey.md
       - Overview of PLC.md
