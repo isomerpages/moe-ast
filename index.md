@@ -22,7 +22,7 @@ sections:
       title: Events
       description: Teachers' Conference and ExCEL Fest is back!
       button: Click here
-      url: /events/tcef2023/
+      url: /tcef-publicity01
       alt: Image alt text
       image: /images/events-stage.jpg
   - infopic:
