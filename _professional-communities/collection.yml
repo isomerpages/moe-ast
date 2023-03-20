@@ -2,15 +2,15 @@ collections:
   professional-communities:
     output: true
     order:
-      - PLC/.keep
-      - PLC/Overview of PLC.md
-      - PLC/Our PLC Journey.md
-      - PLC/Benefits of PLC.md
-      - PLC/3 Big Ideas, 4 Critical Questions and 5 Dimensions for Effective
-        PLCs.md
-      - PLC/Developing Effective PLCs.md
-      - PLC/Reviewing PLCs.md
-      - PLC/FAQs and Resources.md
+      - Professional LearningCommunity/.keep
+      - Professional LearningCommunity/Overview of PLC.md
+      - Professional LearningCommunity/Our PLC Journey.md
+      - Professional LearningCommunity/Benefits of PLC.md
+      - Professional LearningCommunity/3 Big Ideas, 4 Critical Questions and 5
+        Dimensions for Effective PLCs.md
+      - Professional LearningCommunity/Developing Effective PLCs.md
+      - Professional LearningCommunity/Reviewing PLCs.md
+      - Professional LearningCommunity/FAQs and Resources.md
       - Networked Learning Community/.keep
       - Networked Learning Community/Overview.md
       - Networked Learning Community/Senior Teachers and Lead Teachers (ST–LT)
