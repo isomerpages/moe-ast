@@ -2,27 +2,6 @@ collections:
   professional-excellence:
     output: true
     order:
-      - International Awards New/Overview.md
-      - International Awards New/Fulbright Distinguished Awards (DA) in Teaching
-        Program.md
-      - International Awards New/Princess Maha Chakri Award (PMCA).md
-      - International Awards New/.keep
-      - Academy Awards New/Overview.md
-      - Academy Awards New/Nomination.md
-      - Academy Awards New/Ceremony.md
-      - Academy Awards New/AA Stories.md
-      - Academy Awards New/.keep
-      - OYEA New/Outstanding Youth in Education Award (OYEA).md
-      - OYEA New/Nominate a Teacher for OYEA.md
-      - OYEA New/OYEA Recipients and Finalists.md
-      - OYEA New/OYEA Stories.md
-      - OYEA New/Photos of OYEA Recipients and Finalists.md
-      - OYEA New/.keep
-      - PAT New/.keep
-      - PAT New/Overview.md
-      - PAT New/Nominate a Teacher for PAT.md
-      - PAT New/PAT Recipients & Finalists.md
-      - "PAT New/PAT Publication: Teach to Inspire, Inspire to Teach.md"
       - Overview.md
       - Ethos of the Teaching Profession.md
       - Teacher Growth Model.md
@@ -33,6 +12,27 @@ collections:
       - Centre for Teaching/.keep
       - Centre for Teaching/Centre for Teaching and Learning Excellence.md
       - Centre for Teaching/Demonstration Classes Conducted at CTLE@YISS.md
+      - PAT New/.keep
+      - PAT New/Overview.md
+      - PAT New/Nominate a Teacher for PAT.md
+      - PAT New/PAT Recipients & Finalists.md
+      - "PAT New/PAT Publication: Teach to Inspire, Inspire to Teach.md"
+      - OYEA New/.keep
+      - OYEA New/Outstanding Youth in Education Award (OYEA).md
+      - OYEA New/Nominate a Teacher for OYEA.md
+      - OYEA New/OYEA Recipients and Finalists.md
+      - OYEA New/OYEA Stories.md
+      - OYEA New/Photos of OYEA Recipients and Finalists.md
+      - Academy Awards New/.keep
+      - Academy Awards New/Overview.md
+      - Academy Awards New/Nomination.md
+      - Academy Awards New/Ceremony.md
+      - Academy Awards New/AA Stories.md
+      - International Awards New/.keep
+      - International Awards New/Overview.md
+      - International Awards New/Fulbright Distinguished Awards (DA) in Teaching
+        Program.md
+      - International Awards New/Princess Maha Chakri Award (PMCA).md
       - Critical Inquiry/.keep
       - Critical Inquiry/Critical Inquiry in Professional Development.md
       - Critical Inquiry/Critical Inquiry Courses.md
