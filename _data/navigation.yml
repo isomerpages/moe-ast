@@ -1,28 +1,15 @@
 logo: /images/astlogo.svg
 links:
-  - title: About Us
-    url: /about-us/overview/
+  - title: Professional Learning
+    url: /programmes-and-publications/overview/
     sublinks:
-      - title: Teachers' Council
-        url: /about-us/teachers-council/
-      - title: Our Organisation
-        url: /about-us/our-organisation/
-      - title: Office of Subject Chapters
-        url: /office-of-subject-chapters/overview/
+      - title: For EO
+        url: /programmes-and-publications/for-education-officers/professional-development/
+      - title: For EAS
+        url: /programmes-and-publications/professional-development-for-executive-and-administrative-staff/
+      - title: For AED
+        url: /programmes-and-publications/professional-development-for-allied-educators/
       - title: Our Master Teacher
         url: /about-us/about-us/our-master-teachers/
-      - title: Academies and Language Centres
-        url: /about-us/Academies-and-Language-Centres/
-  - title: Professional Learning
-    collection: professional-learning
-  - title: Olive Staff Well Being
-    url: https://staging.d2ck8l3cjc64ct.amplifyapp.com/
-    sublinks:
-      - title: Staff Well Being Programmes
-        url: https://staging.d2ck8l3cjc64ct.amplifyapp.com/olive/staff-well-being-programmes/
-      - title: ICARE
-        url: https://staging.d2ck8l3cjc64ct.amplifyapp.com/olive/icare/
-      - title: MESRC
-        url: https://staging.d2ck8l3cjc64ct.amplifyapp.com/olive/mesrc/
-  - title: Contact Us
-    url: /ast-contact-us/
+      - title: TWA+
+        url: /programmes-and-publications/for-education-officers/twa/
