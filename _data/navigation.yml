@@ -15,7 +15,11 @@ links:
         url: /programmes-and-publications/for-education-officers/twa/
   - title: Professional Communities
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: PLCs
+        url: /permalink
+      - title: NLCs
+        url: /permalink
   - title: Professional Excellence
     url: "#"
     sublinks:
@@ -30,4 +34,28 @@ links:
       - title: Centre For Teaching & Learning
         url: /permalink
       - title: Awards
+        url: /permalink
+  - title: Resources
+    url: /permalink
+    sublinks:
+      - title: OLive Staff Well Being
+        url: /permalink
+      - title: READ @ Academy
+        url: /permalink
+      - title: MOE Heritage Centre
+        url: /permalink
+      - title: PD Guides
+        url: /permalink
+  - title: About Us
+    url: /permalink
+    sublinks:
+      - title: Who We Are
+        url: /permalink
+      - title: Teachers' Council
+        url: /permalink
+      - title: AST Master Teachers
+        url: /permalink
+      - title: Academies & Language Centres
+        url: /permalink
+      - title: Contact Us
         url: /permalink
