@@ -2,6 +2,8 @@ collections:
   professional-excellence:
     output: true
     order:
+      - International Awards New/Fulbright Distinguished Awards (DA) in Teaching
+        Program.md
       - International Awards New/Princess Maha Chakri Award (PMCA).md
       - International Awards New/.keep
       - Academy Awards New/.keep
