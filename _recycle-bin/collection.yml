@@ -1,0 +1,4 @@
+collections:
+  recycle-bin:
+    output: true
+    order: []
