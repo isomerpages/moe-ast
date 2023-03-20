@@ -2,6 +2,7 @@ collections:
   professional-excellence:
     output: true
     order:
+      - President's Award for Teachers/.keep
       - Overview.md
       - Ethos of the Teaching Profession.md
       - Teacher Growth Model.md
