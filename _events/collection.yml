@@ -2,5 +2,4 @@ collections:
   events:
     output: true
     order:
-      - TCEF2023/Save the Date.md
       - TCEF2023/.keep
