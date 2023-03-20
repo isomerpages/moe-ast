@@ -2,4 +2,5 @@ collections:
   recycle-bin:
     output: true
     order:
+      - Overview.md
       - Overview of Professional Development (PD).md
