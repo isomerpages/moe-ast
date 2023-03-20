@@ -2,6 +2,7 @@ collections:
   recycle-bin:
     output: true
     order:
+      - About PDPO.md
       - PDPO Overview.md
       - Overview.md
       - Overview of Professional Development (PD).md
