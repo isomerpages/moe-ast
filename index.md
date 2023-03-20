@@ -43,7 +43,7 @@ sections:
       alt: Image alt text
       image: /images/infopic3.png
   - resources:
-      title: Latest Articles
+      title: Latest Stories
       subtitle: Stories
       button: View all articles
 ---
