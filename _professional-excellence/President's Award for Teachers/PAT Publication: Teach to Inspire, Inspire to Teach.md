@@ -31,9 +31,9 @@ The PAT recipients and finalists inspire their student to achieve their best and
 
 <a href="https://academyofsingaporeteachers.moe.edu.sg/pat-publication/MOE-PAT_20181002/">PAT Publication 2018 - 15th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/professional-recognition/Presidents-Award-for-Teachers/publication/">PAT Publication 2018 - 15th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>Re-upload this pdf<br><br>
+<a href="https://drive.google.com/file/d/15XUN0JbIFEozFoYhwEu5GOkji7QdEoVu/view?usp=sharing">PAT Publication 2018 - 15th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br>
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/professional-recognition/Presidents-Award-for-Teachers/publication/">PAT Publication 2017 - 14th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>Re-upload this pdf<br><br>
+<a href="https://drive.google.com/file/d/1tbZI90k2MtQLnVme4ouT05ieRUUjGb6j/view?usp=sharing">PAT Publication 2017 - 14th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br>
 
 <a href="https://drive.google.com/file/d/18qaZK5m9Rklvya0NslCcIDj_S4_8aXo2/view?usp=sharing">PAT Publication 2016 - 13th Issue of 'Teach to Inspire, Inspire to Teach'</a><br> <br>
 
