@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Education Officers/.keep
-      - For Education Officers/Teacher–Led Workshops.md
       - For Executive & Administrative Staff.md
       - For Allied Educators.md
       - PD for Education Officers/.keep
