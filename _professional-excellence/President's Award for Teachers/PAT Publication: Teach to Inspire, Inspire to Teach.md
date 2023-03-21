@@ -4,9 +4,6 @@ permalink: /professional-recognition/Presidents-Award-for-Teachers/publication/
 description: ""
 third_nav_title: President's Award for Teachers
 ---
-
-
-
 ### PAT Publication: Teach to Inspire, Inspire to Teach
 
 The PAT recipients and finalists inspire their student to achieve their best and work towards their dreams. Their enthusiasm for teaching and learning spur their peers on, leading them to strive for excellence in the imparting of knowledge and values to students.&nbsp;Guided by the Ethos of the Teaching Profession, these teachers go the extra mile to ensure that every child develops holistically and emerges as confident and competent students of the 21st&nbsp;Century.
@@ -38,7 +35,7 @@ The PAT recipients and finalists inspire their student to achieve their best and
 
 <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/professional-recognition/Presidents-Award-for-Teachers/publication/">PAT Publication 2017 - 14th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>Re-upload this pdf<br><br>
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/professional-recognition/Presidents-Award-for-Teachers/publication/">PAT Publication 2016 - 13th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>Re-upload this pdf<br><br>
+<a href="https://drive.google.com/file/d/18qaZK5m9Rklvya0NslCcIDj_S4_8aXo2/view?usp=sharing">PAT Publication 2016 - 13th Issue of 'Teach to Inspire, Inspire to Teach'</a><br> <br>
 
 <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/pat1.pdf">PAT Publication 2015 - 12th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br>
 
