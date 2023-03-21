@@ -26,24 +26,27 @@ The modules in the milestone programmes reflect the expected scope of impact and
 <label for="accordion1">Teacher Leaders Programme 1 (TLP 1)</label>  
   
 <div>  
-
+<p>
 <b>Target Audience</b>
-<br>Appointed Senior Teachers (STs) with at least one year experience in the role.
+	<br/>Appointed Senior Teachers (STs) with at least one year experience in the role.</p>
   
-<b>Duration</b>
-<br>10-week programme with two intakes in January and June/July annually
-  
+<p>
+	<b>Duration</b>
+	<br/>10-week programme with two intakes in January and June/July annually</p>
+ 
+	<p>
 <b>Programme Objectives</b>  
-The programme aims to enable Senior Teacher participants to   
+<br/>The programme aims to enable Senior Teacher participants to   
  
  * develop a shared understanding of the core beliefs and the role of STs in bringing out the full potential of their students;  
  * build their capacity to lead and facilitate teams, manage working relationships, and foster a collaborative professional culture in their schools; and  
- * keep up-to-date with current issues, trends, and developments in curriculum, pedagogy, and assessment and to enable STs to contribute innovatively in teaching and learning.  
-  
+ * keep up-to-date with current issues, trends, and developments in curriculum, pedagogy, and assessment and to enable STs to contribute innovatively in teaching and learning.  </p>
+
+	<p>
 <b>Programme Description</b>  
-  Senior Teacher participants will acquire and apply key knowledge and skills to impact the teaching community within the school. The modules address topics such as curriculum leadership, coaching and mentoring, teacher leadership, assessment literacy, professional ethics, and community engagement.  To further enhance Senior Teachers’ grounding in research methodology and skills, there is a research component where Senior Teachers design and implement a school-based research project (Capstone Project).  
+ <br/>Senior Teacher participants will acquire and apply key knowledge and skills to impact the teaching community within the school. The modules address topics such as curriculum leadership, coaching and mentoring, teacher leadership, assessment literacy, professional ethics, and community engagement.  To further enhance Senior Teachers’ grounding in research methodology and skills, there is a research component where Senior Teachers design and implement a school-based research project (Capstone Project).  
   
-Within six months after the programme, Senior Teacher participants will pilot their team research project (Capstone Project) before presenting the outcomes and evaluation of the implementation of this project to NIE and their peers.
+Within six months after the programme, Senior Teacher participants will pilot their team research project (Capstone Project) before presenting the outcomes and evaluation of the implementation of this project to NIE and their peers.</p>
 	</div>
 	</li>
 	<li>
