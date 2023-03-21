@@ -2,6 +2,7 @@ collections:
   professional-learning:
     output: true
     order:
+      - For Education Officers/Teacher–Led Workshops.md
       - For Education Officers/Teacher Work Attachment Plus Programme.md
       - For Education Officers/Teachers' Conference and ExCEL Fest 2023.md
       - For Education Officers/Teacher Leaders Programme.md
