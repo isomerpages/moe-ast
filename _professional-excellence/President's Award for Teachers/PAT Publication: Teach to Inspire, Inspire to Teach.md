@@ -21,15 +21,14 @@ The PAT recipients and finalists inspire their student to achieve their best and
   
 <p>
 	
-<a href="https://academyofsingaporeteachers.moe.edu.sg/pat-publication/MOE-PAT20221125/PAT_Publication_2022/index.html#p=1">PAT Publication 2022 - 19th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 	
+<a href="https://drive.google.com/file/d/1bVsGmEy0ISl13YDcHQUwm0gw6XWZmv_S/view?usp=sharing">PAT Publication 2022 - 19th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br> 	
 	
-<a href="https://academyofsingaporeteachers.moe.edu.sg/pat-publication/MOE-PAT20211012/PAT_Publication_2021/index.html#p=1">PAT Publication 2021 - 18th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 
+<a href="https://drive.google.com/file/d/1BAB4WXK8cgtnRjH4o50a6tvj8Ubq33KA/view?usp=sharing">PAT Publication 2021 - 18th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br> 
 	
-<a href="https://academyofsingaporeteachers.moe.edu.sg/pat-publication/MOE-PAT20200918/PAT_Publication_2020/index.html#p=1">PAT Publication 2020 - 17th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 
+<a href="https://drive.google.com/file/d/1Ts80If1eqnBTsNIXWSHkKAKfEaUy_aZx/view?usp=sharing">PAT Publication 2020 - 17th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br> 
 
-<a href="https://academyofsingaporeteachers.moe.edu.sg/pat-publication/MOE-PAT20191004/PAT_Finalists_2019/mobile/index.html">PAT Publication 2019 - 16th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 
+<a href="https://drive.google.com/file/d/1POCcweDONn_pdjg7SpMPZ3KNt3LxYeBG/view?usp=sharing">PAT Publication 2019 - 16th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br> 
 
-<a href="https://academyofsingaporeteachers.moe.edu.sg/pat-publication/MOE-PAT_20181002/">PAT Publication 2018 - 15th Issue of 'Teach to Inspire, Inspire to Teach'</a><br>(epub version)<br><br> 
 
 <a href="https://drive.google.com/file/d/15XUN0JbIFEozFoYhwEu5GOkji7QdEoVu/view?usp=sharing">PAT Publication 2018 - 15th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br>
 
