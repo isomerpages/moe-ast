@@ -2,4 +2,5 @@ collections:
   professional-learning:
     output: true
     order:
+      - For Education Officers/Overview.md
       - For Education Officers/.keep
