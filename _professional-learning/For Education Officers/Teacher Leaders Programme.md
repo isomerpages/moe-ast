@@ -18,13 +18,11 @@ This programme seeks to prepare Teacher Leaders for their roles as pedagogical l
 
 The modules in the milestone programmes reflect the expected scope of impact and influence of Teacher Leaders.  Close referencing is made to the ethos of the teaching profession and participants’ roles as pedagogical leaders and instructional mentors in the fraternity.
 
-<ul class="jekyllcodex_accordion">  
-  
-<li>  
-  
 <input type="checkbox" id="accordion1">  
-<h4 id="tlp1">Teacher Leaders Programme 1 (TLP 1)</h4>
-
+  
+<label for="accordion1">Teacher Leaders Programme 1 (TLP 1)</label>  
+  
+<div>  
 
 <b>Target Audience</b>
 <br>Appointed Senior Teachers (STs) with at least one year experience in the role.
@@ -43,6 +41,7 @@ The programme aims to enable Senior Teacher participants to 
   Senior Teacher participants will acquire and apply key knowledge and skills to impact the teaching community within the school. The modules address topics such as curriculum leadership, coaching and mentoring, teacher leadership, assessment literacy, professional ethics, and community engagement.  To further enhance Senior Teachers’ grounding in research methodology and skills, there is a research component where Senior Teachers design and implement a school-based research project (Capstone Project).  
   
 Within six months after the programme, Senior Teacher participants will pilot their team research project (Capstone Project) before presenting the outcomes and evaluation of the implementation of this project to NIE and their peers.
+	</div>
 	</li>
 	<li>
 <h4 id="tlp2">Teacher Leaders Programme 2 (TLP 2)</h4>
