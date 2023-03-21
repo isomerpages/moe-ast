@@ -14,14 +14,14 @@ sections:
   - infopic:
       title: Spotlights
       description: Congratulations to Our PAT 2022 Recipients and Finalists!
-      button: Click here
+      button: View all spotlight articles
       url: /professional-excellence/presidents-award-for-teachers/recipients-and-finalists/
       alt: Image alt text
       image: /images/prore1.png
   - infopic:
       title: Events
       description: Teachers' Conference and ExCEL Fest is back!
-      button: Click here
+      button: View All upcoming events
       url: /tcef-publicity01
       alt: events2023
       image: /images/events-stage.jpg
