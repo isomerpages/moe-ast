@@ -2,6 +2,7 @@ collections:
   professional-learning:
     output: true
     order:
+      - For Education Officers/Instructional Mentoring.md
       - For Education Officers/.keep
       - PD for Education Officers/Professional Development for Education
         Officers.md
