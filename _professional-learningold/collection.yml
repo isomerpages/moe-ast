@@ -2,7 +2,6 @@ collections:
   professional-learningold:
     output: true
     order:
-      - For Executive & Administrative Staff.md
       - For Allied Educators.md
       - PD for Education Officers/.keep
       - PD for Education Officers/Professional Development for Education
