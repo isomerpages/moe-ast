@@ -2,9 +2,9 @@ collections:
   professional-learning:
     output: true
     order:
-      - For Education Officers/Outstanding Educator in Consultancy Programme.md
-      - For Education Officers/Instructional Mentoring.md
       - For Education Officers/.keep
+      - For Education Officers/Instructional Mentoring.md
+      - For Education Officers/Outstanding Educator in Consultancy Programme.md
       - PD for Education Officers/Professional Development for Education
         Officers.md
       - PD for Education Officers/Instructional Mentoring.md
