@@ -2,6 +2,7 @@ collections:
   professional-learning:
     output: true
     order:
+      - For Allied Educators.md
       - For Executive & Administrative Staff.md
       - For Education Officers/Teacher–Led Workshops.md
       - For Education Officers/Teacher Work Attachment Plus Programme.md
