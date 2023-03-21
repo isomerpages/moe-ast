@@ -1,5 +1,5 @@
 collections:
-  recycle-bin:
+  recycle-bin2:
     output: true
     order:
       - About PDPO.md
