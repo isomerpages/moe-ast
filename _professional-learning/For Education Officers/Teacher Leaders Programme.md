@@ -37,10 +37,12 @@ The modules in the milestone programmes reflect the expected scope of impact and
 	<p>
 <b>Programme Objectives</b>  
 <br/>The programme aims to enable Senior Teacher participants to   
- 
- * develop a shared understanding of the core beliefs and the role of STs in bringing out the full potential of their students;  
- * build their capacity to lead and facilitate teams, manage working relationships, and foster a collaborative professional culture in their schools; and  
- * keep up-to-date with current issues, trends, and developments in curriculum, pedagogy, and assessment and to enable STs to contribute innovatively in teaching and learning.  </p>
+ <ul>
+	 <li>develop a shared understanding of the core beliefs and the role of STs in bringing out the full potential of their students;  </li>
+	 <li>build their capacity to lead and facilitate teams, manage working relationships, and foster a collaborative professional culture in their schools; and  </li>
+	 <li>keep up-to-date with current issues, trends, and developments in curriculum, pedagogy, and assessment and to enable STs to contribute innovatively in teaching and learning. </li>
+	</ul>
+	</p>
 
 	<p>
 <b>Programme Description</b>  
@@ -54,23 +56,29 @@ Within six months after the programme, Senior Teacher participants will pilot th
   
 <label for="accordion2">Teacher Leaders Programme 2 (TLP 2)</label>  
 <div>
+<p>
 <b>Target Audience  </b>
-<br>Appointed Lead Teachers (LTs)  
-  
+	<br/>Appointed Lead Teachers (LTs)  </p>
+
+<p>
 <b>Duration  </b>
-<br>10-week programme with one intake in January annually  
+	<br/>10-week programme with one intake in January annually  </p>
   
+<p>
 <b>Programme Objectives  </b>
-<br>The programme aims to enable Lead Teacher participants to  
+<br/>The programme aims to enable Lead Teacher participants to  
+  <ul>
+<li>develop a shared understanding of the core beliefs and the role of LTs in bringing out the full potential of their students;  </li>
+		<li>build their capacity to lead and facilitate teams, manage working relationships, and foster a collaborative professional culture in their schools and clusters; and  </li>
+		<li>keep up-to-date with current issues, trends, and developments in curriculum, pedagogy, and assessment, and to enable LTs to contribute innovatively in teaching and learning.  </li>
+	</ul>
+	</p>
   
-* develop a shared understanding of the core beliefs and the role of LTs in bringing out the full potential of their students;  
-* build their capacity to lead and facilitate teams, manage working relationships, and foster a collaborative professional culture in their schools and clusters; and  
-* keep up-to-date with current issues, trends, and developments in curriculum, pedagogy, and assessment, and to enable LTs to contribute innovatively in teaching and learning.  
-  
+	<p>
 <b>Programme Description  </b>
-<br>Lead Teacher participants will acquire and apply key knowledge and skills to impact the teaching community at the cluster level. They will understand the work and impact of Master Teachers (MTTs) at the AST academies and language centres through a five-day attachment. In addition, Lead Teachers will also learn and broaden their perspectives through visits to educational institutions overseas.  
+<br/>Lead Teacher participants will acquire and apply key knowledge and skills to impact the teaching community at the cluster level. They will understand the work and impact of Master Teachers (MTTs) at the AST academies and language centres through a five-day attachment. In addition, Lead Teachers will also learn and broaden their perspectives through visits to educational institutions overseas. 
   
-Within six months after the programme, Lead Teacher participants will apply their learning by completing a capstone project and sharing at the cluster or network levels.
+Within six months after the programme, Lead Teacher participants will apply their learning by completing a capstone project and sharing at the cluster or network levels.</p>
 		</div>
 	</li>
 	<li>
@@ -78,17 +86,20 @@ Within six months after the programme, Lead Teacher participants will apply thei
   
 <label for="accordion3">Teacher Leaders Programme 3 (TLP 3)</label>  
 <div>
-<b>Target Audience  </b>
-<br>Newly appointed Master Teachers (MTTs)  
-  
+<p>
+	<b>Target Audience  </b>
+	<br/>Newly appointed Master Teachers (MTTs)  </p>
+<p>
 <b>Duration  </b>
-<br>Two-week induction programme in January  
-  
+	<br/>Two-week induction programme in January  </p>
+	
+<p>
 <b>Programme Objectives  </b>
-<br>The programme aims to enable participants to acquire and apply a repertoire of knowledge and skills at the zonal and national levels to enhance instructional leadership, collaboration, and mentoring.  
-  
+<br/>The programme aims to enable participants to acquire and apply a repertoire of knowledge and skills at the zonal and national levels to enhance instructional leadership, collaboration, and mentoring.  </p>
+	
+<p>
 <b>Programme Description  </b>
-<br>There are five core modules. The modules are designed to enhance and deepen newly appointed MTTs’ capacity as pedagogical leaders and instructional mentors to others.
+<br/>There are five core modules. The modules are designed to enhance and deepen newly appointed MTTs’ capacity as pedagogical leaders and instructional mentors to others.</p>
 		</div>
 	</li>
 	</ul>
