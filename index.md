@@ -25,11 +25,8 @@ sections:
       url: /tcef-publicity01
       alt: events2023
       image: /images/events-stage.jpg
-  - infopic:
-      title: Stories
-      description: Warmest Congratulations to Fellow of AST Award Recipients!
-      button: Click here
-      url: /professional-recognition/Academy-Awards/overview/
-      alt: Image alt text
-      image: /images/infopic3.png
+  - resources:
+      title: Latest Stories
+      subtitle: Stories
+      button: View all stories
 ---
