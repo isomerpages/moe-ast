@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Education Officers/.keep
-      - For Education Officers/Teacher Work Attachment Plus Programme.md
       - For Education Officers/Teacher–Led Workshops.md
       - For Executive & Administrative Staff.md
       - For Allied Educators.md
