@@ -2,6 +2,7 @@ collections:
   recycle-bin:
     output: true
     order:
+      - PDPO Overview.md
       - About PDPO.md
       - Our PLC Journey.md
       - PD for Education Officers/.keep
