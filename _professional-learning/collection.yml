@@ -2,6 +2,7 @@ collections:
   professional-learning:
     output: true
     order:
+      - For Education Officers/Teacher Leaders Programme.md
       - For Education Officers/Overview.md
       - For Education Officers/.keep
       - For Education Officers/Instructional Mentoring.md
