@@ -1,5 +1,5 @@
 collections:
-  professional-learningold:
+  recycle-bin:
     output: true
     order:
       - Our PLC Journey.md
