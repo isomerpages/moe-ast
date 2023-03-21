@@ -18,11 +18,6 @@ This programme seeks to prepare Teacher Leaders for their roles as pedagogical l
 
 The modules in the milestone programmes reflect the expected scope of impact and influence of Teacher Leaders.  Close referencing is made to the ethos of the teaching profession and participants’ roles as pedagogical leaders and instructional mentors in the fraternity.
 
-* [Teachers Leaders Programme 1 (TLP 1)](tlp1)
-* [Teachers Leaders Programme 2 (TLP 2)](tlp2)
-* [Teachers Leaders Programme 3 (TLP 3)](tlp3)
-
-
 <ul class="jekyllcodex_accordion">  
   
 <li>  
