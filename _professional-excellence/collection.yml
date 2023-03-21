@@ -2,7 +2,6 @@ collections:
   professional-excellence:
     output: true
     order:
-      - Overview Professional Excellence.md
       - Ethos of the Teaching Profession.md
       - Teacher Growth Model.md
       - The Singapore Teaching Practice.md
