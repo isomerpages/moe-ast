@@ -46,3 +46,35 @@ Within six months after the programme, Senior Teacher participants will pilot th
 
 <hr></hr>
 <h4 id="tlp2">Teacher Leaders Programme 2 (TLP 2)</h4>
+
+<b>Target Audience  </b>
+<br>Appointed Lead Teachers (LTs)  
+  
+<b>Duration  </b>
+<br>10-week programme with one intake in January annually  
+  
+<b>Programme Objectives  </b>
+<br>The programme aims to enable Lead Teacher participants to  
+  
+* develop a shared understanding of the core beliefs and the role of LTs in bringing out the full potential of their students;  
+* build their capacity to lead and facilitate teams, manage working relationships, and foster a collaborative professional culture in their schools and clusters; and  
+* keep up-to-date with current issues, trends, and developments in curriculum, pedagogy, and assessment, and to enable LTs to contribute innovatively in teaching and learning.  
+  
+<b>Programme Description  </b>
+<br>Lead Teacher participants will acquire and apply key knowledge and skills to impact the teaching community at the cluster level. They will understand the work and impact of Master Teachers (MTTs) at the AST academies and language centres through a five-day attachment. In addition, Lead Teachers will also learn and broaden their perspectives through visits to educational institutions overseas.  
+  
+Within six months after the programme, Lead Teacher participants will apply their learning by completing a capstone project and sharing at the cluster or network levels.
+
+<hr></hr>
+<h4 id="tlp3">Teacher Leaders Programme 3 (TLP 3)</h4>
+<b>Target Audience  </b>
+<br>Newly appointed Master Teachers (MTTs)  
+  
+<b>Duration  </b>
+<br>Two-week induction programme in January  
+  
+<b>Programme Objectives  </b>
+<br>The programme aims to enable participants to acquire and apply a repertoire of knowledge and skills at the zonal and national levels to enhance instructional leadership, collaboration, and mentoring.  
+  
+<b>Programme Description  </b>
+<br>There are five core modules. The modules are designed to enhance and deepen newly appointed MTTs’ capacity as pedagogical leaders and instructional mentors to others.
