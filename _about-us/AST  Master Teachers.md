@@ -80,7 +80,7 @@ The offices of PMTTs and MTTs are located at the Academy and the various languag
 | <img src="/images/mus1.png" style="width:80px;height:100px;margin-right:15px;" align = "left">[Mdm Chan Yen See](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Music/Mdm-Chan-Yen-See/)<br><br>Master Teacher / Music<br><br><br>Email: [Chan\_Yen\_See@moe.gov.sg](mailto:Chan_Yen_See@moe.gov.sg)<br>Contact no.: 6664 1499 | <img src="/images/mus2.png" style="width:80px;height:100px;margin-right:15px;" align = "left">[Dr Kelly Tang](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Music/Dr-Kelly-Tang/)<br><br>Master Teacher / Music<br><br><br>Email: [Kelly\_Tang@moe.gov.sg](mailto:Kelly_Tang@moe.gov.sg)<br>Contact no.: 6664 1561 |
 | <img src="/images/mus3.png" style="width:80px;height:100px;margin-right:15px;" align = "left">[Mdm Suriati Bte Suradi](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Music/Mdm-Suriati-Bte-Suradi/)<br><br>Master Teacher / Music<br><br><br>Email: [Suriati\_Suradi@moe.gov.sg](mailto:Suriati_Suradi@moe.gov.sg)<br>Contact no.: 6664 1498 | <img src="/images/mus4.png" style="width:80px;height:100px;margin-right:15px;" align = "left">[Dr Tan-Chua Siew Ling](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Music/Dr-Tan-Chua-Siew-Ling/)<br><br>Master Teacher / Music<br><br><br>Email: [Chua\_Siew\_Ling@moe.gov.sg](mailto:Chua_Siew_Ling@moe.gov.sg)<br>Contact no.: 6664 1554 |
 
-###[Geography Subject Chapter](office-of-subject-chapters/Humanities-and-CCE/geography-chapter/)
+### [Geography](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Humanities-and-CCE/geography-chapter/)
 
 |   |   |
 |---|---|
