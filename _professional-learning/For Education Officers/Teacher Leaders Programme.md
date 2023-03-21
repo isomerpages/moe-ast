@@ -18,6 +18,9 @@ This programme seeks to prepare Teacher Leaders for their roles as pedagogical l
 
 The modules in the milestone programmes reflect the expected scope of impact and influence of Teacher Leaders.  Close referencing is made to the ethos of the teaching profession and participants’ roles as pedagogical leaders and instructional mentors in the fraternity.
 
+<ul class="jekyllcodex_accordion">  
+  
+<li>  
 <input type="checkbox" id="accordion1">  
   
 <label for="accordion1">Teacher Leaders Programme 1 (TLP 1)</label>  
@@ -44,8 +47,10 @@ Within six months after the programme, Senior Teacher participants will pilot th
 	</div>
 	</li>
 	<li>
-<h4 id="tlp2">Teacher Leaders Programme 2 (TLP 2)</h4>
-
+<input type="checkbox" id="accordion2">  
+  
+<label for="accordion2">Teacher Leaders Programme 2 (TLP 2)</label>  
+<div>
 <b>Target Audience  </b>
 <br>Appointed Lead Teachers (LTs)  
   
@@ -63,9 +68,13 @@ Within six months after the programme, Senior Teacher participants will pilot th
 <br>Lead Teacher participants will acquire and apply key knowledge and skills to impact the teaching community at the cluster level. They will understand the work and impact of Master Teachers (MTTs) at the AST academies and language centres through a five-day attachment. In addition, Lead Teachers will also learn and broaden their perspectives through visits to educational institutions overseas.  
   
 Within six months after the programme, Lead Teacher participants will apply their learning by completing a capstone project and sharing at the cluster or network levels.
+		</div>
 	</li>
 	<li>
-<h4 id="tlp3">Teacher Leaders Programme 3 (TLP 3)</h4>
+<input type="checkbox" id="accordion3">  
+  
+<label for="accordion3">Teacher Leaders Programme 3 (TLP 3)</label>  
+<div>
 <b>Target Audience  </b>
 <br>Newly appointed Master Teachers (MTTs)  
   
@@ -77,5 +86,6 @@ Within six months after the programme, Lead Teacher participants will apply thei
   
 <b>Programme Description  </b>
 <br>There are five core modules. The modules are designed to enhance and deepen newly appointed MTTs’ capacity as pedagogical leaders and instructional mentors to others.
+		</div>
 	</li>
 	</ul>
