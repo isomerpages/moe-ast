@@ -4,9 +4,7 @@ permalink: /professional-recognition/International-Awards/DA-in-teaching-program
 description: ""
 third_nav_title: International Awards
 ---
-
-
-### Fulbright Distinguished Awards in Teaching (DAI) Program
+### Fulbright Distinguished Awards in Teaching Program for International Teachers
 
 The DAI Program is one of the flagship international educational exchange programs supported by the U.S. government. It brings outstanding international educators to the United States (U.S.) for a semester-long program to pursue individual or group projects, take courses for professional development at a U.S. host university, and observe and share their expertise with U.S. colleagues.
 
