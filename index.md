@@ -27,6 +27,5 @@ sections:
       image: /images/events-stage.jpg
   - resources:
       title: Latest Stories
-      subtitle: Stories
       button: View all stories
 ---
