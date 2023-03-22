@@ -5,14 +5,6 @@ description: ""
 ---
 
 
-
-
-
-
-
-
-#### About AST
-
 The Academy of Singapore Teachers (AST) was set up to spearhead the professional development of MOE staff. AST together with the other teacher academies aim to build communities of practice for like-minded professionals of  subject disciplines, for teachers to come together and learn from one another, developing stronger camaraderie and esprit de corps.  
   
 Apart from these dedicated teacher academies and language institutes, Subject Chapters in the Academy are set up as networked learning communities for teacher development and professional sharing for the respective subject disciplines, focusing on subject mastery and pedagogical content knowledge.  
