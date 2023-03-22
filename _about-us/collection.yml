@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Who we are.md
-      - Our Organisation.md
       - Teachers' Council.md
       - AST  Master Teachers.md
       - Office of Subject Chapters.md
