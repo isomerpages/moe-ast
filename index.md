@@ -26,6 +26,6 @@ sections:
       alt: events2023
       image: /images/events-stage.jpg
   - resources:
-      title: Latest Stories
+      title: Stories
       button: View all stories
 ---
