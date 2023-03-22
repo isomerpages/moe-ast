@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - AST.md
+      - Academy of Singapore Teachers.md
       - Teachers' Council.md
       - AST  Master Teachers.md
       - Academies and Language Centres.md
