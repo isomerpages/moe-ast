@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Welcome to the Academy of Singapore Teachers
       background: /images/banner.jpeg
-      button: About Us
+      button: About AST
       url: /about-us/overview/
   - infopic:
       title: Spotlights
