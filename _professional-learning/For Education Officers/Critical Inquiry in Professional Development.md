@@ -4,9 +4,6 @@ permalink: /professional-learning/for-eos/critical-inquiry/
 description: ""
 third_nav_title: For Education Officers
 ---
-
-
-
 <img src="/images/proex5.png" style="width:80%">
 
 To support AST's effort in building a teacher-led culture of professional excellence centered on the holistic development of our students, we strive to enhance research literacy and promote critical inquiry among the teaching fraternity.
@@ -63,7 +60,7 @@ refine and improve our classroom practices, and enhance your students’ learnin
 <div>  
   
 <p>
-We strive to build a culture in which teachers view the critical inquiry of their teaching and learning as an integral part of their professional practice. To nurture such a culture, situating critical inquiry in <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/professional-excellence/Professional-Learning-Groups/about-us/">professional learning communities</a> within schools is a first step.<Br><br>
+We strive to build a culture in which teachers view the critical inquiry of their teaching and learning as an integral part of their professional practice. To nurture such a culture, situating critical inquiry in <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/professional-excellence/our-plc-journey/overview/">professional learning communities</a> within schools is a first step.<Br><br>
   
 AST also provides the following support to encourage teachers to embark on their Critical Inquiry journey:
   
