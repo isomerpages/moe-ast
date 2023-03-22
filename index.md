@@ -28,4 +28,9 @@ sections:
   - resources:
       title: Stories
       button: View all stories
+  - infopic:
+      title: Other Academies & Language Centres
+      button: View all
+      url: /about-us/academies-and-language-centres/
+      alt: Image alt text
 ---
