@@ -31,5 +31,6 @@ sections:
       title: Other Academies & Language Centres
       button: View all
       url: /about-us/academies-and-language-centres/
-      alt: Image alt text
+      alt: Other Academies and LCs
+      image: /images/Acad-LC logo grp.jpg
 ---
