@@ -2,6 +2,7 @@ collections:
   recycle-bin:
     output: true
     order:
+      - Our Organisation.md
       - Overview Professional Excellence.md
       - Overview of Professional Development (PD).md
       - Overview.md
