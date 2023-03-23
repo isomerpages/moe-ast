@@ -91,30 +91,30 @@ Our Master Teachers are the national teacher leaders who embody the professional
 
 |   |   |
 |---|---|
-| <img src="/images/cce1.png" style="width:80px;height:97px;margin-right:15px;" align = "left">[Mdm Brenda Lee Chew Yan](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/CCE/Mdm-Brenda-Lee-Chew-Yan/)<br><br>Master Teacher / Character and Citizenship Education<br><br><br>Email: [Brenda\_Lee@moe.gov.sg](mailto:Brenda_Lee@moe.gov.sg)<br>Contact no.: 6664 1442 | <img src="/images/cce2.png" style="width:80px;height:97px;margin-right:15px;" align = "left">[Mr Osman Abdullah](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/CCE/Mr-Osman-Abdullah/)<br><br>Master Teacher / Character and Citizenship Education<br><br><br>Email: [Osman\_Abdullah@moe.gov.sg](mailto:Osman_Abdullah@moe.gov.sg)<br>Contact no.: 6664 1441 |
+| <img src="/images/cce1.png" style="width:80px;height:97px;margin-right:15px;" align = "left">Mdm Brenda Lee Chew Yan<br><br>Master Teacher / Character and Citizenship Education<br><br><br>Email: [Brenda\_Lee@moe.gov.sg](mailto:Brenda_Lee@moe.gov.sg)<br>Contact no.: 6664 1442 | <img src="/images/cce2.png" style="width:80px;height:97px;margin-right:15px;" align = "left">Mr Osman Abdullah<br><br>Master Teacher / Character and Citizenship Education<br><br><br>Email: [Osman\_Abdullah@moe.gov.sg](mailto:Osman_Abdullah@moe.gov.sg)<br>Contact no.: 6664 1441 |
 
 ### Educational Support
 
 |   |   |
 |---|---|
-| <img src="/images/es1.png" style="width:80px;height:100px;margin-right:15px;" align = "left">[Mdm Hadzar Binte Misiri](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Educational-Support/Mdm-Hadzar-Binte-Misiri/)<br><br>Master Teacher / Educational Support<br><br><br>Email: [Misiri\_HADZAR@moe.gov.sg](mailto:Misiri_HADZAR@moe.gov.sg)<br>Contact no.: 66641419 | <img src="/images/es2.png" style="width:80px;height:80px;margin-right:15px;" align = "left">[Dr Muhammad Nazir Amir](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Educational-Support/Dr-Muhammad-Nazir-Amir/)<br><br>Master Teacher / Educational Support<br><br><br>Email: [Muhammad\_Nazir\_Amir@moe.gov.sg](mailto:Muhammad_Nazir_Amir@moe.gov.sg)<br>Contact no.: 6664 1420 |
-|<img src="/images/es3.png" style="width:80px;height:86px;margin-right:15px;" align = "left"> [Mr Tan Cher Chong](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Educational-Support/Mr-Tan-Cher-Chong/)<br><br>Master Teacher / Educational Support<br><br><br>Email: [Tan\_Cher\_Chong@moe.gov.sg](mailto:Tan_Cher_Chong@moe.gov.sg)<br>Contact no.: 6664 1419 |  |
+| <img src="/images/es1.png" style="width:80px;height:100px;margin-right:15px;" align = "left">Mdm Hadzar Binte Misiri<br><br>Master Teacher / Educational Support<br><br><br>Email: [Misiri\_HADZAR@moe.gov.sg](mailto:Misiri_HADZAR@moe.gov.sg)<br>Contact no.: 66641419 | <img src="/images/es2.png" style="width:80px;height:80px;margin-right:15px;" align = "left">Dr Muhammad Nazir Amir<br><br>Master Teacher / Educational Support<br><br><br>Email: [Muhammad\_Nazir\_Amir@moe.gov.sg](mailto:Muhammad_Nazir_Amir@moe.gov.sg)<br>Contact no.: 6664 1420 |
+|<img src="/images/es3.png" style="width:80px;height:86px;margin-right:15px;" align = "left"> Mr Tan Cher Chong<br><br>Master Teacher / Educational Support<br><br><br>Email: [Tan\_Cher\_Chong@moe.gov.sg](mailto:Tan_Cher_Chong@moe.gov.sg)<br>Contact no.: 6664 1419 |  |
 
 
 ### Nutrition and Food Science
 
 |   |   |
 |---|---|
-| <img src="/images/nfs.png" style="width:80px;height:106px;margin-right:15px;" align = "left"> [Mdm Gnanamany Yacob](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Nutrition-and-Food-Science/Mdm-Gnanamany-Yacob/)<br><br>Master Teacher / Nutrition and Food Science<br><br><br>Email: [Gnanamany\_Yacob@moe.gov.sg](mailto:Gnanamany_Yacob@moe.gov.sg)<br>Contact no.: 6664 1431 | <img src="/images/pxb-anglaykheng8a0cdc2b154748df97af4a86840c0942.jpg" style="width:80px;height:106px;margin-right:15px;" align = "left"> [Ms Ang Lay Kheng](/our-master-teachers/Nutrition-and-Food-Science/ang-lay-kheng/)<br><br>Master Teacher / Nutrition and Food Science<br><br><br>Email: [ang_lay_kheng@moe.gov.sg](mailto:ang_lay_kheng@moe.gov.sg)<br>Contact no.: 6664 1579 |
+| <img src="/images/nfs.png" style="width:80px;height:106px;margin-right:15px;" align = "left"> Mdm Gnanamany Yacob<br><br>Master Teacher / Nutrition and Food Science<br><br><br>Email: [Gnanamany\_Yacob@moe.gov.sg](mailto:Gnanamany_Yacob@moe.gov.sg)<br>Contact no.: 6664 1431 | <img src="/images/pxb-anglaykheng8a0cdc2b154748df97af4a86840c0942.jpg" style="width:80px;height:106px;margin-right:15px;" align = "left"> Ms Ang Lay Kheng<br><br>Master Teacher / Nutrition and Food Science<br><br><br>Email: [ang_lay_kheng@moe.gov.sg](mailto:ang_lay_kheng@moe.gov.sg)<br>Contact no.: 6664 1579 |
 
 ### Special Needs
 
 |   |   |
 |---|---|
-|  <img src="/images/sn.png" style="width:80px;height:106px;margin-right:15px;" align = "left"> [Ms Sarinajit Kaur](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/Special-Needs/Ms-Sarinajit-Kaur/)<br><br>Master Teacher / Special Educational Needs (SEN)<br><br><br>Email: [Sarinajit\_Kaur@moe.gov.sg](mailto:Sarinajit_Kaur@moe.gov.sg)<br>Contact no.: 6664 1416 |  |
+|  <img src="/images/sn.png" style="width:80px;height:106px;margin-right:15px;" align = "left"> Ms Sarinajit Kaur<br><br>Master Teacher / Special Educational Needs (SEN)<br><br><br>Email: [Sarinajit\_Kaur@moe.gov.sg](mailto:Sarinajit_Kaur@moe.gov.sg)<br>Contact no.: 6664 1416 |  |
 
 ### High Ability Learners
 
 |   |   |
 |---|---|
-| <img src="/images/hal.png" style="width:100px;height:76px;margin-right:15px;" align = "left">[Mdm Evelyn Yeo](https://staging.d2dfevnwgxersp.amplifyapp.com/our-master-teachers/High-Ability-Learners/Mdm-Evelyn-Yeo/)<br><br>Master Teacher/ High Ability Learners<br><br><br>Email: [Evelyn\_YEO@moe.gov.sg](mailto:Evelyn_YEO@moe.gov.sg)<br>Contact no.: 66641420 |  |
+| <img src="/images/hal.png" style="width:100px;height:76px;margin-right:15px;" align = "left">Mdm Evelyn Yeo<br><br>Master Teacher/ High Ability Learners<br><br><br>Email: [Evelyn\_YEO@moe.gov.sg](mailto:Evelyn_YEO@moe.gov.sg)<br>Contact no.: 66641420 |  |
