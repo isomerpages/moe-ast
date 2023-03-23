@@ -22,7 +22,7 @@ Educators who return from the DAI Program in the U.S. will share their learning 
   
 <input type="checkbox" id="accordion1">  
   
-<label for="accordion1">2018-2019 Fulbright Recipients' Experiences</label>  
+<label for="accordion1">Distinguished Fulbright Award in Teaching 2018</label>  
   
 <div>  
   
