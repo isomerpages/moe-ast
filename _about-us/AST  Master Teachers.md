@@ -11,7 +11,7 @@ Our Master Teachers are the national teacher leaders who embody the professional
 
 
 
-### [Geography](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Humanities-and-CCE/geography-chapter/)
+### Geography
 
 |   |   |
 |---|---|
