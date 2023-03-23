@@ -1,5 +1,5 @@
 collections:
-  about-ast:
+  about-us:
     output: true
     order:
       - Our Organisation.md
