@@ -4,8 +4,6 @@ permalink: /professional-learning/for-eos/oeic/
 description: ""
 third_nav_title: For Education Officers
 ---
-
-
 In his Opening Address at the 5th Teachers’ Conference 2010, Dr Ng Eng Hen, the former Minister for Education and Second Minister for Defence, highlighted the reputation which Singapore’s education system enjoys in the international arena. This reputation could augment the building of a culture of continuous learning and improvement in Singapore’s teaching profession. With this in mind, the Academy of Singapore Teachers (AST) designed the Outstanding Educator-in-Residence (OEIR) Programme.
 
 The OEIR programme was later revamped into the Outstanding Educator-in-Consultancy (OEIC) programme, taking into consideration of the approaches for blended learning and sustainability of professional development. The OEIC programme provides opportunities for the overseas outstanding educators (OEs) to share their innovative subject-specific pedagogies/strategies with our local educators. Together with a Master Teacher from AST and a local teacher, the innovative pedagogies/strategies shared by an OE will be enacted in the Singapore classroom context. These innovative pedagogical practices will then be shared with the Singapore teachers through the workshops on physical and/or online platforms.
@@ -27,5 +25,3 @@ Local educators may be interested to conduct learning journeys to the native cou
 #### Resources
 
 You may access the materials and videos of the various workshops via this URL: [https://go.gov.sg/oeicwiki](https://safe.menlosecurity.com/https:/go.gov.sg/oeicwiki) (OPAL2.0 login is required.)
-
-![](https://staging.d2dfevnwgxersp.amplifyapp.com/images/oeicqr.png)
