@@ -4,7 +4,6 @@ permalink: /professional-learning/for-education-officers/instructional-mentoring
 description: ""
 third_nav_title: For Education Officers
 ---
-
 #### Instructional Mentoring Programme![](https://staging.d2dfevnwgxersp.amplifyapp.com/images/im1.png)
 
 Credits: Screen capture from video entitled 'Use of Mentoring Language', produced by Educational Technology Division, MOE (2016), featuring Mdm Azizah Bte Abdul Razak and Mr Gion Pee.
@@ -17,7 +16,7 @@ Mentoring was formally introduced to Singapore schools via the Structured Mentor
 To extend the reach of instructional mentoring, the Enhanced Mentoring component of the STEM programme was rebranded as the Instructional Mentoring Programme (IMP) in 2015, and the Singapore Teaching Practice (STP) replaced the Skillful Teacher Framework as the guide to promote high standards of teaching practice. 
 
 **Singapore Instructional Mentoring Approach **
-![SIMA]()
+![sima](/images/SIMA.png)
 
 The Singapore Instructional Mentoring Approach (SIMA) articulates our vision and mission of instructional mentoring practice in schools, and outlines the essential elements of instructional mentoring. 
 
@@ -25,8 +24,3 @@ Guided by our mentoring mission to support and guide all mentees towards pedagog
 
 
 For MOE educators who are keen to learn more about instructional mentoring, you may register for the ‘Introduction to Instructional Mentoring’ courses via this link ([OPAL2.0](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Dcode%26client_id%3DOpal2WebApp%26state%3DTAoaUNU1RMaKDOdNGMtPhl7X_9lI7FVcNHxh-aNY75vlH%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fapp%252Findex.html%26scope%3Droles%2520profile%2520cxprofile%2520openid%2520cxDomainInternalApi%26code_challenge%3D35k9ijDiGiQ3YwknfWyKaxQVloqonyDdZ2PIdWYkh6U%26code_challenge_method%3DS256%26nonce%3DTAoaUNU1RMaKDOdNGMtPhl7X_9lI7FVcNHxh-aNY75vlH) login required).
-
-
-
-
-
