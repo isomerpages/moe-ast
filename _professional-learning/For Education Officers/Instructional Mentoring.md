@@ -16,7 +16,7 @@ Mentoring was formally introduced to Singapore schools via the Structured Mentor
 To extend the reach of instructional mentoring, the Enhanced Mentoring component of the STEM programme was rebranded as the Instructional Mentoring Programme (IMP) in 2015, and the Singapore Teaching Practice (STP) replaced the Skillful Teacher Framework as the guide to promote high standards of teaching practice. 
 
 <br>
-**Singapore Instructional Mentoring Approach **
+**Singapore Instructional Mentoring Approach**
 
 ![sima](/images/SIMA.png)
 
