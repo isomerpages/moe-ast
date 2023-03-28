@@ -12,7 +12,26 @@ Our Master Teachers are the national teacher leaders who embody the professional
 ### Office of Subject Chapters
 The Office of Subject Chapters in the AST is home to Principal Master and Master Teachers from four Subject Clusters, namely, Humanities and CCE, Learner Profile, Mathematics and Science subject clusters. Our Principal Master and Master Teachers are committed to growing the professionalism of the teaching fraternity, leading, mentoring and inspiring teachers to be caring, competent and passionate educators who live out the ethos of our teaching profession, to provide quality education for our students.
 
+<ul class="jekyllcodex_accordion">  
+  
+<li>  
+  
+<input type="checkbox" id="accordion1">  
+  
+<label for="accordion1">Staff</label>  
+  
+<div>  
+  
+<p>
+<img src="/images/proex18.png" style="width:300px;height:200px;margin-right:15px;" align = "left">The classroom teacher is the most important factor in student learning. PLC is a natural platform for teachers to organise themselves into smaller Professional Learning Teams (PLTs) to improve their content knowledge, pedagogy and assessment rigour to address student learning gaps and challenges.
+</p>  
+  
+</div>  
+  
+</li>  
 
+  
+</ul>
 ### Geography
 
 |   |   |
