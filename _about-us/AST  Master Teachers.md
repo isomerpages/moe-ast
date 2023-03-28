@@ -48,7 +48,6 @@ Guided by the professional learning philosophy of "Teacher Ownership, Teacher  
 
 <img src="/images/osc4.png" style="width:100%">
 </p>  
-  
 </div>  
   
 </li>  
