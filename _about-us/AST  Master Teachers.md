@@ -23,11 +23,8 @@ The Office of Subject Chapters in the AST is home to Principal Master and Master
 <div>  
   
 <p>
-###Vision of Office of Subject Chapters
+**Vision of Office of Subject Chapters: Building a culture of teacher-led professionalism and pride in the teaching fraternity**
 
-**Building a culture of teahcer-led professionalism and pride in the teaching fraternity**
-
-The Office of Subject Chapters in the AST is home to Principal Master and Master Teachers from four Subject Clusters, namely, Humanities and CCE, Learner Profile, Mathematics and Science subject clusters. Our Principal Master and Master Teachers are committed to growing the professionalism of the teaching fraternity, leading, mentoring and inspiring teachers to be caring, competent and passionate educators who live out the ethos of our teaching profession, to provide quality education for our students.
 <br>
 <img src="/images/osc2.png" style="width:100%">
 
