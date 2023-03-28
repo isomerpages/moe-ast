@@ -18,12 +18,30 @@ The Office of Subject Chapters in the AST is home to Principal Master and Master
   
 <input type="checkbox" id="accordion1">  
   
-<label for="accordion1">Staff</label>  
+<label for="accordion1">Subject Chapters</label>  
   
 <div>  
   
 <p>
-<img src="/images/proex18.png" style="width:300px;height:200px;margin-right:15px;" align = "left">The classroom teacher is the most important factor in student learning. PLC is a natural platform for teachers to organise themselves into smaller Professional Learning Teams (PLTs) to improve their content knowledge, pedagogy and assessment rigour to address student learning gaps and challenges.
+
+<img src="/images/osc2.png" style="width:70%">
+
+| Humanities & CCE | Mathematics | Science | Learner Profile |
+|---|---|---|---|
+| [Geography](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Humanities-and-CCE/geography-chapter/) | [Primary Mathematics](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Mathematics/primary-mathematics-chapter/) | [Primary Science](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Science/primary-science-chapter/) | [Special Educational Needs](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Learner-Profile/special-educational-needs-chapter/) |
+| [History](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Humanities-and-CCE/history-chapter/) | [Secondary Mathematics](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Mathematics/secondary-mathematics-chapter/) | [Biology](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Science/biology-chapter/) | [Educational Support](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Learner-Profile/educational-support-chapter/) |
+| [Social Studies](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Humanities-and-CCE/social-studies-chapter/) |  | [Chemistry](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Science/chemistry-chapter/) | [Lower Primary Learners](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Learner-Profile/lower-primary-learners-chapter/) |
+| [Economics](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Humanities-and-CCE/economics-chapter/) |  | [Physics](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Science/physics-chapter/) | [High Ability Learners](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Learner-Profile/high-ability-learners-chapter/) |
+| [Principles of Accounts](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Humanities-and-CCE/principles-of-accounts-chapter/) |  | [Nutrition & Food Science](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Science/nutrition-and-food-science-chapter/) |  |
+| [Character and Citizenship Education](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Humanities-and-CCE/character-and-citizenship-education-chapter/) |  | [Design & Technology](https://staging.d2dfevnwgxersp.amplifyapp.com/office-of-subject-chapters/Science/design-and-technology-chapter/) |  |
+
+_To find out more about the subject chapter, click on the name of each subject chapter._
+
+Guided by the professional learning philosophy of "Teacher Ownership, Teacher  Leadership" of learning, the Subject Chapters in AST bring together groups of educators to learn from and with each other. Different professional learning platforms are designed to deepen the pedagogical content knowledge of teachers in the Subject Chapter, guided by specific professional learning directions set by the Subject Chapter Core Team and supported by the ST-LT Network Core Team and MTTs.
+
+<img src="/images/osc3.png" style="width:70%">
+
+<img src="/images/osc4.png" style="width:70%">
 </p>  
   
 </div>  
