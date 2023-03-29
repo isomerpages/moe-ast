@@ -22,7 +22,7 @@ sections:
       title: Events
       description: Teachers' Conference and ExCEL Fest is back!
       button: View All upcoming events
-      url: /tcef-publicity01
+      url: /upcomingevents
       alt: events2023
       image: /images/events-stage.jpg
   - resources:
