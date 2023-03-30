@@ -4,11 +4,6 @@ permalink: /professional-excellence/presidents-award-for-teachers/recipients-and
 description: ""
 third_nav_title: President's Award for Teachers
 ---
-
-
-
-
-
 ### Congratulations to Our PAT 2022 Recipients and Finalists!
 
 <img src="/images/prore9.png" style="width:80%">
@@ -20,8 +15,8 @@ If you have any queries about PAT, please contact the following officers.
 | Officer | Email Address | Contact number |
 |---|---|---|
 | Mr Huzaifah Haris  | [Muhammad\_Huzaifah\_HARIS@moe.gov.sg](mailto:Muhammad_Huzaifah_HARIS@moe.gov.sg)   | 6664 1378 |
-| Ms Teo Shing Fang | [Teo\_Shing\_Fang@moe.gov.sg](mailto:Teo_Shing_Fang@moe.gov.sg) | 6664 1389 |
-| Ms Sharon Quek | [Sharon\_Quek@moe.gov.sg](mailto:Sharon_Quek@moe.gov.sg) | 6664 1335 |
+| Ms Kalvinder Jeet kaur | [Kalvinder_Jeet_KAUR@moe.gov.sg](mailto:Kalvinder_Jeet_Kaur@moe.gov.sg) | 6664 1390 |
+| Mr Tan Guodong | [Tan_Guodong@moe.gov.sg](mailto:Tan_Guodong@moe.gov.sg) | 6664 1387 |
 
 <ul class="jekyllcodex_accordion">  
   
