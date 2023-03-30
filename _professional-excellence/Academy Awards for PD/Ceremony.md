@@ -4,8 +4,6 @@ permalink: /professional-recognition/Academy-Awards/ceremony/
 description: ""
 third_nav_title: Academy Awards for PD
 ---
-
-
 <img src="/images/aa1.png" style="width:60%">
 
 For the full list of awardees, please click on this [List of Fellow Associate Partner of AST Award Recipients 2022 (1)(.pdf, 388.5 KB)](/files/aar2022.pdf)
@@ -79,11 +77,8 @@ For the full list of awardees, please click on this <a href="https://staging.d2
 	
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="https://staging.d2dfevnwgxersp.amplifyapp.com/images/aa5.png" alt="Image" width="109" height="164"></th><th style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="https://staging.d2dfevnwgxersp.amplifyapp.com/images/aa6.png" alt="Image" width="139" height="164"></th><th style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="https://staging.d2dfevnwgxersp.amplifyapp.com/images/aa7.png" alt="Image" width="116" height="164"></th></tr></thead><tbody><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:600;font-style:inherit;color:#484848">Tan Kwee Tin</span><br><span style="font-weight:600;font-style:inherit;color:#484848">Huamin Primary School</span></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:600;font-style:inherit;color:#484848">Hadzar Bte Misiri</span><br><span style="font-weight:600;font-style:inherit;color:#484848">Seng Kang Primary School</span></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:600;font-style:inherit;color:#484848">Melvin Chan Joo Seng</span><br><span style="font-weight:600;font-style:inherit;color:#484848">Teck Whye Secondary School</span></td></tr></tbody></table> <br><br>
 	
-<b>For the full list of winners, please click on this<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aar2018.pdf">Link</a>  .  </b><Br><br>
+<b>For the full list of winners, please click on this <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aar2018.pdf">link</a>  .  </b><Br><br>
 
-<b>To view the event photos, please click this <a href="https://www.kc27photography.com/Other/AST-Academy-Awards-2018">link</a>  or scan the QR code below.	</b><Br><br>
-
-<img src="/images/aa8.png" style="width:30%"> 
 	
 
 </p>  
@@ -106,10 +101,7 @@ For the full list of awardees, please click on this <a href="https://staging.d2
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="https://staging.d2dfevnwgxersp.amplifyapp.com/images/aa9.png" alt="Image" width="128" height="164"></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="https://staging.d2dfevnwgxersp.amplifyapp.com/images/aa10.png" alt="Image" width="135" height="164"></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="https://staging.d2dfevnwgxersp.amplifyapp.com/images/aa11.png" alt="Image" width="103" height="164"></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:600;color:#484848">Linda Hou Yin Fatt</span><br><span style="font-weight:600;color:#484848">Holy Innocents’ Primary School</span></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:600;color:#484848">Lai Kuan Hoe Leslie</span><br><span style="font-weight:600;color:#484848">Innova Primary School</span></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:600;color:#484848">Ira Wati Binti Sukaimi</span><br><span style="font-weight:600;color:#484848">Mayflower Secondary School</span></td></tr></tbody></table><br><br>
 	
 <b>For the full list of winners, please click on this<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aar2017.pdf">List of AST Award Recipients 2017 (.pdf, 328.83 KB)</a>  .  </b><Br><br>
-
-<b>To view the event photos, please click this <a href="http://www.kc27photography.com/Other/AST-Academy-Awards-2017-/">http://www.kc27photography.com/Other/AST-Academy-Awards-2017-/</a>  or scan the QR code below.	</b><Br><br>
-
-<img src="/images/aa12.png" style="width:30%"> 
+ 
 </p>  
   
 </div>  
