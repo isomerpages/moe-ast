@@ -2,5 +2,4 @@ collections:
   events:
     output: true
     order:
-      - Recent Events/.keep
       - Upcoming Events/.keep
