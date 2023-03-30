@@ -37,10 +37,9 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 | Character and Citizenship Education |  | Design & Technology |  |
 
 <br>
-<br>
 	
 Guided by the professional learning philosophy of "Teacher Ownership, Teacher  Leadership" of learning, the Subject Chapters in AST bring together groups of educators to learn from and with each other. Different professional learning platforms are designed to deepen the pedagogical content knowledge of teachers in the Subject Chapter, guided by specific professional learning directions set by the Subject Chapter Core Team and supported by the ST-LT Network Core Team and MTTs.
-<br>
+<br><br>
 <img src="/images/osc3.png" style="width:100%">
 <br><br>
 <img src="/images/osc4.png" style="width:100%">
