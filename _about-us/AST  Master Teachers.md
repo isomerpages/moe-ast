@@ -28,7 +28,7 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 <img src="/images/osc2.png" style="width:100%">
 
 | Humanities & CCE | Mathematics | Science | Learner Profile |
-|---|---|---|---|
+|--|--|--|--|
 | Geography | Primary Mathematics | Primary Science | Special Educational Needs |
 | History | Secondary Mathematics | Biology | Educational Support |
 | Social Studies |  | Chemistry | Lower Primary Learners |
