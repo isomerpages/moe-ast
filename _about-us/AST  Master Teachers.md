@@ -22,8 +22,9 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 <div>  
   
 <p>
-Subject Chapters are Networked Learning Communities (NLCs) of teachers and teacher leaders from across schools, and Principal Master Teachers in AST. All teachers are members of the Subject-domain Subject Chapters for the subject(s) they teach, and members of the CCE and Learner Profile domains.
+Subject Chapters are Networked Learning Communities (NLCs) of teachers and teacher leaders from across schools, and Principal Master Teachers in AST. All teachers are members of the Subject-domain Subject Chapters for the subject(s) they teach, and members of the CCE and Learner Profile domains.</p>
 
+	<h5>Subject Chapters in AST</h5>
 <table>
 	<tbody><tr>
 		<th>Humanities &amp; CCE </th>
@@ -75,7 +76,7 @@ Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nb
 <img src="/images/osc3.png" style="width:100%">
 <br><br>
 <img src="/images/osc4.png" style="width:100%">
-</p>  
+
 </div>  
   
 </li>  
