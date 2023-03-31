@@ -53,9 +53,9 @@ Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nb
   
 <li>  
   
-<input type="checkbox" id="accordion1">  
+<input type="checkbox" id="accordion2">  
   
-	<label for="accordion1"><h3>Geography Master Teachers</h3></label>  
+	<label for="accordion2"><h4>Geography Master Teachers</h4></label>  
   
 <div> 
 	
@@ -68,14 +68,12 @@ Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nb
 	
 	</div>
 	</li>
-	<li> &nbsp;
 
-<input> &nbsp;
-
-<label>History &nbsp;
-
-<div>
-	
+	<input type="checkbox" id="accordion3">  
+  
+	<label for="accordion3"><h4>History Master Teachers</h4></label>  
+  
+<div> 
 ### History
 
 |   |   |
@@ -84,7 +82,7 @@ Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nb
 | <img src="/images/hist3.png" style="width:80px;height:109px;margin-right:15px;" align="left">Mr Yeo Tze Chiang Lloyd Luc<br><br>Master Teacher/ History<br><br><br><br>Email: [Lloyd\_Luc\_Yeo@moe.gov.sg](mailto:Lloyd_Luc_Yeo@moe.gov.sg)<br>Contact no.: 6664 1446 |  |
 
 		</div>
-	</label></li>
+	
 	</ul>
 ### Social Studies
 
