@@ -55,7 +55,7 @@ Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nb
   
 <input type="checkbox" id="accordion1">  
   
-<label for="accordion1">Geography</label>  
+	<label for="accordion1"><h3>Geography Master Teachers</h3></label>  
   
 <div> 
 	
