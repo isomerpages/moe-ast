@@ -20,4 +20,4 @@ If you have any queries about PAT, please contact the following officers.
 
 | <img src="/images/prore11.png" style="width:50%"> | <img src="/images/prore12.png" style="width:99%"> |
 |---|---|
-| [Congratulations to OYEA 2022 Recipients](https://staging.d2dfevnwgxersp.amplifyapp.com/professional-excellence/oyea/recipients-and-finalists/) | [OYEA Stories](https://staging.d2dfevnwgxersp.amplifyapp.com/professional-recognition/oyea/stories/) |
+| [Congratulations to OYEA 2022 Recipients](https://staging.d2dfevnwgxersp.amplifyapp.com/professional-recognition/oyea/recipients-and-finalists/) | [OYEA Stories](https://staging.d2dfevnwgxersp.amplifyapp.com/professional-recognition/oyea/stories/) |
