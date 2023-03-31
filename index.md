@@ -10,7 +10,7 @@ sections:
       title: Welcome to the Academy of Singapore Teachers
       background: /images/banner.jpeg
       button: About AST
-      url: /about-us/overview/
+      url: /about-us/ast/
   - infopic:
       title: Spotlights
       description: Congratulations to Our PAT 2022 Recipients and Finalists!
