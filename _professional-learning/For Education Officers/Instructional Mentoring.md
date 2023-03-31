@@ -4,9 +4,8 @@ permalink: /professional-learning/for-education-officers/instructional-mentoring
 description: ""
 third_nav_title: For Education Officers
 ---
-#### Instructional Mentoring Programme![](https://staging.d2dfevnwgxersp.amplifyapp.com/images/im1.png)
-
-Credits: Screen capture from video entitled 'Use of Mentoring Language', produced by Educational Technology Division, MOE (2016), featuring Mdm Azizah Bte Abdul Razak and Mr Gion Pee.
+![](/images/im1.png)
+*Credits: Screen capture from video entitled 'Use of Mentoring Language', produced by Educational Technology Division, MOE (2016), featuring Mdm Azizah Bte Abdul Razak and Mr Gion Pee.*
 
 <br>
 **Background**
