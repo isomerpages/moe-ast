@@ -17,7 +17,7 @@ sections:
       button: View all spotlight articles
       url: /professional-excellence/presidents-award-for-teachers/recipients-and-finalists/
       alt: Image alt text
-      image: /images/prore1.png
+      image: /images/spotlight_pat22.jpg
   - infopic:
       title: Events
       description: Teachers' Conference and ExCEL Fest is back!
