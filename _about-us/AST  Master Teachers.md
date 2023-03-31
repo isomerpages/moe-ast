@@ -17,7 +17,7 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
   
 <input type="checkbox" id="accordion1">  
   
-<label for="accordion1">Overview of Subject Chapters</label>  
+	<label for="accordion1"><h4>Overview of Subject Chapters</h4></label>  
   
 <div>  
   
