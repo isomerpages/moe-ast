@@ -16,4 +16,4 @@ In recognition of their inspiration to their students and peers, eight outstandi
 
 | <img src="/images/prore6.png" style="width:60%"> | <img src="/images/prore7.png" style="width:90%"> |
 |---|---|
-| [PAT Recipients and Finalists](https://staging.d2dfevnwgxersp.amplifyapp.com/professional-recognition/presidents-award-for-teachers/recipients-and-finalists/) | [PAT Publication](https://staging.d2dfevnwgxersp.amplifyapp.com/professional-recognition/presidents-award-for-teachers/publication/) |
+| [PAT Recipients and Finalists](https://staging.d2dfevnwgxersp.amplifyapp.com/professional-excellence/presidents-award-for-teachers/recipients-and-finalists/) | [PAT Publication](https://staging.d2dfevnwgxersp.amplifyapp.com/professional-recognition/presidents-award-for-teachers/publication/) |
