@@ -24,7 +24,7 @@ sections:
       button: View All upcoming events
       url: /upcomingevents
       alt: events2023
-      image: /images/events-stage.jpg
+      image: /images/events_tcef2023.png
   - resources:
       title: Stories
       button: View all stories
