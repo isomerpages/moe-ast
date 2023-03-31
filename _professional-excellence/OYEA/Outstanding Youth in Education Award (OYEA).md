@@ -17,7 +17,3 @@ If you have any queries about PAT, please contact the following officers.
 | Mr Huzaifah Haris  | [Muhammad\_Huzaifah\_HARIS@moe.gov.sg](mailto:Muhammad_Huzaifah_HARIS@moe.gov.sg)   | 6664 1378 |
 | Ms Kalvinder Jeet kaur | [Kalvinder_Jeet_KAUR@moe.gov.sg](mailto:Kalvinder_Jeet_Kaur@moe.gov.sg) | 6664 1390 |
 | Mr Tan Guodong | [Tan_Guodong@moe.gov.sg](mailto:Tan_Guodong@moe.gov.sg) | 6664 1387 |
-
-| <img src="/images/prore11.png" style="width:50%"> | <img src="/images/prore12.png" style="width:99%"> |
-|---|---|
-| [Congratulations to OYEA 2022 Recipients](https://staging.d2dfevnwgxersp.amplifyapp.com/professional-recognition/oyea/recipients-and-finalists/) | [OYEA Stories](https://staging.d2dfevnwgxersp.amplifyapp.com/professional-recognition/oyea/stories/) |
