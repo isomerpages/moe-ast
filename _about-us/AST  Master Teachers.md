@@ -26,21 +26,49 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 
 <br>
 <img src="/images/osc2.png" style="width:100%">
-
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-| Humanities &amp; CCE | Mathematics | Science | Learner Profile |
-|--|--|--|--|
-| Geography | Primary Mathematics | Primary Science | Special Educational Needs |
-| History | Secondary Mathematics | Biology | Educational Support |
-| Social Studies |  | Chemistry | Lower Primary Learners |
-| Economics |  | Physics | High Ability Learners |
-| Principles of Accounts |  | Nutrition &amp; Food Science |  |
-| Character and Citizenship Education |  | Design &amp; Technology |  |
+<table>
+	<tbody><tr>
+		<th>Humanities &amp; CCE </th>
+		<th>Mathematics</th>
+		<th>Science</th>
+		<th>Learner Profile</th>
+	</tr>
+	<tr>
+		<td>Geography</td>
+		<td>Primary Mathematics</td>
+		<td>Primary Science</td>
+		<td>Special Educational Needs</td>
+	</tr>
+	<tr>
+		<td>History</td>
+		<td>Secondary Mathematics</td>
+		<td>Biology</td>
+		<td>Educational Support</td>
+	</tr>
+	<tr>
+		<td>Social Studies</td>
+		<td></td>
+		<td>Chemistry</td>
+		<td>Lower Primary Learners</td>
+	</tr>
+	<tr>
+		<td>Economics</td>
+		<td></td>
+		<td>Physics</td>
+		<td>High Ability Learners</td>
+	</tr>
+	<tr><td>Principles of Accounts</td>
+	<td></td>
+	<td>Nutrition &amp; Food Science</td>
+	<td></td>
+	</tr>
+	<tr>
+		<td>Character and Citizenship Education</td>
+		<td></td>
+		<td>Design &amp; Technology</td>
+		<td></td>
+	</tr>
+	</tbody></table>
 
 <br>
 	
