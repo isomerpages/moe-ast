@@ -47,9 +47,6 @@ Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nb
 </div>  
   
 </li>  
-</ul>
-
-<ul class="jekyllcodex_accordion">  
   
 <li>  
   
