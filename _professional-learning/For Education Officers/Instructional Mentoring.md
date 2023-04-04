@@ -4,8 +4,6 @@ permalink: /professional-learning/for-education-officers/instructional-mentoring
 description: ""
 third_nav_title: For Education Officers
 ---
-#### Background
-
 Mentoring was formally introduced to Singapore schools via the Structured Mentoring Programme (SMP) in 2006. To provide greater coherence of mentoring practices across schools, and to better prepare teacher-mentors for their mentoring role, the Skillful Teaching and Enhanced Mentoring (STEM) programme replaced the SMP in 2011, and the term ‘instructional mentoring’ was introduced, bringing the focus of mentoring to instructional matters.  
 
 ![](/images/im1.png)
