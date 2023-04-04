@@ -6,6 +6,11 @@ layout: post
 description: ""
 image: /images/bc10.png
 ---
+*This article was first published in 2017*
+
+**By Mr Edwin Chew**
+
+
 My Fulbright Experience started when award recipients were asked to participate in an online course with two course administrators. The course provided a comprehensive introduction to cultural exchanges, the American lifestyle, and life in Indiana University. The opportunity to work, and interact, with 18 international teachers from 8 different countries (Finland, India, Israel, Morocco, Mexico, New Zealand, Singapore and Taiwan) was one of the key highlights as it was reminiscent of being back in varsity. It was a memorable experience as we cooked our own home cuisines, shared our culturally unique recipes, and savoured delicacies. I especially enjoyed the times when we would share our life stories, and was moved by the personal accounts of life back in their home countries.  
   
 I gained a rich learning experience from the school visits, auditing courses at Indiana University, and having professional conversations with teachers, lecturers and students. To me, the cross-cultural experience, which is the intent of this Fulbright experience, was indeed the icing on the cake. This invaluable experience is the best gift bestowed to me, as an individual, and as a teacher.  
@@ -48,7 +53,3 @@ Through the conference and professional conversations with the teachers and stud
 #### Personal Growth  
   
 What then, is this Fulbright experience? It is definitely not the inquiry project alone, but the many meaningful interactions with fellow teaching practitioners from around the world. This experience is beyond written words. I am thankful and grateful for this once-in-a-lifetime opportunity.
-
-*by Mr Edwin Chew * 
-
-*This article was first published in 2017*
