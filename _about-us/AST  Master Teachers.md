@@ -167,28 +167,28 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 <img src="/images/math1.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Cynthia Seto</strong><br>Principal Master Teacher/ Primary Mathematics<br><br>Email: <a href="mailto:Cynthia_Seto@moe.gov.sg">Cynthia_Seto@moe.gov.sg</a><br>Contact no.: 6664 1578
 </td>
 <td>
-<img src="/images/math2.png" style="width:80px;height:105px;margin-right:15px;" align="left">Ms Chan Min Lie<br><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:CHAN_Min_Lie@moe.gov.sg">CHAN_Min_Lie@moe.gov.sg</a><br>Contact no.: 6664 1406
+<img src="/images/math2.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Ms Chan Min Lie</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:CHAN_Min_Lie@moe.gov.sg">CHAN_Min_Lie@moe.gov.sg</a><br>Contact no.: 6664 1406
 </td>
 </tr>
 <tr>
 <td>
-<img src="/images/math3.png" style="width:80px;height:105px;margin-right:15px;" align="left">Mr Choon Ming Kwang<br><br>Master Teacher / Primary Mathematics<br><br><br>Email: <a href="mailto:Choon_Ming_Kwang@moe.gov.sg">Choon_Ming_Kwang@moe.gov.sg</a><br>Contact no.: 6664 1445
+<img src="/images/math3.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mr Choon Ming Kwang</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Choon_Ming_Kwang@moe.gov.sg">Choon_Ming_Kwang@moe.gov.sg</a><br>Contact no.: 6664 1445
 </td>
 <td>
-<img src="/images/math4.png" style="width:80px;height:105px;margin-right:15px;" align="left">Ms Heng Chor Hui Theresa<br><br>Master Teacher / Primary Mathematics<br><br><br>Email: <a href="mailto:Theresa_Heng@moe.gov.sg">Theresa_Heng@moe.gov.sg</a><br>Contact no.: 6664 1576
-</td>
-</tr>
-<tr>
-<td>
-<img src="/images/math5.png" style="width:80px;height:105px;margin-right:15px;" align="left">Ms Teh Wan<br><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Teh_Wan@moe.gov.sg">Teh_Wan@moe.gov.sg</a><br>Contact no.: 6664 1577
-</td>
-<td>
-<img src="/images/pxb-changsuohuib825d0ad8ec447f6a35273e332cb7ac6.jpg" style="width:80px;height:105px;margin-right:15px;" align="left">Dr Chang Suo Hui<br><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Chang_Suo_Hui@moe.gov.sg">Chang_Suo_Hui@moe.gov.sg</a><br>Contact no.: 6664 1406
+<img src="/images/math4.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Ms Heng Chor Hui Theresa</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Theresa_Heng@moe.gov.sg">Theresa_Heng@moe.gov.sg</a><br>Contact no.: 6664 1576
 </td>
 </tr>
 <tr>
 <td>
-<img src="/images/pxb-mtt-lohguatbee7da3811206454f9496c5bec5bd7fbc7d.jpg" style="width:80px;height:105px;margin-right:15px;" align="left">Mdm Loh Guat Bee<br><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Loh_Guat_Bee@moe.gov.sg">Loh_Guat_Bee@moe.gov.sg</a><br>Contact no.: 6664 1404</td>
+<img src="/images/math5.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Ms Teh Wan</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Teh_Wan@moe.gov.sg">Teh_Wan@moe.gov.sg</a><br>Contact no.: 6664 1577
+</td>
+<td>
+<img src="/images/pxb-changsuohuib825d0ad8ec447f6a35273e332cb7ac6.jpg" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Chang Suo Hui</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Chang_Suo_Hui@moe.gov.sg">Chang_Suo_Hui@moe.gov.sg</a><br>Contact no.: 6664 1406
+</td>
+</tr>
+<tr>
+<td>
+<img src="/images/pxb-mtt-lohguatbee7da3811206454f9496c5bec5bd7fbc7d.jpg" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mdm Loh Guat Bee</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Loh_Guat_Bee@moe.gov.sg">Loh_Guat_Bee@moe.gov.sg</a><br>Contact no.: 6664 1404</td>
 <td></td>
 </tr>
 </tbody></table>
