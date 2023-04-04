@@ -4,7 +4,6 @@ permalink: /ast-contact-us/
 description: ""
 ---
 
-### Contact Us
 
 <img style="width:50%" src="/images/astlogo1.png">
 
@@ -31,5 +30,3 @@ Queenstown MRT: 51
 
 Carpark:  
 Drivers are advised to park at the nearby&nbsp;[Gillman Barracks](https://www.sgcarmart.com/news/carpark_index.php?ID=816&amp;LOC=all&amp;TYP=carpark&amp;SRH=)&nbsp;or&nbsp;[Alexandra Retail Centre (ARC)](https://www.sgcarmart.com/news/carpark_index.php?ID=855&amp;LOC=all&amp;TYP=carpark&amp;SRH=Alexandra%20Retail%20Centre)&nbsp;as&nbsp;there are&nbsp;limited parking lots at the Malan Road campus. Please note that relevant carpark charges&nbsp;will apply and are subject to change without prior notice.
-
-  
