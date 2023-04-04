@@ -4,9 +4,6 @@ permalink: /professional-excellence/Centre-for-Teaching/demonstration-classes/
 description: ""
 third_nav_title: Centre for Teaching
 ---
-### Demonstration Classes Conducted at CTLE@YISS
-
-You may view snippets of the demonstration classes conducted at CTLE@YISS below.
 
 1.  Subject: Character and Citizenship Education/Social Studies
     
