@@ -4,8 +4,6 @@ permalink: /professional-excellence/SkillsFuture-for-Educators/areas-of-practice
 description: ""
 third_nav_title: SkillsFuture for Educators
 ---
-### Areas of Practice and Levels of Practice
-
 ##### Areas of Practice
 
 SFEd is a PD roadmap that guides teachers to strengthen their practice in six areas:
