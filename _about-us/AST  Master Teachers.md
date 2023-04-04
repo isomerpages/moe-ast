@@ -356,13 +356,13 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 <table>
 <tbody><tr>
 <td>
-<img src="/images/es1.png" style="width:80px;height:100px;margin-right:15px;" align="left">Mdm Hadzar Binte Misiri<br><br>Master Teacher / Educational Support<br><br><br>Email: [Misiri\_HADZAR@moe.gov.sg](mailto:Misiri_HADZAR@moe.gov.sg)<br>Contact no.: 6664 1419</td>
+<img src="/images/es1.png" style="width:80px;height:100px;margin-right:15px;" align="left">Mdm Hadzar Binte Misiri<br><br>Master Teacher / Educational Support<br><br><br>Email: <a href="mailto:Misiri_HADZAR@moe.gov.sg">Misiri_HADZAR@moe.gov.sg</a><br>Contact no.: 6664 1419</td>
 <td>
-<img src="/images/es2.png" style="width:80px;height:80px;margin-right:15px;" align="left">Dr Muhammad Nazir Amir<br><br>Master Teacher / Educational Support<br><br><br>Email: [Muhammad\_Nazir\_Amir@moe.gov.sg](mailto:Muhammad_Nazir_Amir@moe.gov.sg)<br>Contact no.: 6664 1420</td>
+<img src="/images/es2.png" style="width:80px;height:80px;margin-right:15px;" align="left">Dr Muhammad Nazir Amir<br><br>Master Teacher / Educational Support<br><br><br>Email: <a href="mailto:Muhammad_Nazir_Amir@moe.gov.sg">Muhammad_Nazir_Amir@moe.gov.sg</a><br>Contact no.: 6664 1420</td>
 </tr>
 <tr>
 <td>
-<img src="/images/es3.png" style="width:80px;height:86px;margin-right:15px;" align="left"> Mr Tan Cher Chong<br><br>Master Teacher / Educational Support<br><br>Email: [Tan\_Cher\_Chong@moe.gov.sg](mailto:Tan_Cher_Chong@moe.gov.sg)<br>Contact no.: 6664 1419</td>
+<img src="/images/es3.png" style="width:80px;height:86px;margin-right:15px;" align="left"> Mr Tan Cher Chong<br><br>Master Teacher / Educational Support<br><br>Email: <a href="mailto:Tan_Cher_Chong@moe.gov.sg">Tan_Cher_Chong@moe.gov.sg</a><br>Contact no.: 6664 1419</td>
 <td></td>
 </tr>
 </tbody></table>
@@ -377,8 +377,8 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 <table>
 <tbody><tr>
 <td>
-<img src="/images/nfs.png" style="width:80px;height:106px;margin-right:15px;" align="left"> Mdm Gnanamany Yacob<br><br>Master Teacher / Nutrition and Food Science<br><br><br>Email: [Gnanamany\_Yacob@moe.gov.sg](mailto:Gnanamany_Yacob@moe.gov.sg)<br>Contact no.: 6664 1431</td>
-<td><img src="/images/pxb-anglaykheng8a0cdc2b154748df97af4a86840c0942.jpg" style="width:80px;height:106px;margin-right:15px;" align="left"> Ms Ang Lay Kheng<br><br>Master Teacher / Nutrition and Food Science<br><br><br>Email: [ang_lay_kheng@moe.gov.sg](mailto:ang_lay_kheng@moe.gov.sg)<br>Contact no.: 6664 1579</td>
+<img src="/images/nfs.png" style="width:80px;height:106px;margin-right:15px;" align="left"> Mdm Gnanamany Yacob<br><br>Master Teacher / Nutrition and Food Science<br><br><br>Email: <a href="mailto:Gnanamany_Yacob@moe.gov.sg">Gnanamany_Yacob@moe.gov.sg</a><br>Contact no.: 6664 1431</td>
+<td><img src="/images/pxb-anglaykheng8a0cdc2b154748df97af4a86840c0942.jpg" style="width:80px;height:106px;margin-right:15px;" align="left"> Ms Ang Lay Kheng<br><br>Master Teacher / Nutrition and Food Science<br><br><br>Email: <a href="mailto:ang_lay_kheng@moe.gov.sg">ang_lay_kheng@moe.gov.sg</a><br>Contact no.: 6664 1579</td>
 </tr>
 </tbody></table>
 	</div>
@@ -392,7 +392,7 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 <table>
 <tbody><tr>
 <td>
-<img src="/images/sn.png" style="width:80px;height:106px;margin-right:15px;" align="left"> Ms Sarinajit Kaur<br><br>Master Teacher / Special Educational Needs<br><br><br>Email: [Sarinajit\_Kaur@moe.gov.sg](mailto:Sarinajit_Kaur@moe.gov.sg)<br>Contact no.: 6664 1416</td>
+<img src="/images/sn.png" style="width:80px;height:106px;margin-right:15px;" align="left"> Ms Sarinajit Kaur<br><br>Master Teacher / Special Educational Needs<br><br><br>Email: <a href="mailto:Sarinajit_Kaur@moe.gov.sg">Sarinajit_Kaur@moe.gov.sg</a><br>Contact no.: 6664 1416</td>
 <td></td>
 </tr>
 </tbody></table>
@@ -407,7 +407,7 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 <table>
 <tbody><tr>
 <td>
-<img src="/images/hal.png" style="width:100px;height:76px;margin-right:15px;" align="left">Mdm Evelyn Yeo<br><br>Master Teacher/ High Ability Learners<br><br><br>Email: [Evelyn\_YEO@moe.gov.sg](mailto:Evelyn_YEO@moe.gov.sg)<br>Contact no.: 6664 1420</td>
+<img src="/images/hal.png" style="width:100px;height:76px;margin-right:15px;" align="left">Mdm Evelyn Yeo<br><br>Master Teacher/ High Ability Learners<br><br><br>Email: <a href="mailto:Evelyn_YEO@moe.gov.sg">Evelyn_YEO@moe.gov.sg</a><br>Contact no.: 6664 1420</td>
 <td></td>
 </tr>
 </tbody></table>
