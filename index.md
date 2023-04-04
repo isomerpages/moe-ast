@@ -8,7 +8,7 @@ notification: Welcome to Academy of Singapore Teachers
 sections:
   - hero:
       title: " "
-      background: /images/Hero Images/ast2_reduced.png
+      background: /images/Hero Images/hero_image_read.JPG
   - infopic:
       title: President's Award For Teachers 2022
       description: Celebrating our finalists and award winners
