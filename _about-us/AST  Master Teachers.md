@@ -107,15 +107,15 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
     <table>
       <tbody><tr>
       <td>
-    	<img src="/images/hist1.png" style="width:80px;height:109px;margin-right:15px;" align="left">Mr Andrew Anthony<br><br>Principal Master Teacher / History<br><br><br><br>Email: <a href="mailto:Anthony_Andrew_Michael@moe.gov.sg">Anthony_Andrew_Michael@moe.gov.sg</a><br>Contact no.: 66641445
+    	<img src="/images/hist1.png" style="width:80px;height:109px;margin-right:15px;" align="left"><strong>Mr Andrew Anthony</strong><br>Principal Master Teacher / History<br><br>Email: <a href="mailto:Anthony_Andrew_Michael@moe.gov.sg">Anthony_Andrew_Michael@moe.gov.sg</a><br>Contact no.: 66641445
       </td>
       <td>
-      	<img src="/images/hist2.png" style="width:80px;height:109px;margin-right:15px;" align="left">Mr Tham Chin Pang Joseph<br><br>Master Teacher/ History<br><br><br><br>Email:<a href="mailto:Tham_Chin_Pang@moe.gov.sg">Tham_Chin_Pang@moe.gov.sg</a><br>Contact no.: 6664 1438
+      	<img src="/images/hist2.png" style="width:80px;height:109px;margin-right:15px;" align="left"><strong>Mr Tham Chin Pang Joseph</strong><br>Master Teacher/ History<br><br>Email:<a href="mailto:Tham_Chin_Pang@moe.gov.sg">Tham_Chin_Pang@moe.gov.sg</a><br>Contact no.: 6664 1438
       </td>
       </tr>
       <tr>
       <td>
-      	<img src="/images/hist3.png" style="width:80px;height:109px;margin-right:15px;" align="left">Mr Yeo Tze Chiang Lloyd Luc<br><br>Master Teacher/ History<br><br><br><br>Email: <a href="mailto:Lloyd_Luc_Yeo@moe.gov.sg">Lloyd_Luc_Yeo@moe.gov.sg</a><br>Contact no.: 6664 1446
+      	<img src="/images/hist3.png" style="width:80px;height:109px;margin-right:15px;" align="left"><strong>Mr Yeo Tze Chiang Lloyd Luc</strong><br>Master Teacher/ History<br><br>Email: <a href="mailto:Lloyd_Luc_Yeo@moe.gov.sg">Lloyd_Luc_Yeo@moe.gov.sg</a><br>Contact no.: 6664 1446
         </td>
         <td></td>
         </tr>
@@ -131,7 +131,7 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 <div> 
 <table>
 <tbody><tr>
-<td><img src="/images/ss1.png" style="width:120px;height:100px;margin-right:15px;" align="left">Mdm Premaletha Gopalakrishnan<br><br>Master Teacher / Social Studies<br><br><br>Email: <a href="mailto:Premaletha_Gopalakrishnan@moe.gov.sg">Premaletha_Gopalakrishnan@moe.gov.sg</a><br>Contact no.: 6664 1437
+<td><img src="/images/ss1.png" style="width:120px;height:100px;margin-right:15px;" align="left"><strong>Mdm Premaletha Gopalakrishnan</strong><br>Master Teacher / Social Studies<br><br>Email: <a href="mailto:Premaletha_Gopalakrishnan@moe.gov.sg">Premaletha_Gopalakrishnan@moe.gov.sg</a><br>Contact no.: 6664 1437
 </td>
 <td></td>
 </tr>
@@ -146,25 +146,25 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 <div> 
 <table>
 <tbody><tr>
-<td><img src="/images/econs1.png" style="width:80px;height:105px;margin-right:15px;" align="left">Dr Tan Dai Hwee<br><br>Master Teacher / Economics<br><br><br>Email: <a href="mailto:Tan_Dai_Hwee@moe.gov.sg">Tan_Dai_Hwee@moe.gov.sg</a><br>Contact no.: 6664 1443
+<td><img src="/images/econs1.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Tan Dai Hwee</strong><br>Master Teacher / Economics<br><br>Email: <a href="mailto:Tan_Dai_Hwee@moe.gov.sg">Tan_Dai_Hwee@moe.gov.sg</a><br>Contact no.: 6664 1443
 </td>
 <td>
-<img src="/images/pxb-mtt-khoogeehwee.jpg" style="width:80px;height:105px;margin-right:15px;" align="left">Mr Khoo Gee Hwee<br><br>Master Teacher / Economics<br><br><br>Email: <a href="mailto:Khoo_Gee_Hwee@moe.gov.sg">Khoo_Gee_Hwee@moe.gov.sg</a><br>Contact no.: 6664 1425
+<img src="/images/pxb-mtt-khoogeehwee.jpg" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mr Khoo Gee Hwee</strong><br>Master Teacher / Economics<br><br>Email: <a href="mailto:Khoo_Gee_Hwee@moe.gov.sg">Khoo_Gee_Hwee@moe.gov.sg</a><br>Contact no.: 6664 1425
 </td>
 </tr>
 </tbody></table>
 	</div>
 	</li>
 	<li>
-	<input type="checkbox" id="accordion5">  
+	<input type="checkbox" id="accordion16">  
   
-	<label for="accordion5"><h4>Mathematics (Primary) Master Teachers</h4></label>  
+	<label for="accordion16"><h4>Mathematics (Primary) Master Teachers</h4></label>  
   
 <div> 
 <table>
 <tbody><tr>
 <td>
-<img src="/images/math1.png" style="width:80px;height:105px;margin-right:15px;" align="left">Dr Cynthia Seto<br><br>Principal Master Teacher/ Primary Mathematics<br><br>Email: <a href="mailto:Cynthia_Seto@moe.gov.sg">Cynthia_Seto@moe.gov.sg</a><br>Contact no.: 6664 1578
+<img src="/images/math1.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Cynthia Seto</strong><br>Principal Master Teacher/ Primary Mathematics<br><br>Email: <a href="mailto:Cynthia_Seto@moe.gov.sg">Cynthia_Seto@moe.gov.sg</a><br>Contact no.: 6664 1578
 </td>
 <td>
 <img src="/images/math2.png" style="width:80px;height:105px;margin-right:15px;" align="left">Ms Chan Min Lie<br><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:CHAN_Min_Lie@moe.gov.sg">CHAN_Min_Lie@moe.gov.sg</a><br>Contact no.: 6664 1406
