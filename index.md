@@ -4,13 +4,11 @@ title: Academy of Singapore Teachers (AST)
 description: Brief site description here
 image: /images/astlogo.svg
 permalink: /
-notification: ""
+notification: Welcome to Academy of Singapore Teachers
 sections:
   - hero:
       title: " "
       background: /images/banner.jpeg
-      button: About AST
-      url: /about-us/ast/
   - infopic:
       title: President's Award For Teachers 2022
       description: Celebrating our finalists and award winners
