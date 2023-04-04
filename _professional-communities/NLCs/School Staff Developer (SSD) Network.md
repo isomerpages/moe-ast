@@ -5,10 +5,6 @@ description: ""
 third_nav_title: NLCs
 ---
 
-
-
-### School Staff Developer (SSD) Network
-
 In 2006, the Ministry of Education launched a GROW package for the professional and personal Growth of teachers, through better Recognition,  Opportunities, and through seeing to their Well-being.  One of the features of this package is the appointment of a School Staff Developer (SSD) in every school, assumed by a senior education officer whose job is to ensure that the training and professional development programmes be customised to their school staff’s needs, while supporting the school’s goals.  The SSD works with other middle managers in the school to mentor and coach teachers in the areas of teaching and career development. 
 
 Specifically, the SSD plays the following roles in school:
