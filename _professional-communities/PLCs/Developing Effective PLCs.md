@@ -6,13 +6,6 @@ third_nav_title: PLCs
 ---
 
 
-
-
-
-
-
-### Developing Effective PLCs
-
 Every staff plays a key role in building a culture of professional learning through collaborative efforts in their PLC.
 
 <img src="/images/proex27.png" style="width:50%">
@@ -38,7 +31,7 @@ School leaders are also responsible for creating the right environment for their
 
 Click the images below to download the documents (OPAL login required). <br><br>
 
-<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50897"><img style="width:10%" src="/images/proex28.png" align=left></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72111"><img style="width:10%" src="/images/proex29.png" align=left></a><br><br><br><br><br>
+<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50897"><img style="width:10%" src="/images/proex28.png" align="left"></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72111"><img style="width:10%" src="/images/proex29.png" align="left"></a><br><br><br><br><br>
 </p>  
   
 </div>  
@@ -53,13 +46,13 @@ Click the images below to download the documents (OPAL login required). <br><br>
 <div>  
   
 <p>
-School Staff Developers (SSDs) are crucial links between school leaders and PLTs, in their role as the champion for staff learning. By riding on the PLC platform, SSDs can create and drive learning opportunities, as well as facilitate staff ownership and leadership of their professional learning and development. <br><br>
+School Staff Developers (SSDs) are crucial links between school leaders and PLTs, in their role as the champion for staff learning. By riding on the PLC platform, SSDs can create and drive learning opportunities, as well as facilitate staff ownership and leadership of their professional learning and development.&nbsp;<br><br>
 
 The SSD working with different departments in the school is to ensure that decisions made should therefore focus on both staff and students’ learning needs, achieving a balanced outcome.<br><br>
 
 Click the images below to download the documents (OPAL login required). <br><br>
 
-<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50903"><img style="width:10%" src="/images/proex30.png" align=left></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72113"><img style="width:10%" src="/images/proex31.png" align=left></a><br><br><br><br><br>
+<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50903"><img style="width:10%" src="/images/proex30.png" align="left"></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72113"><img style="width:10%" src="/images/proex31.png" align="left"></a><br><br><br><br><br>
 
 </p>  
   
@@ -82,7 +75,7 @@ Maintaining and maximising the effectiveness of their PLTs can be a complex task
 
 Click the images below to download the documents (OPAL login required). <br><br>
 	
-<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50905"><img style="width:10%" src="/images/proex32.png" align=left></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72109"><img style="width:10%" src="/images/proex33.png" align=left></a><br><br><br><br><br>
+<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50905"><img style="width:10%" src="/images/proex32.png" align="left"></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72109"><img style="width:10%" src="/images/proex33.png" align="left"></a><br><br><br><br><br>
   
 </p>  
   
@@ -103,7 +96,7 @@ Teacher leaders play an important role as pedagogical leaders, sharing their exp
 
 Click the images below to download the documents (OPAL login required).<br><br>
 
-<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50907"><img style="width:10%" src="/images/proex34.png" align=left></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72115"><img style="width:10%" src="/images/proex35.png" align=left></a><br><br><br><br><br>
+<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50907"><img style="width:10%" src="/images/proex34.png" align="left"></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72115"><img style="width:10%" src="/images/proex35.png" align="left"></a><br><br><br><br><br>
 </p>  
   
 </div>  
@@ -123,7 +116,7 @@ Every staff in PLTs plays an important role for the success of their teams. All 
 
 Click the images below to download the documents (OPAL login required).<br><br>
 
-<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50909"><img style="width:10%" src="/images/proex36.png" align=left></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72117"><img style="width:10%" src="/images/proex37.png" align=left></a><br><br><br><br><br>
+<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=50909"><img style="width:10%" src="/images/proex36.png" align="left"></a><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72117"><img style="width:10%" src="/images/proex37.png" align="left"></a><br><br><br><br><br>
 </p>  
   
 </div>  
@@ -164,7 +157,7 @@ Let us examine the CI methodology, and how they apply to different scenarios in 
 
 <img src="/images/proex40.png" style="width:80%">
 
-The steps in the critical inquiry methods fall under four broad critical inquiry stages: 
+The&nbsp;steps&nbsp;in the&nbsp;critical inquiry methods&nbsp;fall under four broad&nbsp;critical inquiry stages:&nbsp;
 
 ##### Identify
 
@@ -172,7 +165,7 @@ Professional Learning Teams (PLTs) would need to clarify the purpose and objecti
 
 ##### Plan
 
-Once they have selected the area of focus, PLTs then work collaboratively to identify and plan their interventions.  
+Once they have selected the area of focus, PLTs then work collaboratively to identify and plan their interventions. &nbsp;
 
 ##### Implement and Observe
 
@@ -184,7 +177,7 @@ The most important aspect of this step is the dialogue among PLT members on less
 
 These steps would facilitate data-driven conversations and drive innovations (Hudson et al, 2013).
 
-Below are four suggested CI methods. 
+Below are four suggested CI methods.&nbsp;
 
 **Action Research**
 
