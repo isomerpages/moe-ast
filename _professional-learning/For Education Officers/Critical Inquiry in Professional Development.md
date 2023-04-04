@@ -36,13 +36,13 @@ Critical Inquiry in Professional Development&nbsp;is a systematic approach that 
 <p>
 By engaging in Critical Inquiry, we can:&nbsp;  <br><br>
 
-learn to adopt an intentional approach in generating questions;  <br><br>
+- learn to adopt an intentional approach in generating questions;  <br><br>
 
-develop a systematic approach in gathering information and analysis;  <br><br>
+- develop a systematic approach in gathering information and analysis;  <br><br>
 
-engage in reflective practice, which integrates the 3 aspects of teaching – Theory, Research and Practice; and most importantly,  <br><br>
+- engage in reflective practice, which integrates the 3 aspects of teaching – Theory, Research and Practice; and most importantly,  <br><br>
 
-refine and improve our classroom practices, and enhance your students’ learning!<br>
+- refine and improve our classroom practices, and enhance your students’ learning!<br>
 	
 <img src="/images/proex6.png" style="width:70%">
 </p>  
@@ -73,7 +73,7 @@ AST also provides the following support to encourage teachers to embark on their
   
 </ul>
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/professional-excellence/Critical-Inquiry/courses/"><img style="width:75%" src="/images/proex7.png"></a>
+<img style="width:75%" src="/images/proex7.png">
 
 #### Critical Inquiry Courses
 
