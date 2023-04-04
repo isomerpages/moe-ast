@@ -12,19 +12,21 @@ sections:
       button: About AST
       url: /about-us/ast/
   - infopic:
-      title: Spotlight
-      description: Congratulations to Our PAT 2022 Recipients and Finalists!
+      title: President's Award For Teachers 2022
+      description: Celebrating our finalists and award winners
       button: Read more
       url: /professional-excellence/presidents-award-for-teachers/recipients-and-finalists/
       alt: Image alt text
       image: /images/spotlight_pat22.jpg
+      subtitle: Spotlights
   - infopic:
-      title: Events
-      description: Teachers' Conference and ExCEL Fest is back!
-      button: View All upcoming events
+      title: Teachers' Conference and ExCEL Fest 2023
+      description: "It is back! "
+      button: Read More
       url: /upcomingevents
       alt: events2023
       image: /images/events_tcef2023.png
+      subtitle: Events
   - resources:
       title: Stories
       button: View all stories
