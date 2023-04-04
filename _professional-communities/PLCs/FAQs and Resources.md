@@ -5,14 +5,6 @@ description: ""
 third_nav_title: PLCs
 ---
 
-
-
-
-
-
-
-### FAQs and Resources
-
 <ul class="jekyllcodex_accordion">  
   
 <li>  
@@ -26,7 +18,7 @@ third_nav_title: PLCs
 <p>
 <b>1. What is the difference between a Professional Learning Community (PLC) and a Professional Learning Team (PLT)?</b><br><br>
 
-A PLC focuses on teacher collaboration and professional development to take the school community to the next level in enhancing student learning. It involves every leader and staff member working collaboratively in smaller units known as PLTs. A school becomes a PLC when the PLTs work towards the realisation of articulated PLC goals, embodied in the <a href="link">3 Big Ideas, 4 Critical Questions and 5 Dimension for Effective PLCs</a>[3 Big Ideas, 4 Critical Questions and 5 Dimension for Effective PLCs](https://staging.d2dfevnwgxersp.amplifyapp.com/professional-excellence/Professional-Learning-Groups/ideas-questions-dimensions-for-effective-plcs/), and learn together as a community. <br><br>
+A PLC focuses on teacher collaboration and professional development to take the school community to the next level in enhancing student learning. It involves every leader and staff member working collaboratively in smaller units known as PLTs. A school becomes a PLC when the PLTs work towards the realisation of articulated PLC goals, embodied in the&nbsp;<a href="link">3 Big Ideas, 4 Critical Questions and 5 Dimension for Effective PLCs</a>[3 Big Ideas, 4 Critical Questions and 5 Dimension for Effective PLCs](https://staging.d2dfevnwgxersp.amplifyapp.com/professional-excellence/Professional-Learning-Groups/ideas-questions-dimensions-for-effective-plcs/), and learn together as a community. <br><br>
 
 <b>2. What does a PLT do?</b><br><br>
 
@@ -34,7 +26,7 @@ A PLT works collaboratively to enhance student learning. The PLT’s project sho
 
 <b>3. How can teachers find the time to carry out their PLT project?  </b><br><br>
 
-The support provided by <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/professional-excellence/Professional-Learning-Groups/developing-effective-plcs/">school leaders</a> is crucial in ensuring the success of the PLC. Time should be specifically set aside for teachers to collaborate, in a way which will not add to their teaching and administrative workload. To achieve this, Time-Tabled Time (the time factored into a teacher’s timetable for professional development), where time slots are exclusively set aside for PLTs, is essential. <br><br>
+The support provided by&nbsp;<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/professional-excellence/Professional-Learning-Groups/developing-effective-plcs/">school leaders</a>&nbsp;is crucial in ensuring the success of the PLC. Time should be specifically set aside for teachers to collaborate, in a way which will not add to their teaching and administrative workload. To achieve this, Time-Tabled Time (the time factored into a teacher’s timetable for professional development), where time slots are exclusively set aside for PLTs, is essential. <br><br>
 
 <b>4. What happens after a PLT comes to the end of its cycle?  </b><br><br>
 
@@ -50,11 +42,11 @@ AEDs and EAS may either join PLTs relevant to their own areas of work, or form t
 
 <b>7. What is the role of the School Staff Developer (SSD)?  </b><br><br>
 
-The <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/professional-excellence/Professional-Learning-Groups/developing-effective-plcs/">SSD</a> is a member of the coalition team and plays an active role in guiding PLTs in his/her school. <br><br>
+The&nbsp;<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/professional-excellence/Professional-Learning-Groups/developing-effective-plcs/">SSD</a>&nbsp;is a member of the coalition team and plays an active role in guiding PLTs in his/her school.&nbsp;<br><br>
 
 <b>8. What if my school does not have a SSD?  </b><br><br>
 
-In such a case, a staff member who is currently in charge of the professional development of the whole staff, may be appointed to perform some of the roles of the <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/professional-excellence/Professional-Learning-Groups/developing-effective-plcs/">SSD</a>. <Br><br>
+In such a case, a staff member who is currently in charge of the professional development of the whole staff, may be appointed to perform some of the roles of the&nbsp;<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/professional-excellence/Professional-Learning-Groups/developing-effective-plcs/">SSD</a>. <br><br>
 
 <b>9. Has MOE explored existing PLC Models from overseas?  </b><br><br>
 
@@ -64,7 +56,7 @@ MOE has referred to the studies of researchers and practitioners of PLCs such as
 
 Schools already have sources of funding for PD available such as the School-based Professional Development Fund (SPDF). MOE also supports teachers through the provision of PD in areas such as critical inquiry methods, and facilitation skills.  <br><br>
   
-Source: <i>PLC Starter Kit</i>
+Source:&nbsp;<i>PLC Starter Kit</i>
 </p>  
   
 </div>  
@@ -81,7 +73,7 @@ Source: <i>PLC Starter Kit</i>
 <p>
 To access relevant PLC resources, please click on this<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72031">link</a>OPAL2.0 login required). <br><br>
 
-Here are the resources that you could find in OPAL2.0. 
+Here are the resources that you could find in OPAL2.0.&nbsp;
 <br><br>
 
 <b>Microlearning Units  </b><br><br>
@@ -105,14 +97,14 @@ Here are the resources that you could find in OPAL2.0. 
 
 <b>Useful Templates for PLC Key Drivers  </b><br><br>
 
-•   Making a Contextual Scan <br>
+•   Making a Contextual Scan&nbsp;<br>
 •   The Ideal Start-Up<br><br>
 
 <b> Useful Templates for PLT Leaders</b><br><br>
 
 •   Brainstorming for Ideas to Enhance Student Learning<br>
 •   Professional Learning Team Action Plan<br>
-•   Reflecting on the Data <br><br>
+•   Reflecting on the Data&nbsp;<br><br>
 
 <b>User Guides for PLC Self Assessment Tools</b><br><br>
 
