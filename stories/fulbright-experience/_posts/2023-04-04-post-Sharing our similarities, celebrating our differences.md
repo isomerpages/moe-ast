@@ -6,6 +6,10 @@ layout: post
 description: ""
 image: /images/esc2.png
 ---
+*This article was first published in 2017*
+
+**By Miss Angelynna Lim**
+
 In August 2017, as part of the Fulbright Distinguished Awards in Teaching Program, I first set foot in Bloomington, Indiana, knowing the city only by its reputation of being a university town. Over the course of the four months that I was there, I developed an affinity for the city and its people and affectionately called the place ‘home’. What struck me most about the Midwesterners was their extremely warm, kind, and down-to-earth nature. They were generally friendly with willing smiles and would even wave at strangers. Once, I was standing at the traffic junction wondering about my bearing and feeling a little lost. A passer-by automatically stopped to offer help. At the supermarket, the cashier would always greet customers with a smile and ask how the day was. When taking the public transport, be sure to shout out a “thank you!” to the driver, and be ready to receive a cheerful “Have a great day ahead!” response. In our hectic lives, we sometimes underestimate the power of these little gestures which would make someone’s day. For those treasured four months, I learnt to truly value and appreciate how these intricacies added “an extra layer of human touch” to our daily interactions with others.
 
 Another characteristic of the Midwesterners is how they are community-minded. There is an incredibly strong community spirit where people enjoy spending time bonding with family and friends. Many of them identify strongly with specific communities which they belong to. Getting together for the 3Fs: Food, Fun and Festivities was commonplace. This is akin to Singapore’s ‘kampung spirit’, where there is a sense of social cohesion in a community, and where diversity is appreciated and respected. With the warm hospitality of my Bloomington hosts, there was no lack of community activities for me to participate in. Some of the more memorable activities include a picnic-cum-nature hike at McCormick’s Creek State Park, and a pumpkin-picking project where the pumpkins were picked and sold to raise money to build houses for under-privileged families in Mexico.
@@ -46,8 +50,3 @@ On a personal level, developing friendships across perceived cultural boundaries
 Professionally, I have undergone the three different stages of unlearning, learning and re-learning. I had to keep an open mind to let go of preconceived ideas to broaden my learning. In the process of unlearning, I frequently found myself examining my current teaching practices, and questioning what I hoped to accomplish with my project to improve teaching practices back home. With insightful readings and rich conversations with my advisor, faculty members, and other teachers, I embarked on the learning stage, which led to further questioning and reflections. At times, toggling between learning and unlearning, and re-examining practices led me to feel frustrated. Nonetheless, the re-learning process will continue even as the Fulbright program has concluded, and as I share what I have learnt with fellow Singapore teachers.
 
 In summary, the essence of my Fulbright experience lies in having the great privilege to take a step back from the hustle and bustle of everyday school life to reflect and to ask questions about what we do not know.
-
-*by Miss Angelynna Lim*
-
-
-*This article was first published in 2017*
