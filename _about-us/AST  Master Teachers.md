@@ -3,9 +3,9 @@ title: AST  Master Teachers
 permalink: /about-us/about-us/ast-master-teachers/
 description: ""
 ---
-### AST Master Teachers
 
-<img src="/images/omtn1.png" style="width:80%">
+
+<img src="/images/omtn1.png" style="width:100%">
 
 Our Master Teachers are the national teacher leaders who embody the professional ethos of the Teaching Profession. They foster a culture of professional excellence and collaboration amongst teachers for pedagogical excellence centred on the holistic development of the child.
 
