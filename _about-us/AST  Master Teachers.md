@@ -19,47 +19,26 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 		<table>
           <tbody><tr>
               <th>Humanities &amp; CCE </th>
-              <th>Mathematics</th>
-              <th>Science</th>
-              <th>Learner Profile</th>
-          </tr>
-          <tr>
-              <td>Geography</td>
-              <td>Primary Mathematics</td>
-              <td>Primary Science</td>
-              <td>Special Educational Needs</td>
-          </tr>
-          <tr>
-              <td>History</td>
-              <td>Secondary Mathematics</td>
-              <td>Biology</td>
-              <td>Educational Support</td>
-          </tr>
-          <tr>
-              <td>Social Studies</td>
-              <td></td>
-              <td>Chemistry</td>
-              <td>Lower Primary Learners</td>
-          </tr>
-          <tr>
-              <td>Economics</td>
-              <td></td>
-              <td>Physics</td>
-              <td>High Ability Learners</td>
-          </tr>
-          <tr><td>Principles of Accounts</td>
-          <td></td>
-          <td>Nutrition &amp; Food Science</td>
-          <td></td>
-          </tr>
-          <tr>
-              <td>Character and Citizenship Education</td>
-              <td></td>
-              <td>Design &amp; Technology</td>
-              <td></td>
-          </tr>
-          </tbody>
-		</table>
+              <td>
+								<ul>
+									<li>Geography</li>
+									<li>History</li>
+									<li>Social Studies</li>
+									<li>Ecomonics</li>
+									<li>Principles of Accounts</li>
+									<li>Character and Citizenship Education</li>
+								</ul>
+						</td>
+						</tr>
+						<tr>
+							<th>Mathematics</th>
+							<td>
+								<ul>
+									<li>Primary Mathematics</li>
+								</ul>
+							</td>
+						</tr>
+		</tbody></table>
 		
         <p>Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nbsp; Leadership" of learning, the Subject Chapters in AST bring together groups of educators to learn from and with each other. Different professional learning platforms are designed to deepen the pedagogical content knowledge of teachers in the Subject Chapter, guided by specific professional learning directions set by the Subject Chapter Core Team and supported by the ST-LT Network Core Team and MTTs.</p>
         <img src="/images/osc3.png" style="width:100%">
