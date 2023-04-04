@@ -19,8 +19,8 @@ sections:
       subtitle: Spotlights
   - infopic:
       title: Teachers' Conference and ExCEL Fest 2023
-      description: It is back! Join us from 30 May to 1 June to connect with fellow
-        educators and learn together to transform our professional practice!
+      description: Join us from 30 May to 1 June to connect with fellow educators and
+        learn together to transform our professional practice!
       button: Read More
       url: /upcomingevents
       alt: events2023
