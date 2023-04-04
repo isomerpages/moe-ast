@@ -3,7 +3,7 @@ title: Our Organisation
 permalink: /about-us/ast/
 description: ""
 ---
-The Academy of Singapore Teachers (AST) was set up to spearhead the professional development of MOE staff. AST together with the other teacher academies aim to build communities of practice for like-minded professionals of  subject disciplines, for teachers to come together and learn from one another, developing stronger camaraderie and esprit de corps.  
+The Academy of Singapore Teachers (AST) was set up to spearhead the professional development of MOE staff. AST together with the other teacher academies aim to build communities of practice for like-minded professionals of&nbsp; subject disciplines, for teachers to come together and learn from one another, developing stronger camaraderie and esprit de corps.  
   
 Apart from these dedicated teacher academies and language institutes, Subject Chapters in AST are set up as networked learning communities for teacher development and professional sharing for the respective subject disciplines, focusing on subject mastery and pedagogical content knowledge.  
   
@@ -19,7 +19,7 @@ The Academy of Singapore Teachers, subject chapters, teacher academies and langu
 
 #### Our Mission and Vision
 
-The mission, vision and values articulate the aspirations of the Academy to be an organisation that represents and champions professional excellence for the teaching fraternity.  The Academy will be a dedicated organisation focusing on teacher professionalism and the professional development of teachers.  Through its high quality work, the Academy will build the Singapore teaching fraternity to be a world-renowned model of professional excellence.
+The mission, vision and values articulate the aspirations of the Academy to be an organisation that represents and champions professional excellence for the teaching fraternity.&nbsp; The Academy will be a dedicated organisation focusing on teacher professionalism and the professional development of teachers.&nbsp; Through its high quality work, the Academy will build the Singapore teaching fraternity to be a world-renowned model of professional excellence.
 
   
 
@@ -36,25 +36,25 @@ The Leading Academy for professional excellence in education
   
 
 #### CORE VALUES 
-#### Learning
+**Learning**
 
 We are committed to inspiring teachers to engage in continual learning.
 
   
 
-#### Excellence
+**Excellence**
 
 We are committed to delivering excellence in professional development.
 
   
 
-#### People
+**People**
 
 We are committed to the professional growth of teachers for student and school success.
 
 ### Our Logo
 
-#### ABOUT THE LOGO
+**ABOUT THE LOGO**
 
 It takes ten years to grow a tree; a hundred years to cultivate a man.
 
