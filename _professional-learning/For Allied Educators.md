@@ -3,12 +3,9 @@ title: For Allied Educators
 permalink: /professional-learning/for-aeds/
 description: ""
 ---
-### Professional Development for Allied Educators
-
-
 The Allied Educator Scheme was implemented with effect from 1 Jan 2009.&nbsp;&nbsp;Allied Educators (AEDs) are part of the school team who work closely with the teachers to ensure the holistic development of our students.&nbsp;&nbsp;The different groups of AEDs and job functions are as follows in&nbsp;Table 1&nbsp;below.
 
-Table 1: Groups and Job Functions of AEDs
+**Table 1: Groups and Job Functions of AEDs**
 
 | AED | Job Function(s) |
 |---|---|
@@ -18,7 +15,7 @@ Table 1: Groups and Job Functions of AEDs
 
 To support the development of AEDs at their various developmental roles, the AED Learning Frameworks articulate the learning needs of AEDs which progress along a continuum, as they perform unique and specialised skills-based roles in education, distinct from teachers.
 
-**Professional Learning for Allied Educators**
+##### Professional Learning for Allied Educators
 
 The Academy of Singapore Teachers (AST) provides for the training of the AEDs (T&amp;L).&nbsp;
 
