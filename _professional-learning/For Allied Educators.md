@@ -3,15 +3,10 @@ title: For Allied Educators
 permalink: /professional-learning/for-aeds/
 description: ""
 ---
-
-
-
-
 ### Professional Development for Allied Educators
 
-**Allied Educators**
 
-The Allied Educator Scheme was implemented with effect from 1 Jan 2009.  Allied Educators (AEDs) are part of the school team who work closely with the teachers to ensure the holistic development of our students.  The different groups of AEDs and job functions are as follows in Table 1 below.
+The Allied Educator Scheme was implemented with effect from 1 Jan 2009.&nbsp;&nbsp;Allied Educators (AEDs) are part of the school team who work closely with the teachers to ensure the holistic development of our students.&nbsp;&nbsp;The different groups of AEDs and job functions are as follows in&nbsp;Table 1&nbsp;below.
 
 Table 1: Groups and Job Functions of AEDs
 
@@ -25,8 +20,8 @@ To support the development of AEDs at their various developmental roles, the AED
 
 **Professional Learning for Allied Educators**
 
-The Academy of Singapore Teachers (AST) provides for the training of the AEDs (T&L). 
+The Academy of Singapore Teachers (AST) provides for the training of the AEDs (T&amp;L).&nbsp;
 
-AST also partners National Institute of Education (NIE) for the pre-service training of AEDs.  The pre-service training ensures that AEDs are equipped with the necessary skills and knowledge to fulfil their responsibilities in supporting teachers to enhance the teaching and learning of students in both academic and non-academic areas. 
+AST also partners National Institute of Education (NIE) for the pre-service training of AEDs.&nbsp;&nbsp;The pre-service training ensures that AEDs are equipped with the necessary skills and knowledge to fulfil their responsibilities in supporting teachers to enhance the teaching and learning of students in both academic and non-academic areas.&nbsp;
 
-To enhance the professional development of AEDs, in-service courses are also arranged to provide them with broad-based skills.  Besides in-service courses, they are encouraged to look beyond face-to-face courses and workshops for their professional development.  Learning could also take place through mentoring, school-based sharing and reflection, job-embedded learning, as well as networked learning.
+To enhance the professional development of AEDs, in-service courses are also arranged to provide them with broad-based skills.&nbsp;&nbsp;Besides in-service courses, they are encouraged to look beyond face-to-face courses and workshops for their professional development.&nbsp;&nbsp;Learning could also take place through mentoring, school-based sharing and reflection, job-embedded learning, as well as networked learning.
