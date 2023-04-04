@@ -3,7 +3,7 @@ url: https://academyofsingaporeteachers.moe.edu.sg
 favicon: /images/spinner.png
 colors:
   primary-color: "#8c8778"
-  secondary-color: "#ca2126"
+  secondary-color: "#f5a623"
   media-colors:
     - title: media-color-one
       color: "#a41a25"
