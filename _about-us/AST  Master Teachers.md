@@ -202,34 +202,34 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 <div> 
 <table>
 <tbody><tr>
-<td><img src="/images/math6.png" style="width:80px;height:105px;margin-right:15px;" align="left">Dr Foo Kum Fong<br><br>Master Teacher / Secondary Mathematics <br><br>Email: <a href="mailto:foo_kum_fong@moe.gov.sg">foo_kum_fong@moe.gov.sg</a><br>Contact no.: 6664 1412
+<td><img src="/images/math6.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Foo Kum Fong</strong><br>Master Teacher / Secondary Mathematics <br><br>Email: <a href="mailto:foo_kum_fong@moe.gov.sg">foo_kum_fong@moe.gov.sg</a><br>Contact no.: 6664 1412
 </td>
 <td>
-<img src="/images/math7.png" style="width:80px;height:105px;margin-right:15px;" align="left">Dr Leong Swee Ling<br><br>Master Teacher / Secondary Mathematics (Bukit Merah Secondary School)<br><br>Email: <a href="mailto:leong_swee_ling@schools.gov.sg">leong_swee_ling@schools.gov.sg</a><br>Contact no.: 6474 8934
-</td>
-</tr>
-<tr>
-<td>
-<img src="/images/math8.png" style="width:80px;height:105px;margin-right:15px;" align="left">Mr Chew Chong Kiat<br><br>Master Teacher / Secondary Mathematics<br><br><br>Email: <a href="mailto:Chew_Chong_Kiat@moe.gov.sg">Chew_Chong_Kiat@moe.gov.sg</a><br>Contact no.: 6664 1410
-</td>
-<td>
-<img src="/images/math9.png" style="width:80px;height:105px;margin-right:15px;" align="left">Mdm Low Leng<br><br>Master Teacher / Secondary Mathematics<br><br><br>Email: <a href="mailto:Low_Leng@moe.gov.sg">Low_Leng@moe.gov.sg</a><br>Contact no.: 6664 1431
+<img src="/images/math7.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Leong Swee Ling</strong><br>Master Teacher / Secondary Mathematics (Bukit Merah Secondary School)<br><br>Email: <a href="mailto:leong_swee_ling@schools.gov.sg">leong_swee_ling@schools.gov.sg</a><br>Contact no.: 6474 8934
 </td>
 </tr>
 <tr>
 <td>
-<img src="/images/math10.png" style="width:80px;height:105px;margin-right:15px;" align="left">Mr Ng Song Beng<br><br>Master Teacher / Secondary Mathematics<br><br><br>Email: <a href="mailto:NG_Song_Beng@moe.gov.sg">NG_Song_Beng@moe.gov.sg</a><br>Contact no.: 6664 1411
+<img src="/images/math8.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mr Chew Chong Kiat</strong><br>Master Teacher / Secondary Mathematics<br><br>Email: <a href="mailto:Chew_Chong_Kiat@moe.gov.sg">Chew_Chong_Kiat@moe.gov.sg</a><br>Contact no.: 6664 1410
 </td>
 <td>
-<img src="/images/math11.png" style="width:80px;height:105px;margin-right:15px;" align="left">Mdm Pang Yen Ping<br><br>Master Teacher / Secondary Mathematics<br><br><br>Email: <a href="mailto:Pang_Yen_Ping@moe.gov.sg">Pang_Yen_Ping@moe.gov.sg</a><br>Contact no.: 6664 1417
+<img src="/images/math9.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mdm Low Leng</strong><br>Master Teacher / Secondary Mathematics<br><br>Email: <a href="mailto:Low_Leng@moe.gov.sg">Low_Leng@moe.gov.sg</a><br>Contact no.: 6664 1431
 </td>
 </tr>
 <tr>
 <td>
-<img src="/images/math12.png" style="width:80px;height:105px;margin-right:15px;" align="left">Dr Tan Liang Soon<br><br>Master Teacher / Secondary and Junior College Mathematics<br><br>Email: <a href="mailto:Tan_Liang_Soon@moe.gov.sg">Tan_Liang_Soon@moe.gov.sg</a><br>Contact no.: 6664 1585
+<img src="/images/math10.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mr Ng Song Beng</strong><br>Master Teacher / Secondary Mathematics<br><br>Email: <a href="mailto:NG_Song_Beng@moe.gov.sg">NG_Song_Beng@moe.gov.sg</a><br>Contact no.: 6664 1411
 </td>
 <td>
-<img src="/images/pxb-lee-mei-ling622deef201f44a75a2836771471ec235.jpg" style="width:80px;height:105px;margin-right:15px;" align="left">Mdm Sharon Lee Mei Ling<br><br>Master Teacher / Secondary Mathematics<br><br>Email: <a href="mailto:Sharon_Lee@moe.gov.sg">Sharon_Lee@moe.gov.sg</a><br>Contact no.: 6664 1424</td>
+<img src="/images/math11.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mdm Pang Yen Ping</strong><br>Master Teacher / Secondary Mathematics<br><br>Email: <a href="mailto:Pang_Yen_Ping@moe.gov.sg">Pang_Yen_Ping@moe.gov.sg</a><br>Contact no.: 6664 1417
+</td>
+</tr>
+<tr>
+<td>
+<img src="/images/math12.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Tan Liang Soon</strong><br>Master Teacher / Secondary and Junior College Mathematics<br><br>Email: <a href="mailto:Tan_Liang_Soon@moe.gov.sg">Tan_Liang_Soon@moe.gov.sg</a><br>Contact no.: 6664 1585
+</td>
+<td>
+<img src="/images/pxb-lee-mei-ling622deef201f44a75a2836771471ec235.jpg" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mdm Sharon Lee Mei Ling</strong><br>Master Teacher / Secondary Mathematics<br><br>Email: <a href="mailto:Sharon_Lee@moe.gov.sg">Sharon_Lee@moe.gov.sg</a><br>Contact no.: 6664 1424</td>
 <td></td>
 </tr>
 </tbody></table>
@@ -242,13 +242,13 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 <div> 
 <table>
 <tbody><tr>
-<td><img src="/images/sci1.png" style="width:80px;height:105px;margin-right:15px;" align="left">Mr Poh Meng Leng<br><br>Master Teacher/ Biology<br><br><br>Email: [Poh\_Meng\_Leng@moe.gov.sg](mailto:Poh_Meng_Leng@moe.gov.sg)<br>Contact no.: 6664 1434</td>
+<td><img src="/images/sci1.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mr Poh Meng Leng</strong><br>Master Teacher/ Biology<br><br>Email: [Poh\_Meng\_Leng@moe.gov.sg](mailto:Poh_Meng_Leng@moe.gov.sg)<br>Contact no.: 6664 1434</td>
 <td>
-<img src="/images/sci2.png" style="width:80px;height:105px;margin-right:15px;" align="left">Ms Anna Koh<br><br>Master Teacher / Biology<br><br>Email: <a href="mailto:Anna_Koh@moe.gov.sg">Anna_Koh@moe.gov.sg</a><br>Contact no.: 6664 1432</td>
+<img src="/images/sci2.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Ms Anna Koh</strong><br>Master Teacher / Biology<br><br>Email: <a href="mailto:Anna_Koh@moe.gov.sg">Anna_Koh@moe.gov.sg</a><br>Contact no.: 6664 1432</td>
 </tr>
 <tr>
 <td>
-<img src="/images/sci3.png" style="width:80px;height:105px;margin-right:15px;" align="left">Mr Muhamad Salahuddin Ibrahim<br><br>Master Teacher / Biology<br><br><br>Email: <a href="mailto:Muhamad_Salahuddin_Ibrahim@moe.gov.sg">Muhamad_Salahuddin_Ibrahim@moe.gov.sg</a><br>Contact no.: 6664 1574</td>
+<img src="/images/sci3.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mr Muhamad Salahuddin Ibrahim</strong><br>Master Teacher / Biology<br><br>Email: <a href="mailto:Muhamad_Salahuddin_Ibrahim@moe.gov.sg">Muhamad_Salahuddin_Ibrahim@moe.gov.sg</a><br>Contact no.: 6664 1574</td>
 <td></td>
 </tr>
 </tbody></table>
@@ -263,18 +263,18 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 <table>
 <tbody><tr>
 <td>
-<img src="/images/sci4.png" style="width:90px;height:100px;margin-right:15px;" align="left">Mdm Tan Irene<br><br>Principal Master Teacher/ Chemistry<br><br>Email: <a href="mailto:Irene_Tan@moe.gov.sg">Irene_Tan@moe.gov.sg</a><br>Contact no.: 6664 1433</td>
+<img src="/images/sci4.png" style="width:90px;height:100px;margin-right:15px;" align="left"><strong>Mdm Tan Irene</strong><br>Principal Master Teacher/ Chemistry<br><br>Email: <a href="mailto:Irene_Tan@moe.gov.sg">Irene_Tan@moe.gov.sg</a><br>Contact no.: 6664 1433</td>
 <td>
-<img src="/images/sci5.png" style="width:80px;height:115px;margin-right:15px;" align="left">Ms Teng Siew Lee<br><br>Master Teacher / Chemistry<br><br><br>Email: <a href="mailto:Teng_Siew_Lee@moe.gov.sg">Teng_Siew_Lee@moe.gov.sg</a><br>Contact no.: 6664 1575</td>
+<img src="/images/sci5.png" style="width:80px;height:115px;margin-right:15px;" align="left"><strong>Ms Teng Siew Lee</strong><br>Master Teacher / Chemistry<br><br>Email: <a href="mailto:Teng_Siew_Lee@moe.gov.sg">Teng_Siew_Lee@moe.gov.sg</a><br>Contact no.: 6664 1575</td>
 </tr>
 <tr>
 <td>
-<img src="/images/sci6.png" style="width:80px;height:95px;margin-right:15px;" align="left">Mdm Goh Ai Lian<br><br>Master Teacher / Chemistry<br><br><br>Email: <a href="mailto:GOH_Ai_Lian@moe.gov.sg">GOH_Ai_Lian@moe.gov.sg</a><br>Contact no.: 6664 1439</td>
-<td><img src="/images/sci7.png" style="width:80px;height:105px;margin-right:15px;" align="left">Mr Goh Kien Huay<br><br>Master Teacher / Chemistry<br><br><br>Email: <a href="mailto:GOH_Kien_Huay@moe.gov.sg">GOH_Kien_Huay@moe.gov.sg</a><br>Contact no.: 6664 1434</td>
+<img src="/images/sci6.png" style="width:80px;height:95px;margin-right:15px;" align="left"><strong>Mdm Goh Ai Lian</strong><br>Master Teacher / Chemistry<br><br>Email: <a href="mailto:GOH_Ai_Lian@moe.gov.sg">GOH_Ai_Lian@moe.gov.sg</a><br>Contact no.: 6664 1439</td>
+<td><img src="/images/sci7.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mr Goh Kien Huay</strong><br>Master Teacher / Chemistry<br><br>Email: <a href="mailto:GOH_Kien_Huay@moe.gov.sg">GOH_Kien_Huay@moe.gov.sg</a><br>Contact no.: 6664 1434</td>
 </tr>
 <tr>
 <td>
-<img src="/images/sci8.png" style="width:80px;height:105px;margin-right:15px;" align="left">Dr Md Shahrin K S Moorthy<br><br>Master Teacher / Chemistry<br><br><br>Email: <a href="mailto:Md_Shahrin@moe.gov.sg">Md_Shahrin@moe.gov.sg</a><br>Contact no.: 6664 1435</td>
+<img src="/images/sci8.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Md Shahrin K S Moorthy</strong><br>Master Teacher / Chemistry<br><br>Email: <a href="mailto:Md_Shahrin@moe.gov.sg">Md_Shahrin@moe.gov.sg</a><br>Contact no.: 6664 1435</td>
 <td></td>
 </tr>
 </tbody></table>
@@ -289,18 +289,18 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 <table>
 <tbody><tr>
 <td>
-<img src="/images/sci9.png" style="width:80px;height:115px;margin-right:15px;" align="left">Mr Yap Boon Chien<br><br>Master Teacher / Physics <br>(Changkat Changi Secondary School)<br><br><br>Email: <a href="mailto:yap_boon_chien@schools.gov.sg">yap_boon_chien@schools.gov.sg</a></td>
+<img src="/images/sci9.png" style="width:80px;height:115px;margin-right:15px;" align="left"><strong>Mr Yap Boon Chien</strong><br>Master Teacher / Physics <br>(Changkat Changi Secondary School)<br><br>Email: <a href="mailto:yap_boon_chien@schools.gov.sg">yap_boon_chien@schools.gov.sg</a></td>
 <td>
-<img src="/images/sci10.png" style="width:80px;height:100px;margin-right:15px;" align="left">Mr Lee Siew Lin<br><br>Master Teacher / Physics <br><br><br>Email: <a href="mailto:lee_siew_lin@moe.gov.sg">lee_siew_lin@moe.gov.sg</a><br>Contact no.: 6664 1423</td>
+<img src="/images/sci10.png" style="width:80px;height:100px;margin-right:15px;" align="left"><strong>Mr Lee Siew Lin</strong><br>Master Teacher / Physics <br><br>Email: <a href="mailto:lee_siew_lin@moe.gov.sg">lee_siew_lin@moe.gov.sg</a><br>Contact no.: 6664 1423</td>
 </tr>
 <tr>
 <td>
-<img src="/images/sci11.png" style="width:80px;height:100px;margin-right:15px;" align="left">Mr Lau Chor Yam<br><br>Master Teacher / Physics<br><br><br>Email: <a href="mailto:Lau_Chor_Yam@moe.gov.sg">Lau_Chor_Yam@moe.gov.sg</a><br>Contact no.: 6664 1426</td>
-<td><img src="/images/sci12.png" style="width:80px;height:100px;margin-right:15px;" align="left">Mr Ong Kia Siang Jensen<br><br>Master Teacher / Physics<br><br>Email: <a href="mailto:ONG_Kia_Siang@moe.gov.sg">ONG_Kia_Siang@moe.gov.sg</a><br>Contact no.: 6664 1317</td>
+<img src="/images/sci11.png" style="width:80px;height:100px;margin-right:15px;" align="left"><strong>Mr Lau Chor Yam</strong><br>Master Teacher / Physics<br><br>Email: <a href="mailto:Lau_Chor_Yam@moe.gov.sg">Lau_Chor_Yam@moe.gov.sg</a><br>Contact no.: 6664 1426</td>
+<td><img src="/images/sci12.png" style="width:80px;height:100px;margin-right:15px;" align="left"><strong>Mr Ong Kia Siang Jensen</strong><br>Master Teacher / Physics<br><br>Email: <a href="mailto:ONG_Kia_Siang@moe.gov.sg">ONG_Kia_Siang@moe.gov.sg</a><br>Contact no.: 6664 1317</td>
 </tr>
 <tr>
 <td>
-<img src="/images/sci13.png" style="width:80px;height:115px;margin-right:15px;" align="left">Dr S. Ravindran<br><br>Master Teacher / Physics<br><br><br>Email: <a href="mailto:S_Ravindran@moe.gov.sg">S_Ravindran@moe.gov.sg</a><br>Contact no.: 6664 1440</td>
+<img src="/images/sci13.png" style="width:80px;height:115px;margin-right:15px;" align="left"><strong>Dr S. Ravindran</strong><br>Master Teacher / Physics<br><br><br>Email: <a href="mailto:S_Ravindran@moe.gov.sg">S_Ravindran@moe.gov.sg</a><br>Contact no.: 6664 1440</td>
 <td></td>
 </tr>
 </tbody></table>
@@ -315,20 +315,20 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 <table>
 <tbody><tr>
 <td>
-<img src="/images/sci14.png" style="width:80px;height:115px;margin-right:15px;" align="left">Mr Michael Long<br><br>Master Teacher / Primary Science (New Town Primary School)<br><br><br>Email: <a href="mailto:michael_long_tian_heng@schools.gov.sg">michael_long_tian_heng@schools.gov.sg</a><br>Contact no.: 6474 8805</td>
+<img src="/images/sci14.png" style="width:80px;height:115px;margin-right:15px;" align="left"><strong>Mr Michael Long</strong><br>Master Teacher / Primary Science (New Town Primary School)<br><br>Email: <a href="mailto:michael_long_tian_heng@schools.gov.sg">michael_long_tian_heng@schools.gov.sg</a><br>Contact no.: 6474 8805</td>
 <td>
-<img src="/images/sci15.png" style="width:80px;height:125px;margin-right:15px;" align="left">Mdm Wong Mei Leng, Anne<br><br>Master Teacher / Primary Science (Eunos Primary School)<br><br><br>Email: <a href="mailto:wong_mei_leng_anne@schools.gov.sg">wong_mei_leng_anne@schools.gov.sg</a><br>Contact no.: 6746 3336 x 231</td>
+<img src="/images/sci15.png" style="width:80px;height:125px;margin-right:15px;" align="left"><strong>Mdm Wong Mei Leng, Anne</strong><br>Master Teacher / Primary Science (Eunos Primary School)<br><br>Email: <a href="mailto:wong_mei_leng_anne@schools.gov.sg">wong_mei_leng_anne@schools.gov.sg</a><br>Contact no.: 6746 3336 x 231</td>
 </tr>
 <tr>
 <td>
-<img src="/images/sci16.png" style="width:80px;height:105px;margin-right:15px;" align="left">Dr Goh Su Fen<br><br>Master Teacher / Primary Science<br><br><br>Email: <a href="mailto:Goh_Su_Fen@moe.gov.sg">Goh_Su_Fen@moe.gov.sg</a><br>Contact no.: 6664 1420</td>
+<img src="/images/sci16.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Goh Su Fen</strong><br>Master Teacher / Primary Science<br><br>Email: <a href="mailto:Goh_Su_Fen@moe.gov.sg">Goh_Su_Fen@moe.gov.sg</a><br>Contact no.: 6664 1420</td>
 <td>
-<img src="/images/sci17.png" style="width:80px;height:95px;margin-right:15px;" align="left">Dr Judy Lee<br><br>Master Teacher / Primary Science<br><br>Email: <a href="mailto:Judy_Lh_Lee@moe.gov.sg">Judy_Lh_Lee@moe.gov.sg</a><br>Contact no.: 6664 1428</td>
+<img src="/images/sci17.png" style="width:80px;height:95px;margin-right:15px;" align="left"><strong>Dr Judy Lee</strong><br>Master Teacher / Primary Science<br><br>Email: <a href="mailto:Judy_Lh_Lee@moe.gov.sg">Judy_Lh_Lee@moe.gov.sg</a><br>Contact no.: 6664 1428</td>
 </tr>
 <tr>
 <td>
-<img src="/images/sci18.png" style="width:80px;height:95px;margin-right:15px;" align="left">Dr Tan Poh Hiang<br><br>Master Teacher / Primary Science<br><br><br>Email: <a href="mailto:Tan_Poh_Hiang@moe.gov.sg">Tan_Poh_Hiang@moe.gov.sg</a><br>Contact no.: 6664 1425</td>
-<td><img src="/images/sci19.png" style="width:80px;height:97px;margin-right:15px;" align="left">Mdm Yong Song Ling<br><br>Master Teacher / Primary Science<br><br>Email: <a href="mailto:YONG_Song_Ling@moe.gov.sg">YONG_Song_Ling@moe.gov.sg</a><br>Contact no.: 6664 1419</td>
+<img src="/images/sci18.png" style="width:80px;height:95px;margin-right:15px;" align="left"><strong>Dr Tan Poh Hiang</strong><br>Master Teacher / Primary Science<br><br>Email: <a href="mailto:Tan_Poh_Hiang@moe.gov.sg">Tan_Poh_Hiang@moe.gov.sg</a><br>Contact no.: 6664 1425</td>
+<td><img src="/images/sci19.png" style="width:80px;height:97px;margin-right:15px;" align="left"><strong>Mdm Yong Song Ling</strong><br>Master Teacher / Primary Science<br><br>Email: <a href="mailto:YONG_Song_Ling@moe.gov.sg">YONG_Song_Ling@moe.gov.sg</a><br>Contact no.: 6664 1419</td>
 </tr>
 </tbody></table>
 	</div>
@@ -341,8 +341,8 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 <div>
 <table>
 <tbody><tr>
-<td><img src="/images/cce1.png" style="width:80px;height:97px;margin-right:15px;" align="left">Mdm Brenda Lee Chew Yan<br><br>Master Teacher / Character and Citizenship Education<br><br><br>Email: [Brenda\_Lee@moe.gov.sg](mailto:Brenda_Lee@moe.gov.sg)<br>Contact no.: 6664 1442</td>
-<td><img src="/images/cce2.png" style="width:80px;height:97px;margin-right:15px;" align="left">Mr Osman Abdullah<br><br>Master Teacher / Character and Citizenship Education<br><br><br>Email: [Osman\_Abdullah@moe.gov.sg](mailto:Osman_Abdullah@moe.gov.sg)<br>Contact no.: 6664 1441</td>
+<td><img src="/images/cce1.png" style="width:80px;height:97px;margin-right:15px;" align="left"><strong>Mdm Brenda Lee Chew Yan</strong><br>Master Teacher / Character and Citizenship Education<br><br>Email: <a href="mailto:Brenda_Lee@moe.gov.sg">Brenda_Lee@moe.gov.sg</a><br>Contact no.: 6664 1442</td>
+<td><img src="/images/cce2.png" style="width:80px;height:97px;margin-right:15px;" align="left"><strong>Mr Osman Abdullah</strong><br>Master Teacher / Character and Citizenship Education<br><br>Email: <a href="mailto:Osman_Abdullah@moe.gov.sg">Osman_Abdullah@moe.gov.sg</a><br>Contact no.: 6664 1441</td>
 </tr>
 </tbody></table>
 	</div>
@@ -356,13 +356,13 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 <table>
 <tbody><tr>
 <td>
-<img src="/images/es1.png" style="width:80px;height:100px;margin-right:15px;" align="left">Mdm Hadzar Binte Misiri<br><br>Master Teacher / Educational Support<br><br><br>Email: <a href="mailto:Misiri_HADZAR@moe.gov.sg">Misiri_HADZAR@moe.gov.sg</a><br>Contact no.: 6664 1419</td>
+<img src="/images/es1.png" style="width:80px;height:100px;margin-right:15px;" align="left"><strong>Mdm Hadzar Binte Misiri</strong><br>Master Teacher / Educational Support<br><br>Email: <a href="mailto:Misiri_HADZAR@moe.gov.sg">Misiri_HADZAR@moe.gov.sg</a><br>Contact no.: 6664 1419</td>
 <td>
-<img src="/images/es2.png" style="width:80px;height:80px;margin-right:15px;" align="left">Dr Muhammad Nazir Amir<br><br>Master Teacher / Educational Support<br><br><br>Email: <a href="mailto:Muhammad_Nazir_Amir@moe.gov.sg">Muhammad_Nazir_Amir@moe.gov.sg</a><br>Contact no.: 6664 1420</td>
+<img src="/images/es2.png" style="width:80px;height:80px;margin-right:15px;" align="left"><strong>Dr Muhammad Nazir Amir</strong><br>Master Teacher / Educational Support<br><br>Email: <a href="mailto:Muhammad_Nazir_Amir@moe.gov.sg">Muhammad_Nazir_Amir@moe.gov.sg</a><br>Contact no.: 6664 1420</td>
 </tr>
 <tr>
 <td>
-<img src="/images/es3.png" style="width:80px;height:86px;margin-right:15px;" align="left"> Mr Tan Cher Chong<br><br>Master Teacher / Educational Support<br><br>Email: <a href="mailto:Tan_Cher_Chong@moe.gov.sg">Tan_Cher_Chong@moe.gov.sg</a><br>Contact no.: 6664 1419</td>
+<img src="/images/es3.png" style="width:80px;height:86px;margin-right:15px;" align="left"><strong>Mr Tan Cher Chong</strong><br>Master Teacher / Educational Support<br><br>Email: <a href="mailto:Tan_Cher_Chong@moe.gov.sg">Tan_Cher_Chong@moe.gov.sg</a><br>Contact no.: 6664 1419</td>
 <td></td>
 </tr>
 </tbody></table>
@@ -377,8 +377,8 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 <table>
 <tbody><tr>
 <td>
-<img src="/images/nfs.png" style="width:80px;height:106px;margin-right:15px;" align="left"> Mdm Gnanamany Yacob<br><br>Master Teacher / Nutrition and Food Science<br><br><br>Email: <a href="mailto:Gnanamany_Yacob@moe.gov.sg">Gnanamany_Yacob@moe.gov.sg</a><br>Contact no.: 6664 1431</td>
-<td><img src="/images/pxb-anglaykheng8a0cdc2b154748df97af4a86840c0942.jpg" style="width:80px;height:106px;margin-right:15px;" align="left"> Ms Ang Lay Kheng<br><br>Master Teacher / Nutrition and Food Science<br><br><br>Email: <a href="mailto:ang_lay_kheng@moe.gov.sg">ang_lay_kheng@moe.gov.sg</a><br>Contact no.: 6664 1579</td>
+<img src="/images/nfs.png" style="width:80px;height:106px;margin-right:15px;" align="left"><strong>Mdm Gnanamany Yacob</strong><br>Master Teacher / Nutrition and Food Science<br><br>Email: <a href="mailto:Gnanamany_Yacob@moe.gov.sg">Gnanamany_Yacob@moe.gov.sg</a><br>Contact no.: 6664 1431</td>
+<td><img src="/images/pxb-anglaykheng8a0cdc2b154748df97af4a86840c0942.jpg" style="width:80px;height:106px;margin-right:15px;" align="left"><strong>Ms Ang Lay Kheng</strong><br>Master Teacher / Nutrition and Food Science<br><br>Email: <a href="mailto:ang_lay_kheng@moe.gov.sg">ang_lay_kheng@moe.gov.sg</a><br>Contact no.: 6664 1579</td>
 </tr>
 </tbody></table>
 	</div>
@@ -392,7 +392,7 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 <table>
 <tbody><tr>
 <td>
-<img src="/images/sn.png" style="width:80px;height:106px;margin-right:15px;" align="left"> Ms Sarinajit Kaur<br><br>Master Teacher / Special Educational Needs<br><br><br>Email: <a href="mailto:Sarinajit_Kaur@moe.gov.sg">Sarinajit_Kaur@moe.gov.sg</a><br>Contact no.: 6664 1416</td>
+<img src="/images/sn.png" style="width:80px;height:106px;margin-right:15px;" align="left"><strong>Ms Sarinajit Kaur</strong><br>Master Teacher / Special Educational Needs<br><br>Email: <a href="mailto:Sarinajit_Kaur@moe.gov.sg">Sarinajit_Kaur@moe.gov.sg</a><br>Contact no.: 6664 1416</td>
 <td></td>
 </tr>
 </tbody></table>
@@ -407,7 +407,7 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 <table>
 <tbody><tr>
 <td>
-<img src="/images/hal.png" style="width:100px;height:76px;margin-right:15px;" align="left">Mdm Evelyn Yeo<br><br>Master Teacher/ High Ability Learners<br><br><br>Email: <a href="mailto:Evelyn_YEO@moe.gov.sg">Evelyn_YEO@moe.gov.sg</a><br>Contact no.: 6664 1420</td>
+<img src="/images/hal.png" style="width:100px;height:76px;margin-right:15px;" align="left"><strong>Mdm Evelyn Yeo</strong><br>Master Teacher/ High Ability Learners<br><br>Email: <a href="mailto:Evelyn_YEO@moe.gov.sg">Evelyn_YEO@moe.gov.sg</a><br>Contact no.: 6664 1420</td>
 <td></td>
 </tr>
 </tbody></table>
