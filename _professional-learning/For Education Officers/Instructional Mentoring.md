@@ -4,7 +4,6 @@ permalink: /professional-learning/for-education-officers/instructional-mentoring
 description: ""
 third_nav_title: For Education Officers
 ---
-
 ![](/images/im1.png)
 ***Credits: Screen capture from video entitled 'Use of Mentoring Language', produced by Educational Technology Division, MOE (2016), featuring Mdm Azizah Bte Abdul Razak and Mr Gion Pee.***
 
@@ -16,7 +15,8 @@ To extend the reach of instructional mentoring, the Enhanced Mentoring component
 
 #### Singapore Instructional Mentoring Approach
 
-![sima](/images/SIMA.png)
+![sima-sml]()
+				 
 
 The Singapore Instructional Mentoring Approach (SIMA) articulates our vision and mission of instructional mentoring practice in schools, and outlines the essential elements of instructional mentoring. 
 
