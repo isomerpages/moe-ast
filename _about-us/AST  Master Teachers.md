@@ -90,7 +90,8 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 </li>   
 <li>  
 <input type="checkbox" id="accordion2">  
-	<label for="accordion2"><h4>Geography Master Teachers</h4></label>  
+	<label for="accordion2"><h4>Geography Master Teachers</h4></label>
+	<div style="clear:both">
 	<div style="float:left; padding:10px" id="Mr Yuen Kah Mun">
 			<img src="/images/geo1.png" style="width:80px;height:100px;margin-right:15px;" align="left"><strong>Mr Yuen Kah Mun</strong><br>Master Teacher / Geography <br>(Boon Lay Secondary School)<br><br>Email: <a href="mailto:Yuen_Kah_Mun@schools.gov.sg">Yuen_Kah_Mun@schools.gov.sg</a><br>Contact no.: 6794 0161	</div>
 	<div style="float:left; padding:10px" id="Ms Lim Puay Yin">
@@ -98,6 +99,7 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 	<div style="float:left; padding:10px" id="Ms Lum Kit Kuan">
 		<img src="/images/geo3.png" style="width:80px;height:109px;margin-right:15px;" align="left"><strong>Ms Lum Kit Kuan Melanie</strong><br>Master Teacher / Geography<br><br><br>Email: <a href="mailto:Melanie_Lum@moe.gov.sg">Melanie_Lum@moe.gov.sg</a><br>Contact no.: 6664 1444</div>
 	<div style="clear:both"></div>
+	</div>
 	</li>
 <li>
 	<input type="checkbox" id="accordion3"> 
