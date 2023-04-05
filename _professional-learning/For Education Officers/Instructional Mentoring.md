@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Education Officers
 ---
 ![](/images/im1.png)
-***Credits: Screen capture from video entitled 'Use of Mentoring Language', produced by Educational Technology Division, MOE (2016), featuring Mdm Azizah Bte Abdul Razak and Mr Gion Pee.***
+*Credits: Screen capture from video entitled 'Use of Mentoring Language', produced by Educational Technology Division, MOE (2016), featuring Mdm Azizah Bte Abdul Razak and Mr Gion Pee.***
 
 #### Background
 Mentoring was formally introduced to Singapore schools via the Structured Mentoring Programme (SMP) in 2006. To provide greater coherence of mentoring practices across schools, and to better prepare teacher-mentors for their mentoring role, the Skillful Teaching and Enhanced Mentoring (STEM) programme replaced the SMP in 2011, and the term ‘instructional mentoring’ was introduced, bringing the focus of mentoring to instructional matters.  
