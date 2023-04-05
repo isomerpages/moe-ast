@@ -6,9 +6,12 @@ description: ""
 | Date | Venue | Event|
 | -------- | -------- | -------- |
 | 16 May  | TBC   | Professional Learning Series: VISTAs|
+
+
 <img src="/images/Events/event_vistas.jpg" style="width:1000px">
 
 <p></p>
+<hr>
 <p></p>
 
 | Date | Venue | Event|
