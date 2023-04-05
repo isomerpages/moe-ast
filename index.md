@@ -21,7 +21,7 @@ sections:
       title: Teachers' Conference and ExCEL Fest 2023
       description: Join us from 30 May to 1 June to connect with fellow educators and
         learn together to transform our professional practice!
-      button: Read More
+      button: View All Upcoming Events
       url: /upcomingevents
       alt: events2023
       image: /images/events_tcef2023.png
