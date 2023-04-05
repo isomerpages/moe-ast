@@ -207,36 +207,35 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 <div> 
 <table>
 <tbody><tr>
-<td><img src="/images/math6.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Foo Kum Fong</strong><br>Master Teacher / Secondary Mathematics <br><br>Email: <a href="mailto:foo_kum_fong@moe.gov.sg">foo_kum_fong@moe.gov.sg</a><br>Contact no.: 6664 1412
-</td>
-<td>
-<img src="/images/math7.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Leong Swee Ling</strong><br>Master Teacher / Secondary Mathematics (Bukit Merah Secondary School)<br><br>Email: <a href="mailto:leong_swee_ling@schools.gov.sg">leong_swee_ling@schools.gov.sg</a><br>Contact no.: 6474 8934
-</td>
-</tr>
-<tr>
-<td>
-<img src="/images/math8.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mr Chew Chong Kiat</strong><br>Master Teacher / Secondary Mathematics<br><br>Email: <a href="mailto:Chew_Chong_Kiat@moe.gov.sg">Chew_Chong_Kiat@moe.gov.sg</a><br>Contact no.: 6664 1410
-</td>
-<td>
-<img src="/images/math9.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mdm Low Leng</strong><br>Master Teacher / Secondary Mathematics<br><br>Email: <a href="mailto:Low_Leng@moe.gov.sg">Low_Leng@moe.gov.sg</a><br>Contact no.: 6664 1431
-</td>
-</tr>
-<tr>
-<td>
-<img src="/images/math10.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mr Ng Song Beng</strong><br>Master Teacher / Secondary Mathematics<br><br>Email: <a href="mailto:NG_Song_Beng@moe.gov.sg">NG_Song_Beng@moe.gov.sg</a><br>Contact no.: 6664 1411
-</td>
-<td>
-<img src="/images/math11.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mdm Pang Yen Ping</strong><br>Master Teacher / Secondary Mathematics<br><br>Email: <a href="mailto:Pang_Yen_Ping@moe.gov.sg">Pang_Yen_Ping@moe.gov.sg</a><br>Contact no.: 6664 1417
-</td>
-</tr>
-<tr>
 <td>
 <img src="/images/math12.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Tan Liang Soon</strong><br>Master Teacher / Secondary and Junior College Mathematics<br><br>Email: <a href="mailto:Tan_Liang_Soon@moe.gov.sg">Tan_Liang_Soon@moe.gov.sg</a><br>Contact no.: 6664 1585
 </td>
+<td><img src="/images/math6.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Foo Kum Fong</strong><br>Master Teacher / Secondary Mathematics <br><br>Email: <a href="mailto:foo_kum_fong@moe.gov.sg">foo_kum_fong@moe.gov.sg</a><br>Contact no.: 6664 1412
+</td>
+	</tr>
+	<tr>
 <td>
-<img src="/images/pxb-lee-mei-ling622deef201f44a75a2836771471ec235.jpg" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mdm Sharon Lee Mei Ling</strong><br>Master Teacher / Secondary Mathematics<br><br>Email: <a href="mailto:Sharon_Lee@moe.gov.sg">Sharon_Lee@moe.gov.sg</a><br>Contact no.: 6664 1424</td>
-<td></td>
+<img src="/images/math7.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Leong Swee Ling</strong><br>Master Teacher / Secondary Mathematics (Bukit Merah Secondary School)<br><br>Email: <a href="mailto:leong_swee_ling@schools.gov.sg">leong_swee_ling@schools.gov.sg</a><br>Contact no.: 6474 8934
+</td>
+<td>
+<img src="/images/math8.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mr Chew Chong Kiat</strong><br>Master Teacher / Secondary Mathematics<br><br>Email: <a href="mailto:Chew_Chong_Kiat@moe.gov.sg">Chew_Chong_Kiat@moe.gov.sg</a><br>Contact no.: 6664 1410
+</td>
+	</tr>
+	<tr>
+<td>
+<img src="/images/math9.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mdm Low Leng</strong><br>Master Teacher / Secondary Mathematics<br><br>Email: <a href="mailto:Low_Leng@moe.gov.sg">Low_Leng@moe.gov.sg</a><br>Contact no.: 6664 1431
+</td>
+<td>
+<img src="/images/math10.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mr Ng Song Beng</strong><br>Master Teacher / Secondary Mathematics<br><br>Email: <a href="mailto:NG_Song_Beng@moe.gov.sg">NG_Song_Beng@moe.gov.sg</a><br>Contact no.: 6664 1411
+</td>
+	</tr>
+	<tr>
+<td>
+<img src="/images/math11.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mdm Pang Yen Ping</strong><br>Master Teacher / Secondary Mathematics<br><br>Email: <a href="mailto:Pang_Yen_Ping@moe.gov.sg">Pang_Yen_Ping@moe.gov.sg</a><br>Contact no.: 6664 1417
+</td>
+		<td><img src="/images/pxb-lee-mei-ling622deef201f44a75a2836771471ec235.jpg" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mdm Sharon Lee Mei Ling</strong><br>Master Teacher / Secondary Mathematics<br><br>Email: <a href="mailto:Sharon_Lee@moe.gov.sg">Sharon_Lee@moe.gov.sg</a><br>Contact no.: 6664 1424</td>
 </tr>
+
 </tbody></table>
 	</div></li>
 	<li>
