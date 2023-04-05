@@ -14,8 +14,7 @@ To extend the reach of instructional mentoring, the Enhanced Mentoring component
 
 
 #### Singapore Instructional Mentoring Approach
-
-![sima-sml]()
+![sima](/images/sima-small.jpg)
 				 
 
 The Singapore Instructional Mentoring Approach (SIMA) articulates our vision and mission of instructional mentoring practice in schools, and outlines the essential elements of instructional mentoring. 
