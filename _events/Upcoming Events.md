@@ -8,7 +8,7 @@ description: ""
 | 16 May  | TBC   | Professional Learning Series: VISTAs|
 
 
-<img src="/images/Events/event_vistas.jpg" style="width:1000px">
+<a href="https://go.gov.sg/2023vista1"><img src="/images/Events/event_vistas.jpg" style="width:1000px"></a>
 
 <p></p>
 <hr>
