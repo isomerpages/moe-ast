@@ -208,7 +208,7 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 <table>
 <tbody><tr>
 <td>
-<img src="/images/math12.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Tan Liang Soon</strong><br>Principal Master Teacher / Secondary and Junior College Mathematics<br><br>Email: <a href="mailto:Tan_Liang_Soon@moe.gov.sg">Tan_Liang_Soon@moe.gov.sg</a><br>Contact no.: 6664 1585
+<img src="/images/math12.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Tan Liang Soon</strong><br>Principal Master Teacher / Secondary and JC Mathematics<br><br>Email: <a href="mailto:Tan_Liang_Soon@moe.gov.sg">Tan_Liang_Soon@moe.gov.sg</a><br>Contact no.: 6664 1585
 </td>
 <td><img src="/images/math6.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Foo Kum Fong</strong><br>Master Teacher / Secondary Mathematics <br><br>Email: <a href="mailto:foo_kum_fong@moe.gov.sg">foo_kum_fong@moe.gov.sg</a><br>Contact no.: 6664 1412
 </td>
