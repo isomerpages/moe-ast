@@ -16,7 +16,7 @@ To extend the reach of instructional mentoring, the Enhanced Mentoring component
 #### Singapore Instructional Mentoring Approach
 <img src="/images/sima.png" style="width:70%">
 				 
-
+![sima](/images/sima-small.jpg)
 The Singapore Instructional Mentoring Approach (SIMA) articulates our vision and mission of instructional mentoring practice in schools, and outlines the essential elements of instructional mentoring. 
 
 Guided by our mentoring mission to support and guide all mentees towards pedagogical excellence, SIMA emphasises three focus areas that are central to creating a quality instructional mentoring experience that will be valued and sought by all, namely, Promoting Mutual Growth, Relationship Building, and Localising Mentoring. The three associated processes detailed under each of these focus areas guide our Instructional Mentors in the knowledge, tools and protocols that are essential in supporting them to grow their mentoring practice, and create instructional mentoring experiences that are valued and sought by all, i.e., to all Beginning Teachers who are new to the profession and school, or experienced teachers seeking to grow and deepen their teaching practice.
