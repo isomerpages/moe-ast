@@ -10,18 +10,45 @@ The OEIR programme was later revamped into the Outstanding Educator-in-Consultan
 
 The OEIC programme aims to
 
-1\. leverage the expertise of outstanding overseas educators to enhance the integration of knowledge into practice,   
+1\. leverage the expertise of outstanding overseas educators to enhance the integration of knowledge into practice,&nbsp;  
 
 1.  increase the capacity of educators (local and foreign) to work collaboratively towards quality education programmes and innovative curriculum design,  
     
 2.  enrich the application of knowledge by providing opportunities for classroom research, practice, and consultation, as opposed to pure academic research and discussions; and  
     
-3.  forge sustained partnerships with international educators and better understanding and appreciation of our education system, through the agency of the Academy of Singapore Teachers.
+3.  forge sustained partnerships with international educators and&nbsp;better understanding and appreciation of our&nbsp;education system, through the agency of the Academy of Singapore Teachers.
 
 #### Networking Opportunities with Outstanding Overseas Educators
 
-Local educators may be interested to conduct learning journeys to the native countries of the OEs or learn more about their education systems.  To facilitate professional networked learning between the Singapore teachers and the OEs, AST has created a database of information and resources for ease of collaboration. We believe that through this connectivity, both the local and international educators can continue to explore future educational opportunities in the spirit of continuous learning and improvement.
+Local educators may be interested to conduct learning journeys to the native countries of the OEs or learn more about their education systems.&nbsp; To facilitate professional networked learning between the Singapore teachers and the OEs, AST has created a database of information and resources for ease of collaboration. We believe that through this connectivity, both the local and international educators can continue to explore future educational opportunities in the spirit of continuous learning and improvement.
 
 #### Resources
 
-You may access the materials and videos of the various workshops via this URL: [https://go.gov.sg/oeicwiki](https://safe.menlosecurity.com/https:/go.gov.sg/oeicwiki) (OPAL2.0 login is required.)
+You may access the materials and videos of the various workshops via this URL:&nbsp;[https://go.gov.sg/oeicwiki](https://safe.menlosecurity.com/https:/go.gov.sg/oeicwiki)&nbsp;(OPAL2.0 login is required.)
+
+<ul class="jekyllcodex_accordion">  
+  
+<li>  
+  
+<input type="checkbox" id="accordion1">  
+  
+<label for="accordion1">2022 OEIC</label>  
+  
+<div>  
+  
+<p>
+Mr John Miller<br>
+Professor Jeremy Stoddard
+</p>  
+  
+</div>  
+  
+</li>  
+
+  
+
+
+  
+  	
+  
+</ul>
