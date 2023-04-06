@@ -37,18 +37,12 @@ You may access the materials and videos of the various workshops via this URL:&n
 <div>  
   
 <p>
-<a rel="noopener noreferrer" target="_blank" href="https://staging.d2dfevnwgxersp.amplifyapp.com//oeic/Mr-John-Miller/"><span style="text-decoration:underline;color:#4372D6">Mr John Miller </span></a><br>
-Professor Jeremy Stoddard
-</p>  
+<a rel="noopener noreferrer" target="_blank" href="https://staging.d2dfevnwgxersp.amplifyapp.com//oeic/john-miller/"><span style="text-decoration:underline;color:#4372D6">Mr John Miller </span></a><br>
+<a rel="noopener noreferrer" target="_blank" href="https://staging.d2dfevnwgxersp.amplifyapp.com//oeic/jeremy-stoddard/"><span style="text-decoration:underline;color:#4372D6">Professor Jeremy Stoddard
+</span></a></p><a rel="noopener noreferrer" target="_blank" href="https://staging.d2dfevnwgxersp.amplifyapp.com//oeic/jeremy-stoddard/">  
   
-</div>  
+</a></div><a rel="noopener noreferrer" target="_blank" href="https://staging.d2dfevnwgxersp.amplifyapp.com//oeic/jeremy-stoddard/">  
   
-</li>  
-
+</a></li><a rel="noopener noreferrer" target="_blank" href="https://staging.d2dfevnwgxersp.amplifyapp.com//oeic/jeremy-stoddard/">  	
   
-
-
-  
-  	
-  
-</ul>
+</a></ul>
