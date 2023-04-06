@@ -37,7 +37,7 @@ You may access the materials and videos of the various workshops via this URL:&n
 <div>  
   
 <p>
-Mr John Miller<br>
+<a rel="noopener noreferrer" target="_blank" href="https://staging.d2dfevnwgxersp.amplifyapp.com//oeic/Mr-John-Miller/"><span style="text-decoration:underline;color:#4372D6">Mr John Miller </span></a><br>
 Professor Jeremy Stoddard
 </p>  
   
