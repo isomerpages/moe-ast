@@ -58,7 +58,6 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 								<ul>
 									<li>Special Educational Needs</li>
 									<li>Educational Support</li>
-									<li>Chemistry</li>
 									<li>Lower Primary Learners</li>
 									<li>High Ability Learners</li>
 								</ul>
