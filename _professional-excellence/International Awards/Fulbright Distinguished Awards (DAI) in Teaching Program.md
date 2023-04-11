@@ -38,7 +38,7 @@ Educators who return from the DAI Program in the U.S. will share their learning 
   
 <input id="accordion9" type="checkbox">  
   
-<label for="accordion9">Distinguished Fulbright Award in Teaching 2020-2022</label>  
+<label for="accordion9">Distinguished Fulbright Award in Teaching 2022</label>  
   
 <div>  
   
@@ -59,7 +59,7 @@ Educators who return from the DAI Program in the U.S. will share their learning 
   
 <input id="accordion8" type="checkbox">  
   
-<label for="accordion8">Distinguished Fulbright Award in Teaching 2019</label>  
+<label for="accordion8">Distinguished Fulbright Award in Teaching 2020</label>  
   
 <div>  
   
