@@ -22,7 +22,7 @@ sections:
       description: Join us from 30 May to 1 June to connect with fellow educators and
         learn together to transform our professional practice!
       button: View All Upcoming Events
-      url: /events/upcoming-events
+      url: /events/upcoming-events#tcef23
       alt: events2023
       image: /images/events_tcef2023.png
       subtitle: Events
