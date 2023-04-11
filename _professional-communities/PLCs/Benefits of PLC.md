@@ -4,18 +4,11 @@ permalink: /professional-excellence/our-plc-journey/benefits/
 description: ""
 third_nav_title: PLCs
 ---
+&gt; Group reflection in a Professional Learning Community (PLC) is an empowering process. Through PLC, staff gain a greater sense of support and feedback from their peers. This can have a positive impact on their learning and practice (Roberts, S. &amp; Pruitt, E. Z., 2009)  
 
-Group reflection in a Professional Learning Community (PLC) is an empowering process. Through PLC, staff gain a greater sense of support and feedback from their peers. This can have a positive impact on their learning and practice (Roberts, S. &amp; Pruitt, E. Z., 2009).  
+##### <img src="/images/proex21.png" style="width:50px;height:50px;margin-right:15px;" align="left"> **Reflection-in-action** works on getting to the bottom of what is happening in the educator’s processes, decision-making and feelings at the time of the event or interaction.
 
-#### <img src="/images/proex21.png" style="width:50px;height:50px;margin-right:15px;" align="left">  Reflection-in-action
-
-
-works on getting to the bottom of what is happening in the educator’s processes, decision-making and feelings at the time of the event or interaction.
-
-#### <img src="/images/proex22.png" style="width:50px;height:50px;margin-right:15px;" align="left">  Reflection-on-action
-
-
-are works of sifting over a previous event to take into account new information or theoretical perspectives available in conjunction with the educator’s processes, feeling and actions.
+#####  <img src="/images/proex22.png" style="width:50px;height:50px;margin-right:15px;" align="left">**Reflection-on-action** are works of sifting over a previous event to take into account new information or theoretical perspectives available in conjunction with the educator’s processes, feeling and actions.
 
 <ul class="jekyllcodex_accordion">  
   
