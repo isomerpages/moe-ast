@@ -6,7 +6,6 @@ description: ""
 Our Master Teachers are the national teacher leaders who embody the professional ethos of the Teaching Profession. They foster a culture of professional excellence and collaboration amongst teachers for pedagogical excellence centred on the holistic development of the child through the [Office of Subject Chapters in AST](/office-of-subject-chapters/overview/).
 
 <ul class="jekyllcodex_accordion">  
-  
 <li>  
 <input type="checkbox" id="accordion1">  
 	<label for="accordion1"><h4>Geography Master Teachers</h4></label>
@@ -51,7 +50,6 @@ Our Master Teachers are the national teacher leaders who embody the professional
 <div style="float:left; width:50%; padding:10px; height:200px;">
 <img src="/images/pxb-mtt-khoogeehwee.jpg" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mr Khoo Gee Hwee</strong><br>Master Teacher / Economics<br><br>Email: <a href="mailto:Khoo_Gee_Hwee@moe.gov.sg">Khoo_Gee_Hwee@moe.gov.sg</a><br>Contact no.: 6664 1425</div>
 <div style="clear:both"><hr></div>
-		
 	</div></li>
 	<li>
 	<input type="checkbox" id="accordion5">  
