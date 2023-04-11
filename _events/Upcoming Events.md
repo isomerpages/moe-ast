@@ -18,4 +18,4 @@ description: ""
 | -------- | -------- | -------- |
 | 30 May - 1 June 2023     | Marina Bay Sands  | Teachers' Conference and ExCEL Fest|
 
-![TCEF save the date](/images/TCEF2023-01.png)
+<a href="https://www.tcef2023.sg"><img src="/images/TCEF2023-01.png" style="width:1000px"></a>
