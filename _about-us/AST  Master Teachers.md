@@ -85,7 +85,7 @@ Our Master Teachers are the national teacher leaders who embody the professional
 <img src="/images/sci1.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mr Poh Meng Leng</strong><br>Master Teacher/ Biology<br><br>Email: <a href="mailto:Poh_Meng_Leng@moe.gov.sg">Poh_Meng_Leng@moe.gov.sg</a><br>Contact no.: 6664 1434</div>
 <div style="float:left; width:350px; padding:10px; display:block">
 <img src="/images/sci2.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Ms Anna Koh</strong><br>Master Teacher / Biology<br><br>Email: <a href="mailto:Anna_Koh@moe.gov.sg">Anna_Koh@moe.gov.sg</a><br>Contact no.: 6664 1432</div>
-<div style="float:left; width:260px; padding:10px; height:230px;">
+<div style="float:left; width:350px; padding:10px;">
 <img src="/images/sci3.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mr Muhamad Salahuddin Ibrahim</strong><br>Master Teacher / Biology<br><br>Email: <a href="mailto:Muhamad_Salahuddin_Ibrahim@moe.gov.sg">Muhamad_Salahuddin_Ibrahim@moe.gov.sg</a><br>Contact no.: 6664 1574</div>
 <div style="clear:both"><hr></div>
 </div>
