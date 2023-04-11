@@ -4,7 +4,7 @@ permalink: /about-us/about-us/ast-master-teachers/
 description: ""
 ---
 Our Master Teachers are the national teacher leaders who embody the professional ethos of the Teaching Profession. They foster a culture of professional excellence and collaboration amongst teachers for pedagogical excellence centred on the holistic development of the child through the [Office of Subject Chapters in AST](/office-of-subject-chapters/overview/).
-
+```
 <input type="checkbox" id="accordion1">  
 	<label for="accordion1"><h4>Geography Master Teachers</h4></label>
 	<div style="clear:both">
@@ -183,3 +183,4 @@ Our Master Teachers are the national teacher leaders who embody the professional
 	<div style="clear:both"><hr></div>
 		</div>
 </div></div>
+```
