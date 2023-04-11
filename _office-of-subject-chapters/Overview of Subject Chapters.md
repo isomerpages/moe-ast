@@ -56,7 +56,7 @@ The Office of Subject Chapters in the AST is home to Principal Master and Master
 								</ul>
 							</td>
 						</tr>
-		</tbody></table>--&gt;
+		</tbody></table>
 		
 
 Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nbsp; Leadership" of learning, the Subject Chapters in AST bring together groups of educators to learn from and with each other. Different professional learning platforms are designed to deepen the pedagogical content knowledge of teachers in the Subject Chapter, guided by specific professional learning directions set by the Subject Chapter Core Team and supported by the ST-LT Network Core Team and MTTs.
