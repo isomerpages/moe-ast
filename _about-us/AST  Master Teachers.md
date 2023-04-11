@@ -5,89 +5,8 @@ description: ""
 ---
 ![mtt2023](/images/mtt-resize.jpg)
 
-Our Master Teachers are the national teacher leaders who embody the professional ethos of the Teaching Profession. They foster a culture of professional excellence and collaboration amongst teachers for pedagogical excellence centred on the holistic development of the child.
+Our Master Teachers are the national teacher leaders who embody the professional ethos of the Teaching Profession. They foster a culture of professional excellence and collaboration amongst teachers for pedagogical excellence centred on the holistic development of the child through the [Office of Subject Chapters in AST](/office-of-subject-chapters/overview/).
 
-The Office of Subject Chapters in AST is home to Principal Master and Master Teachers from four Subject Clusters, namely, Humanities and CCE, Learner Profile, Mathematics and Science subject clusters. Our Principal Master and Master Teachers are committed to growing the professionalism of the teaching fraternity, leading, mentoring and inspiring teachers to be caring, competent and passionate educators who live out the ethos of our teaching profession, to provide quality education for our students.
-
-<ul class="jekyllcodex_accordion">  
-<li>
-	<input type="checkbox" id="accordion1"> 
-	<label for="accordion1"><h4>Overview of Subject Chapters</h4></label>  
-	<div>  
-		<p>Subject Chapters are Networked Learning Communities (NLCs) of teachers and teacher leaders from across schools, and Principal Master Teachers in AST. All teachers are members of the Subject-domain Subject Chapters for the subject(s) they teach, and members of the CCE and Learner Profile domains.</p>
-		<h5>Subject Chapters in AST</h5>
-		<table style="border-style:solid; border-width:2px; width:90%">
-          <tbody><tr>
-              <th style="background:#eeeeee">Humanities &amp; CCE </th>
-              <td>
-								<ul>
-									<li>Geography</li>
-									<li>History</li>
-									<li>Social Studies</li>
-									<li>Ecomonics</li>
-									<li>Principles of Accounts</li>
-									<li>Character and Citizenship Education</li>
-								</ul>
-						</td>
-						</tr>
-						<tr>
-							<th style="background:#eeeeee">Mathematics</th>
-							<td>
-								<ul>
-									<li>Primary Mathematics</li>
-									<li>Secondary Mathematics</li>
-								</ul>
-							</td>
-						</tr>
-						<tr>
-							<th style="background:#eeeeee">Science</th>
-							<td>
-								<ul>
-									<li>Primary Science</li>
-									<li>Biology</li>
-									<li>Chemistry</li>
-									<li>Physics</li>
-									<li> Nutrition &amp; Food Science</li>
-									<li>Design &amp; Technology</li>
-								</ul>
-							</td>
-						</tr>
-						<tr>
-							<th style="background:#eeeeee">Learner Profile</th>
-							<td>
-								<ul>
-									<li>Special Educational Needs</li>
-									<li>Educational Support</li>
-									<li>Lower Primary Learners</li>
-									<li>High Ability Learners</li>
-								</ul>
-							</td>
-						</tr>
-		</tbody></table>
-		
-        <p>Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nbsp; Leadership" of learning, the Subject Chapters in AST bring together groups of educators to learn from and with each other. Different professional learning platforms are designed to deepen the pedagogical content knowledge of teachers in the Subject Chapter, guided by specific professional learning directions set by the Subject Chapter Core Team and supported by the ST-LT Network Core Team and MTTs.</p>
-        <img src="/images/osc3.png" style="width:100%">
-
-        <h5>Revision to Subject Chapters, ST-LT Networks &amp; NLCs</h5>
-
-        <p><strong>Vision</strong></p>
-        <p>Build a culture of teacher-led professionalism and pride in the teaching fraternity.</p>
-
-        <p><strong>TOR for Subject Chapter Core Team (SC Core Team)</strong></p>
-        <ol>
-            <li>Provide information on current educational trends and initiatives and implications for subject teaching and learning.</li>
-            <li>Set the professional learning directions for the ST-LT Network Core Team (i.e. Chapter Events and Designed NLCs) and MTTs (i.e. Designed NLCs)</li>
-        </ol>
-
-        <p><strong>TOR (ST-LT Network Core Team and I/Cs of NLCs)</strong></p>
-        <ol>
-            <li>Use the learning directions by SC Core Team to decide on the learning foci for Chapter Events and Emergent NLCs</li>
-            <li>Deepen the pedagogical content knowledge of teachers for quality student learning through Chapter Events and Emergent NLCs</li>
-            <li>Champion professional collaboration and networked learning among teachers through Chapter Events and Emergent NLCs</li>
-        </ol>
-	</div>  
-</li>   
-<li>  
 <input type="checkbox" id="accordion2">  
 	<label for="accordion2"><h4>Geography Master Teachers</h4></label>
 	<div style="clear:both">
@@ -99,7 +18,7 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 		<img src="/images/geo3.png" style="width:80px;height:109px;margin-right:15px;" align="left"><strong>Ms Lum Kit Kuan Melanie</strong><br>Master Teacher / Geography<br><br><br>Email: <a href="mailto:Melanie_Lum@moe.gov.sg">Melanie_Lum@moe.gov.sg</a><br>Contact no.: 6664 1444</div>
 	<div style="clear:both"></div>
 	</div>
-	</li>
+	
 <li>
 	<input type="checkbox" id="accordion3"> 
 	<label for="accordion3"><h4>History Master Teachers</h4></label>  
@@ -412,4 +331,4 @@ The Office of Subject Chapters in AST is home to Principal Master and Master Tea
 </tbody></table>
 	</div>
 	
-	</li></ul>
+	</li>
