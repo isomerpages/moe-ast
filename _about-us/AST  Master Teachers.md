@@ -4,7 +4,7 @@ permalink: /about-us/about-us/ast-master-teachers/
 description: ""
 ---
 Our Master Teachers are the national teacher leaders who embody the professional ethos of the Teaching Profession. They foster a culture of professional excellence and collaboration amongst teachers for pedagogical excellence centred on the holistic development of the child through the [Office of Subject Chapters in AST](/office-of-subject-chapters/overview/).
-```
+
 <input type="checkbox" id="accordion1">  
 	<label for="accordion1"><h4>Geography Master Teachers</h4></label>
 	<div style="clear:both">
@@ -182,5 +182,4 @@ Our Master Teachers are the national teacher leaders who embody the professional
 <img src="/images/hal.png" style="width:100px;height:76px;margin-right:15px;" align="left"><strong>Mdm Evelyn Yeo</strong><br>Master Teacher/ High Ability Learners<br><br>Email: <a href="mailto:Evelyn_YEO@moe.gov.sg">Evelyn_YEO@moe.gov.sg</a><br>Contact no.: 6664 1420</div>
 	<div style="clear:both"><hr></div>
 		</div>
-</div></div>
-```
+	</div></div>
