@@ -3,6 +3,8 @@ title: Upcoming Events
 permalink: /events/upcoming-events/
 description: ""
 ---
+<p id="vistas"></p>
+
 | Date | Venue | Event|
 | -------- | -------- | -------- |
 | 16 May  | TBC   | Professional Learning Series: VISTAs|
@@ -12,7 +14,7 @@ description: ""
 
 <p></p>
 <hr>
-<p></p>
+<p id="tcef23"></p>
 
 | Date | Venue | Event|
 | -------- | -------- | -------- |
