@@ -16,15 +16,16 @@ Our Master Teachers are the national teacher leaders who embody the professional
 		<img src="/images/geo3.png" style="width:80px;height:109px;margin-right:15px;" align="left"><strong>Ms Lum Kit Kuan Melanie</strong><br>Master Teacher / Geography<br><br><br>Email: <a href="mailto:Melanie_Lum@moe.gov.sg">Melanie_Lum@moe.gov.sg</a><br>Contact no.: 6664 1444</div>
 	<div style="clear:both"></div>
 	</div>
-	<input type="checkbox" id="accordion3"> 
-	<label for="accordion3"><h4>History Master Teachers</h4></label>  
+	
+	<input type="checkbox" id="accordion2"> 
+	<label for="accordion2"><h4>History Master Teachers</h4></label>  
 	<div style="clear:both">
 	<div style="float:left; width:50%; padding:10px; height:200px;" id="Mr Yuen Kah Mun">
-			<img src="/images/geo1.png" style="width:80px;height:100px;margin-right:15px;" align="left"><strong>Mr Yuen Kah Mun</strong><br>Master Teacher / Geography <br>(Boon Lay Secondary School)<br><br>Email: <a href="mailto:Yuen_Kah_Mun@schools.gov.sg">Yuen_Kah_Mun@schools.gov.sg</a><br>Contact no.: 6794 0161	</div>
+		<img src="/images/hist1.png" style="width:80px;height:109px;margin-right:15px;" align="left"><strong>Mr Andrew Anthony</strong><br>Principal Master Teacher / History<br><br>Email: <a href="mailto:Anthony_Andrew_Michael@moe.gov.sg">Anthony_Andrew_Michael@moe.gov.sg</a><br>Contact no.: 66641445</div>
 		<div style="clear:both"></div>
 	</div>
 
-    	<img src="/images/hist1.png" style="width:80px;height:109px;margin-right:15px;" align="left"><strong>Mr Andrew Anthony</strong><br>Principal Master Teacher / History<br><br>Email: <a href="mailto:Anthony_Andrew_Michael@moe.gov.sg">Anthony_Andrew_Michael@moe.gov.sg</a><br>Contact no.: 66641445
+    	
 
       	<img src="/images/hist2.png" style="width:80px;height:109px;margin-right:15px;" align="left"><strong>Mr Tham Chin Pang Joseph</strong><br>Master Teacher/ History<br><br>Email:<a href="mailto:Tham_Chin_Pang@moe.gov.sg">Tham_Chin_Pang@moe.gov.sg</a><br>Contact no.: 6664 1438
 
