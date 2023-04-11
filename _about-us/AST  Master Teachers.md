@@ -26,16 +26,12 @@ Our Master Teachers are the national teacher leaders who embody the professional
 		<img src="/images/hist3.png" style="width:80px;height:109px;margin-right:15px;" align="left"><strong>Mr Yeo Tze Chiang Lloyd Luc</strong><br>Master Teacher/ History<br><br>Email: <a href="mailto:Lloyd_Luc_Yeo@moe.gov.sg">Lloyd_Luc_Yeo@moe.gov.sg</a><br>Contact no.: 6664 1446</div>
 		<div style="clear:both"></div>
 	</div>
-	
-	
 <h4>Social Studies Master Teachers</h4>
 	<div style="clear:both">
 	<div style="float:left; width:50%; padding:10px; height:250px;">
     	<img src="/images/ss1.png" style="width:120px;height:100px;margin-right:15px;" align="left"><strong>Mdm Premaletha Gopalakrishnan</strong><br>Master Teacher / Social Studies<br><br>Email: <a href="mailto:Premaletha_Gopalakrishnan@moe.gov.sg">Premaletha_Gopalakrishnan@moe.gov.sg</a><br>Contact no.: 6664 1437</div>
 	<div style="clear:both"></div>
 	</div>
-	
-	
 <h4>Economics Master Teachers</h4>
 	<div style="clear:both">
 <div style="float:left; width:50%; padding:10px; height:250px;">
@@ -44,7 +40,6 @@ Our Master Teachers are the national teacher leaders who embody the professional
 <img src="/images/pxb-mtt-khoogeehwee.jpg" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mr Khoo Gee Hwee</strong><br>Master Teacher / Economics<br><br>Email: <a href="mailto:Khoo_Gee_Hwee@moe.gov.sg">Khoo_Gee_Hwee@moe.gov.sg</a><br>Contact no.: 6664 1425</div>
 <div style="clear:both"></div>
 	</div>
-	
 <h4>Mathematics (Primary) Master Teachers</h4>
 	<div style="clear:both">
 <div style="float:left; width:50%; padding:10px; height:250px;">
@@ -63,7 +58,6 @@ Our Master Teachers are the national teacher leaders who embody the professional
 <img src="/images/pxb-mtt-lohguatbee7da3811206454f9496c5bec5bd7fbc7d.jpg" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mdm Loh Guat Bee</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Loh_Guat_Bee@moe.gov.sg">Loh_Guat_Bee@moe.gov.sg</a><br>Contact no.: 6664 1404</div>
 <div style="clear:both"></div>
 		</div>
-	
 <h4>Mathematics (Secondary) Master Teachers</h4>
 		<div style="clear:both">
 <div style="float:left; width:50%; padding:10px; height:250px;">
@@ -84,8 +78,6 @@ Our Master Teachers are the national teacher leaders who embody the professional
 <img src="/images/pxb-lee-mei-ling622deef201f44a75a2836771471ec235.jpg" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mdm Sharon Lee Mei Ling</strong><br>Master Teacher / Secondary Mathematics<br><br>Email: <a href="mailto:Sharon_Lee@moe.gov.sg">Sharon_Lee@moe.gov.sg</a><br>Contact no.: 6664 1424</div>
 <div style="clear:both"></div>
 </div>
-	
-	
 <h4>Science (Biology) Master Teachers</h4>
 		<div style="clear:both">
   <div style="float:left; width:50%; padding:10px; height:250px;">
@@ -96,8 +88,6 @@ Our Master Teachers are the national teacher leaders who embody the professional
 <img src="/images/sci3.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mr Muhamad Salahuddin Ibrahim</strong><br>Master Teacher / Biology<br><br>Email: <a href="mailto:Muhamad_Salahuddin_Ibrahim@moe.gov.sg">Muhamad_Salahuddin_Ibrahim@moe.gov.sg</a><br>Contact no.: 6664 1574</div>
 <div style="clear:both"></div>
 </div>
-	
-	
 <h4>Science (Chemistry) Master Teachers</h4>
 		<div style="clear:both">
  <div style="float:left; width:50%; padding:10px; height:250px;">
@@ -112,8 +102,6 @@ Our Master Teachers are the national teacher leaders who embody the professional
 <img src="/images/sci8.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Md Shahrin K S Moorthy</strong><br>Master Teacher / Chemistry<br><br>Email: <a href="mailto:Md_Shahrin@moe.gov.sg">Md_Shahrin@moe.gov.sg</a><br>Contact no.: 6664 1435</div>
 	<div style="clear:both"></div>
 	</div>
-	
-	
 <h4>Science (Physics) Master Teachers</h4>
 		<div style="clear:both">
   <div style="float:left; width:50%; padding:10px; height:250px;">
@@ -128,7 +116,6 @@ Our Master Teachers are the national teacher leaders who embody the professional
 <img src="/images/sci13.png" style="width:80px;height:115px;margin-right:15px;" align="left"><strong>Dr S. Ravindran</strong><br>Master Teacher / Physics<br><br><br>Email: <a href="mailto:S_Ravindran@moe.gov.sg">S_Ravindran@moe.gov.sg</a><br>Contact no.: 6664 1440</div>
 			<div style="clear:both"></div>
 		</div>
-		
 <h4>Science (Primary) Master Teachers</h4>
   <div style="clear:both">
 		<div style="float:left; width:50%; padding:10px; height:250px;">
@@ -145,8 +132,6 @@ Our Master Teachers are the national teacher leaders who embody the professional
 <img src="/images/sci19.png" style="width:80px;height:97px;margin-right:15px;" align="left"><strong>Mdm Yong Song Ling</strong><br>Master Teacher / Primary Science<br><br>Email: <a href="mailto:YONG_Song_Ling@moe.gov.sg">YONG_Song_Ling@moe.gov.sg</a><br>Contact no.: 6664 1419</div>
 		<div style="clear:both"></div>
 		</div>
-	
-	
 <h4>Character and Citizenship Education Master Teachers</h4>
 			<div style="clear:both">
 <div style="float:left; width:50%; padding:10px; height:250px;">
@@ -155,8 +140,6 @@ Our Master Teachers are the national teacher leaders who embody the professional
 <img src="/images/cce2.png" style="width:80px;height:97px;margin-right:15px;" align="left"><strong>Mr Osman Abdullah</strong><br>Master Teacher / Character and Citizenship Education<br><br>Email: <a href="mailto:Osman_Abdullah@moe.gov.sg">Osman_Abdullah@moe.gov.sg</a><br>Contact no.: 6664 144</div>
 				<div style="clear:both"></div>
 				</div>
-	
-	
 <h4>Educational Support Master Teachers</h4>
   <div style="clear:both">
 		<div style="float:left; width:50%; padding:10px; height:250px;">
@@ -167,8 +150,6 @@ Our Master Teachers are the national teacher leaders who embody the professional
 <img src="/images/es3.png" style="width:80px;height:86px;margin-right:15px;" align="left"><strong>Mr Tan Cher Chong</strong><br>Master Teacher / Educational Support<br><br>Email: <a href="mailto:Tan_Cher_Chong@moe.gov.sg">Tan_Cher_Chong@moe.gov.sg</a><br>Contact no.: 6664 1419</div>
 		<div style="clear:both"></div>
 		</div>
-	
-	
 <h4>Nutrition and Food Science Master Teachers</h4>
   <div style="clear:both">
 		<div style="float:left; width:50%; padding:10px; height:250px;">
@@ -177,16 +158,12 @@ Our Master Teachers are the national teacher leaders who embody the professional
 <img src="/images/pxb-anglaykheng8a0cdc2b154748df97af4a86840c0942.jpg" style="width:80px;height:106px;margin-right:15px;" align="left"><strong>Ms Ang Lay Kheng</strong><br>Master Teacher / Nutrition and Food Science<br><br>Email: <a href="mailto:ang_lay_kheng@moe.gov.sg">ang_lay_kheng@moe.gov.sg</a><br>Contact no.: 6664 1579</div>
 		<div style="clear:both"></div>
 		</div>
-	
-	
 <h4>Special Needs Master Teachers</h4>
   <div style="clear:both">
 		<div style="float:left; width:50%; padding:10px; height:250px;">
 <img src="/images/sn.png" style="width:80px;height:106px;margin-right:15px;" align="left"><strong>Ms Sarinajit Kaur</strong><br>Master Teacher / Special Educational Needs<br><br>Email: <a href="mailto:Sarinajit_Kaur@moe.gov.sg">Sarinajit_Kaur@moe.gov.sg</a><br>Contact no.: 6664 1416</div>
 		<div style="clear:both"></div>
 		</div>
-	
-	
 <h4>High Ability Learners Master Teachers</h4>
 <div style="clear:both">
 		<div style="float:left; width:50%; padding:10px; height:250px;">
