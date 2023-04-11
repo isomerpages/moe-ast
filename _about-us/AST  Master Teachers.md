@@ -41,7 +41,6 @@ Our Master Teachers are the national teacher leaders who embody the professional
 <div style="float:left; width:50%; padding:10px; height:200px;">
 <img src="/images/pxb-mtt-khoogeehwee.jpg" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mr Khoo Gee Hwee</strong><br>Master Teacher / Economics<br><br>Email: <a href="mailto:Khoo_Gee_Hwee@moe.gov.sg">Khoo_Gee_Hwee@moe.gov.sg</a><br>Contact no.: 6664 1425</div>
 <div style="clear:both"><hr></div>
-	
 	<input type="checkbox" id="accordion5">  
 	<label for="accordion5"><h4>Mathematics (Primary) Master Teachers</h4></label>  
 <div style="float:left; width:50%; padding:10px; height:200px;">
@@ -55,7 +54,10 @@ Our Master Teachers are the national teacher leaders who embody the professional
 <div style="float:left; width:50%; padding:10px; height:200px;">
 <img src="/images/math5.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Ms Teh Wan</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Teh_Wan@moe.gov.sg">Teh_Wan@moe.gov.sg</a><br>Contact no.: 6664 1577</div>
 <div style="float:left; width:50%; padding:10px; height:200px;">
-<img src="/images/pxb-changsuohuib825d0ad8ec447f6a35273e332cb7ac6.jpg" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Chang Suo Hui</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Chang_Suo_Hui@moe.gov.sg">Chang_Suo_Hui@moe.gov.sg</a><br>Contact no.: 6664 1406<strong>Mdm Loh Guat Bee</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Loh_Guat_Bee@moe.gov.sg">Loh_Guat_Bee@moe.gov.sg</a><br>Contact no.: 6664 1404
+<img src="/images/pxb-changsuohuib825d0ad8ec447f6a35273e332cb7ac6.jpg" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Chang Suo Hui</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Chang_Suo_Hui@moe.gov.sg">Chang_Suo_Hui@moe.gov.sg</a><br>Contact no.: 6664 1406</div>
+<div style="float:left; width:50%; padding:10px; height:200px;">
+<img src="/images/pxb-mtt-lohguatbee7da3811206454f9496c5bec5bd7fbc7d.jpg" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mdm Loh Guat Bee</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Loh_Guat_Bee@moe.gov.sg">Loh_Guat_Bee@moe.gov.sg</a><br>Contact no.: 6664 1404</div>
+<div style="clear:both"><hr></div>
 
 	<input type="checkbox" id="accordion6">  
 	<label for="accordion6"><h4>Mathematics (Secondary) Master Teachers</h4></label>  
@@ -159,4 +161,4 @@ Our Master Teachers are the national teacher leaders who embody the professional
 	<input type="checkbox" id="accordion15"> 
 	<label for="accordion15"><h4>High Ability Learners Master Teachers</h4></label> 
 
-<img src="/images/hal.png" style="width:100px;height:76px;margin-right:15px;" align="left"><strong>Mdm Evelyn Yeo</strong><br>Master Teacher/ High Ability Learners<br><br>Email: <a href="mailto:Evelyn_YEO@moe.gov.sg">Evelyn_YEO@moe.gov.sg</a><br>Contact no.: 6664 1420</div>
+<img src="/images/hal.png" style="width:100px;height:76px;margin-right:15px;" align="left"><strong>Mdm Evelyn Yeo</strong><br>Master Teacher/ High Ability Learners<br><br>Email: <a href="mailto:Evelyn_YEO@moe.gov.sg">Evelyn_YEO@moe.gov.sg</a><br>Contact no.: 6664 1420
