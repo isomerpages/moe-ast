@@ -8,70 +8,44 @@ Our Master Teachers are the national teacher leaders who embody the professional
 <input type="checkbox" id="accordion1">  
 	<label for="accordion1"><h4>Geography Master Teachers</h4></label>
 	<div style="clear:both">
-	<div style="float:left; width:50%; padding:10px; height:200px" id="Mr Yuen Kah Mun">
+	<div style="float:left; width:50%; padding:10px; height:200px;" id="Mr Yuen Kah Mun">
 			<img src="/images/geo1.png" style="width:80px;height:100px;margin-right:15px;" align="left"><strong>Mr Yuen Kah Mun</strong><br>Master Teacher / Geography <br>(Boon Lay Secondary School)<br><br>Email: <a href="mailto:Yuen_Kah_Mun@schools.gov.sg">Yuen_Kah_Mun@schools.gov.sg</a><br>Contact no.: 6794 0161	</div>
-	<div style="float:left; width:50%; padding:10px" id="Ms Lim Puay Yin">
+	<div style="float:left; width:50%; padding:10px; height:200px;" id="Ms Lim Puay Yin">
 		<img src="/images/geo2.png" style="width:60px;height:105px;margin-right:15px;" align="left"><strong>Ms Lim Puay Yin</strong><br>Master Teacher / Geography<br><br><br>Email: <a href="mailto:Lim_Puay_Yin@moe.gov.sg">Lim_Puay_Yin@moe.gov.sg</a><br>Contact no.: 6664 1427	</div>
-	<div style="float:left; width:50%; padding:10px" id="Ms Lum Kit Kuan">
+	<div style="float:left; width:50%; padding:10px; height:200px;" id="Ms Lum Kit Kuan">
 		<img src="/images/geo3.png" style="width:80px;height:109px;margin-right:15px;" align="left"><strong>Ms Lum Kit Kuan Melanie</strong><br>Master Teacher / Geography<br><br><br>Email: <a href="mailto:Melanie_Lum@moe.gov.sg">Melanie_Lum@moe.gov.sg</a><br>Contact no.: 6664 1444</div>
 	<div style="clear:both"></div>
 	</div>
-	
-<li>
 	<input type="checkbox" id="accordion3"> 
 	<label for="accordion3"><h4>History Master Teachers</h4></label>  
-  	<div>
-    <table>
-      <tbody><tr>
-      <td>
+	<div style="clear:both">
+	<div style="float:left; width:50%; padding:10px; height:200px;" id="Mr Yuen Kah Mun">
+			<img src="/images/geo1.png" style="width:80px;height:100px;margin-right:15px;" align="left"><strong>Mr Yuen Kah Mun</strong><br>Master Teacher / Geography <br>(Boon Lay Secondary School)<br><br>Email: <a href="mailto:Yuen_Kah_Mun@schools.gov.sg">Yuen_Kah_Mun@schools.gov.sg</a><br>Contact no.: 6794 0161	</div>
+		<div style="clear:both"></div>
+	</div>
+
     	<img src="/images/hist1.png" style="width:80px;height:109px;margin-right:15px;" align="left"><strong>Mr Andrew Anthony</strong><br>Principal Master Teacher / History<br><br>Email: <a href="mailto:Anthony_Andrew_Michael@moe.gov.sg">Anthony_Andrew_Michael@moe.gov.sg</a><br>Contact no.: 66641445
-      </td>
-      <td>
+
       	<img src="/images/hist2.png" style="width:80px;height:109px;margin-right:15px;" align="left"><strong>Mr Tham Chin Pang Joseph</strong><br>Master Teacher/ History<br><br>Email:<a href="mailto:Tham_Chin_Pang@moe.gov.sg">Tham_Chin_Pang@moe.gov.sg</a><br>Contact no.: 6664 1438
-      </td>
-      </tr>
-      <tr>
-      <td>
+
       	<img src="/images/hist3.png" style="width:80px;height:109px;margin-right:15px;" align="left"><strong>Mr Yeo Tze Chiang Lloyd Luc</strong><br>Master Teacher/ History<br><br>Email: <a href="mailto:Lloyd_Luc_Yeo@moe.gov.sg">Lloyd_Luc_Yeo@moe.gov.sg</a><br>Contact no.: 6664 1446
-        </td>
-        <td></td>
-        </tr>
-        </tbody></table>
-		</div>
-	</li>
-	
-	<li>
+
 	<input type="checkbox" id="accordion4">  
-  
 	<label for="accordion4"><h4>Social Studies Master Teachers</h4></label>  
   
-<div> 
-<table>
-<tbody><tr>
-<td><img src="/images/ss1.png" style="width:120px;height:100px;margin-right:15px;" align="left"><strong>Mdm Premaletha Gopalakrishnan</strong><br>Master Teacher / Social Studies<br><br>Email: <a href="mailto:Premaletha_Gopalakrishnan@moe.gov.sg">Premaletha_Gopalakrishnan@moe.gov.sg</a><br>Contact no.: 6664 1437
-</td>
-<td></td>
-</tr>
-</tbody></table>
-	</div>
-	</li>
-	<li>
+<img src="/images/ss1.png" style="width:120px;height:100px;margin-right:15px;" align="left"><strong>Mdm Premaletha Gopalakrishnan</strong><br>Master Teacher / Social Studies<br><br>Email: <a href="mailto:Premaletha_Gopalakrishnan@moe.gov.sg">Premaletha_Gopalakrishnan@moe.gov.sg</a><br>Contact no.: 6664 1437
+
 	<input type="checkbox" id="accordion5">  
-  
 	<label for="accordion5"><h4>Economics Master Teachers</h4></label>  
-  
-<div> 
-<table>
-<tbody><tr>
-<td><img src="/images/econs1.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Tan Dai Hwee</strong><br>Master Teacher / Economics<br><br>Email: <a href="mailto:Tan_Dai_Hwee@moe.gov.sg">Tan_Dai_Hwee@moe.gov.sg</a><br>Contact no.: 6664 1443
-</td>
-<td>
+<img src="/images/econs1.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Tan Dai Hwee</strong><br>Master Teacher / Economics<br><br>Email: <a href="mailto:Tan_Dai_Hwee@moe.gov.sg">Tan_Dai_Hwee@moe.gov.sg</a><br>Contact no.: 6664 1443
+
+
 <img src="/images/pxb-mtt-khoogeehwee.jpg" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mr Khoo Gee Hwee</strong><br>Master Teacher / Economics<br><br>Email: <a href="mailto:Khoo_Gee_Hwee@moe.gov.sg">Khoo_Gee_Hwee@moe.gov.sg</a><br>Contact no.: 6664 1425
-</td>
-</tr>
-</tbody></table>
-	</div>
-	</li>
+
+
+
+	
+	
 	<li>
 	<input type="checkbox" id="accordion16">  
   
