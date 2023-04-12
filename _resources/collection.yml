@@ -1,0 +1,5 @@
+collections:
+  resources:
+    output: true
+    order:
+      - PD Guides.md

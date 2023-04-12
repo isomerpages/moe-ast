@@ -1,0 +1,27 @@
+collections:
+  office-of-subject-chapters:
+    output: true
+    order:
+      - Overview of Subject Chapters.md
+      - Humanities and CCE/Geography Chapter.md
+      - Humanities and CCE/History Chapter.md
+      - Humanities and CCE/Social Studies Chapter.md
+      - Humanities and CCE/Economics Chapter.md
+      - Humanities and CCE/Principles of Accounts Chapter.md
+      - Humanities and CCE/Character and Citizenship Education Chapter.md
+      - Humanities and CCE/.keep
+      - Mathematics/Primary Mathematics Chapter.md
+      - Mathematics/Secondary Mathematics Chapter.md
+      - Mathematics/.keep
+      - Science/Primary Science Chapter.md
+      - Science/Biology Chapter.md
+      - Science/Chemistry Chapter.md
+      - Science/Physics Chapter.md
+      - Science/Nutrition and Food Science Chapter.md
+      - Science/Design and Technology Chapter.md
+      - Science/.keep
+      - Learner Profile/Special Educational Needs Chapter.md
+      - Learner Profile/Educational Support Chapter.md
+      - Learner Profile/Lower Primary Learners Chapter.md
+      - Learner Profile/High Ability Learners Chapter.md
+      - Learner Profile/.keep

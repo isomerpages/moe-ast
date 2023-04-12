@@ -1,0 +1,9 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Our Organisation.md
+      - Teachers' Council.md
+      - AST  Master Teachers.md
+      - Academies and Language Centres.md
+      - Contact Us.md

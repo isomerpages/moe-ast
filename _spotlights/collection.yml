@@ -1,0 +1,4 @@
+collections:
+  spotlights:
+    output: true
+    order: []

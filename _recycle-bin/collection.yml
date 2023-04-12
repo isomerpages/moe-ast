@@ -1,0 +1,22 @@
+collections:
+  recycle-bin:
+    output: true
+    order:
+      - Photos of OYEA Recipients and Finalists.md
+      - Our Organisation.md
+      - Overview Professional Excellence.md
+      - Overview of Professional Development (PD).md
+      - PDPO Overview.md
+      - About PDPO.md
+      - Our PLC Journey.md
+      - PD for Education Officers/.keep
+      - PD for Education Officers/Professional Development for Education
+        Officers.md
+      - PD for Education Officers/Instructional Mentoring.md
+      - PD for Education Officers/Teacher Leaders Programme.md
+      - PD for Education Officers/Teacher–Led Workshops.md
+      - PD for Education Officers/Teacher Work Attachment Plus (TWA) Programme.md
+      - PD for Education Officers/Outstanding Educator–in–Consultancy (OEIC)
+        Programme.md
+      - PD for Education Officers/Teachers’ Conference and ExCEL Fest 2023
+        (TCEF2023).md

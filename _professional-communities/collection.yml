@@ -1,0 +1,16 @@
+collections:
+  professional-communities:
+    output: true
+    order:
+      - PLCs/.keep
+      - PLCs/Overview of PLC.md
+      - PLCs/Benefits of PLC.md
+      - PLCs/3 Big Ideas, 4 Critical Questions and 5 Dimensions for Effective
+        PLCs.md
+      - PLCs/Developing Effective PLCs.md
+      - PLCs/Reviewing PLCs.md
+      - PLCs/FAQs and Resources.md
+      - NLCs/.keep
+      - NLCs/Overview.md
+      - NLCs/Senior Teachers and Lead Teachers (ST–LT) Network.md
+      - NLCs/School Staff Developer (SSD) Network.md
