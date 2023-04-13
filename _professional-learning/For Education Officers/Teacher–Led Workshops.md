@@ -4,13 +4,41 @@ permalink: /professional-learning/for-eos/tlw/
 description: ""
 third_nav_title: For Education Officers
 ---
-#### Rationale of Teacher-Led Workshops
+![TLW Banner](/images/tlw%20banner.png)
 
-Teacher-Led Workshops (TLWs) are conducted by teachers for teachers. Guided by the mission of the Academy of Singapore Teachers (AST) to develop a teacher-led culture of professional excellence, AST has built on the work of Teachers’ Network to create opportunities for teachers to lead and inspire through the sharing of good practices. Through this platform, teachers will engage in professional exchange of pedagogical content knowledge, leading to enhanced pedagogical practice.
+#### Overview of Teacher-led Workshops (TLW)
 
-#### Objectives of Teacher-Led Workshops
+Teacher-Led Workshops (TLWs) are conducted **by teachers for teachers**. 
 
-![](https://staging.d2dfevnwgxersp.amplifyapp.com/images/tlw2.png)
+Guided by the mission of the Academy of Singapore Teachers (AST) to develop **a teacher-led culture of professional excellence**, TLW is a platform to **provide professional opportunities** for our teachers **to share their good practices** within the fraternity.
+
+Through this platform, teachers will **engage in professional exchange of pedagogical content knowledge, leading to enhanced pedagogical practice**.
+
+
+#### Objectives of Teacher-Led Workshops (TLW)
+
+
+
+| ![](/images/2023%20designs-02.png)| ![](/images/2023%20designs-03.png) | ![](/images/2023%20designs-01.png) |
+| -------- | -------- | -------- |
+| **Lead** and **Engage** the Teaching Community | Grow Teacher Leaders to champion **Teacher Ownership Teacher Leadership (TOTL)** in professional learning | Support a community of teachers for **professional sharing and learning**     |
+
+#### More about Teacher-led Workshops (TLW)
+
+##### Modes of Teacher-led Workshops (TLW)
+
+Teacher-led Workshops (TLW) can be conducted through the following modes of delivery: 
+
+
+
+| **Synchronous Learning** | **Synchronous Learning** | **Asynchronous Learning <br>(Mounted on OPAL2.0)**|
+| -------- | -------- | -------- |
+| ![](/images/tlw%20icon%201.png)   | ![](/images/tlw%20icon%203.png)    | ![](/images/tlw%20icon%202.png)   |
+| Online via Video-conferencing <br>(OVC) (preferred)     | Face-to-face (F2f)  <br>(Skills-based or location-based, subjected to national PD guidelines) | e-TLW learning package      |
+
+
+
+
 
 *   Structure of Teacher-Led Workshops
     
