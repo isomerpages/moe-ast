@@ -10,13 +10,13 @@ The OEIR programme was later revamped into the Outstanding Educator-in-Consultan
 
 The OEIC programme aims to
 
-1\. leverage the expertise of outstanding overseas educators to enhance the integration of knowledge into practice,&nbsp;  
+1. leverage the expertise of outstanding overseas educators to enhance the integration of knowledge into practice,&nbsp;  
 
-1.  increase the capacity of educators (local and foreign) to work collaboratively towards quality education programmes and innovative curriculum design,  
+2.  increase the capacity of educators (local and foreign) to work collaboratively towards quality education programmes and innovative curriculum design,  
     
-2.  enrich the application of knowledge by providing opportunities for classroom research, practice, and consultation, as opposed to pure academic research and discussions; and  
+3.  enrich the application of knowledge by providing opportunities for classroom research, practice, and consultation, as opposed to pure academic research and discussions; and  
     
-3.  forge sustained partnerships with international educators and&nbsp;better understanding and appreciation of our&nbsp;education system, through the agency of the Academy of Singapore Teachers.
+4.  forge sustained partnerships with international educators and&nbsp;better understanding and appreciation of our&nbsp;education system, through the agency of the Academy of Singapore Teachers.
 
 #### Networking Opportunities with Outstanding Overseas Educators
 
