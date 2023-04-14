@@ -313,29 +313,29 @@ Access the <a href="/files/oyea2019-14.pdf">OYEA Secondary Noteworthy Practices(
 <div>  
   
 <p>
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2016-1.pdf">We are a Village of Care(.pdf, 290.06 KB)</a><br>Angeline Chan Xiuwen<br><br>
+<a href="/files/oyea2016-1.pdf">We are a Village of Care(.pdf, 290.06 KB)</a><br>Angeline Chan Xiuwen<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2016-2.pdf">Custom-Made Learning(.pdf, 267.87 KB)</a><br>Nurul Munirah Bte Abdul Samad<br><br>	
+<a href="/files/oyea2016-2.pdf">Custom-Made Learning(.pdf, 267.87 KB)</a><br>Nurul Munirah Bte Abdul Samad<br><br>	
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2016-3.pdf">Story OYEA 2016_Joel Prathiev Vinson (final)(.pdf, 253.29 KB)</a><br>Joel Prathiev Vinson<br><br>
+<a href="/files/oyea2016-3.pdf">Story OYEA 2016_Joel Prathiev Vinson (final)(.pdf, 253.29 KB)</a><br>Joel Prathiev Vinson<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2016-4.pdf">The Language of Music(.pdf, 253.21 KB)</a><br>Leu Yifang<br><br>	
+<a href="/files/oyea2016-4.pdf">The Language of Music(.pdf, 253.21 KB)</a><br>Leu Yifang<br><br>	
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2016-5.pdf">Moving to the Beat(.pdf, 232.03 KB)</a><br>Toh Xin Yi Sheena<br><br>
+<a href="/files/oyea2016-5.pdf">Moving to the Beat(.pdf, 232.03 KB)</a><br>Toh Xin Yi Sheena<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2016-6.pdf">Books, Bricks and Bytes(.pdf, 265.5 KB)</a><br>Sivakami D/O Ratha<br><br>	
+<a href="/files/oyea2016-6.pdf">Books, Bricks and Bytes(.pdf, 265.5 KB)</a><br>Sivakami D/O Ratha<br><br>	
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2016-7.pdf">Guiding Traditions(.pdf, 264.44 KB)</a><br>Farn Hsing Chieh<br><br>
+<a href="/files/oyea2016-7.pdf">Guiding Traditions(.pdf, 264.44 KB)</a><br>Farn Hsing Chieh<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2016-8.pdf">A Touch of Compassion(.pdf, 264.44 KB)</a><br>Chin Qinning<br><br>	
+<a href="/files/oyea2016-8.pdf">A Touch of Compassion(.pdf, 264.44 KB)</a><br>Chin Qinning<br><br>	
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2016-9.pdf">The Heart of Discipline(.pdf, 258.88 KB)</a><br>Cai Zhiwen&nbsp;<br><br>
+<a href="/files/oyea2016-9.pdf">The Heart of Discipline(.pdf, 258.88 KB)</a><br>Cai Zhiwen&nbsp;<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2016-10.pdf">The Power of Team Spirit(.pdf, 282.63 KB)</a><br>Low Wei Chuan<br><br>	
+<a href="/files/oyea2016-10.pdf">The Power of Team Spirit(.pdf, 282.63 KB)</a><br>Low Wei Chuan<br><br>	
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2016-11.pdf">History is not the Past(.pdf, 283.15 KB)</a><br>Chan Joo Seng Melvin<br><br>
+<a href="/files/oyea2016-11.pdf">History is not the Past(.pdf, 283.15 KB)</a><br>Chan Joo Seng Melvin<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2016-12.pdf">Running the Race Together(.pdf, 290.95 KB)</a><br>Ng Qihui<br><br>	
+<a href="/files/oyea2016-12.pdf">Running the Race Together(.pdf, 290.95 KB)</a><br>Ng Qihui<br><br>	
   
 </p>  
   
