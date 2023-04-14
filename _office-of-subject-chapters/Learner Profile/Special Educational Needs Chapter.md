@@ -60,7 +60,7 @@ The Special Educational Needs Chapter at the Academy of Singapore Teachers is su
 
 <b>Core Team Members 2023</b><br><br>
 
-<b>Our representatives from NIE & MOE</b><br><br>
+<b>Our representatives from NIE &amp; MOE</b><br><br>
 <img src="/images/nie.png" style="width:70%"><br><br>
 <b>Our zonal representatives from school</b><br><br>
 <img src="/images/schoolreps.png" style="width:70%">
@@ -84,7 +84,7 @@ The Special Educational Needs Chapter at the Academy of Singapore Teachers is su
 <p>
 The SEN Chapter @ AST is made up of a committed and passionate group of teachers which comprises our Teacher Leaders Learning Needs (SEN).
 <br><br>
-<i>The Teacher Leader community aims to strengthen and leverage a vibrant community of educators by providing pedagogical leadership and mentorship to enhance the quality and capability of the teaching fraternity for improved student outcomes.</i>
+<i>The Teacher Leader community aims to strengthen and leverage a&nbsp;vibrant community of educators by providing pedagogical leadership and mentorship to enhance the quality and capability of the teaching fraternity for improved student outcomes.</i>
 <br><br>
 The SEN Chapter facilitates regular Networked Learning Sessions (NLS) and tea meet ups to better support the growth and development of our TLs.
 <br><br>
@@ -98,8 +98,8 @@ The SEN Chapter facilitates regular Networked Learning Sessions (NLS) and tea me
 	<b>Invitation and registration for the above will be through email invites.</b>
 <br><br>
 	<b>Role specific growth and development platforms</b>
-<ul>
-	<li>For newly appointed Teacher Leaders (Learning Needs/SEN)</li>
+</p><ul>
+	<li>For&nbsp;newly appointed Teacher Leaders (Learning Needs/SEN)</li>
 </ul>
 <img src="/images/ws1.png" style="width:70%"><br><br>
 <ul>
@@ -107,7 +107,7 @@ The SEN Chapter facilitates regular Networked Learning Sessions (NLS) and tea me
 </ul>
 <img src="/images/ws2.png" style="width:70%">
 
-</p>  
+<p></p>  
   
 </div>  
   
@@ -169,15 +169,15 @@ Professional Learning-Sharing by schools for all personnel supporting SEN</b>
 <p>
   
 <b>Here is a list of some useful resources to support and guide schools</b>
-<ol>
+</p><ol>
 	<li><a href="https://intranet.moe.gov.sg/Send/Pages/SEN_Resource_Portal.aspx">SEN Resource Portal on the intranet</a><br><br>This resource portal houses a comprehensive range of resources and aims to provide schools with information and self-help tools, to enable schools to enhance their understanding of and support for SEN.</li>
 	<li><a href="https://academyofsingaporeteachers.moe.edu.sg/about-us/office-of-subject-chapters/learner-profile/go.gov.sg/sense-community">SEN Community Wiki on OPAL 2.0</a><br><br>We encourage all educators to join this community and to be an active member to share, learn and lead one another as we better support our diverse learners in our classrooms and schools.</li>
 	<li><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3D53321ddf2145e56ab601c6ac62d9e3353a77550121447d16d16af69ec2afa00f">SEN:se Online Micro Learning Units on OPAL 2.0</a>
 <br><br>This is a series of practice oriented modules on supporting students with SEN which encourages reflective practice through bite sized units across various topics within SEN Support. These learning modules are locally produced using our current mainstream contexts and provide evidence-based resources to provide support to teachers.</li>
-	<li><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3D219df95a8d5ce2a1aa5ebd8185ebb4666638455803240afd9183b569d837776a">Singapore Teaching Practice-Teaching Actions & Considerations with a SEN lens</a><br><br>This provides a list of teaching actions and considerations that are relevant for all students especially those with Special Educational Needs which are denoted with a (^). It provides food for thought and ideas for implementation within our mainstream classrooms.</li>
-</p>  
+	<li><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3D219df95a8d5ce2a1aa5ebd8185ebb4666638455803240afd9183b569d837776a">Singapore Teaching Practice-Teaching Actions &amp; Considerations with a SEN lens</a><br><br>This provides a list of teaching actions and considerations that are relevant for all students especially those with Special Educational Needs which are denoted with a (^). It provides food for thought and ideas for implementation within our mainstream classrooms.</li>
+<p></p>  
  
-</div>  
+</ol></div>  
   
 </li>  		
 <li>  
@@ -194,10 +194,10 @@ Every teacher supporting students with special educational needs is a member of 
 	
 Join us today, so that we continue to grow together as a vibrant fraternity of enabled educators!
 
-Do contact <a href="Rachel_Teo@moe.gov.sg">Rachel_Teo@moe.gov.sg</a> or <a href="Sarinajit_KAUR@moe.gov.sg">Sarinajit_KAUR@moe.gov.sg</a> , if you have any queries.
+Do contact <a href="mailto:Rachel_Teo@moe.gov.sg">Rachel_Teo@moe.gov.sg</a> or  <a href="mailto:Sarinajit_KAUR@moe.gov.sg">Sarinajit_KAUR@moe.gov.sg</a> , if you have any queries.
 	
 </p>  
- 
+
 </div>  
   
 </li>  		
