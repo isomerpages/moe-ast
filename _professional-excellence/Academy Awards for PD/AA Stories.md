@@ -4,8 +4,6 @@ permalink: /professional-recognition/Academy-Awards/AA-Stories/
 description: ""
 third_nav_title: Academy Awards for PD
 ---
-
-
 <ul class="jekyllcodex_accordion">  
   
 <li>  
@@ -17,9 +15,9 @@ third_nav_title: Academy Awards for PD
 <div>  
   
 <p>
-1) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac1.pdf">Chang Suo Hui_Kranji Primary School_2021(.pdf, 54.77 KB)</a><br><b>Chang Suo Hui</b><br><b>Kranji Primary School</b><br><br>
+1) <a href="/files/aac1.pdf">Chang Suo Hui_Kranji Primary School_2021(.pdf, 54.77 KB)</a><br><b>Chang Suo Hui</b><br><b>Kranji Primary School</b><br><br>
 	
-2) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac2.pdf">Yeo Leng Choo_Victoria Junior College_2021(.pdf, 55.94 KB)</a><br><b>Yeo Leng Choo</b><br><b>Victoria Junior College</b><br><br>	
+2) <a href="/files/aac2.pdf">Yeo Leng Choo_Victoria Junior College_2021(.pdf, 55.94 KB)</a><br><b>Yeo Leng Choo</b><br><b>Victoria Junior College</b><br><br>	
 </p>  
   
 </div>  
@@ -34,7 +32,7 @@ third_nav_title: Academy Awards for PD
 <div>  
   
 <p>
-1) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac3.pdf">Cheng Mee Eng_Princess Elizabeth Primary School_2020(.pdf, 17.83 KB)</a><br><b>Cheng Mee Eng</b><br><b>Princess Elizabeth Primary School</b><br><br>
+1) <a href="/files/aac3.pdf">Cheng Mee Eng_Princess Elizabeth Primary School_2020(.pdf, 17.83 KB)</a><br><b>Cheng Mee Eng</b><br><b>Princess Elizabeth Primary School</b><br><br>
 	
 
 </p>  
@@ -52,9 +50,9 @@ third_nav_title: Academy Awards for PD
 <div>  
   
 <p>
-1) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac4.pdf">Ong Daphne Rachel_Broadrick Secondary School_2019(.pdf, 13.91 KB)</a><br><b>Ong Daphne Rachel</b><br><b>Broadrick Secondary School</b><br><br>
+1) <a href="/files/aac4.pdf">Ong Daphne Rachel_Broadrick Secondary School_2019(.pdf, 13.91 KB)</a><br><b>Ong Daphne Rachel</b><br><b>Broadrick Secondary School</b><br><br>
 	
-2) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac5.pdf">Chan Min Lie_Edgefield Primary School_2019(.pdf, 14.43 KB)</a><br><b>Chan Min Lie</b><br><b>Edgefield Primary School</b><br><br>	
+2) <a href="/files/aac5.pdf">Chan Min Lie_Edgefield Primary School_2019(.pdf, 14.43 KB)</a><br><b>Chan Min Lie</b><br><b>Edgefield Primary School</b><br><br>	
   
 </p>  
   
