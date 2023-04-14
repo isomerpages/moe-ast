@@ -130,11 +130,11 @@ Please upload the doc files here.
 <div>  
   
 <p>
-1) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac6.pdf">Ng Kee Yah Theresa_Ngee Ann Secondary School_2015(.pdf, 72.13 KB)</a><br><b>Ng Kee Yah Theresa</b><br><b>Ngee Ann Secondary School</b><br><br>
+1) <a href="/files/aac6.pdf">Ng Kee Yah Theresa_Ngee Ann Secondary School_2015(.pdf, 72.13 KB)</a><br><b>Ng Kee Yah Theresa</b><br><b>Ngee Ann Secondary School</b><br><br>
 	
-2) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac7.pdf">Lye Wai Leng_National Junior College_2015(.pdf, 79.43 KB)</a><br><b>Lye Wai Leng</b><br><b>National Junior College</b><br><br>	
+2) <a href="/files/aac7.pdf">Lye Wai Leng_National Junior College_2015(.pdf, 79.43 KB)</a><br><b>Lye Wai Leng</b><br><b>National Junior College</b><br><br>	
 	
-3) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac8.pdf">Poh Meng Leng_Educational Technology Division_2015(.pdf, 75.05 KB)</a><br><b>Poh Meng Leng</b><br><b>Educational Technology Division</b><br><br>		
+3) <a href="/files/aac8.pdf">Poh Meng Leng_Educational Technology Division_2015(.pdf, 75.05 KB)</a><br><b>Poh Meng Leng</b><br><b>Educational Technology Division</b><br><br>		
   
 </p>  
   
@@ -151,7 +151,7 @@ Please upload the doc files here.
 <div>  
   
 <p>
-1) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac9.pdf">Muhamad Salahuddin Bin Ibrahim_Serangoon Junior College_2014(.pdf, 135.25 KB)</a><br><br><b>Muhamad Salahuddin Bin Ibrahim<br>Serangoon Junior College</b><br><br>
+1) <a href="/files/aac9.pdf">Muhamad Salahuddin Bin Ibrahim_Serangoon Junior College_2014(.pdf, 135.25 KB)</a><br><br><b>Muhamad Salahuddin Bin Ibrahim<br>Serangoon Junior College</b><br><br>
 	
 
 </p>  
