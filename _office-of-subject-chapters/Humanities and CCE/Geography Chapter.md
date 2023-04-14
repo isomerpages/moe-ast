@@ -109,8 +109,9 @@ Through collaborative learning in a network, you could widen your   professional
 <div>  
   
 <p>
-For interest joining or leading in NLCs, please contact Mdm Lim Puay Yin (MTT/Geography) at <a href="Lim_Puay_yin@moe.gov.sg">Lim_Puay_yin@moe.gov.sg</a> <br><br>
-
+For interest joining or leading in NLCs, please contact Mdm Lim Puay Yin (MTT/Geography) at 
+<a href="Lim_Puay_yin@moe.gov.sg">Lim_Puay_yin@moe.gov.sg</a>
+<br><br>
 Thank You!
 </p>  
   
