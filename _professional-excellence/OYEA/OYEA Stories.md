@@ -183,11 +183,11 @@ Access the&nbsp;OYEA 2020 Primary Noteworthy Practices of the 3 nominees from th
 	
 <a href="/files/oyea2019-9.pdf">YOUNG MAN, DON’T GIVE UP(.pdf, 362.63 KB)</a><br>Kevin Joseph Francis <br>Spectra Secondary School<br><br>	
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-10.pdf">BETTER THAN THE BEST GRADE(.pdf, 461.6 KB)</a><br>See Wei Liang, Clement <br>Compassvale Secondary School<br><br>
+<a href="/files/oyea2019-10.pdf">BETTER THAN THE BEST GRADE(.pdf, 461.6 KB)</a><br>See Wei Liang, Clement <br>Compassvale Secondary School<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-11.pdf">TEACHING YOUR CHILD TO BE THE TEACHER(.pdf, 374.07 KB)</a><br>Pooi Ming Shurn Benjamin  <br>Chua Chu Kang Secondary School<br><br>
+<a href="/files/oyea2019-11.pdf">TEACHING YOUR CHILD TO BE THE TEACHER(.pdf, 374.07 KB)</a><br>Pooi Ming Shurn Benjamin  <br>Chua Chu Kang Secondary School<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-12.pdf">TO BE THE BEST VERSION OF YOU(.pdf, 489.04 KB)</a><br>Lim Chuan Li  <br>Temasek Junior College<br><br>		
+<a href="/files/oyea2019-12.pdf">TO BE THE BEST VERSION OF YOU(.pdf, 489.04 KB)</a><br>Lim Chuan Li  <br>Temasek Junior College<br><br>		
 	
 <b><u>2019 Noteworth Practices</u></b><br><br>		
 	
@@ -196,7 +196,7 @@ Access the&nbsp;OYEA 2020 Primary Noteworthy Practices of the 3 nominees from th
 1)&nbsp;LEARNING ABOUT CYBERWELLNESS THE FUN WAY by&nbsp;<b>Matthew Sim</b><br>
 
 2)&nbsp;WRITING&nbsp;WITH TAD by&nbsp;<b>Dashni D/O Ravindran</b><br><br>	
-Access the <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-13.pdf">OYEA Primary Noteworthy Practices(.pdf, 1.92 MB)</a>of the 2 nominees from the Primary Schools. <br><br>
+Access the <a href="/files/oyea2019-13.pdf">OYEA Primary Noteworthy Practices(.pdf, 1.92 MB)</a>of the 2 nominees from the Primary Schools. <br><br>
 	
 <b>Secondary Schools/ NUS High School</b><br><br>	
 
