@@ -113,7 +113,7 @@ For details of our calendar of events, please visit the Economics Chapter one-st
 <div>  
   
 <p>
-You may contact our Master Teachers at&nbsp;<a href="mailto:tan_dai_hwee@moe.gov.sg">tan_dai_hwee@moe.gov.sg</a> or <br>
+You may contact our Master Teachers at&nbsp;<a href="mailto:tan_dai_hwee@moe.gov.sg">tan_dai_hwee@moe.gov.sg</a> or 
 <a href="mailto:khoo_gee_hwee@moe.gov.sg">khoo_gee_hwee@moe.gov.sg</a>
 </p>  
 
