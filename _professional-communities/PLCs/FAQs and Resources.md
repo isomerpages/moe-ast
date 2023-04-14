@@ -45,7 +45,7 @@ The&nbsp;<a href="/professional-excellence/Professional-Learning-Groups/developi
 
 <b>8. What if my school does not have a SSD?  </b><br><br>
 
-In such a case, a staff member who is currently in charge of the professional development of the whole staff, may be appointed to perform some of the roles of the&nbsp;<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/professional-excellence/Professional-Learning-Groups/developing-effective-plcs/">SSD</a>. <br><br>
+In such a case, a staff member who is currently in charge of the professional development of the whole staff, may be appointed to perform some of the roles of the&nbsp;<a href="/professional-excellence/Professional-Learning-Groups/developing-effective-plcs/">SSD</a>. <br><br>
 
 <b>9. Has MOE explored existing PLC Models from overseas?  </b><br><br>
 
