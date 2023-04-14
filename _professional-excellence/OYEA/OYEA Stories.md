@@ -274,11 +274,11 @@ Access the <a href="/files/oyea2019-14.pdf">OYEA Secondary Noteworthy Practices(
 <div>  
   
 <p>
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-1.pdf">Reaching Out to the Invisible Kids(.pdf, 254.4 KB)</a><br>Charmain Han Mingfang<br><br>
+<a href="/files/oyea2017-1.pdf">Reaching Out to the Invisible Kids(.pdf, 254.4 KB)</a><br>Charmain Han Mingfang<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-2.pdf">Learning through Drama(.pdf, 277.78 KB)</a><br>Faith Huang Huiru<br><br>	
+<a href="/files/oyea2017-2.pdf">Learning through Drama(.pdf, 277.78 KB)</a><br>Faith Huang Huiru<br><br>	
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-3.pdf">The Multiplier Effect(.pdf, 265.94 KB)</a><br>Farah Bte Syed Haider Alsagoff<br><br>
+<a href="/files/oyea2017-3.pdf">The Multiplier Effect(.pdf, 265.94 KB)</a><br>Farah Bte Syed Haider Alsagoff<br><br>
 	
 <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2017-4.pdf">Sweeping Change(.pdf, 242.81 KB)</a><br>Joy Zhang-Low Ai Ling<br><br>	
 
