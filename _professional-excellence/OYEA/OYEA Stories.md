@@ -206,7 +206,7 @@ Access the <a href="/files/oyea2019-13.pdf">OYEA Primary Noteworthy Practices(.p
 
 3) '4+1' Programme by&nbsp;<b>Lim Bing Hui</b>	<br><br>
 	
-Access the <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2019-14.pdf">OYEA Secondary Noteworthy Practices(.pdf, 4.67 MB)</a>of the 3 nominees from the Secondary Schools and NUS High School of Math and Science.<br>	
+Access the <a href="/files/oyea2019-14.pdf">OYEA Secondary Noteworthy Practices(.pdf, 4.67 MB)</a>of the 3 nominees from the Secondary Schools and NUS High School of Math and Science.<br>	
 </p>  
   
 </div>  
