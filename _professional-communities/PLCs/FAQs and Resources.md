@@ -41,7 +41,7 @@ AEDs and EAS may either join PLTs relevant to their own areas of work, or form t
 
 <b>7. What is the role of the School Staff Developer (SSD)?  </b><br><br>
 
-The&nbsp;<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/professional-excellence/Professional-Learning-Groups/developing-effective-plcs/">SSD</a>&nbsp;is a member of the coalition team and plays an active role in guiding PLTs in his/her school.&nbsp;<br><br>
+The&nbsp;<a href="/professional-excellence/Professional-Learning-Groups/developing-effective-plcs/">SSD</a>&nbsp;is a member of the coalition team and plays an active role in guiding PLTs in his/her school.&nbsp;<br><br>
 
 <b>8. What if my school does not have a SSD?  </b><br><br>
 
