@@ -222,27 +222,27 @@ Access the <a href="/files/oyea2019-14.pdf">OYEA Secondary Noteworthy Practices(
 <div>  
   
 <p>
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-1.pdf">Everyone can get up and groove(.pdf, 337.79 KB)</a><br>Willy Ong Wei Li <br><br>
+<a href="/files/oyea2018-1.pdf">Everyone can get up and groove(.pdf, 337.79 KB)</a><br>Willy Ong Wei Li <br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-2.pdf">Empowering students to make a difference(.pdf, 332.35 KB)</a><br>Sylvianne Devajothi <br><br>	
+<a href="/files/oyea2018-2.pdf">Empowering students to make a difference(.pdf, 332.35 KB)</a><br>Sylvianne Devajothi <br><br>	
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-3.pdf">Technology, a teacher’s best friend(.pdf, 359.96 KB)</a><br>Tan Si Hua <br><br>
+<a href="/files/oyea2018-3.pdf">Technology, a teacher’s best friend(.pdf, 359.96 KB)</a><br>Tan Si Hua <br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-4.pdf">Reel to real(.pdf, 342.21 KB)</a><br>Ng Wan Jun <br><br>	
+<a href="/files/oyea2018-4.pdf">Reel to real(.pdf, 342.21 KB)</a><br>Ng Wan Jun <br><br>	
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-5.pdf">Creativity is not enough(.pdf, 317.47 KB)</a><br>Toh Pei Min <br><br>
+<a href="/files/oyea2018-5.pdf">Creativity is not enough(.pdf, 317.47 KB)</a><br>Toh Pei Min <br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-6.pdf">Helping students pick a CCA they love(.pdf, 333.41 KB)</a><br>Chan Wen Hui<br><br>	
+<a href="/files/oyea2018-6.pdf">Helping students pick a CCA they love(.pdf, 333.41 KB)</a><br>Chan Wen Hui<br><br>	
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-7.pdf">It all starts with saying “No” to correction tape(.pdf, 325.32 KB)</a><br>Goh Peishi <br><br>
+<a href="/files/oyea2018-7.pdf">It all starts with saying “No” to correction tape(.pdf, 325.32 KB)</a><br>Goh Peishi <br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-8.pdf">Being a lighthouse for my students(.pdf, 353.3 KB</a><br>Muhammad Khaliq s/o Mohamed Saleem <br><br>	
+<a href="/files/oyea2018-8.pdf">Being a lighthouse for my students(.pdf, 353.3 KB</a><br>Muhammad Khaliq s/o Mohamed Saleem <br><br>	
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-9.pdf">When passion leads to your dream job(.pdf, 281.35 KB)</a><br>Wong Yi Fong  <br><br>
+<a href="/files/oyea2018-9.pdf">When passion leads to your dream job(.pdf, 281.35 KB)</a><br>Wong Yi Fong  <br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-10.pdf">Who says you can’t become a leader?(.pdf, 353.25 KB)</a><br>Tang Li Tang <br><br>		
+<a href="/files/oyea2018-10.pdf">Who says you can’t become a leader?(.pdf, 353.25 KB)</a><br>Tang Li Tang <br><br>		
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-11.pdf">Keeping language and culture alive(.pdf, 350.9 KB)</a><br>Muhammad Andi Bin Mohammed Zulkepli<br><br>
+<a href="/files/oyea2018-11.pdf">Keeping language and culture alive(.pdf, 350.9 KB)</a><br>Muhammad Andi Bin Mohammed Zulkepli<br><br>
 	
 	
 <b> Read about other noteworthy practices below: </b><br><br>		
