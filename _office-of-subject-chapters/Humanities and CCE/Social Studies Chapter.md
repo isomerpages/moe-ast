@@ -19,7 +19,7 @@ third_nav_title: Humanities and CCE
 <div>  
   
 <p>
-The Social Studies Chapter provides teachers with learning opportunities beyond the school. It is a platform where teachers can collaborate with others on common professional interest areas. This allows teachers to deepen their professional knowledge and improve their practice to bring about student achievement. Participating in the Social Studies Chapter strengthens teachers’ professional practice, grows teacher leadership, and helps teachers stay current and connected with the fraternity. <br><br>
+The Social Studies Chapter provides teachers with learning opportunities beyond the school. It is a platform where teachers can collaborate with others on common professional interest areas. This allows teachers&nbsp;to deepen their professional knowledge and improve their practice to bring about student achievement. Participating in the Social Studies Chapter strengthens teachers’ professional practice, grows teacher leadership, and helps teachers stay current and connected with the fraternity. <br><br>
 
 <b>We organise various professional learning activities for you:</b><br>
 
@@ -42,7 +42,7 @@ The Social Studies Chapter provides teachers with learning opportunities beyond 
 <div>  
   
 <p>
-<img src="/images/ssc3.png" style="width:80%"><Br>
+<img src="/images/ssc3.png" style="width:80%"><br>
 
 </p>  
   
@@ -59,8 +59,8 @@ The Social Studies Chapter provides teachers with learning opportunities beyond 
 <div>  
   
 <p>
-<img src="/images/ssc4.png" style="width:80%"><Br>
-<img src="/images/ssc5.png" style="width:80%"><Br>
+<img src="/images/ssc4.png" style="width:80%"><br>
+<img src="/images/ssc5.png" style="width:80%"><br>
   
 </p>  
   
@@ -83,18 +83,18 @@ The Social Studies Chapter provides teachers with learning opportunities beyond 
 We are planning for a visit to the Internal Security Department (ISD) in Semester 2. Do look out for the publicity email for this event!<br><br>
 
 2) Courses<br><br>
-<img src="/images/ssc6.png" style="width:80%"><Br>
-<img src="/images/ssc7.png" style="width:80%"><Br><br>
+<img src="/images/ssc6.png" style="width:80%"><br>
+<img src="/images/ssc7.png" style="width:80%"><br><br>
 	
-3) The Social Studies Subject Chapter is grateful to all who participated in the 2020 Social Studies Learning Fest. In particular, we would like to thank the presenters who worked painstakingly with us for prepare for this day of teacher-led learning. We hope that everyone had a day of rich learning together.  <Br><br>
+3)&nbsp;The Social Studies Subject Chapter is grateful to all who participated in the 2020 Social Studies Learning Fest. In particular, we would like to thank the presenters who worked painstakingly with us for prepare for this day of teacher-led learning. We hope that everyone had a day of rich learning together.  <br><br>
   
-Our keynote speaker, Dr Gillian Koh, delivered an address on The <i>COVID-19 Pandemic: The Responses of Government and Citizens</i> <br><br>
+Our keynote speaker, Dr Gillian Koh, delivered an address on The&nbsp;<i>COVID-19 Pandemic: The Responses of Government and Citizens</i> <br><br>
 	
-<img src="/images/ssc8.png" style="width:80%"><Br><br>
+<img src="/images/ssc8.png" style="width:80%"><br><br>
 	
 Please download the following PDF file to view the slides for the keynote address that Dr Koh has kindly made available for sharing. <br><br>
 
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/ss-learning-fest-keynote.pdf">SS Learning Fest Keynote(.pdf, 1.89 MB)</a>
+<a href="/files/ss-learning-fest-keynote.pdf">SS Learning Fest Keynote(.pdf, 1.89 MB)</a>
 
 
 </p>  
@@ -112,17 +112,17 @@ Please download the following PDF file to view the slides for the keynote addres
 <div>  
   
 <p>
-All Social Studies teachers are members of the Social Studies Chapter. You may attend the Social Studies Chapter Outreach Activities and Master Teacher Led Workshops. You may also participate in Networked Learning Communities helmed by Lead Teachers and Senior Teachers, and/or share best practices with teachers. <br><br>
+All Social Studies teachers are members of the Social Studies Chapter.&nbsp;You may attend the Social Studies&nbsp;Chapter Outreach Activities&nbsp;and&nbsp;Master Teacher Led Workshops. You may also participate in&nbsp;Networked Learning Communities&nbsp;helmed by Lead Teachers and Senior Teachers, and/or share best practices with teachers. <br><br>
 
 Currently, to support the 2016 Social Studies Syllabus, we have formed Interest-based NLCs in the following areas:<br><br>
 
-1)     Concept Teaching<br><br>
+1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Concept Teaching<br><br>
 
-2)     Discussion-Based Pedagogies<br><br>
+2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Discussion-Based Pedagogies<br><br>
 
-3)     Formative Assessment <br><br>
+3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Formative Assessment&nbsp;<br><br>
 
-4)     SLS<br><br>
+4)&nbsp;&nbsp;&nbsp;&nbsp; SLS<br><br>
 
 Teachers who are keen to learn more about these NLCs, or lead/participate in new NLCs may contact the Master Teacher or Academy Officer. You may contact the following officers:<br><br>
 
