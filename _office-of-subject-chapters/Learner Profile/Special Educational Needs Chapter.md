@@ -166,10 +166,9 @@ Professional Learning-Sharing by schools for all personnel supporting SEN</b>
 <label for="accordion7">Resources</label>  
 <div>  
   
-<p>
-  
-<b>Here is a list of some useful resources to support and guide schools</b>
-</p><ol>
+<p><b>Here is a list of some useful resources to support and guide schools</b>
+</p>
+	<ol>
 	<li><a href="https://intranet.moe.gov.sg/Send/Pages/SEN_Resource_Portal.aspx">SEN Resource Portal on the intranet</a><br><br>This resource portal houses a comprehensive range of resources and aims to provide schools with information and self-help tools, to enable schools to enhance their understanding of and support for SEN.</li>
 	<li><a href="go.gov.sg/sense-community">SEN Community Wiki on OPAL 2.0</a><br><br>We encourage all educators to join this community and to be an active member to share, learn and lead one another as we better support our diverse learners in our classrooms and schools.</li>
 	<li><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcsl%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fcsl%252Fuser%252Fauth%252Fexternal%253Fauthclient%253DIdM%26xoauth_displayname%3DOPAL2.0%26scope%3Dopenid%2520profile%2520cxDomainInternalApi%2520offline_access%26state%3D53321ddf2145e56ab601c6ac62d9e3353a77550121447d16d16af69ec2afa00f">SEN:se Online Micro Learning Units on OPAL 2.0</a>
