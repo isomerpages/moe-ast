@@ -247,19 +247,19 @@ Access the <a href="/files/oyea2019-14.pdf">OYEA Secondary Noteworthy Practices(
 	
 <b> Read about other noteworthy practices below: </b><br><br>		
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-12.pdf">Applying Visible Thinking in Character Education for Lower Primary Learners(.pdf, 300.22 KB)</a><br>Anna Shii Tuong Sen<br><br>	
+<a href="/files/oyea2018-12.pdf">Applying Visible Thinking in Character Education for Lower Primary Learners(.pdf, 300.22 KB)</a><br>Anna Shii Tuong Sen<br><br>	
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-13.pdf">Using Online Games to Teach Concepts(.pdf, 187.6 KB)</a><br>Hendri Adriadi Bin Rizal Ismunandar <br><br>
+<a href="/files/oyea2018-13.pdf">Using Online Games to Teach Concepts(.pdf, 187.6 KB)</a><br>Hendri Adriadi Bin Rizal Ismunandar <br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-14.pdf">Designing a Project-based Learning Package for English Language(.pdf, 190.8 KB)</a><br>Lee May Ping Jasmine  <br><br>	
+<a href="/files/oyea2018-14.pdf">Designing a Project-based Learning Package for English Language(.pdf, 190.8 KB)</a><br>Lee May Ping Jasmine  <br><br>	
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-15.pdf">Infusing World Issues into the Classroom to Develop Concerned Citizens(.pdf, 172.58 KB)</a><br>S Srijith <br><br>
+<a href="/files/oyea2018-15.pdf">Infusing World Issues into the Classroom to Develop Concerned Citizens(.pdf, 172.58 KB)</a><br>S Srijith <br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-16.pdf">Promoting Innovation , Social Entrepreneurship and Community Problem-solving(.pdf, 270.84 KB)</a><br>Tan Mei San <br><br>		
+<a href="/files/oyea2018-16.pdf">Promoting Innovation , Social Entrepreneurship and Community Problem-solving(.pdf, 270.84 KB)</a><br>Tan Mei San <br><br>		
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-17.pdf">Developing Applied Learning Programme in Chemical and Applied Sciences(.pdf, 219.13 KB)</a><br>Ting Chu Hwee Agnes<br><br>
+<a href="/files/oyea2018-17.pdf">Developing Applied Learning Programme in Chemical and Applied Sciences(.pdf, 219.13 KB)</a><br>Ting Chu Hwee Agnes<br><br>
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2018-18.pdf">A Community Approach to Inculcating Cyber Wellness(.pdf, 178.25 KB)</a><br>Zhang Yanchun Angelia<br><br>		
+<a href="/files/oyea2018-18.pdf">A Community Approach to Inculcating Cyber Wellness(.pdf, 178.25 KB)</a><br>Zhang Yanchun Angelia<br><br>		
 </p>  
   
 </div>  
