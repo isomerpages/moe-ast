@@ -23,9 +23,9 @@ The Lower Primary Learners (LPL) Chapter champions quality learning in Primary 1
 <p>
 <b>Objectives of the LPL Chapter</b> <br><br>
 
-To deepen the pedagogical content knowledge of lower primary teachers for quality student learning.<br><br>
+To deepen the&nbsp;pedagogical content knowledge&nbsp;of lower primary teachers for quality student learning.<br><br>
 
-To champion professional collaboration and networked learning among lower primary teachers.<br><br>
+To champion&nbsp;professional collaboration&nbsp;and networked learning among lower primary teachers.<br><br>
 
 <b>Mission of LPL Chapter</b><br><br>
 
@@ -35,7 +35,7 @@ To build a teacher-led culture of professional excellence to engender quality le
 
 <b>Vision of LPL Chapter (What)</b><br><br>
 
-A community of competent teacher leaders with strong pedagogical leadership in leading, guiding and inspiring lower primary learners.<br><br>
+A community of&nbsp;competent teacher&nbsp;leaders&nbsp;with strong pedagogical leadership in leading, guiding and inspiring lower primary learners.<br><br>
 
 <b>We organise various professional learning activities for you:</b> <br><br>
   
@@ -77,9 +77,9 @@ LPL Learning Day
 <div>  
   
 <p>
-<h2>Our LPL Chapter Core Team</h2>
+</p><h2>Our LPL Chapter Core Team</h2>
 <img src="/images/lplsc-jan23.png" style="width:70%">
-</p>  
+<p></p>  
   
 </div>  
   
@@ -96,7 +96,7 @@ LPL Learning Day
 <p>
 
 <img src="/images/lplc-1.png" style="width:70%"><br><br>
-<h2>Lower Primary Chapter Workshop in 2023</h2>
+</p><h2>Lower Primary Chapter Workshop in 2023</h2>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -315,7 +315,7 @@ LPL Learning Day
   </tr>
 </tbody>
 </table>
-</p>  
+<p></p>  
   
 </div>  
   
@@ -331,15 +331,15 @@ LPL Learning Day
   
 <p>
   
-All teachers teaching Primary 1 and Primary 2 are members of the Lower Primary Learners (LPL) Chapter – this is where we learn <i>from</i> each other, learn <i>with</i> each other and <i>learn on behalf of</i> others. You are most welcome to join us at any of our LPL Chapter events.<br><br>
+All teachers teaching Primary 1 and Primary 2 are members of the Lower Primary Learners (LPL) Chapter – this is where we learn&nbsp;<i>from</i>&nbsp;each other, learn&nbsp;<i>with</i>&nbsp;each other and&nbsp;<i>learn on behalf of</i>&nbsp;others. You are most welcome to join us at any of our LPL Chapter events.<br><br>
 
-We invite you to be an inspiring member of <b><a href="https://go.gov.sg/lowerprimarylearners">U in Lower Primary Learners (LPL)</a></b>  or via <a href="https://go.gov.sg/lowerprimarylearners">https://go.gov.sg/lowerprimarylearners</a><br><br>
+We invite you to be an inspiring member of <b><a href="https://go.gov.sg/lowerprimarylearners">U in Lower Primary Learners (LPL)</a></b>&nbsp;&nbsp;or via&nbsp;<a href="https://go.gov.sg/lowerprimarylearners">https://go.gov.sg/lowerprimarylearners</a><br><br>
 
 This is a collaborative space in OPAL. You will get to know more about our LPL Chapter, and to network with fellow lower primary learners teachers.<br><br>
 
 For general enquiries on our chapter events or workshops, kindly send an email to our Academy Officer:<br><br>
 
-Audrey SIM (Ms): <a href="Audrey_sim@moe.gov.sg">Audrey_sim@moe.gov.sg</a> 
+Audrey SIM (Ms):&nbsp;<a href="mailto:Audrey_sim@moe.gov.sg">Audrey_sim@moe.gov.sg</a> 
 	
 	
 </p>  
