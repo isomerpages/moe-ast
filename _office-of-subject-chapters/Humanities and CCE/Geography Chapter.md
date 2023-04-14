@@ -94,7 +94,7 @@ Through collaborative learning in a network, you could widen your   professional
 <img src="/images/ws-07.png" style="width:80%"><br>
 <img src="/images/nlc-01.png" style="width:80%"><br>
 <img src="/images/nlc-02.png" style="width:80%"><br>
-<img src="/images/nlc-qr.png" style="width:40%"><br>
+<img src="/images/nlc-qr.png" style="width:35%"><br>
 </p>  
 </div>  
 
