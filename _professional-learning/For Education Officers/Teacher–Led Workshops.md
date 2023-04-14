@@ -19,9 +19,9 @@ Through this platform, teachers will **engage in professional exchange of pedago
 
 
 
-| ![](/images/2023%20designs-02.png)| ![](/images/2023%20designs-03.png) | ![](/images/2023%20designs-01.png) |
+| ![](/images/2023%20designs-02.png)| ![](/images/2023%20designs-01.png) | ![](/images/2023%20designs-03.png) |
 | -------- | -------- | -------- |
-| **Lead** and **Engage** the Teaching Community | Grow Teacher Leaders to champion **Teacher Ownership Teacher Leadership (TOTL)** in professional learning | Support a community of teachers for **professional sharing and learning**     |
+| **Lead** and **Engage** the Teaching Community | Engage in **professional sharing and knowledge creation** | Grow teachers to champion **Teacher Ownership Teacher Leadership (TOTL)** in professional learning   |
 
 #### Details of Teacher-led Workshops (TLW)
 
