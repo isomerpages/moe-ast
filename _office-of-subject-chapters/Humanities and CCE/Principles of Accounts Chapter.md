@@ -96,7 +96,7 @@ Every teacher is a member of a subject chapter based on the subject that he/she 
 
 Join us at the next Subject Chapter Outreach activities for a professional conversation with our members and teachers within the fraternity. You will get to know more about the Subject Chapter, its relevance to your professional growth and how you can be involved in the networks.<br><br>
 
-You may contact&nbsp;Mdm Rabiyah Ismail <a href="Rabiyah_ISMAIL@moe.gov.sg">Rabiyah_ISMAIL@moe.gov.sg</a>should you have any queries regarding the Principles of Accounts Chapter and its courses.
+You may contact&nbsp;Mdm Rabiyah Ismail <a href="mailto:Rabiyah_ISMAIL@moe.gov.sg">khoo_gee_hwee@moe.gov.sg</a> should you have any queries regarding the Principles of Accounts Chapter and its courses.
 <a href="/files/our-principles-of-accounts-subject-chapter-past-events9bff4ec6870542a8bd01ddfe8aa16e9f.pdf)">our-principles-of-accounts-subject-chapter-past-events</a> (pdf) 638 KB
 
 
