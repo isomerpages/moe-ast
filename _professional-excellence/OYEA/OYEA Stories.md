@@ -139,7 +139,7 @@ Achieve Multiplication Mastery through Multiplication Challenge by&nbsp;<b>Ms Ch
 
 Excite Learning Through Digital Escape Rooms by&nbsp;<b>Mdm Farah Filza Binte Muhammad Rajaie</b><br><br>
 
-Access the&nbsp;OYEA 2020 Primary Noteworthy Practices of the 3 nominees from the Primary Schools:	<br><a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-13.pdf">OYEA 2020 Primary Noteworthy Practices(.pdf, 1.86 MB)</a><br><br>	
+Access the&nbsp;OYEA 2020 Primary Noteworthy Practices of the 3 nominees from the Primary Schools:	<br><a href="/files/oyea2020-13.pdf">OYEA 2020 Primary Noteworthy Practices(.pdf, 1.86 MB)</a><br><br>	
 <b>Secondary Schools</b><br><br>
 
 Infusing Mindfulness in the PE Curriculum and Sports by&nbsp;<b>Mr Aw Si Kuan</b><br>
@@ -148,7 +148,7 @@ Using Games to Promote the Joy of Learning in History and Social Studies by&nbsp
 
 Use of Escape Rooms to Excite and Engage students in Mathematics Lessons and Beyond by&nbsp;<b>Mr Tan Sheng Yan Samuel</b><br><br>
 
-Access the&nbsp;OYEA 2020 Primary Noteworthy Practices of the 3 nominees from the Secondary Schools:	<br><a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/oyea2020-14.pdf">OYEA 2020 Secondary Noteworthy Practices(.pdf, 1.63 MB)</a><br>
+Access the&nbsp;OYEA 2020 Primary Noteworthy Practices of the 3 nominees from the Secondary Schools:	<br><a href="/files/oyea2020-14.pdf">OYEA 2020 Secondary Noteworthy Practices(.pdf, 1.63 MB)</a><br>
   
 </p>  
   
