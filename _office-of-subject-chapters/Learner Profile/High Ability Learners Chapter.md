@@ -120,8 +120,8 @@ Click <a href="https://go.gov.sg/joinhalnetwork">here</a> to be kept on the HAL 
 
 For general enquiries on our chapter professional learning events or workshops, kindly send an email to:
 
-<a href="cindy_wah@moe.gov.sg">Ms Cindy Wah, Mentor Coach (Officer supporting the HAL Chapter)</a>,  or 
-<a href="evelyn_yeo@moe.gov.sg">Mdm Evelyn Yeo, Master Teacher/ HAL</a>
+<a href="mailto:cindy_wah@moe.gov.sg">Ms Cindy Wah, Mentor Coach (Officer supporting the HAL Chapter)</a>,  or 
+<a href="mailto:evelyn_yeo@moe.gov.sg">Mdm Evelyn Yeo, Master Teacher/ HAL</a>
 </p>  
  
 </div>  

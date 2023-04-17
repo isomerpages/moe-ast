@@ -46,9 +46,9 @@ Through collaborative learning in a network, you could widen your   professional
 <div>  
   
 <p>
-<img src="/images/gmt1.png" style="width:80%"><Br>
-<img src="/images/gmt2.png" style="width:80%"><Br>
-<img src="/images/gmt3.png" style="width:80%"><Br>
+<img src="/images/gmt1.png" style="width:80%"><br>
+<img src="/images/gmt2.png" style="width:80%"><br>
+<img src="/images/gmt3.png" style="width:80%"><br>
 </p>  
   
 </div>  
@@ -64,8 +64,8 @@ Through collaborative learning in a network, you could widen your   professional
 <div>  
   
 <p>
-<img src="/images/tm01.png" style="width:80%"><Br>
-<img src="/images/tm02.png" style="width:80%"><Br>
+<img src="/images/tm01.png" style="width:80%"><br>
+<img src="/images/tm02.png" style="width:80%"><br>
 <img src="/images/tm03.png" style="width:80%">
 </p>  
   
@@ -82,19 +82,19 @@ Through collaborative learning in a network, you could widen your   professional
 <div>  
   
 <p>
-<img src="/images/events-01.png" style="width:80%"><Br>
-<img src="/images/events-02.png" style="width:80%"><Br>
-<img src="/images/ws-01.png" style="width:80%"><Br>
-<img src="/images/ws-02.png" style="width:80%"><Br>
-<img src="/images/ws-03.png" style="width:80%"><Br>
-<img src="/images/ws-04.png" style="width:80%"><Br>
-<img src="/images/ws-05.png" style="width:80%"><Br>
-<img src="/images/ws-06.png" style="width:80%"><Br>
-<img src="/images/ws-07.png" style="width:80%"><Br>
-<img src="/images/ws-07.png" style="width:80%"><Br>
-<img src="/images/nlc-01.png" style="width:80%"><Br>
-<img src="/images/nlc-02.png" style="width:80%"><Br>
-<img src="/images/nlc-qr.png" style="width:60%"><Br>
+<img src="/images/events-01.png" style="width:80%"><br>
+<img src="/images/events-02.png" style="width:80%"><br>
+<img src="/images/ws-01.png" style="width:80%"><br>
+<img src="/images/ws-02.png" style="width:80%"><br>
+<img src="/images/ws-03.png" style="width:80%"><br>
+<img src="/images/ws-04.png" style="width:80%"><br>
+<img src="/images/ws-05.png" style="width:80%"><br>
+<img src="/images/ws-06.png" style="width:80%"><br>
+<img src="/images/ws-07.png" style="width:80%"><br>
+<img src="/images/ws-07.png" style="width:80%"><br>
+<img src="/images/nlc-01.png" style="width:80%"><br>
+<img src="/images/nlc-02.png" style="width:80%"><br>
+<img src="/images/nlc-qr.png" style="width:35%"><br>
 </p>  
 </div>  
 
@@ -109,8 +109,9 @@ Through collaborative learning in a network, you could widen your   professional
 <div>  
   
 <p>
-For interest joining or leading in NLCs, please contact Mdm Lim Puay Yin (MTT/Geography) at <a href="Lim_Puay_yin@moe.gov.sg">Lim_Puay_yin@moe.gov.sg</a> <br><Br>
-
+For interest joining or leading in NLCs, please contact Mdm Lim Puay Yin (MTT/Geography) at 
+<a href="mailto:Lim_Puay_yin@moe.gov.sg">Lim_Puay_yin@moe.gov.sg</a>
+<br><br>
 Thank You!
 </p>  
   

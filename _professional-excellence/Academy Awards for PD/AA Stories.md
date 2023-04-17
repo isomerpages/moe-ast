@@ -4,8 +4,6 @@ permalink: /professional-recognition/Academy-Awards/AA-Stories/
 description: ""
 third_nav_title: Academy Awards for PD
 ---
-
-
 <ul class="jekyllcodex_accordion">  
   
 <li>  
@@ -17,9 +15,9 @@ third_nav_title: Academy Awards for PD
 <div>  
   
 <p>
-1) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac1.pdf">Chang Suo Hui_Kranji Primary School_2021(.pdf, 54.77 KB)</a><br><b>Chang Suo Hui</b><br><b>Kranji Primary School</b><br><br>
+1) <a href="/files/aac1.pdf">Chang Suo Hui_Kranji Primary School_2021(.pdf, 54.77 KB)</a><br><b>Chang Suo Hui</b><br><b>Kranji Primary School</b><br><br>
 	
-2) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac2.pdf">Yeo Leng Choo_Victoria Junior College_2021(.pdf, 55.94 KB)</a><br><b>Yeo Leng Choo</b><br><b>Victoria Junior College</b><br><br>	
+2) <a href="/files/aac2.pdf">Yeo Leng Choo_Victoria Junior College_2021(.pdf, 55.94 KB)</a><br><b>Yeo Leng Choo</b><br><b>Victoria Junior College</b><br><br>	
 </p>  
   
 </div>  
@@ -34,7 +32,7 @@ third_nav_title: Academy Awards for PD
 <div>  
   
 <p>
-1) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac3.pdf">Cheng Mee Eng_Princess Elizabeth Primary School_2020(.pdf, 17.83 KB)</a><br><b>Cheng Mee Eng</b><br><b>Princess Elizabeth Primary School</b><br><br>
+1) <a href="/files/aac3.pdf">Cheng Mee Eng_Princess Elizabeth Primary School_2020(.pdf, 17.83 KB)</a><br><b>Cheng Mee Eng</b><br><b>Princess Elizabeth Primary School</b><br><br>
 	
 
 </p>  
@@ -52,9 +50,9 @@ third_nav_title: Academy Awards for PD
 <div>  
   
 <p>
-1) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac4.pdf">Ong Daphne Rachel_Broadrick Secondary School_2019(.pdf, 13.91 KB)</a><br><b>Ong Daphne Rachel</b><br><b>Broadrick Secondary School</b><br><br>
+1) <a href="/files/aac4.pdf">Ong Daphne Rachel_Broadrick Secondary School_2019(.pdf, 13.91 KB)</a><br><b>Ong Daphne Rachel</b><br><b>Broadrick Secondary School</b><br><br>
 	
-2) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac5.pdf">Chan Min Lie_Edgefield Primary School_2019(.pdf, 14.43 KB)</a><br><b>Chan Min Lie</b><br><b>Edgefield Primary School</b><br><br>	
+2) <a href="/files/aac5.pdf">Chan Min Lie_Edgefield Primary School_2019(.pdf, 14.43 KB)</a><br><b>Chan Min Lie</b><br><b>Edgefield Primary School</b><br><br>	
   
 </p>  
   
@@ -132,11 +130,11 @@ Please upload the doc files here.
 <div>  
   
 <p>
-1) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac6.pdf">Ng Kee Yah Theresa_Ngee Ann Secondary School_2015(.pdf, 72.13 KB)</a><br><b>Ng Kee Yah Theresa</b><br><b>Ngee Ann Secondary School</b><br><br>
+1) <a href="/files/aac6.pdf">Ng Kee Yah Theresa_Ngee Ann Secondary School_2015(.pdf, 72.13 KB)</a><br><b>Ng Kee Yah Theresa</b><br><b>Ngee Ann Secondary School</b><br><br>
 	
-2) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac7.pdf">Lye Wai Leng_National Junior College_2015(.pdf, 79.43 KB)</a><br><b>Lye Wai Leng</b><br><b>National Junior College</b><br><br>	
+2) <a href="/files/aac7.pdf">Lye Wai Leng_National Junior College_2015(.pdf, 79.43 KB)</a><br><b>Lye Wai Leng</b><br><b>National Junior College</b><br><br>	
 	
-3) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac8.pdf">Poh Meng Leng_Educational Technology Division_2015(.pdf, 75.05 KB)</a><br><b>Poh Meng Leng</b><br><b>Educational Technology Division</b><br><br>		
+3) <a href="/files/aac8.pdf">Poh Meng Leng_Educational Technology Division_2015(.pdf, 75.05 KB)</a><br><b>Poh Meng Leng</b><br><b>Educational Technology Division</b><br><br>		
   
 </p>  
   
@@ -153,7 +151,7 @@ Please upload the doc files here.
 <div>  
   
 <p>
-1) <a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/aac9.pdf">Muhamad Salahuddin Bin Ibrahim_Serangoon Junior College_2014(.pdf, 135.25 KB)</a><br><br><b>Muhamad Salahuddin Bin Ibrahim<br>Serangoon Junior College</b><br><br>
+1) <a href="/files/aac9.pdf">Muhamad Salahuddin Bin Ibrahim_Serangoon Junior College_2014(.pdf, 135.25 KB)</a><br><br><b>Muhamad Salahuddin Bin Ibrahim<br>Serangoon Junior College</b><br><br>
 	
 
 </p>  
@@ -173,24 +171,8 @@ Please upload the doc files here.
 <p>
 1) <a href="https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/professional-recognition-docs/academy-awards-for-professional-development-docs/mr-su-zhangkai.docx?sfvrsn=71395eb0_2">Su Zhangkai_Nanyang Girls’ High School\_2013(.docx, 332.52 KB)</a><br><b>Su Zhangkai</b><br><b>Nanyang Girls' High School</b><br><br>
 	
-Please upload doc file here.	
 
 
-</p>  
-  
-</div>  
-  
-</li>  
-<li>  
-  
-<input type="checkbox" id="accordion10">  
-  
-<label for="accordion10">New Features</label>  
-  
-<div>  
-  
-<p>
--
 </p>  
   
 </div>  

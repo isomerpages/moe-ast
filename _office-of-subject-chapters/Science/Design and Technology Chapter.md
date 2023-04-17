@@ -15,18 +15,18 @@ third_nav_title: Science
   
 <input type="checkbox" id="accordion1">  
   
-<label for="accordion1">Objectives of the Design & Technology Chapter</label>  
+<label for="accordion1">Objectives of the Design &amp; Technology Chapter</label>  
   
 <div>  
   
 <p>
-The Design & Technology (D&T) Chapter is a professional network that aims to <br><br>
+The Design &amp; Technology (D&amp;T) Chapter is a professional network that aims to <br><br>
 
-• promote a culture of professionalism and pride within the D&T fraternity;  <br>
-• serve as a focal point for D&T teachers to engage in collaborative learning and inquiry; and  <br>
+• promote a culture of professionalism and pride within the D&amp;T fraternity;  <br>
+• serve as a focal point for D&amp;T teachers to engage in collaborative learning and inquiry; and  <br>
 • broaden their professional knowledge to improve classroom practice through collaborative learning in a network.  <br><br>
 
-By participating in learning activities organised by the D&T Chapter, our D&T teachers can be empowered to incorporate their ideas and insights from networked learning communities into their instructional practices. In addition, such engagement in networked learning will help to foster teacher ownership and teacher leadership.
+By participating in learning activities organised by the D&amp;T Chapter, our D&amp;T teachers can be empowered to incorporate their ideas and insights from networked learning communities into their instructional practices. In addition, such engagement in networked learning will help to foster teacher ownership and teacher leadership.
 </p>  
   
 </div>  
@@ -36,7 +36,7 @@ By participating in learning activities organised by the D&T Chapter, our D&T te
   
 <input type="checkbox" id="accordion2">  
   
-<label for="accordion2">Our Master Teacher/Educational Support overseeing the Design & Technology Chapter</label>  
+<label for="accordion2">Our Master Teacher/Educational Support overseeing the Design &amp; Technology Chapter</label>  
   
 <div>  
   
@@ -85,11 +85,11 @@ Core Team members from schools are representatives of teacher leaders across the
   
 <p>
 
-• Core Team Meetings (for D&T Chapter Core Team members)  <br>
-• ST/LT Networked Learning Sessions (for STs/LTs of D&T)  <br>
-• Chapter Learning Day (for all D&T teachers)<br><br>
+• Core Team Meetings (for D&amp;T Chapter Core Team members)  <br>
+• ST/LT Networked Learning Sessions (for STs/LTs of D&amp;T)  <br>
+• Chapter Learning Day (for all D&amp;T teachers)<br><br>
 
-Confirmed dates and information about these sessions will be communicated to the D&T fraternity via email, so do look out for them!
+Confirmed dates and information about these sessions will be communicated to the D&amp;T fraternity via email, so do look out for them!
  
 </p>  
   
@@ -107,16 +107,16 @@ Confirmed dates and information about these sessions will be communicated to the
   
 <p>
   
-Every teacher is a member of a subject chapter based on the subject that he/she is teaching. Join us during our subject chapter outreach activities for a professional conversation with our members and teachers in the fraternity. <br><br>
+Every teacher is a member of a subject chapter based on the subject that he/she is teaching. Join us during our subject chapter outreach&nbsp;activities for a professional conversation with our members and teachers in the fraternity. <br><br>
 
 You will get to know more about the subject chapter, its relevance to your professional growth and how you can be involved in the networked learning communities.   <br><br>
 
-You may contact Mr Ow Yeong Wai Kit (ow_yeong_wai_kit@moe.gov.sg) if you have any queries regarding the Design & Technology subject chapter. <br><br>
+You may contact Mr Ow Yeong Wai Kit (ow_yeong_wai_kit@moe.gov.sg) if you have any queries regarding the Design &amp; Technology subject chapter. <br><br>
 
-Check out our past D&T subject chapter events here:  <br><br>
+Check out our past D&amp;T subject chapter events here:  <br><br>
 
 	
-<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/files/our-design-and-technology-subject-chapter-past-events68bab0a1c96041f6b2710cf79cd03f7a.pdf">our-design-and-technology-subject-chapter-past-events</a>(pdf) <br>
+<a href="/files/our-design-and-technology-subject-chapter-past-events68bab0a1c96041f6b2710cf79cd03f7a.pdf">our-design-and-technology-subject-chapter-past-events</a>(pdf) <br>
 
 3870 KB
 	

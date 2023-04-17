@@ -98,9 +98,9 @@ The ES Chapter seeks to deepen teachers’ mastery and pedagogical content knowl
 <p>
   
   
-Every teacher supporting low progress learners are members of the Educational Support Chapter. We invite you to be an inspiring member of U in Educational Support. <i>Join us today, so that we can grow together as a vibrant Educational Support Networked Learning Community!<br><br>
+Every teacher supporting low progress learners are members of the Educational Support Chapter. We invite you to be an inspiring member of U in Educational Support.&nbsp;<i>Join us today,&nbsp;so that we can grow together as a vibrant Educational Support Networked Learning Community!<br><br>
 
-For more information, please write to Ms Reeja Rachel Fernandez (REEJA_Rachel_Fernandez@moe.gov.sg) </i>
+For more information, please write to <a href="mailto:REEJA_Rachel_Fernandez@moe.gov.sg">Ms Reeja Rachel Fernandez</a></i>
 	
 	
 </p>  

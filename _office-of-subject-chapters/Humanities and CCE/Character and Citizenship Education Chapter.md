@@ -19,16 +19,16 @@ third_nav_title: Humanities and CCE
 <div>  
   
 <p>
-<b><u>Character & Citizenship Education Chapter</u></b><br><br>
+<b><u>Character &amp; Citizenship Education Chapter</u></b><br><br>
 
-The Character & Citizenship Education (CCE) Chapter aims to support the delivery of the CCE curriculum through<br><br>
+The Character &amp; Citizenship Education (CCE) Chapter aims to support the delivery of the CCE curriculum through<br><br>
 
 •   deepening the pedagogical content knowledge of teachers for quality student learning<br>
-•   building a culture of teacher-led professionalism through championing professional collaboration and learning among teachers<Br><br>
+•   building a culture of teacher-led professionalism through championing professional collaboration and learning among teachers<br><br>
 
 <b>What do we do?</b><br><br>
 
-The focus will be on how teachers could intentionally and purposefully apply pedagogical approaches that are developmentally appropriate, engage students cognitively and affectively and have an impact on their learning so that students grow up to be morally upright individuals, and responsible and active citizens. <br><br>
+The focus will be on how teachers could intentionally and purposefully apply pedagogical approaches that are developmentally appropriate, engage students cognitively and affectively and have an impact on their learning so that students grow up to be morally upright individuals, and responsible and active citizens.&nbsp;<br><br>
 
 The subject chapter is a natural platform to develop and grow Teacher Leaders. We explore ways to raise the level of professional practice in the classroom and expertise across the system. As drivers of pedagogical leadership, we act as a focal point for teachers to gather and learn from one another. Together we build our professional ethos and develop a culture of professional excellence and pride in the fraternity.<br><br>
 
@@ -52,8 +52,8 @@ We organise various professional learning activities for you: <br><br>
 <div>  
   
 <p>
-<img src="/images/ccec3.png" style="width:80%"><Br>
-<img src="/images/ccec4.png" style="width:80%"><Br>
+<img src="/images/ccec3.png" style="width:80%"><br>
+<img src="/images/ccec4.png" style="width:80%"><br>
 
 </p>  
   
@@ -70,7 +70,7 @@ We organise various professional learning activities for you: <br><br>
 <div>  
   
 <p>
-<img src="/images/ccec5.png" style="width:80%"><Br>
+<img src="/images/ccec5.png" style="width:80%"><br>
 
   
 </p>  
@@ -88,9 +88,9 @@ We organise various professional learning activities for you: <br><br>
 <div>  
   
 <p>
-<img src="/images/ccec6.png" style="width:80%"><Br>
-<img src="/images/ccec7.png" style="width:80%"><Br>
-<img src="/images/ccec8.png" style="width:80%"><Br>
+<img src="/images/ccec6.png" style="width:80%"><br>
+<img src="/images/ccec7.png" style="width:80%"><br>
+<img src="/images/ccec8.png" style="width:80%"><br>
 
 </p>  
   
@@ -107,14 +107,15 @@ We organise various professional learning activities for you: <br><br>
 <div>  
   
 <p>
-Every teacher is a CCE teacher and is a member of the CCE Chapter. We invite you to be an active member of the CCE Chapter. <Br><br>
+Every teacher is a CCE teacher and is a member of the CCE Chapter. We invite you to be an active member of the CCE Chapter. <br><br>
 
-<i>Join us today, so that we continue to grow together as a vibrant fraternity of enabled educators!</i><br><br>
+<i>Join&nbsp;us today,&nbsp;so that we continue to grow together as a vibrant fraternity of enabled educators!</i><br><br>
 
-_For more information, please write to Ms Teo Ping Wei (Teo_Ping_Wei@moe.gov.sg) and Mr Siraj Ansari (Siraj_Ansari_MOHAMED_SHARIFF@moe.gov.sg)
+_For more information, please write to <a href="mailto:Teo_Ping_Wei@moe.gov.sg">Ms Teo Ping Wei</a> and <a href="mailto:Siraj_Ansari_MOHAMED_SHARIFF@moe.gov.sg">Siraj Ansari </a>
 </p>  
   
 </div>  
   
+	
 </li>  		
 </ul>

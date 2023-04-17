@@ -4,7 +4,6 @@ permalink: /professional-excellence/our-plc-journey/faqs-and-resources/
 description: ""
 third_nav_title: PLCs
 ---
-
 <ul class="jekyllcodex_accordion">  
   
 <li>  
@@ -26,7 +25,7 @@ A PLT works collaboratively to enhance student learning. The PLT’s project sho
 
 <b>3. How can teachers find the time to carry out their PLT project?  </b><br><br>
 
-The support provided by&nbsp;<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/professional-excellence/Professional-Learning-Groups/developing-effective-plcs/">school leaders</a>&nbsp;is crucial in ensuring the success of the PLC. Time should be specifically set aside for teachers to collaborate, in a way which will not add to their teaching and administrative workload. To achieve this, Time-Tabled Time (the time factored into a teacher’s timetable for professional development), where time slots are exclusively set aside for PLTs, is essential. <br><br>
+The support provided by&nbsp;<a href="/professional-excellence/Professional-Learning-Groups/developing-effective-plcs/">school leaders</a>&nbsp;is crucial in ensuring the success of the PLC. Time should be specifically set aside for teachers to collaborate, in a way which will not add to their teaching and administrative workload. To achieve this, Time-Tabled Time (the time factored into a teacher’s timetable for professional development), where time slots are exclusively set aside for PLTs, is essential. <br><br>
 
 <b>4. What happens after a PLT comes to the end of its cycle?  </b><br><br>
 
@@ -42,11 +41,11 @@ AEDs and EAS may either join PLTs relevant to their own areas of work, or form t
 
 <b>7. What is the role of the School Staff Developer (SSD)?  </b><br><br>
 
-The&nbsp;<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/professional-excellence/Professional-Learning-Groups/developing-effective-plcs/">SSD</a>&nbsp;is a member of the coalition team and plays an active role in guiding PLTs in his/her school.&nbsp;<br><br>
+The&nbsp;<a href="/professional-excellence/Professional-Learning-Groups/developing-effective-plcs/">SSD</a>&nbsp;is a member of the coalition team and plays an active role in guiding PLTs in his/her school.&nbsp;<br><br>
 
 <b>8. What if my school does not have a SSD?  </b><br><br>
 
-In such a case, a staff member who is currently in charge of the professional development of the whole staff, may be appointed to perform some of the roles of the&nbsp;<a href="https://staging.d2dfevnwgxersp.amplifyapp.com/professional-excellence/Professional-Learning-Groups/developing-effective-plcs/">SSD</a>. <br><br>
+In such a case, a staff member who is currently in charge of the professional development of the whole staff, may be appointed to perform some of the roles of the&nbsp;<a href="/professional-excellence/Professional-Learning-Groups/developing-effective-plcs/">SSD</a>. <br><br>
 
 <b>9. Has MOE explored existing PLC Models from overseas?  </b><br><br>
 

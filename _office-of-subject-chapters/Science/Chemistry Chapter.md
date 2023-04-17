@@ -28,7 +28,7 @@ third_nav_title: Science
 •   Learning journeys to industries and Institutes of Higher Learning<br>
 •   Professional conversations with overseas and local educators<br>
 •   Designed and Interest-based Networked Learning Communities (NLC) e.g. O- and A-level Practical NLC, Visible Thinking Routine NLC, Microscale (Secondary), etc.<br>
-•   NLC-led workshops e.g.  Learning to write Data-based Questions (O-level), Enhancing Students’ Conceptual Understanding of Chemistry through Microscale Experiments Workshop, etc.<br>
+•   NLC-led workshops e.g.&nbsp; Learning to write Data-based Questions (O-level), Enhancing Students’ Conceptual Understanding of Chemistry through Microscale Experiments Workshop, etc.<br>
 •   Role-based Learning Sessions for e.g. Professional Learning Sessions for BTs, ST-LT Network Learning, etc.<br>
 •   Masterclasses by Experts<br>
 •   Chemistry Learning Day (biennial) <br><br>
@@ -49,11 +49,11 @@ third_nav_title: Science
   
 <p>
 
-<img src="/images/cc6.png" style="width:80%"><Br>
-<img src="/images/cc7.png" style="width:80%"><Br>
-<img src="/images/cc8.png" style="width:80%"><Br>
-<img src="/images/cc9.png" style="width:80%"><Br>
-<img src="/images/cc10.png" style="width:80%"><Br>
+<img src="/images/cc6.png" style="width:80%"><br>
+<img src="/images/cc7.png" style="width:80%"><br>
+<img src="/images/cc8.png" style="width:80%"><br>
+<img src="/images/cc9.png" style="width:80%"><br>
+<img src="/images/cc10.png" style="width:80%"><br>
 
 
 
@@ -72,8 +72,8 @@ third_nav_title: Science
 <div>  
   
 <p>
-<img src="/images/cc11.png" style="width:80%"><Br>
-<img src="/images/cc12.png" style="width:80%"><Br>
+<img src="/images/cc11.png" style="width:80%"><br>
+<img src="/images/cc12.png" style="width:80%"><br>
   
 </p>  
   
@@ -91,10 +91,10 @@ third_nav_title: Science
   
 <p>
 
-<img src="/images/cc13.png" style="width:80%"><Br>
-<img src="/images/cc14.png" style="width:80%"><Br>
-<img src="/images/cc15.png" style="width:80%"><Br>
-<img src="/images/cc16.png" style="width:80%"><Br>
+<img src="/images/cc13.png" style="width:80%"><br>
+<img src="/images/cc14.png" style="width:80%"><br>
+<img src="/images/cc15.png" style="width:80%"><br>
+<img src="/images/cc16.png" style="width:80%"><br>
 
 
  
@@ -119,11 +119,11 @@ Chemistry teachers are advised to inform their HOD (Science) or their RO of thei
 
 With reference to the table please note that:<br><br>
 
-1.  You may sign up for <b>some</b> of the workshops via OPAL 2.0; <br>
-2.  To register for <b>all other</b> learning activities, email-invitations are normally sent through the HOD (Science) or School Staff Developer for dissemination;<Br>
-3.  Note that certain events and learning activities are by <b>special invitation</b> only; <Br>
-4.  Please contact Mr Jimmy Kheng <a href="KHENG_Chu_Yian@moe.gov.sg">KHENG_Chu_Yian@moe.gov.sg</a>  should you have any queries regarding the Chemistry Chapter or its activities; <br>
-5.  If you wish to join an NLC, please write to the MTT advisor.  Joining an NLC is not automatic and may be subjected to certain conditions.
+1.  You may sign up for&nbsp;<b>some</b>&nbsp;of the workshops via OPAL 2.0; <br>
+2.  To register for&nbsp;<b>all other</b>&nbsp;learning activities, email-invitations are normally sent through the HOD (Science) or School Staff Developer for dissemination;<br>
+3.  Note that certain events and learning activities are by&nbsp;<b>special invitation</b>&nbsp;only; <br>
+4.  Please contact  <a href="mailto:KHENG_Chu_Yian@moe.gov.sg">Mr Jimmy Kheng</a>  should you have any queries regarding the Chemistry Chapter or its activities; <br>
+5.  If you wish to join an NLC, please write to the MTT advisor.&nbsp; Joining an NLC is not automatic and may be subjected to certain conditions.
 </p>  
  
 </div>  

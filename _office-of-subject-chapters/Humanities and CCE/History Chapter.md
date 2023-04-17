@@ -18,7 +18,7 @@ third_nav_title: Humanities and CCE
 <div>  
   
 <p>
-The History Chapter provides a platform for the History fraternity to network and collaboratively engage in building expertise and resources that would enable teachers to inspire in students a life-long passion for the study of history. We are working closely with the History Unit, CPDD, ETD and the National Institute of Education to create different learning experiences for History teachers.  These learning experiences connect History teachers through the creation of networked learning communities.<br><br>
+The History Chapter provides a platform for the History fraternity to network and collaboratively engage in building expertise and resources that would enable teachers to inspire in students a life-long passion for the study of history. We are working closely with the History Unit, CPDD, ETD and the National Institute of Education to create different learning experiences for History teachers.&nbsp; These learning experiences connect History teachers through the creation of networked learning communities.<br><br>
 
 The aims of the History Chapter are to:<br><br>
 
@@ -48,9 +48,9 @@ We organise various professional learning activities for you:<br><br>
 <div>  
   
 <p>
-<img src="/images/ohc3.png" style="width:80%"><Br>
-<img src="/images/ohc4.png" style="width:80%"><Br>
-<img src="/images/ohc5.png" style="width:80%"><Br>
+<img src="/images/ohc3.png" style="width:80%"><br>
+<img src="/images/ohc4.png" style="width:80%"><br>
+<img src="/images/ohc5.png" style="width:80%"><br>
 </p>  
   
 </div>  
@@ -66,7 +66,7 @@ We organise various professional learning activities for you:<br><br>
 <div>  
   
 <p>
-<img src="/images/core-team2023.png" style="width:80%"><Br>
+<img src="/images/core-team2023.png" style="width:80%"><br>
 
 </p>  
   
@@ -83,20 +83,20 @@ We organise various professional learning activities for you:<br><br>
 <div>  
 
 <p>
-	<center><b>2023 Workshops by History Subject Chapter in OPAL 2.0</b></center>
-<img src="/images/events01.png" style="width:80%"><Br>
+	</p><center><b>2023 Workshops by History Subject Chapter in OPAL 2.0</b></center>
+<img src="/images/events01.png" style="width:80%"><br>
 	<center><b>Summary of NLCs for 2023</b><br><br>
 		(Do email the MTT and coordinator if you are interested to be part of the NLC)</center>
-<img src="/images/nlc01.png" style="width:80%"><Br>
-<img src="/images/ohc9.png" style="width:80%"><Br>
-<img src="/images/ohc10.png" style="width:80%"><Br>
-<img src="/images/ohc11.png" style="width:80%"><Br>
-<img src="/images/ohc12.png" style="width:80%"><Br>
-<img src="/images/ohc13.png" style="width:80%"><Br>
+<img src="/images/nlc01.png" style="width:80%"><br>
+<img src="/images/ohc9.png" style="width:80%"><br>
+<img src="/images/ohc10.png" style="width:80%"><br>
+<img src="/images/ohc11.png" style="width:80%"><br>
+<img src="/images/ohc12.png" style="width:80%"><br>
+<img src="/images/ohc13.png" style="width:80%"><br>
 <center><b>Meetings</b></center>
-<img src="/images/meeting01.png" style="width:80%"><Br>
-<img src="/images/meeting02.png" style="width:80%"><Br>
-</p>  
+<img src="/images/meeting01.png" style="width:80%"><br>
+<img src="/images/meeting02.png" style="width:80%"><br>
+<p></p>  
   
 </div>  
   
@@ -111,22 +111,22 @@ We organise various professional learning activities for you:<br><br>
 <div>  
   
 <p>
-Every History teacher is automatically a member of the History Chapter. You can join us at the next Subject Chapter Meeting where you will get to know more about our Subject Chapter and its relevance to your professional growth.<Br><Br>
+Every History teacher is automatically a member of the History Chapter. You can join us at the next Subject Chapter Meeting where you will get to know more about our Subject Chapter and its relevance to your professional growth.<br><br>
 
-Do check out our <b>Calendar of Events</b> tab for upcoming workshops and events.<Br><Br>
+Do check out our <b>Calendar of Events</b> tab for upcoming workshops and events.<br><br>
 
-If you would like to find out more about our Networked Learning Communities (NLC), please contact MTT Lloyd or MTT Joseph. Current NLCs include:<Br><Br>
+If you would like to find out more about our Networked Learning Communities (NLC), please contact MTT Lloyd or MTT Joseph. Current NLCs include:<br><br>
 
-1.    Differentiated Instruction (DI) NLC	<br>Lloyd_Luc_YEO@moe.gov.sg
-2.    Virtual LJ NLC	<br>Lloyd_Luc_YEO@moe.gov.sg
-3.    Interdisciplinary Learning NLC	<br>Lloyd_Luc_YEO@moe.gov.sg
-4.    Blended Learning in History NLC	<br>THAM_Chin_Pang@moe.gov.sg
-5.    Lower Secondary History NLC	<br>THAM_Chin_Pang@moe.gov.sg
-6.    Concept-based Teaching NLC	<br>THAM_Chin_Pang@moe.gov.sg
+1.    Differentiated Instruction (DI) NLC	<br><a href="mailto:Lloyd_Luc_YEO@moe.gov.sg">Lloyd_Luc_YEO@moe.gov.sg</a><br>
+2.    Virtual LJ NLC<br><a href="mailto:Lloyd_Luc_YEO@moe.gov.sg">Lloyd_Luc_YEO@moe.gov.sg</a><br>
+3.    Interdisciplinary Learning NLC	<br><a href="mailto:Lloyd_Luc_YEO@moe.gov.sg">Lloyd_Luc_YEO@moe.gov.sg</a><br>
+4.    Blended Learning in History NLC	<br><a href="mailto:THAM_Chin_Pang@moe.gov.sg">THAM_Chin_Pang@moe.gov.sg</a><br>
+5.    Lower Secondary History NLC	<br><a href="mailto:THAM_Chin_Pang@moe.gov.sg">THAM_Chin_Pang@moe.gov.sg</a><br>
+6.    Concept-based Teaching NLC	<br><a href="mailto:THAM_Chin_Pang@moe.gov.sg">THAM_Chin_Pang@moe.gov.sg</a><br>
+	
+Join our "U" in History collaborative work space in OPAL2.0 today!<br><br>
 
-Join our "U" in History collaborative work space in OPAL2.0 today!<Br><Br>
-
-Should you have any queries regarding the History Chapter and its courses, you may reach:<Br><Br>
+Should you have any queries regarding the History Chapter and its courses, you may reach:<br><br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;

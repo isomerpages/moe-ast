@@ -25,7 +25,7 @@ The Primary Mathematics Chapter focuses on building teachers’ capacity in peda
 
 <b>Mission:</b><br><br>
 
-To build a teacher-led culture of professional excellence in the learning and teaching of mathematics<br><Br>
+To build a teacher-led culture of professional excellence in the learning and teaching of mathematics<br><br>
 
 <b>Vision:</b><br><br>
 
@@ -44,13 +44,13 @@ A community of competent teacher leaders who inspire the learning and teaching o
 <div>  
   
 <p>
-<img src="/images/pmc3.png" style="width:80%"><Br>
-<img src="/images/pmc4.png" style="width:80%"><Br>
-<img src="/images/pmc5.png" style="width:80%"><Br>
-<img src="/images/pmc6.png" style="width:80%"><Br>
-<img src="/images/pmc7.png" style="width:80%"><Br>
-<img src="/images/lgb-writeup.png" style="width:80%"><Br>
-<img src="/images/csh-writeup-jan23.png" style="width:80%"><Br>
+<img src="/images/pmc3.png" style="width:80%"><br>
+<img src="/images/pmc4.png" style="width:80%"><br>
+<img src="/images/pmc5.png" style="width:80%"><br>
+<img src="/images/pmc6.png" style="width:80%"><br>
+<img src="/images/pmc7.png" style="width:80%"><br>
+<img src="/images/lgb-writeup.png" style="width:80%"><br>
+<img src="/images/csh-writeup-jan23.png" style="width:80%"><br>
 </p>  
 </div>  
   
@@ -65,7 +65,7 @@ A community of competent teacher leaders who inspire the learning and teaching o
 <div>  
   
 <p>
-<img src="/images/pmc8.png" style="width:80%"><Br>
+<img src="/images/pmc8.png" style="width:80%"><br>
   
 </p>  
   
@@ -82,21 +82,21 @@ A community of competent teacher leaders who inspire the learning and teaching o
 <div>  
   
 <p>
-	<center><b><u>Mathematics Chapter Events in 2023</u></b></center>
-<img src="/images/pmc%20events.png" style="width:80%"><Br>
-<img src="/images/prmathws-01.png" style="width:80%"><Br>
-<img src="/images/prmathws-02.png" style="width:80%"><Br>
-<img src="/images/prmathws-03.png" style="width:80%"><Br>
-<img src="/images/prmathws-04.png" style="width:80%"><Br>
-<img src="/images/prmathws-05.png" style="width:80%"><Br>
-<img src="/images/prmathws-06.png" style="width:80%"><Br>
-<img src="/images/prmathws-07.png" style="width:80%"><Br>
-<img src="/images/prmathws-08.png" style="width:80%"><Br>
-<img src="/images/prmathws-09.png" style="width:80%"><Br>
-<img src="/images/prmathws-10.png" style="width:80%"><Br>
-<img src="/images/prmathws-11.png" style="width:80%"><Br>
-<img src="/images/nlc.png" style="width:80%"><Br>
-</p>  
+	</p><center><b><u>Mathematics Chapter Events in 2023</u></b></center>
+<img src="/images/pmc%20events.png" style="width:80%"><br>
+<img src="/images/prmathws-01.png" style="width:80%"><br>
+<img src="/images/prmathws-02.png" style="width:80%"><br>
+<img src="/images/prmathws-03.png" style="width:80%"><br>
+<img src="/images/prmathws-04.png" style="width:80%"><br>
+<img src="/images/prmathws-05.png" style="width:80%"><br>
+<img src="/images/prmathws-06.png" style="width:80%"><br>
+<img src="/images/prmathws-07.png" style="width:80%"><br>
+<img src="/images/prmathws-08.png" style="width:80%"><br>
+<img src="/images/prmathws-09.png" style="width:80%"><br>
+<img src="/images/prmathws-10.png" style="width:80%"><br>
+<img src="/images/prmathws-11.png" style="width:80%"><br>
+<img src="/images/nlc.png" style="width:80%"><br>
+<p></p>  
 
 </div>  
   
@@ -117,12 +117,14 @@ You are strongly encouraged to visit and join our ‘U in Primary Mathematics Ch
 
 If you are interested to join any of our networked learning communities (NLCs), kindly email the master teachers in-charge of the NLC. For general enquiries on our chapter events, workshops or NLCs, kindly send an email to our Academy Officers:<br><br>
 
-Sharon Lee (Ms): <a href="sharon_lee@moe.gov.sg">sharon_lee@moe.gov.sg</a> <br><br>
+Sharon Lee (Ms):&nbsp;<a href="mailto:sharon_lee@moe.gov.sg">sharon_lee@moe.gov.sg</a><br><br>
 
-Teo Shing Fang (Ms): <a href="TEO_Shing_Fang@moe.gov.sg">TEO_Shing_Fang@moe.gov.sg</a> 
+Teo Shing Fang (Ms):&nbsp;<a href="mailto:TEO_Shing_Fang@moe.gov.sg">TEO_Shing_Fang@moe.gov.sg</a>
 </p>  
   
 </div>  
+	
+	
   
 </li>  		
 </ul>
