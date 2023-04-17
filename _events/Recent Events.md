@@ -7,7 +7,7 @@ description: ""
 
 | Date | Venue | Event|
 | -------- | -------- | -------- |
-| 16 May  | AST or Zoom   | Professional Learning Series: VISTAs|
+| 20 Feb  | AST and Zoom   | Professional Learning Series: VISTAs|
 
 
 <a href="https://go.gov.sg/vistas"><img src="/images/Events/event_vistas.jpg" style="width:1000px"></a>
