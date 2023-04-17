@@ -13,7 +13,7 @@ description: ""
 <a href="https://go.gov.sg/vistas23"><img src="/images/Events/vista-may23.png" style="width:1000px"></a>
 
 <p></p>
-<hr>
+<br>
 <p id="tcef23"></p>
 
 | Date | Venue | Event|
