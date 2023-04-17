@@ -171,24 +171,8 @@ Please upload the doc files here.
 <p>
 1) <a href="https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/professional-recognition-docs/academy-awards-for-professional-development-docs/mr-su-zhangkai.docx?sfvrsn=71395eb0_2">Su Zhangkai_Nanyang Girls’ High School\_2013(.docx, 332.52 KB)</a><br><b>Su Zhangkai</b><br><b>Nanyang Girls' High School</b><br><br>
 	
-Please upload doc file here.	
 
 
-</p>  
-  
-</div>  
-  
-</li>  
-<li>  
-  
-<input type="checkbox" id="accordion10">  
-  
-<label for="accordion10">New Features</label>  
-  
-<div>  
-  
-<p>
--
 </p>  
   
 </div>  
