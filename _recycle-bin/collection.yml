@@ -2,7 +2,6 @@ collections:
   recycle-bin:
     output: true
     order:
-      - Our PLC Journey.md
       - PD for Education Officers/.keep
       - PD for Education Officers/Professional Development for Education
         Officers.md
