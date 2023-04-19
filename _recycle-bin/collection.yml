@@ -2,7 +2,6 @@ collections:
   recycle-bin:
     output: true
     order:
-      - Overview of Professional Development (PD).md
       - PDPO Overview.md
       - About PDPO.md
       - Our PLC Journey.md
