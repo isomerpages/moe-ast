@@ -2,7 +2,6 @@ collections:
   recycle-bin:
     output: true
     order:
-      - Photos of OYEA Recipients and Finalists.md
       - Our Organisation.md
       - Overview Professional Excellence.md
       - Overview of Professional Development (PD).md
