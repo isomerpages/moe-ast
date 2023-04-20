@@ -70,7 +70,7 @@ The PAT recipients and finalists inspire their student to achieve their best and
 
 2) YES! Programme (Young Exploring Scientists) by&nbsp;<b>Ong Ee Lee</b><br><br>
 
-Access the&nbsp;<a href="/files/pat7.pdf">PAT Primary Noteworthy Practices(.pdf, 1.44 MB</a> of the 2 nominees from the Primary Schools. <br><br>
+<a href="/files/pat7.pdf">PAT Primary Noteworthy Practices(.pdf, 1.44 MB</a> of the 2 nominees from the Primary Schools. <br><br>
 	
 <b>Secondary Schools</b><br><br>
 
