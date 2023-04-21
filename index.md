@@ -28,7 +28,7 @@ sections:
       subtitle: Events
   - resources:
       title: Stories
-      button: View all stories
+      button: View more stories
   - infopic:
       title: Other Academies & Language Centres
       button: View all

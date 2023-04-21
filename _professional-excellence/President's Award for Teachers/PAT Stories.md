@@ -1,10 +1,10 @@
 ---
-title: "PAT Publication: Teach to Inspire, Inspire to Teach"
+title: PAT Stories
 permalink: /professional-recognition/presidents-award-for-teachers/publication/
 description: ""
 third_nav_title: President's Award for Teachers
 ---
-### PAT Publication: Teach to Inspire, Inspire to Teach
+### PAT Stories: Teach to Inspire, Inspire to Teach
 
 The PAT recipients and finalists inspire their student to achieve their best and work towards their dreams. Their enthusiasm for teaching and learning spur their peers on, leading them to strive for excellence in the imparting of knowledge and values to students.&nbsp;Guided by the Ethos of the Teaching Profession, these teachers go the extra mile to ensure that every child develops holistically and emerges as confident and competent students of the 21st&nbsp;Century.
 
@@ -21,32 +21,32 @@ The PAT recipients and finalists inspire their student to achieve their best and
   
 <p>
 	
-<a href="https://drive.google.com/file/d/1bVsGmEy0ISl13YDcHQUwm0gw6XWZmv_S/view?usp=sharing">PAT Publication 2022 - 19th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br> 	
+<a href="https://drive.google.com/file/d/1bVsGmEy0ISl13YDcHQUwm0gw6XWZmv_S/view?usp=sharing">PAT Stories 2022 - 19th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br> 	
 	
-<a href="https://drive.google.com/file/d/1BAB4WXK8cgtnRjH4o50a6tvj8Ubq33KA/view?usp=sharing">PAT Publication 2021 - 18th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br> 
+<a href="https://drive.google.com/file/d/1BAB4WXK8cgtnRjH4o50a6tvj8Ubq33KA/view?usp=sharing">PAT Stories 2021 - 18th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br> 
 	
-<a href="https://drive.google.com/file/d/1Ts80If1eqnBTsNIXWSHkKAKfEaUy_aZx/view?usp=sharing">PAT Publication 2020 - 17th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br> 
+<a href="https://drive.google.com/file/d/1Ts80If1eqnBTsNIXWSHkKAKfEaUy_aZx/view?usp=sharing">PAT Stories 2020 - 17th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br> 
 
-<a href="https://drive.google.com/file/d/1POCcweDONn_pdjg7SpMPZ3KNt3LxYeBG/view?usp=sharing">PAT Publication 2019 - 16th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br> 
+<a href="https://drive.google.com/file/d/1POCcweDONn_pdjg7SpMPZ3KNt3LxYeBG/view?usp=sharing">PAT Stories 2019 - 16th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br> 
 
 
-<a href="https://drive.google.com/file/d/15XUN0JbIFEozFoYhwEu5GOkji7QdEoVu/view?usp=sharing">PAT Publication 2018 - 15th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br>
+<a href="https://drive.google.com/file/d/15XUN0JbIFEozFoYhwEu5GOkji7QdEoVu/view?usp=sharing">PAT Stories 2018 - 15th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br>
 
-<a href="https://drive.google.com/file/d/1tbZI90k2MtQLnVme4ouT05ieRUUjGb6j/view?usp=sharing">PAT Publication 2017 - 14th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br>
+<a href="https://drive.google.com/file/d/1tbZI90k2MtQLnVme4ouT05ieRUUjGb6j/view?usp=sharing">PAT Stories 2017 - 14th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br>
 
-<a href="https://drive.google.com/file/d/18qaZK5m9Rklvya0NslCcIDj_S4_8aXo2/view?usp=sharing">PAT Publication 2016 - 13th Issue of 'Teach to Inspire, Inspire to Teach'</a><br> <br>
+<a href="https://drive.google.com/file/d/18qaZK5m9Rklvya0NslCcIDj_S4_8aXo2/view?usp=sharing">PAT Stories 2016 - 13th Issue of 'Teach to Inspire, Inspire to Teach'</a><br> <br>
 
-<a href="/files/pat1.pdf">PAT Publication 2015 - 12th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br>
+<a href="/files/pat1.pdf">PAT Stories 2015 - 12th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br>
 
-<a href="/files/pat2.pdf">PAT Publication 2014 - 11th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br>
+<a href="/files/pat2.pdf">PAT Stories 2014 - 11th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br>
 
-<a href="/files/pat3.pdf">PAT Publication 2013 - 10th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br>
+<a href="/files/pat3.pdf">PAT Stories 2013 - 10th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br>
 
-<a href="/files/pat4.pdf">PAT Publication 2012 - 9th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br>
+<a href="/files/pat4.pdf">PAT Stories 2012 - 9th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br>
 	
-<a href="/files/pat5.pdf">PAT Publication 2011 - 8th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br>
+<a href="/files/pat5.pdf">PAT Stories - 8th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br>
 
-<a href="/files/pat6.pdf">PAT Publication 2010 - 7th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br>
+<a href="/files/pat6.pdf">PAT Stories 2010 - 7th Issue of 'Teach to Inspire, Inspire to Teach'</a><br><br>
 	
 </p>  
   
@@ -70,7 +70,7 @@ The PAT recipients and finalists inspire their student to achieve their best and
 
 2) YES! Programme (Young Exploring Scientists) by&nbsp;<b>Ong Ee Lee</b><br><br>
 
-Access the&nbsp;<a href="/files/pat7.pdf">PAT Primary Noteworthy Practices(.pdf, 1.44 MB</a> of the 2 nominees from the Primary Schools. <br><br>
+<a href="/files/pat7.pdf">PAT Primary Noteworthy Practices(.pdf, 1.44 MB</a> of the 2 nominees from the Primary Schools. <br><br>
 	
 <b>Secondary Schools</b><br><br>
 
@@ -78,7 +78,7 @@ Access the&nbsp;<a href="/files/pat7.pdf">PAT Primary Noteworthy Practices(.pdf,
 
 2) Use of Historical Simulations to teach Conceptual Understanding in the History Classroom by&nbsp;<b>Chew Ee</b><br><br>
 
-Access the&nbsp;<img style="width:80%" src="/images/xxx.png"> &nbsp;<a href="/files/pat8.pdf">PAT Secondary Noteworthy Practices(.pdf, 4.76 MB)</a> of the 2 nominees from the Secondary Schools. <br><br>
+<a href="/files/pat8.pdf">PAT Secondary Noteworthy Practices(.pdf, 4.76 MB)</a> of the 2 nominees from the Secondary Schools. <br><br>
 	
 <b><u>2018 Noteworthy Practices</u></b> <br><br>
 
