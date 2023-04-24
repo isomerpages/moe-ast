@@ -18,7 +18,7 @@ The Office of Subject Chapters in the AST is home to Principal Master and Master
               <th style="background:#eeeeee">Humanities &amp; CCE </th>
               <td>
 								<ul>
-									<li><a href="“https://academyofsingaporeteachers.moe.edu.sg/office-of-subject-chapters/humanities-and-cce/geography-chapter/”">Geography</a></li>
+									<li><a href="“https://academyofsingaporeteachers.moe.edu.sg/office-of-subject-chapters/humanities-and-cce/geography-chapter">Geography</a></li>
 									<li>History</li>
 									<li>Social Studies</li>
 									<li>Ecomonics</li>
