@@ -5,9 +5,7 @@ description: ""
 ---
 ![](/images/Our%20MTT/mtt_ast_2023.jpg)
 
-Our Master Teachers are the national teacher leaders who embody the professional ethos of the Teaching Profession. They foster a culture of professional excellence and collaboration amongst teachers for pedagogical excellence centred on the holistic development of the child through the [Office of Subject Chapters in AST](/office-of-subject-chapters/overview/).
-
-### Building a culture of teacher-led professionalism and pride in the teaching fraternity
+#### Building a culture of teacher-led professionalism and pride in the teaching fraternity
 
 The Office of Subject Chapters in the AST is home to Principal Master and Master Teachers from four Subject Clusters, namely, Humanities and CCE, Learner Profile, Mathematics and Science subject clusters. Our Principal Master and Master Teachers are committed to growing the professionalism of the teaching fraternity, leading, mentoring and inspiring teachers to be caring, competent and passionate educators who live out the ethos of our teaching profession, to provide quality education for our students.
 
