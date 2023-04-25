@@ -31,8 +31,8 @@ The Office of Subject Chapters in the AST is home to Principal Master and Master
 							<th style="background:#eeeeee">Mathematics</th>
 							<td>
 								<ul>
-									<li>Primary Mathematics</li>
-									<li>Secondary Mathematics</li>
+									<li><a href="/office-of-subject-chapters/mathematics/primary-mathematics-chapter/">Primary Mathematics</a></li>
+									<li><a href="/office-of-subject-chapters/mathematics/secondary-mathematics-chapter/">Secondary Mathematics</a></li>
 								</ul>
 							</td>
 						</tr>
@@ -40,7 +40,7 @@ The Office of Subject Chapters in the AST is home to Principal Master and Master
 							<th style="background:#eeeeee">Science</th>
 							<td>
 								<ul>
-									<li>Primary Science</li>
+									<li><a href="/office-of-subject-chapters/science/primary-science-chapter/">Primary Science</a></li>
 									<li>Biology</li>
 									<li>Chemistry</li>
 									<li>Physics</li>
