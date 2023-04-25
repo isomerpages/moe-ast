@@ -13,7 +13,7 @@ sections:
       title: Teachers' Conference and ExCEL Fest 2023
       description: Join us from 30 May to 1 June to connect with fellow educators and
         learn together to transform our professional practice!
-      button: More
+      button: Click here to sign up
       url: /professional-learning/for-eos/tcef/
       image: /images/events_tcef2023.png
       subtitle: Spotlights
@@ -21,7 +21,7 @@ sections:
   - infopic:
       title: Ventures, Insights, Sharing on Teacher Attachments (VISTAs)
       description: Join us from 16 May to learn more about the future of healthcare.
-      button: More
+      button: Click here for more events
       url: /events/upcoming-events
       alt: Vista-may23
       image: /images/Events/vista-16may23.png
