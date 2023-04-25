@@ -60,8 +60,9 @@ By engaging in Critical Inquiry, we can:&nbsp;  <br><br>
 <div>  
   
 <p>
-We strive to build a culture in which teachers view the critical inquiry of their teaching and learning as an integral part of their professional practice. To nurture such a culture, situating critical inquiry in&nbsp;<a href="/professional-excellence/our-plc-journey/overview/">professional learning communities</a>&nbsp;within schools is a first step.<br><br>
+We strive to build a culture in which teachers view the critical inquiry of their teaching and learning as an integral part of their professional practice. To nurture such a culture, situating critical inquiry in&nbsp;<a href="https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/our-plc-journey/overview/">professional learning communities</a>&nbsp;within schools is a first step.<br><br>
   
+
 AST also provides the following support to encourage teachers to embark on their Critical Inquiry journey:
   
 </p>  
