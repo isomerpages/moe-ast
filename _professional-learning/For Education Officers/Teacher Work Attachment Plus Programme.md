@@ -14,7 +14,6 @@ Our education landscape and workplaces are changing rapidly. Once our students l
 
 **VISTAs** is an engagement series that aims for teachers to gain greater insights beyond their school by giving them exposure to thought leaders and industry experts.
 
-See what the past TWA+ participants have to say about their experiences! Click here!
 
 **Start Your Learning Now!**
 
@@ -39,4 +38,3 @@ Teachers bring benefits to your organisation through TWA+ in the following ways:
 ·       Teachers help raise awareness of your organisation’s branding, services and products.  Upon completion of the attachment, teachers return to school and share their learning obtained from the work attachment with their fellow colleagues and students.
 
 We welcome interested organisations to write to us at [TWA\_plus@moe.gov.sg](mailto:TWA_plus@moe.gov.sg).
-
