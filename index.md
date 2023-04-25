@@ -10,21 +10,20 @@ sections:
       title: " "
       background: /images/Hero Images/hero_image_read.JPG
   - infopic:
-      title: President's Award For Teachers 2022
-      description: Celebrating our finalists and award winners
-      button: More spotlights
-      url: /professional-excellence/presidents-award-for-teachers/recipients-and-finalists/
-      alt: Image alt text
-      image: /images/spotlight_pat22.jpg
-      subtitle: Spotlights
-  - infopic:
       title: Teachers' Conference and ExCEL Fest 2023
       description: Join us from 30 May to 1 June to connect with fellow educators and
         learn together to transform our professional practice!
-      button: More events
+      button: More
+      url: /professional-learning/for-eos/tcef/
+      image: /images/events_tcef2023.png
+      subtitle: Spotlights
+  - infopic:
+      title: Ventures, Insights, Sharing on Teacher Attachments (VISTAs)
+      description: Join us from 16 May to learn more about the future of healthcare.
+      button: More
       url: /events/upcoming-events
       alt: events2023
-      image: /images/events_tcef2023.png
+      image: /images/Events/vista-may23.png
       subtitle: Events
   - resources:
       title: Stories
