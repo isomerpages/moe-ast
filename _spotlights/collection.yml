@@ -1,5 +1,4 @@
 collections:
   spotlights:
     output: true
-    order:
-      - Spotlights.md
+    order: []
