@@ -41,11 +41,11 @@ The Office of Subject Chapters in the AST is home to Principal Master and Master
 							<td>
 								<ul>
 									<li><a href="/office-of-subject-chapters/science/primary-science-chapter/">Primary Science</a></li>
-									<li>Biology</li>
-									<li>Chemistry</li>
-									<li>Physics</li>
-									<li> Nutrition &amp; Food Science</li>
-									<li>Design &amp; Technology</li>
+									<li><a href="/office-of-subject-chapters/science/biology-chapter/">Biology</a></li>
+									<li><a href="/office-of-subject-chapters/science/chemistry-chapter/">Chemistry</a></li>
+									<li><a href="/office-of-subject-chapters/science/physics-chapter/">Physics</a></li>
+									<li><a href="/office-of-subject-chapters/science/nutrition-and-food-science-chapter/">Nutrition and Food Science</a></li>
+									<li><a href="/office-of-subject-chapters/science/design-and-technology-chapter/">Design and Technology</a></li>
 								</ul>
 							</td>
 						</tr>
