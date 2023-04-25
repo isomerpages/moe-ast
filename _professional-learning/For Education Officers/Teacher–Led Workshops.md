@@ -35,6 +35,6 @@ Teacher-led Workshops (TLW) can be conducted through the following modes of deli
 
 ##### TLW Google Site
 
-To find out more details about the TLWs available, you may click this link (https://go.gov.sg/ast-tlw-gsite) to assess the TLW Google Site.
+To find out more details about the TLWs available, you may click this [link](https://go.gov.sg/ast-tlw-gsite) to assess the TLW Google Site.
 
-We strongly encourage all teachers to promptly sign up for TLWs via OPAL2.0 (https://www.opal2.moe.edu.sg) if you are interested in the TLWs, as the number  of places are  limited and they are on a                            first-come-first-served basis!
+We strongly encourage all teachers to promptly sign up for TLWs via [OPAL2.0](https://www.opal2.moe.edu.sg) if you are interested in the TLWs, as the number  of places are  limited and they are on a                            first-come-first-served basis!
