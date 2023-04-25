@@ -5,9 +5,7 @@ description: ""
 ---
 ![](/images/Our%20MTT/mtt_ast_2023.jpg)
 
-Our Master Teachers are the national teacher leaders who embody the professional ethos of the Teaching Profession. They foster a culture of professional excellence and collaboration amongst teachers for pedagogical excellence centred on the holistic development of the child through the [Office of Subject Chapters in AST](/office-of-subject-chapters/overview/).
-
-### Building a culture of teacher-led professionalism and pride in the teaching fraternity
+#### Building a culture of teacher-led professionalism and pride in the teaching fraternity
 
 The Office of Subject Chapters in the AST is home to Principal Master and Master Teachers from four Subject Clusters, namely, Humanities and CCE, Learner Profile, Mathematics and Science subject clusters. Our Principal Master and Master Teachers are committed to growing the professionalism of the teaching fraternity, leading, mentoring and inspiring teachers to be caring, competent and passionate educators who live out the ethos of our teaching profession, to provide quality education for our students.
 
@@ -19,11 +17,11 @@ The Office of Subject Chapters in the AST is home to Principal Master and Master
               <td>
 								<ul>
 									<li><a href="/office-of-subject-chapters/humanities-and-cce/geography-chapter/"> Geography</a></li>
-									<li>History</li>
-									<li>Social Studies</li>
-									<li>Ecomonics</li>
-									<li>Principles of Accounts</li>
-									<li>Character and Citizenship Education</li>
+									<li><a href="/office-of-subject-chapters/humanities-and-cce/history-chapter/">History</a></li>
+									<li><a href="/office-of-subject-chapters/humanities-and-cce/social-studies-chapter/">Social Studies</a></li>
+									<li><a href="/office-of-subject-chapters/humanities-and-cce/history-chapter/">Ecomonics</a></li>
+									<li><a href="/office-of-subject-chapters/humanities-and-cce/principles-of-accounts-chapter/">Principles of Accounts</a></li>
+									<li><a href="/office-of-subject-chapters/humanities-and-cce/character-and-citizenship-education-chapter/">Character and Citizenship Education</a></li>
 								</ul>
 						</td>
 						</tr>
@@ -31,8 +29,8 @@ The Office of Subject Chapters in the AST is home to Principal Master and Master
 							<th style="background:#eeeeee">Mathematics</th>
 							<td>
 								<ul>
-									<li>Primary Mathematics</li>
-									<li>Secondary Mathematics</li>
+									<li><a href="/office-of-subject-chapters/mathematics/primary-mathematics-chapter/">Primary Mathematics</a></li>
+									<li><a href="/office-of-subject-chapters/mathematics/secondary-mathematics-chapter/">Secondary Mathematics</a></li>
 								</ul>
 							</td>
 						</tr>
@@ -40,12 +38,12 @@ The Office of Subject Chapters in the AST is home to Principal Master and Master
 							<th style="background:#eeeeee">Science</th>
 							<td>
 								<ul>
-									<li>Primary Science</li>
-									<li>Biology</li>
-									<li>Chemistry</li>
-									<li>Physics</li>
-									<li> Nutrition &amp; Food Science</li>
-									<li>Design &amp; Technology</li>
+									<li><a href="/office-of-subject-chapters/science/primary-science-chapter/">Primary Science</a></li>
+									<li><a href="/office-of-subject-chapters/science/biology-chapter/">Biology</a></li>
+									<li><a href="/office-of-subject-chapters/science/chemistry-chapter/">Chemistry</a></li>
+									<li><a href="/office-of-subject-chapters/science/physics-chapter/">Physics</a></li>
+									<li><a href="/office-of-subject-chapters/science/nutrition-and-food-science-chapter/">Nutrition and Food Science</a></li>
+									<li><a href="/office-of-subject-chapters/science/design-and-technology-chapter/">Design and Technology</a></li>
 								</ul>
 							</td>
 						</tr>
@@ -53,10 +51,10 @@ The Office of Subject Chapters in the AST is home to Principal Master and Master
 							<th style="background:#eeeeee">Learner Profile</th>
 							<td>
 								<ul>
-									<li>Special Educational Needs</li>
-									<li>Educational Support</li>
-									<li>Lower Primary Learners</li>
-									<li>High Ability Learners</li>
+									<li><a href="/office-of-subject-chapters/learner-profile/special-educational-needs-chapter/">Special Educational Needs</a></li>
+									<li><a href="/office-of-subject-chapters/learner-profile/educational-support-chapter/">Educational Support</a></li>
+									<li><a href="/office-of-subject-chapters/learner-profile/lower-primary-learners-chapter/">Lower Primary Learners</a></li>
+									<li><a href="/office-of-subject-chapters/learner-profile/high-ability-learners-chapter/">High Ability Learners</a></li>
 								</ul>
 							</td>
 						</tr>

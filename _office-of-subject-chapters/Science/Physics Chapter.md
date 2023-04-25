@@ -1,6 +1,6 @@
 ---
 title: Physics Chapter
-permalink: /office-of-subject-chapters/Science/physics-chapter/
+permalink: /office-of-subject-chapters/science/physics-chapter/
 description: ""
 third_nav_title: Science
 ---

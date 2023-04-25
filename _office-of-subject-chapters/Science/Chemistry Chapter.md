@@ -1,6 +1,6 @@
 ---
 title: Chemistry Chapter
-permalink: /office-of-subject-chapters/Science/chemistry-chapter/
+permalink: /office-of-subject-chapters/science/chemistry-chapter/
 description: ""
 third_nav_title: Science
 ---
