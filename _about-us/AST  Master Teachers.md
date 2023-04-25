@@ -7,6 +7,64 @@ description: ""
 
 Our Master Teachers are the national teacher leaders who embody the professional ethos of the Teaching Profession. They foster a culture of professional excellence and collaboration amongst teachers for pedagogical excellence centred on the holistic development of the child through the [Office of Subject Chapters in AST](/office-of-subject-chapters/overview/).
 
+### Building a culture of teacher-led professionalism and pride in the teaching fraternity
+
+The Office of Subject Chapters in the AST is home to Principal Master and Master Teachers from four Subject Clusters, namely, Humanities and CCE, Learner Profile, Mathematics and Science subject clusters. Our Principal Master and Master Teachers are committed to growing the professionalism of the teaching fraternity, leading, mentoring and inspiring teachers to be caring, competent and passionate educators who live out the ethos of our teaching profession, to provide quality education for our students.
+
+##### Subject Chapters in AST
+
+<table style="border-style:solid; border-width:2px; width:90%">
+          <tbody><tr>
+              <th style="background:#eeeeee">Humanities &amp; CCE </th>
+              <td>
+								<ul>
+									<li><a href="/office-of-subject-chapters/humanities-and-cce/geography-chapter/"> Geography</a></li>
+									<li>History</li>
+									<li>Social Studies</li>
+									<li>Ecomonics</li>
+									<li>Principles of Accounts</li>
+									<li>Character and Citizenship Education</li>
+								</ul>
+						</td>
+						</tr>
+						<tr>
+							<th style="background:#eeeeee">Mathematics</th>
+							<td>
+								<ul>
+									<li>Primary Mathematics</li>
+									<li>Secondary Mathematics</li>
+								</ul>
+							</td>
+						</tr>
+						<tr>
+							<th style="background:#eeeeee">Science</th>
+							<td>
+								<ul>
+									<li>Primary Science</li>
+									<li>Biology</li>
+									<li>Chemistry</li>
+									<li>Physics</li>
+									<li> Nutrition &amp; Food Science</li>
+									<li>Design &amp; Technology</li>
+								</ul>
+							</td>
+						</tr>
+						<tr>
+							<th style="background:#eeeeee">Learner Profile</th>
+							<td>
+								<ul>
+									<li>Special Educational Needs</li>
+									<li>Educational Support</li>
+									<li>Lower Primary Learners</li>
+									<li>High Ability Learners</li>
+								</ul>
+							</td>
+						</tr>
+		</tbody></table>
+		
+
+Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nbsp; Leadership" of learning, the Subject Chapters in AST bring together groups of educators to learn from and with each other. Different professional learning platforms are designed to deepen the pedagogical content knowledge of teachers in the Subject Chapter, guided by specific professional learning directions set by the Subject Chapter Core Team and supported by the ST-LT Network Core Team and MTTs.
+
 <h4>Geography Master Teachers</h4>
 <div style="clear:both">
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">

@@ -1,6 +1,6 @@
 ---
 title: Geography Chapter
-permalink: /office-of-subject-chapters/Humanities-and-CCE/geography-chapter/
+permalink: /office-of-subject-chapters/humanities-and-cce/geography-chapter/
 description: ""
 third_nav_title: Humanities and CCE
 ---
