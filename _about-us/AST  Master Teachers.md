@@ -55,8 +55,8 @@ The Office of Subject Chapters in the AST is home to Principal Master and Master
 								<ul>
 									<li><a href="/office-of-subject-chapters/learner-profile/special-educational-needs-chapter/">Special Educational Needs</a></li>
 									<li><a href="/office-of-subject-chapters/learner-profile/educational-support-chapter/">Educational Support</a></li>
-									<li>Lower Primary Learners</li>
-									<li>High Ability Learners</li>
+									<li><a href="/office-of-subject-chapters/learner-profile/lower-primary-learners-chapter/">Lower Primary Learners</a></li>
+									<li><a href="/office-of-subject-chapters/learner-profile/high-ability-learners-chapter/">High Ability Learners</a></li>
 								</ul>
 							</td>
 						</tr>
