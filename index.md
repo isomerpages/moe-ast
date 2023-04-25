@@ -17,13 +17,14 @@ sections:
       url: /professional-learning/for-eos/tcef/
       image: /images/events_tcef2023.png
       subtitle: Spotlights
+      alt: tcef23
   - infopic:
       title: Ventures, Insights, Sharing on Teacher Attachments (VISTAs)
       description: Join us from 16 May to learn more about the future of healthcare.
       button: More
       url: /events/upcoming-events
-      alt: events2023
-      image: /images/Events/vista-may23.png
+      alt: Vista-may23
+      image: /images/Events/vista-16may23.png
       subtitle: Events
   - resources:
       title: Stories
