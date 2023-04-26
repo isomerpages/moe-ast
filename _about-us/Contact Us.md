@@ -3,15 +3,12 @@ title: Contact Us
 permalink: /ast-contact-us/
 description: ""
 ---
-
-
 <img style="width:50%" src="/images/astlogo1.png">
 
 #### Academy of Singapore Teachers
 
-Email: [MOE\_Academy@moe.gov.sg](mailto:MOE_Academy@moe.gov.sg)
-<br>Website: [academyofsingaporeteachers.moe.edu.sg](https://academyofsingaporeteachers.moe.edu.sg/)
-<br>Contact number: +65 6664 1474
+Get in touch with us via this [Form](https://form.gov.sg/642bdbd5d11e700013f079c9)
+<br>or call us at  +65 6664 1474
 
 #### Our Location
 
