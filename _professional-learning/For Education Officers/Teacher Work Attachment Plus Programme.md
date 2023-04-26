@@ -15,6 +15,9 @@ Our education landscape and workplaces are changing rapidly. Once our students l
 **VISTAs** is an engagement series that aims for teachers to gain greater insights beyond their school by giving them exposure to thought leaders and industry experts.
 
 
+See what the past TWA+ participants have to say about their experiences! <br>
+Click [here](https://academyofsingaporeteachers.moe.edu.sg/stories/twa-plus-experience/)!
+
 **Start Your Learning Now!**
 
 The full list of hosting partners and their offerings made available for MOE staff can be accessed [here](https://intranet.moe.gov.sg/academy/TWA/Pages/twa_localworkatt.aspx). Upon seeking their School Leaders’ or Branch Head’s approval, interested participants can apply for the opportunities using these [application forms](https://intranet.moe.gov.sg/academy/TWA/Pages/app_procedures_forms.aspx). [MOE Intranet access required]
@@ -29,12 +32,12 @@ Organisations in the public, private and people sectors are our important partne
 
 Teachers bring benefits to your organisation through TWA+ in the following ways:
 
-·       Teachers are knowledgeable in content related to the subjects they teach, and could be engaged in discussions on education and youth-related issues.
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teachers are knowledgeable in content related to the subjects they teach, and could be engaged in discussions on education and youth-related issues.
 
-·       Teachers could provide input to/feedback on your programmes, products, services, projects, events, etc.
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teachers could provide input to/feedback on your programmes, products, services, projects, events, etc.
 
-·       Teachers can participate in projects and team discussions where they can promote team learning and contribute an alternative perspective at the same time.
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teachers can participate in projects and team discussions where they can promote team learning and contribute an alternative perspective at the same time.
 
-·       Teachers help raise awareness of your organisation’s branding, services and products.  Upon completion of the attachment, teachers return to school and share their learning obtained from the work attachment with their fellow colleagues and students.
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teachers help raise awareness of your organisation’s branding, services and products.&nbsp; Upon completion of the attachment, teachers return to school and share their learning obtained from the work attachment with their fellow colleagues and students.
 
 We welcome interested organisations to write to us at [TWA\_plus@moe.gov.sg](mailto:TWA_plus@moe.gov.sg).
