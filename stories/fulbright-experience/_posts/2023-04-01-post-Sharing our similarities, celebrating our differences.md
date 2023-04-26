@@ -1,7 +1,7 @@
 ---
 title: Sharing our similarities, celebrating our differences
 permalink: /multimedia/feature-stories/breaking-new-grounds/
-date: 2023-04-04
+date: 2023-04-01
 layout: post
 description: ""
 image: /images/esc2.png

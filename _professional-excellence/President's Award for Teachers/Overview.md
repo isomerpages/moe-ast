@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /professional-recognition/presidents-award-for-teachers/overview/
+permalink: /professional-excellence/presidents-award-for-teachers/overview/
 description: ""
 third_nav_title: President's Award for Teachers
 ---

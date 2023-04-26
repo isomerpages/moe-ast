@@ -1,6 +1,6 @@
 ---
 title: Princess Maha Chakri Award (PMCA)
-permalink: /professional-recognition/international-awards/pmca/
+permalink: /professional-excellence/international-awards/pmca/
 description: ""
 third_nav_title: International Awards
 ---

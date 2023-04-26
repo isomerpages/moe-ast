@@ -1,6 +1,6 @@
 ---
 title: OYEA Recipients and Finalists
-permalink: /professional-recognition/OYEA/recipients-and-finalists/
+permalink: /professional-excellence/oyea/recipients-and-finalists/
 description: ""
 third_nav_title: OYEA
 ---

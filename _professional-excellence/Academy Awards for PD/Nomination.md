@@ -1,11 +1,9 @@
 ---
 title: Nomination
-permalink: /professional-recognition/Academy-Awards/nomination/
+permalink: /professional-excellence/academy-awards/nomination/
 description: ""
 third_nav_title: Academy Awards for PD
 ---
-
-
 <img src="/images/prore22.png" style="width:60%">
 
 |  |  |

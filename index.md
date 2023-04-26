@@ -20,7 +20,7 @@ sections:
       alt: tcef23
   - infopic:
       title: Ventures, Insights, Sharing on Teacher Attachments (VISTAs)
-      description: Join us from 16 May to learn more about the future of healthcare.
+      description: Join us on 16 May to learn more about the future of healthcare.
       button: Click here to sign up
       url: /events/upcoming-events
       alt: Vista-may23

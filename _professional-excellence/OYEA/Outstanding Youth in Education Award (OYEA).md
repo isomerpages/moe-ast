@@ -1,10 +1,9 @@
 ---
 title: Outstanding Youth in Education Award (OYEA)
-permalink: /professional-recognition/oyea/overview/
+permalink: /professional-excellence/oyea/overview/
 description: ""
 third_nav_title: OYEA
 ---
-
 The OYEA is a national award that recognises and honours the achievements of young educators who&nbsp;have shown admirable passion for teaching, and commitment to inspiring and nurturing their students.&nbsp;Launched in 1999, it seeks to recognise excellent younger teachers for their youthful idealism, enthusiasm, energy and active involvement in the development of youth beyond the formal curriculum.
 
 #### Contact Us

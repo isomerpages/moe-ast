@@ -1,6 +1,6 @@
 ---
 title: Fulbright Distinguished Awards (DAI) in Teaching Program
-permalink: /professional-recognition/international-awards/da-in-teaching-program/
+permalink: /professional-excellence/international-awards/da-in-teaching-program/
 description: ""
 third_nav_title: International Awards
 ---

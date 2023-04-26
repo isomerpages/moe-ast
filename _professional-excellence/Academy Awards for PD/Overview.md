@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /professional-recognition/academy-awards/overview/
+permalink: /professional-excellence/academy-awards/overview/
 description: ""
 third_nav_title: Academy Awards for PD
 ---

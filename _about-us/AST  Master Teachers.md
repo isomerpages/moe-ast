@@ -1,6 +1,6 @@
 ---
 title: AST  Master Teachers
-permalink: /about-us/about-us/ast-master-teachers/
+permalink: /about-us/ast-master-teachers/
 description: ""
 ---
 ![](/images/Our%20MTT/mtt_ast_2023.jpg)

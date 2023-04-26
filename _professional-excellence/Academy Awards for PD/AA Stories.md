@@ -1,6 +1,6 @@
 ---
 title: AA Stories
-permalink: /professional-recognition/Academy-Awards/AA-Stories/
+permalink: /professional-excellence/academy-awards/aa-stories/
 description: ""
 third_nav_title: Academy Awards for PD
 ---

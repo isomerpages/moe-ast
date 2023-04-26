@@ -1,6 +1,6 @@
 ---
 title: PAT Stories
-permalink: /professional-recognition/presidents-award-for-teachers/publication/
+permalink: /professional-excellence/presidents-award-for-teachers/publication/
 description: ""
 third_nav_title: President's Award for Teachers
 ---

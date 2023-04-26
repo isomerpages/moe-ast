@@ -1,10 +1,9 @@
 ---
 title: Demonstration Classes Conducted at CTLE@YISS
-permalink: /professional-excellence/Centre-for-Teaching/demonstration-classes/
+permalink: /professional-excellence/centre-for-teaching/demonstration-classes/
 description: ""
 third_nav_title: Centre for Teaching
 ---
-
 1.  Subject: Character and Citizenship Education/Social Studies
     
     Title: [Using Questions to Teach for Conceptual Understanding](https://vimeo.com/588086957)
