@@ -1,5 +1,5 @@
 ---
-title: Outstanding Educator in Consultancy Programme
+title: Outstanding Educator–in–Consultancy Programme
 permalink: /professional-learning/for-eos/oeic/
 description: ""
 third_nav_title: For Education Officers
