@@ -1,5 +1,5 @@
 ---
-title: 2022 MOE Work Plan Seminar TWA Plus Video
+title: "Video : Find out what participants have learnt"
 permalink: /stories/twa-plus-experience/2022-wps-video/
 date: 2023-04-26
 layout: post
