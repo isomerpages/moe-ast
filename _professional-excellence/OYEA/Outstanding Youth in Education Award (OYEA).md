@@ -8,7 +8,7 @@ The OYEA is a national award that recognises and honours the achievements of you
 
 #### Contact Us
 
-If you have any queries about PAT, please contact the following officers.
+If you have any queries about OYEA, please contact the following officers.
 
 | Officer | Email Address | Contact number |
 |---|---|---|
