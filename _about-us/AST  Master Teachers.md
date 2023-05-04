@@ -19,7 +19,7 @@ The Office of Subject Chapters in the AST is home to Principal Master and Master
 									<li><a href="/office-of-subject-chapters/humanities-and-cce/geography-chapter/"> Geography</a></li>
 									<li><a href="/office-of-subject-chapters/humanities-and-cce/history-chapter/">History</a></li>
 									<li><a href="/office-of-subject-chapters/humanities-and-cce/social-studies-chapter/">Social Studies</a></li>
-									<li><a href="/office-of-subject-chapters/humanities-and-cce/history-chapter/">Ecomonics</a></li>
+									<li><a href="/office-of-subject-chapters/humanities-and-cce/history-chapter/">Economics</a></li>
 									<li><a href="/office-of-subject-chapters/humanities-and-cce/principles-of-accounts-chapter/">Principles of Accounts</a></li>
 									<li><a href="/office-of-subject-chapters/humanities-and-cce/character-and-citizenship-education-chapter/">Character and Citizenship Education</a></li>
 								</ul>
