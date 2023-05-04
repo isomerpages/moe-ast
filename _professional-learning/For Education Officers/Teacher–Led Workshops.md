@@ -23,13 +23,40 @@ Through this platform, teachers will **engage in professional exchange of pedago
 | -------- | -------- | -------- |
 | **Lead** and **Engage** the Teaching Community | Engage in **professional sharing and knowledge creation** | Grow teachers to champion **Teacher Ownership Teacher Leadership (TOTL)** in professional learning   |
 
+#### Call for Proposals for 2024 Teacher -Led Workshops (TLW) opens on 8 May 2023 (Mon)
+
+1. AST calls for proposals from teachers to conduct TLWs. The proposed TLW should be minimally shared previously at school-based or cluster-based platforms. Facilitators should also obtain approval from their principals before applying. 
+2.	TLWs can be conducted individually or in teams of <u>up to three facilitators</u>. Correspondences will be made through the Main Facilitator via emails or calls. 
+3.	Facilitators should propose a TLW that is relevant to the teaching level of students that they have applied their pedagogy or approach in their own classroom and school. For example, Junior College/Centralised Institute teachers should not be proposing a workshop meant for Primary school teachers. 
+4. Online Video-conferencing (OVC) would be the preferred mode for TLWs. Subject to approval, facilitator(s) may also propose for their TLWs to be conducted as a face-to-face workshop, to be held at AST or at the facilitators' school (for location-based TLW). Another possible option would be e-TLW, an asynchronous e-learning package that would be hosted on OPAL2.0.
+6. Please contact the AST TLW team, Ms Andrea Foo (FOO_Shi_Jia@moe.gov.sg) and Mr Benjamin Huang (Benjamin_HUANG@moe.gov.sg) should there be any queries. 
+
+    | **Date**                           | **Activity**                                                    |
+    |------------------------------------|-----------------------------------------------------------------|
+    |     8 May 2023(Mon)                |     Call   for Proposals                                        |
+    |     28 July 2023 (Fri)             |     Deadline for application submission                         |
+    |     Mid Nov 2023                   |     Announcement of successful and unsuccessful applications    |
+    |     Mid Feb to Mid     Sep 2024    |     Conduct of TLWs for successful applications                 |
+6. After the TLWs have been completed, AST will extend e-Certificates of Appreciation and the collated feedback from the participants to the facilitators through their principals. 
+
+##### Documents for TLW Proposal Submission
+
+| **S/N** | **Description**                                                                                                                   | **Link**                                                            |
+|----------------|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| 1              |     Facilitators   should refer to the 2024 TLW Application Information Sheet to guide the   process of submitting their application.    |    [2024 TLW Application Information Sheet](https://go.gov.sg/2024tlwproposalsubmissioninfosheet)    |
+| 2              |     The 2024 TLW   Facilitation Plan Template is a necessary document during the application   process.                                  |     [2024 TLW Facilitation Plan Template](https://go.gov.sg/2024tlwfacilitationplantemplate)       |
+
+##### Link to submit Proposals
+Please scan the QR code or click on the link to submit your proposals for  2024 Teacher-led Workshops (TLWs).
+
+Submission of Proposals Link: https://go.gov.sg/2024tlw-application
+<img style="width:50%" src="/images/etlw%20submission%20qr.jpg">
 #### Details of Teacher-led Workshops (TLW)
 
 ##### Modes of Teacher-led Workshops (TLW)
 
 Teacher-led Workshops (TLW) can be conducted through the following modes of delivery: 
 
-![](/images/tlwtable1v2.jpg)
 
 **Note:** Synchronous Learning TLWs are conducted in the afternoons of Tuesdays, Thursdays and Fridays across the academic year approximately from Term 1 Week 9 to Term 4 Week 1. 
 
