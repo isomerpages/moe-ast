@@ -50,15 +50,13 @@ Through this platform, teachers will **engage in professional exchange of pedago
 Please scan the QR code or click on the link to submit your proposals for  2024 Teacher-led Workshops (TLWs).
 
 Submission of Proposals Link: https://go.gov.sg/2024tlw-application
-
-
+<img style="width:50%" src="/images/etlw%20submission%20qr.jpg">
 #### Details of Teacher-led Workshops (TLW)
 
 ##### Modes of Teacher-led Workshops (TLW)
 
 Teacher-led Workshops (TLW) can be conducted through the following modes of delivery: 
 
-![](/images/tlwtable1v2.jpg)
 
 **Note:** Synchronous Learning TLWs are conducted in the afternoons of Tuesdays, Thursdays and Fridays across the academic year approximately from Term 1 Week 9 to Term 4 Week 1. 
 
