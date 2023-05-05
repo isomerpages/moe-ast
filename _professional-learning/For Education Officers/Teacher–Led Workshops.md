@@ -43,7 +43,7 @@ Through this platform, teachers will **engage in professional exchange of pedago
 
 | **S/N** | **Description**                                                                                                                   | **Link**                                                            |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| 1              |     Facilitators   should refer to the 2024 TLW Proposal Submission Sheet to guide the   process of submitting their application.    |    [2024 TLW Proposal Submission Sheet](https://go.gov.sg/2024tlwproposalsubmissioninfosheet)    |
+| 1              |     Facilitators   should refer to the 2024 TLW Proposal Submission InfoSheet to guide the   process of submitting their application.    |    [2024 TLW Proposal Submission InfoSheet](https://go.gov.sg/2024tlwproposalsubmissioninfosheet)    |
 | 2              |     The 2024 TLW   Facilitation Plan Template is a necessary document during the application   process.                                  |     [2024 TLW Facilitation Plan Template](https://go.gov.sg/2024tlwfacilitationplantemplate)       |
 
 ##### Link to submit Proposals
