@@ -56,7 +56,7 @@ Submission of Proposals Link: [https://go.gov.sg/2024tlw-application](https://go
 ##### Modes of Teacher-led Workshops (TLW)
 
 Teacher-led Workshops (TLW) can be conducted through the following modes of delivery: 
-![](/images/tlwtable1v2.jpg)
+![](/images/modes%20of%20tlw%20.jpg)
 
 **Note:** Synchronous Learning TLWs are conducted in the afternoons of Tuesdays, Thursdays and Fridays across the academic year approximately from Term 1 Week 9 to Term 4 Week 1. 
 
