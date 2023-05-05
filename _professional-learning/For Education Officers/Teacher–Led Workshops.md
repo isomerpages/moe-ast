@@ -49,8 +49,8 @@ Through this platform, teachers will **engage in professional exchange of pedago
 ##### Link to submit Proposals
 Please scan the QR code or click on the link to submit your proposals for  2024 Teacher-led Workshops (TLWs).
 
-Submission of Proposals Link: https://go.gov.sg/2024tlw-application
-<img style="width:50%" src="/images/etlw%20submission%20qr.jpg">
+Submission of Proposals Link: [https://go.gov.sg/2024tlw-application](https://go.gov.sg/2024tlw-application)
+
 #### Details of Teacher-led Workshops (TLW)
 
 ##### Modes of Teacher-led Workshops (TLW)
