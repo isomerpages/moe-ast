@@ -22,10 +22,15 @@ description: ""
 	
 You may also access the following resources: 
 1.  <a target="\_blank" rel="noopener" href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/Information%20Kit_%20PL%20designers.pdf">Information Kit for PL Designer</a>
-2.  [Guide to Effective PD Vol 1: Workshops and Learning Programmes](https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/cf8323e0-5e7b-48d7-828e-a364ba8805a6\)
-3.  [Guide to Effective PD Vol 2: Blended PD Guide](https://intranet.moe.gov.sg/academy/Pages/professional-development/files/Guide%20to%20Blended%20PD_2022.pdf)
-4.  [Guide to Effective PD Vol 3: Networked Learning Communities](https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/fd481152-be9b-43e0-9151-e9a2f6bd8437)
-5.  [Guide to Effective PD Vol 4:  Instructional Mentoring](https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/51d9cf3b-40aa-438a-95f5-082ae492cd30)
+	
+2.  <a target="\_blank" rel="noopener" href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/cf8323e0-5e7b-48d7-828e-a364ba8805a6\"> Guide to Effective PD Vol 1: Workshops and Learning Programmes </a>
+	
+3.  <a target="\_blank" rel="noopener" href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/Guide%20to%20Blended%20PD_2022.pdf">Guide to Effective PD Vol 2: Blended PD Guide</a>
+	
+4.  <a target="\_blank" rel="noopener" href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/fd481152-be9b-43e0-9151-e9a2f6bd8437">Guide to Effective PD Vol 3: Networked Learning Communities</a>
+	
+5.  <a target="\_blank" rel="noopener" href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/51d9cf3b-40aa-438a-95f5-082ae492">Guide to Effective PD Vol 4: Instructional Mentoring</a>
+	
 6. History of Professional Development of Education Officers in Singapore, second edition of the e-monograph
 
 </p>  
