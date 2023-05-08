@@ -3,8 +3,6 @@ title: PD Guides
 permalink: /resources/pd-guides/
 description: ""
 ---
-### PD Guides
-
 
 <ul class="jekyllcodex_accordion">  
   
