@@ -12,7 +12,7 @@ description: ""
   
 <input type="checkbox" id="accordion1">  
   
-<label for="accordion1">PD Guides (Local)</label>  
+<label for="accordion1">Local</label>  
   
 <div>  
   
@@ -43,7 +43,7 @@ You may also access the following resources:<br>
   
 <input type="checkbox" id="accordion2">  
   
-<label for="accordion2">PD Resources (Global)</label>  
+<label for="accordion2">Global</label>  
   
 <div>  
   
