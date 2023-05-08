@@ -30,7 +30,7 @@ You may also access the following resources:<br>
 	
 4.  <a target="\_blank" rel="noopener" href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/fd481152-be9b-43e0-9151-e9a2f6bd8437">Guide to Effective PD Vol 3: Networked Learning Communities</a><br>
 	
-5.  <a target="\_blank" rel="noopener" href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/51d9cf3b-40aa-438a-95f5-082ae492">Guide to Effective PD Vol 4: Instructional Mentoring</a><br>
+5.  <a target="\_blank" rel="noopener" href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/51d9cf3b-40aa-438a-95f5-082ae492cd30">Guide to Effective PD Vol 4: Instructional Mentoring</a><br>
 	
 6. History of Professional Development of Education Officers in Singapore, second edition of the e-monograph <br>
 
