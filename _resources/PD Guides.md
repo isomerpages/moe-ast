@@ -3,29 +3,32 @@ title: PD Guides
 permalink: /resources/pd-guides/
 description: ""
 ---
-### PD Guides
-
-
 <ul class="jekyllcodex_accordion">  
   
 <li>  
   
 <input type="checkbox" id="accordion1">  
   
-<label for="accordion1">PD Guides (Local)</label>  
+<label for="accordion1">Local</label>  
   
 <div>  
   
 <p>
-	
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="https://staging.d2dfevnwgxersp.amplifyapp.com/images/pdpo5.png" width="154"></th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="https://staging.d2dfevnwgxersp.amplifyapp.com/images/pdpo6.png" width="254"></th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="https://staging.d2dfevnwgxersp.amplifyapp.com/images/pdpo7.png" width="154"></th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="https://staging.d2dfevnwgxersp.amplifyapp.com/images/pdpo8.png" width="154"></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#4372D6;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/cf8323e0-5e7b-48d7-828e-a364ba8805a6"><span style="text-decoration:underline;color:#4372D6">Guide to Effective PD Vol 1: Workshops and Learning Programmes</span></a></td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#4372D6;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/1bf03964-44b5-410e-b281-69351ced0178"><span style="text-decoration:underline;color:#4372D6">Guide to Effective PD Vol 2: Blended Learning</span></a></td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#4372D6;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/fd481152-be9b-43e0-9151-e9a2f6bd8437"><span style="text-decoration:underline;color:#4372D6">Guide to Effective PD Vol 3: Networked Learning Communities</span></a></td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#4372D6;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/51d9cf3b-40aa-438a-95f5-082ae492cd30"><span style="text-decoration:underline;color:#4372D6">Guide to Effective PD Vol 4: Instructional Mentoring</span></a></td></tr></tbody></table><br>
-	
-<img src="/images/pdpo9.png" style="width:183px;height:240px;margin-right:15px;" align="left">This digital, second edition of the e-monograph,&nbsp;<i>History of Professional Development of Education Officers in Singapore,</i>&nbsp;published by the Professional Development Planning Office builds on the first print edition in featuring the voices from the ground, reflecting stakeholders’ insights, and perspectives of professional development policies and programmes from the 1800s till the present. &nbsp;By codifying the PD journey, the monograph aims to help MOE officers develop a deeper understanding of the PD policies over the years, and, in particular, how changes in educational policies have influenced priorities and direction of PD. <br><br>
 
-This e-monograph is accessible via&nbsp;<a href="https://www.opal2.moe.edu.sg/app/learner/home">OPAL2.0</a>. <br><br>
-
-Information on an overview and access of the e-monograph is available from&nbsp;<i>Our PD Journey</i>&nbsp;at <br><br>
-<img src="/images/pdpo10.png" style="width:30%">
+<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></th><th style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></th><th style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></th></tr></thead><tbody><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:600;color:#484848"><span style="font-weight:600;color:#484848"><br><br><br><br><br><br><br><br><br><br><img src="/images/turquoise.png">Plan your PL experience using the <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/Design%20Principle%20for%20Effective%20PD%20infographics.pdf" rel="noopener" target="\_blank">Design Principles</a> to guide the PL design. The <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/Ten%20Focused%20Questions%20for%20PD.pdf" rel="noopener" target="\_blank">10 Focused Questions</a> to further help you design PL experiences that are consistent with the design principles. </span></span></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:600;color:#484848"><span style="font-weight:600;color:#484848"><img src="/images/green1.png"> Use the <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/A-R-C%20Learning%20model.pdf" rel="noopener" target="\_blank">A-R-C Learning Model</a> to provide a variety of learning experiences and use of the <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/Guide%20to%20Blended%20PD_2022.pdf" rel="noopener" target="\_blank">Blended PD Guide</a> to feature different elements (e.g., synchronous/ asynchronous, online/in-person) in the learning. <br><br><img src="/images/pldesign-01.png"></span></span></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:600;color:#484848"><span style="font-weight:600;color:#484848"><br><br><br><br><br><br><br><br><br><br><img span="" src="/images/yellow.png">Understand the efficacy of PL – whether PL has been effective and relevant. Use the <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/LEARN%20model.pdf" rel="noopener" target="\_blank">LEARN Model</a> to improve current efforts.</span></span></td></tr><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#4372D6;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#4372D6;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#4372D6;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"> </td></tr></tbody></table>
+	
+You may also access the following resources:<br>
+(Access to MOE Intranet and OPAL2.0 required)<br>
+1.  <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/Information%20Kit_%20PL%20designers.pdf" rel="noopener" target="\_blank">Information Kit for PL Designer</a><br>
+	
+2.  <a href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/cf8323e0-5e7b-48d7-828e-a364ba8805a6\" rel="noopener" target="\_blank"> Guide to Effective PD Vol 1: Workshops and Learning Programmes </a><br>
+	
+3.  <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/Guide%20to%20Blended%20PD_2022.pdf" rel="noopener" target="\_blank">Guide to Effective PD Vol 2: Blended PD Guide</a><br>
+	
+4.  <a href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/fd481152-be9b-43e0-9151-e9a2f6bd8437" rel="noopener" target="\_blank">Guide to Effective PD Vol 3: Networked Learning Communities</a><br>
+	
+5.  <a href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/51d9cf3b-40aa-438a-95f5-082ae492cd30" rel="noopener" target="\_blank">Guide to Effective PD Vol 4: Instructional Mentoring</a><br>
+	
 </p>  
   
 </div>  
@@ -35,7 +38,7 @@ Information on an overview and access of the e-monograph is available from&nbsp;
   
 <input type="checkbox" id="accordion2">  
   
-<label for="accordion2">PD Resources (Global)</label>  
+<label for="accordion2">Global</label>  
   
 <div>  
   
