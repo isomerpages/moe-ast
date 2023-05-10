@@ -29,8 +29,6 @@ You may also access the following resources:<br>
 	
 5.  <a href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/51d9cf3b-40aa-438a-95f5-082ae492cd30" rel="noopener" target="\_blank">Guide to Effective PD Vol 4: Instructional Mentoring</a><br>
 	
-6. History of Professional Development of Education Officers in Singapore, second edition of the e-monograph <br>
-
 </p>  
   
 </div>  
