@@ -21,7 +21,7 @@ sections:
   - infopic:
       title: Ventures, Insights, Sharing on Teacher Attachments (VISTAs)
       button: Read more
-      url: /events/upcoming-events
+      url: /events/recent-events
       alt: Vista-may23
       image: /images/Events/vista-16may23.png
       subtitle: Events
