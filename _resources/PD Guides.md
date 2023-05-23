@@ -23,7 +23,7 @@ You may also access the following resources:<br>
 	
 2.  <a href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/cf8323e0-5e7b-48d7-828e-a364ba8805a6\" rel="noopener" target="\_blank"> Guide to Effective PD Vol 1: Workshops and Learning Programmes </a><br>
 	
-3.  <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/Guide%20to%20Blended%20PD_2022.pdf" rel="noopener" target="\_blank">Guide to Effective PD Vol 2: Blended PD Guide</a><br>
+3.  <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/Guide%20to%20Blended%20PD_2023.pdf" rel="noopener" target="\_blank">Guide to Effective PD Vol 2: Blended PD Guide</a><br>
 	
 4.  <a href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/fd481152-be9b-43e0-9151-e9a2f6bd8437" rel="noopener" target="\_blank">Guide to Effective PD Vol 3: Networked Learning Communities</a><br>
 	
