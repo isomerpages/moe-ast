@@ -38,6 +38,16 @@ You may access the materials and videos of the various workshops via this URL [h
 <a rel="noopener noreferrer" target="_blank" href="/oeic/john-miller/"><span style="text-decoration:underline;color:#4372D6">Mr John Miller </span></a><br>
 <a rel="noopener noreferrer" target="_blank" href="/oeic/jeremy-stoddard/"><span style="text-decoration:underline;color:#4372D6">Professor Jeremy Stoddard
 </span></a></p>
-   	
+
+  
+</div>
+
+<div>  
+  
+<p>
+<a rel="noopener noreferrer" target="_blank" href="/oeic/john-miller/"><span style="text-decoration:underline;color:#4372D6">Mr John Miller </span></a><br>
+<a rel="noopener noreferrer" target="_blank" href="/oeic/jeremy-stoddard/"><span style="text-decoration:underline;color:#4372D6">Professor Jeremy Stoddard
+</span></a></p>
+
   
 </div></li></ul>
