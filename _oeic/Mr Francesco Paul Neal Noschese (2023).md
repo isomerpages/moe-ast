@@ -21,6 +21,8 @@ For example, teacher participants were posed with the trigger question: “How h
 
 ![](/images/oeic2023%2020230419_145702%20wa.jpg)
 
+![](/images/oeic2023%2020230419_152642%20wa.jpg)
+
 <figure><img src="/images/oeic2023%20microsoftteams-image%20(16).png" style="width:75%"><img src="/images/oeic2023%20microsoftteams-image%20(14).png" style="width:75%"><figcaption> Workshop participants collaborated to carry out the inquiry-based activity in groups.</figcaption></figure>
 
 <figure><img src="/images/oeic2023%20microsoftteams-image%20(11).png" style="width:75%"><img src="/images/oeic2023%20%20microsoftteams-image%20(15).png" style="width:75%"><figcaption>Mr Noschese guiding teacher participants in exploring inquiry-based activities.</figcaption></figure>
