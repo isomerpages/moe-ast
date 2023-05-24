@@ -45,9 +45,9 @@ You may access the materials and videos of the various workshops via this URL [h
   
 <li>  
   
-<input type="checkbox" id="accordion1">  
+<input type="checkbox" id="accordion2">  
   
-<label for="accordion1">2022 OEIC</label>  
+<label for="accordion2">2023 OEIC</label>  
   
 <div>  
   
