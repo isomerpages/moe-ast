@@ -18,12 +18,7 @@ Prior to his engagement as the Outstanding Educator for AST’s OEIC (from 10 Ap
 During each of the four zonal workshops, Mr Noschese modelled pedagogical leadership via hands-on activities for workshop participants.  He also drew reference from his lesson demonstration in Zhonghua Secondary School to deepen participants’ understanding of one of the learning strategies employed, namely the ‘Observe, Predict and Apply’ model and how variables in teaching and learning can be considered when designing and enacting lessons. 
 
 For example, teacher participants were posed with the trigger question: “How high will a ball bounce?”  Participants were then tasked to consider patterns between the height that a ball was dropped, and the height of its bounce. They then applied the critical thinking of prediction to assess the height the ball should be dropped for it to bounce to reach the height of a given chair. Through this activity,  Mr Noschese also engaged participants to think about how to leverage the ‘Observe, Predict and Apply’ model to infuse inquiry-based learning into lesson designs by encouraging their students to think about diverse variables and possible relationships across scientific concepts.
-
-![](/images/oeic2023%2020230419_145702%20wa.jpg)
-
-![](/images/oeic2023%2020230419_152642%20wa.jpg)
-
-![](/images/oeic%202023%2020230419_145702%20-%20copy.jpg)
+![](/images/oeic2023%20frank%201%20a.jpg)
 
 <figure><img src="/images/oeic2023%2020230419_145702%20wa.jpg" style="width:75%"><img src="/images/oeic%202023%2020230419_145702%20-%20copy.jpg" style="width:75%"><figcaption> Workshop participants collaborated to carry out the inquiry-based activity in groups.</figcaption></figure>
 
