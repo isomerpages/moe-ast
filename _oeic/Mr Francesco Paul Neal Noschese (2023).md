@@ -19,6 +19,8 @@ During each of the four zonal workshops, Mr Noschese modelled pedagogical leader
 
 For example, teacher participants were posed with the trigger question: “How high will a ball bounce?”  Participants were then tasked to consider patterns between the height that a ball was dropped, and the height of its bounce. They then applied the critical thinking of prediction to assess the height the ball should be dropped for it to bounce to reach the height of a given chair. Through this activity,  Mr Noschese also engaged participants to think about how to leverage the ‘Observe, Predict and Apply’ model to infuse inquiry-based learning into lesson designs by encouraging their students to think about diverse variables and possible relationships across scientific concepts.
 
+![](/images/oeic2023%2020230419_145702%20wa.jpg)
+
 <figure><img src="/images/oeic2023%20microsoftteams-image%20(16).png" style="width:75%"><img src="/images/oeic2023%20microsoftteams-image%20(14).png" style="width:75%"><figcaption> Workshop participants collaborated to carry out the inquiry-based activity in groups.</figcaption></figure>
 
 <figure><img src="/images/oeic2023%20microsoftteams-image%20(11).png" style="width:75%"><img src="/images/oeic2023%20%20microsoftteams-image%20(15).png" style="width:75%"><figcaption>Mr Noschese guiding teacher participants in exploring inquiry-based activities.</figcaption></figure>
