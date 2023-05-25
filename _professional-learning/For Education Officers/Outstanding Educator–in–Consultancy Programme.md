@@ -28,6 +28,21 @@ You may access the materials and videos of the various workshops via this URL [h
   
 <li>  
   
+<input type="checkbox" id="accordion2">  
+  
+<label for="accordion2">2023 OEIC</label>  
+  
+<div>  
+  
+<p>
+<a rel="noopener noreferrer" target="_blank" href="/oeic/frank-noschese/"><span style="text-decoration:underline;color:#4372D6">Mr Francesco Paul Neal-Noschese</span></a><br>
+  
+</p></div></li></ul>
+
+<ul class="jekyllcodex_accordion">  
+  
+<li>  
+  
 <input type="checkbox" id="accordion1">  
   
 <label for="accordion1">2022 OEIC</label>  
@@ -41,17 +56,3 @@ You may access the materials and videos of the various workshops via this URL [h
   
 </div></li></ul>
 
-<ul class="jekyllcodex_accordion">  
-  
-<li>  
-  
-<input type="checkbox" id="accordion2">  
-  
-<label for="accordion2">2023 OEIC</label>  
-  
-<div>  
-  
-<p>
-<a rel="noopener noreferrer" target="_blank" href="/oeic/frank-noschese/"><span style="text-decoration:underline;color:#4372D6">Mr Francesco Paul Neal-Noschese</span></a><br>
-  
-</p></div></li></ul>
