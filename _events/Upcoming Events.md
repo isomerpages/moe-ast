@@ -7,6 +7,6 @@ description: ""
 
 | Date | Venue | Event|
 | -------- | -------- | -------- |
-| 30 May - 1 June 2023     | Marina Bay Sands  | Teachers' Conference and ExCEL Fest|
+| 4 July 2023     | Zoom  | CTLE@NTPS Webinar|
 
-<a href="https://www.tcef2023.sg"><img src="/images/tcef2023.png" style="width:1000px"></a>
+<a href="https://go.gov.sg/ctle-halwebi"><img src="/images/events/ctle-hal-jul23.png" style="width:1000px"></a>
