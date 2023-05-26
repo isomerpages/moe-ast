@@ -18,7 +18,7 @@ sections:
       subtitle: Spotlights
       alt: tcef23
   - infopic:
-      title: Join Us at CTLE Webinars
+      title: Join Us at our CTLE Webinars
       button: Read more
       url: /events/upcoming-events
       alt: CTLE-6Jul23
