@@ -7,7 +7,6 @@ permalink: /
 notification: Welcome to Academy of Singapore Teachers
 sections:
   - hero:
-      title: " "
       background: /images/Hero Images/hero_image_read.JPG
   - infopic:
       title: Teachers' Conference and ExCEL Fest 2023
@@ -19,11 +18,11 @@ sections:
       subtitle: Spotlights
       alt: tcef23
   - infopic:
-      title: Ventures, Insights, Sharing on Teacher Attachments (VISTAs)
+      title: Join Us at CTLE@NTPS Webinar
       button: Read more
-      url: /events/recent-events
+      url: /events/upcoming-events
       alt: Vista-may23
-      image: /images/Events/vista-16may23.png
+      image: /images/ctle-hal-jul23-small.png
       subtitle: Events
   - resources:
       title: Stories
