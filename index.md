@@ -18,7 +18,7 @@ sections:
       subtitle: Spotlights
       alt: tcef23
   - infopic:
-      title: Join Us at CTLE@YISS Webinar
+      title: Join Us at CTLE@ YISS Webinar
       button: Read more
       url: /events/upcoming-events
       alt: CTLE-6Jul23
