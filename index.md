@@ -21,8 +21,8 @@ sections:
       title: Join Us at CTLE@YISS Webinar
       button: Read more
       url: /events/upcoming-events
-      alt: CTLE-Jul23
-      image: /images/Events/ctle-yiss-6jul23-small.png
+      alt: CTLE-6Jul23
+      image: /images/Events/ctle-yiss-6jul23-sml.png
       subtitle: Events
   - resources:
       title: Stories
