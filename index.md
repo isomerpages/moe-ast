@@ -22,7 +22,7 @@ sections:
       button: Read more
       url: /events/upcoming-events
       alt: CTLE-6Jul23
-      image: /images/ctle-hal-jul23-small.png
+      image: /images/ctle-hal-jul23-small-v1.png
       subtitle: Events
   - resources:
       title: Stories
