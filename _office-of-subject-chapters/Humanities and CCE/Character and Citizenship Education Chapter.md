@@ -4,7 +4,7 @@ permalink: /office-of-subject-chapters/humanities-and-cce/character-and-citizens
 description: ""
 third_nav_title: Humanities and CCE
 ---
-![](/images/ccec1.png)
+![](images/ccec1.png)
 
 <img src="/images/ccec2.png" style="width:70%">
 
