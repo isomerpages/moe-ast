@@ -9,14 +9,15 @@ sections:
   - hero:
       background: /images/Hero Images/hero_image_read.JPG
   - infopic:
-      title: Teachers' Conference and ExCEL Fest 2023
-      description: Join us from 30 May to 1 June to connect with fellow educators and
-        learn together to transform our professional practice!
-      button: Click here to sign up
-      url: /professional-learning/for-eos/tcef/
-      image: /images/events_tcef2023.png
+      title: MOE Supports President's Challenge
+      description: You can now make a difference in the lives of beneficiaries
+        supported by the President's Challenge via our MOE online fundraising
+        campaign.
+      button: read more
+      url: https://olive.moe.edu.sg/olive/spotlight/moe-supports-presidents-challenge-2023/
+      image: /images/olive-pc.jfif
       subtitle: Spotlights
-      alt: tcef23
+      alt: olive-pc
   - infopic:
       title: Join Us at our CTLE Webinars
       button: Read more
