@@ -22,7 +22,7 @@ sections:
       title: Thank you for joining us at the EAS Learning Fest 2023
       subtitle: Events
       button: Learning materials and photos
-      url: https://sites.google.com/view/eas-lf-2023/programme-schedule?authuser=0
+      url: https://intranet.moe.gov.sg/academy/Pages/professional-development/eas/eas-learning-fest.aspx
       image: /images/easlf2023.PNG
       alt: EASLF23
   - infopic:
