@@ -19,6 +19,14 @@ sections:
       subtitle: Spotlights
       alt: olive-pc
   - infopic:
+      title: Thank you for joining us at the EAS Learning Fest 2023
+      subtitle: EAS Learning Fest 2023
+      description: Click for event videos and photos
+      button: Button Text
+      url: https://sites.google.com/view/eas-lf-2023/programme-schedule?authuser=0
+      image: /images/easlf2023.PNG
+      alt: EASLF23
+  - infopic:
       title: Join Us at our CTLE Webinars
       button: Read more
       url: /events/upcoming-events
