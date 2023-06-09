@@ -5,7 +5,26 @@ description: ""
 third_nav_title: Academy Awards for PD
 ---
 <ul class="jekyllcodex_accordion">  
+  <li>  
   
+<input type="checkbox" id="accordion10">  
+  
+<label for="accordion10">AA Citations 2022</label>  
+  
+<div>  
+  
+<p>
+1) <a href="/files/Academy%20Awards/AA2022/ng_bing_fu_peirce_secondary_school_2022.pdf">Ng_Bing_Fu_Peirce_Secondary_School_2022(.pdf, 76 KB)</a><br><b>Ng Bing Fu</b><br><b>Peirce Secondary School</b><br><br>
+	
+2)<a href="/files/Academy%20Awards/AA2022/radha_devi_oonithan_hai_sing_catholic_school_2022.pdf">Radha_Devi_Oonithan_Hai_Sing_Catholic_School_2022(.pdf, 74 KB)</a><br><b>Dr Radha Devi Oonithan</b><br><b>Hai Sing Catholic School</b><br><br>	
+</p> 
+
+3) <a href="/files/Academy%20Awards/AA2022/chee_yao_rong_brendon_st_andrews_junior_college_2022.pdf">Chee_Yao_Rong_Brendon_St_Andrews_Junior_College_2022(.pdf, 95 KB)</a><br><b>Mr Chee Yao Rong, Brendon</b><br><b>St. Andrew’s Junior College</b><br><br>	
+<p></p>  
+  
+</div>  
+  
+</li>  
 <li>  
   
 <input type="checkbox" id="accordion1">  
