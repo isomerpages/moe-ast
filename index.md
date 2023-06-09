@@ -24,6 +24,7 @@ sections:
       button: Learning materials and photos
       url: https://intranet.moe.gov.sg/academy/Pages/professional-development/eas/eas-learning-fest.aspx
       alt: EASLF23
+      image: /images/Events/easlf23-small.PNG
   - infopic:
       title: Join Us at our CTLE Webinars
       button: Read more
