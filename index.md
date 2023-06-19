@@ -19,6 +19,13 @@ sections:
       subtitle: Spotlights
       alt: olive-pc
   - infopic:
+      title: Thank you for joining us at the EAS Learning Fest 2023
+      subtitle: Recent Event
+      button: Learning materials and photos
+      url: https://intranet.moe.gov.sg/academy/Pages/professional-development/eas/eas-learning-fest.aspx
+      alt: EASLF23
+      image: /images/Events/easlf23-small.PNG
+  - infopic:
       title: Join Us at our CTLE Webinars
       button: Read more
       url: /events/upcoming-events
