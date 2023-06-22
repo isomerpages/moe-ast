@@ -4,7 +4,7 @@ permalink: /professional-excellence/academy-awards/nomination/
 description: ""
 third_nav_title: Academy Awards for PD
 ---
-![](/images/aa23_poster.png)
+![](/images/aa23_poster_open.png)
 
 |  |  |
 |---|---|
