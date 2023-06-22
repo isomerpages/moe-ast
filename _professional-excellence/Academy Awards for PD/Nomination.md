@@ -9,3 +9,4 @@ third_nav_title: Academy Awards for PD
 |  |  |
 |---|---|
 | AST Academy Awards for Professional Development Nomination Guide 2023  | [https://go.gov.sg/nominationguideaaforpd2023](https://go.gov.sg/nominationguideaaforpd2023)|
+| Group Nomination Form  | [https://go.gov.sg/aagroup23](https://go.gov.sg/aagroup23)|
