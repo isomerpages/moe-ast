@@ -9,7 +9,7 @@ description: ""
 | -------- | -------- | -------- |
 | 29 May - 1 June  | - | TCEF 2023|
 
-<a href="[Index - Teachers' Conference and ExCEL Fest 2023 (tcef2023.sg)](https://www.tcef2023.sg/)"><img src="/images/Events/TCEF2023-Thkyou-1png" style="width:1000px"></a>
+<a href="https://www.tcef2023.sg"><img src="/images/Events/tcef2023-thkyou-1.png" style="width:1000px"></a>
 
 <p></p>
 
