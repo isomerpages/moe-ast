@@ -19,12 +19,14 @@ sections:
       subtitle: Spotlights
       alt: olive-pc
   - infopic:
-      title: Thank you for joining us at the EAS Learning Fest 2023
+      title: Thank you for joining us at TCEF 2023
       subtitle: Recent Event
-      button: Learning materials and photos
-      url: https://intranet.moe.gov.sg/academy/Pages/professional-development/eas/eas-learning-fest.aspx
-      alt: EASLF23
-      image: /images/Events/easlf23-small.PNG
+      button: Click for more recent events
+      url: https://academyofsingaporeteachers.moe.edu.sg/events/recent-events
+      alt: TCEF2023
+      image: /images/Events/tcef2023-thkyou-1.png
+      description: "Do visit the TCEF2023 website for conference session recordings
+        and presentation materials "
   - infopic:
       title: Join Us at our CTLE Webinars
       button: Read more
