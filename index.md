@@ -25,8 +25,8 @@ sections:
       url: https://academyofsingaporeteachers.moe.edu.sg/events/recent-events
       alt: TCEF2023
       image: /images/Events/tcef2023-thkyou-1.png
-      description: "Do visit the TCEF2023 website for conference session recordings
-        and presentation materials "
+      description: Do visit the TCEF2023 website for conference session recordings and
+        presentation materials
   - infopic:
       title: Join Us at our CTLE Webinars
       button: Read more
