@@ -13,4 +13,4 @@ Guided by Teacher Leader Knowledge Bases that extends from the MOE’s Teacher G
 
 ![](/images/overview%20of%20tlp.jpg)
 
-For more information regarding our TLPs, please write to Don Liew (LIEW_Ping_An@moe.gov.sg) and Lee Yu Xuan (lee_yu_xuan@moe.gov.sg). 
+For more information regarding our TLPs, please write to Don Liew (LIEW_Ping_An@moe.gov.sg) and Lee Yu Xuan (lee_yu_xuan@moe.gov.sg).
