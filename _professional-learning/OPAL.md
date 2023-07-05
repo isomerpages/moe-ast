@@ -3,7 +3,7 @@ title: OPAL
 permalink: /professional-learning/opal/
 description: ""
 ---
-#### One Portal All Learners (OPAL)
+#### One Portal All Learners (OPAL2.0)
 
 <img style="width:300px;" src="/images/opal2-logo.png">
 
