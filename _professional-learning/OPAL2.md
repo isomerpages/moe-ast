@@ -1,5 +1,5 @@
 ---
-title: OPAL2
+title: OPAL2.0
 permalink: /professional-learning/opal/
 description: ""
 ---
