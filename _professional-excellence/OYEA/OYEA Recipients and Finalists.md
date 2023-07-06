@@ -22,6 +22,8 @@ third_nav_title: OYEA
 | Seow Tzer Yeun    | Edgefield Secondary School     | 
 | Sum Kar Mun     | CHIJ Secondary (Toa Payoh)     | 
 
+<br>
+<br>
 
 | Name of Finalist | School |
 | -------- | -------- | 
