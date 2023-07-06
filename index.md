@@ -27,13 +27,6 @@ sections:
       image: /images/Events/tcef2023-thkyou-1.png
       description: Do visit the TCEF2023 website for conference session recordings and
         presentation materials
-  - infopic:
-      title: Join Us at our CTLE Webinars
-      button: Read more
-      url: /events/upcoming-events
-      alt: CTLE-6Jul23
-      image: /images/ctle-hal-jul23-small-v1.png
-      subtitle: Events
   - resources:
       title: Stories
       button: More stories
