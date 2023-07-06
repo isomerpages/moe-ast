@@ -22,7 +22,6 @@ third_nav_title: OYEA
 | Sum Kar Mun     | CHIJ Secondary (Toa Payoh)     | 
 
 <br>
-<br>
 
 | Name of Finalist | School |
 | -------- | -------- | 
