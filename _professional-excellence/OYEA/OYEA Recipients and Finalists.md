@@ -14,14 +14,14 @@ third_nav_title: OYEA
 
 
 | Name of Recipient | School |
-| -------- | -------- | 
-| Shobana D/O Sreetharan    | Holy Innocents' Primary School    | 
+| -------- | -------- |
+| Shobana D/O Sreetharan  | Holy Innocents' Primary School    | 
 | Gan Tze Qiang Benjamin     | Gan Eng Seng Primary School    | 
 | Khairunnisa Binte Ismail     |  St. Gabriel's Secondary School | 
 | Lim Bee Leng     | Kent Ridge Secondary School    | 
 | Seow Tzer Yeun    | Edgefield Secondary School     | 
 | Sum Kar Mun     | CHIJ Secondary (Toa Payoh)     | 
-<br>
+
 
 | Name of Finalist | School |
 | -------- | -------- | 
