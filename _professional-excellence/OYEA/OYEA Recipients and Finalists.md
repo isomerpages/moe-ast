@@ -4,8 +4,6 @@ permalink: /professional-excellence/oyea/recipients-and-finalists/
 description: ""
 third_nav_title: OYEA
 ---
-The Outstanding Youth in Education Award (OYEA) recognises and honours the achievements of young educators who have shown admirable passion for teaching, and commitment to inspiring and nurturing their students.
-
 #### Congratulations to Our OYEA 2023 Recipients
 
 <img src="/images/awards/oyea 2023_recipients.jpg" style="width:100%">
