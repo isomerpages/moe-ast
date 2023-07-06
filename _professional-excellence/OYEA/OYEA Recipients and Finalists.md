@@ -12,7 +12,6 @@ third_nav_title: OYEA
 ####  OYEA Recipients and Finalists 2023 
 
 
-
 | Name of Recipient | School |
 | -------- | -------- |
 | Shobana D/O Sreetharan  | Holy Innocents' Primary School    | 
