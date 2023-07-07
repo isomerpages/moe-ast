@@ -19,6 +19,13 @@ sections:
       subtitle: Spotlights
       alt: olive-pc
   - infopic:
+      title: Congratulations to OYEA 2023 Recipients
+      subtitle: OYEA 2023
+      button: Read more
+      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/oyea/recipients-and-finalists/
+      image: /images/Awards/oyea2023-awardees.jpg
+      alt: oyea2023
+  - infopic:
       title: Thank you for joining us at TCEF 2023
       subtitle: Recent Event
       button: Click for more recent events
