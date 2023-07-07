@@ -9,6 +9,13 @@ sections:
   - hero:
       background: /images/Hero Images/hero_image_read.JPG
   - infopic:
+      title: Congratulations to our OYEA 2023 Recipients and Finalists
+      subtitle: OYEA 2023
+      button: Read more
+      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/oyea/recipients-and-finalists/
+      image: /images/Awards/oyea2023-awardees.jpg
+      alt: oyea2023
+  - infopic:
       title: MOE Supports President's Challenge
       description: You can now make a difference in the lives of beneficiaries
         supported by the President's Challenge via our MOE online fundraising
