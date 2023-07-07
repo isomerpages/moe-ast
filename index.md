@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Hero Images/hero_image_read.JPG
   - infopic:
-      title: Congratulations to OYEA 2023 Recipients
+      title: Congratulations to our OYEA 2023 Recipients and Finalists
       subtitle: OYEA 2023
       button: Read more
       url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/oyea/recipients-and-finalists/
