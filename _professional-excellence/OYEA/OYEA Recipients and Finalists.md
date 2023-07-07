@@ -4,7 +4,7 @@ permalink: /professional-excellence/oyea/recipients-and-finalists/
 description: ""
 third_nav_title: OYEA
 ---
-#### Congratulations to Our OYEA 2023 Recipients
+#### Congratulations to Our OYEA 2023 Recipients and Finalists
 
 <img style="width:100%" src="/images/Awards/oyea2023_recipients.jpg">
 
