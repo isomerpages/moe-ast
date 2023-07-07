@@ -6,7 +6,7 @@ third_nav_title: OYEA
 ---
 #### Congratulations to Our OYEA 2023 Recipients
 
-<img style="width:100%" src="/images/Awards/oyea 2023_recipients.jpg">
+<img style="width:100%" src="/images/Awards/oyea2023_recipients.jpg">
 
 
 ####  OYEA Recipients and Finalists 2023 
