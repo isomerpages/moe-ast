@@ -65,6 +65,28 @@ Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nb
 
 <h4>Geography Master Teachers</h4>
 <div style="clear:both">
+<div style="float:left; width:350px; height:250px; padding:10px; display:block"><div>
+	
+<div><img src="/images/geo1.png" style="width:80px;height:100px;margin-right:15px;" align="left"> <strong>Mr Yuen Kah Mun</strong>
+<br><br>Master Teacher / Geography <br>(Boon Lay Secondary School)<br><br>
+Area of Specialisation/Interest:     
+<br>*1
+<br>*2
+<br>*3 
+<br>Email: <a href="mailto:Yuen_Kah_Mun@schools.gov.sg">Yuen_Kah_Mun@schools.gov.sg</a><br>Contact no.: 6794 0161</div>
+<br>
+
+<div><img src="/images/geo1.png" style="width:80px;height:100px;margin-right:15px;" align="left"> <strong>Mr Yuen Kah Mun</strong>
+<br><br>Master Teacher / Geography <br>(Boon Lay Secondary School)<br><br>
+Area of Specialisation/Interest:     
+<br>*1
+<br>*2
+<br>*3 
+<br>Email: <a href="mailto:Yuen_Kah_Mun@schools.gov.sg">Yuen_Kah_Mun@schools.gov.sg</a><br>Contact no.: 6794 0161</div>
+	
+
+<h4>Geography Master Teachers</h4>
+<div style="clear:both">
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 <img src="/images/geo1.png" style="width:80px;height:100px;margin-right:15px;" align="left"><strong>Mr Yuen Kah Mun</strong><br>Master Teacher / Geography <br>(Boon Lay Secondary School)<br><br>Email: <a href="mailto:Yuen_Kah_Mun@schools.gov.sg">Yuen_Kah_Mun@schools.gov.sg</a><br>Contact no.: 6794 0161</div>
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
@@ -226,4 +248,4 @@ Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nb
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 <img src="/images/hal.png" style="width:100px;height:76px;margin-right:15px;" align="left"><strong>Mdm Evelyn Yeo</strong><br>Master Teacher/ High Ability Learners<br><br>Email: <a href="mailto:Evelyn_YEO@moe.gov.sg">Evelyn_YEO@moe.gov.sg</a><br>Contact no.: 6664 1420</div>
 <div style="clear:both"><hr></div>
-</div>
+</div></div></div></div>
