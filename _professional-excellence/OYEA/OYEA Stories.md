@@ -11,11 +11,10 @@ third_nav_title: OYEA
 <input type="checkbox" id="accordion1">  
   
 <label for="accordion1">OYEA Stories 2023</label>  
-  
 <div>  
 
-	<b>Recipients</b><br>
-
+<u>Recipients</u><br>
+	
 Mr Gan Tze Qiang Benjamin<br>
 Gan Eng Seng Primary School<br>
 <a target="_blank" href="https://www.schoolbag.edu.sg/story/how-a-chat-and-a-toothbrush-led-a-child-back-to-school">How a chat and a toothbrush led a child back to school</a><br><br>
@@ -40,7 +39,7 @@ Ms Khairunnisa Binte Ismail<br>
 St. Gabriel’s Secondary School<br>
 <a target="_blank" href="https://www.schoolbag.edu.sg/story/her-motto-for-her-students-character-first-academics-a-close-second"> Her motto for her students? “Character first, academics a close second”</a><br><br>
 
-**Finalists**<br>
+<u>Finalists</u><br>
 	
 Ms Lee Hui Ting<br>
 Canberra Primary School<br>
