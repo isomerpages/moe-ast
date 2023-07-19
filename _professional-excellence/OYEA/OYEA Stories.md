@@ -45,19 +45,19 @@ St. Gabriel’s Secondary School<br>
 
 Ms Lee Hui Ting<br>
 Canberra Primary School<br>
-Add Maths, Science and pumpkins and you get? Lessons plus a side of dessert
+[Add Maths, Science and pumpkins and you get? Lessons plus a side of dessert](https://www.schoolbag.edu.sg/story/add-maths-science-and-pumpkins-and-you-get-lessons-plus-a-side-of-dessert)
 
 Mdm Lim Peak Deng<br>
 Sengkang Green Primary School<br>
-Cheering her students’ bite-sized successes whets their appetite to learn Mandarin
+[Cheering her students’ bite-sized successes whets their appetite to learn Mandarin](https://www.schoolbag.edu.sg/story/cheering-her-students-bite-sized-successes-whets-their-appetite-to-learn-mandarin)
 
 Ms S Purnima Janani @Purnima Janani Sampath Kumar<br>
 Catholic High School (Secondary)<br>
-She models empathy, the ‘highest form of knowledge’, to her students
+[She models empathy, the ‘highest form of knowledge’, to her students](https://www.schoolbag.edu.sg/story/she-models-empathy-the-highest-form-of-knowledge-to-her-students)
 
 Mdm Shariffa Amalsharaff Binte Syed Othman Aledroos<br>
 Springfield Secondary School<br>
-She started podcasts and other platforms ‘to give every student a voice’
+[She started podcasts and other platforms ‘to give every student a voice’](https://www.schoolbag.edu.sg/story/she-started-podcasts-and-other-platforms-to-give-every-student-a-voice)
 
 
 
