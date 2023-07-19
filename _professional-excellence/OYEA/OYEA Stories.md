@@ -4,7 +4,6 @@ permalink: /professional-excellence/oyea/stories/
 description: ""
 third_nav_title: OYEA
 ---
-
 <ul class="jekyllcodex_accordion">  
   
 <li>  
@@ -20,7 +19,7 @@ third_nav_title: OYEA
 
 Mr Gan Tze Qiang Benjamin<br>
 Gan Eng Seng Primary School<br>
-How a chat and a toothbrush led a child back to school
+[How a chat and a toothbrush led a child back to school](https://www.schoolbag.edu.sg/story/how-a-chat-and-a-toothbrush-led-a-child-back-to-school)
 
 Ms Shobana D/O Sreetharan<br>
 Holy Innocents’ Primary School<br>
