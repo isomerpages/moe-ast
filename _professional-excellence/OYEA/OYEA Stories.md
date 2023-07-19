@@ -14,8 +14,7 @@ third_nav_title: OYEA
   
 <div>  
 
-<p>
-<b>Recipients</b>
+	<b>Recipients</b><br>
 
 Mr Gan Tze Qiang Benjamin<br>
 Gan Eng Seng Primary School<br>
@@ -41,8 +40,8 @@ Ms Khairunnisa Binte Ismail<br>
 St. Gabriel’s Secondary School<br>
 <a target="_blank" href="https://www.schoolbag.edu.sg/story/her-motto-for-her-students-character-first-academics-a-close-second"> Her motto for her students? “Character first, academics a close second”</a><br><br>
 
-**Finalists**
-
+**Finalists**<br>
+	
 Ms Lee Hui Ting<br>
 Canberra Primary School<br>
 <a target="_blank" href="https://www.schoolbag.edu.sg/story/add-maths-science-and-pumpkins-and-you-get-lessons-plus-a-side-of-dessert"> Add Maths, Science and pumpkins and you get? Lessons plus a side of dessert</a><br><br>
@@ -59,7 +58,6 @@ Mdm Shariffa Amalsharaff Binte Syed Othman Aledroos<br>
 Springfield Secondary School<br>
 <a target="_blank" href="https://www.schoolbag.edu.sg/story/she-started-podcasts-and-other-platforms-to-give-every-student-a-voice"> She started podcasts and other platforms ‘to give every student a voice’</a><br><br>
 
-</p>  
   
 </div>  
   
