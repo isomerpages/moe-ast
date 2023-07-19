@@ -27,7 +27,7 @@ Holy Innocents’ Primary School<br>
 
 Ms Sum Kar Mun<br>
 CHIJ Secondary (Toa Payoh)<br>
-<a target="_blank" href="https://www.schoolbag.edu.sg/story/she-gives-students-the-language-and-tools-to-express-their-passions-and-concerns"> She gives students the language and tools to express their passions and concerns</a>&lt;<br>br&gt;
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/she-gives-students-the-language-and-tools-to-express-their-passions-and-concerns"> She gives students the language and tools to express their passions and concerns</a><br><br>
 
 Mr Seow Tzer Yeun<br>
 Edgefield Secondary School<br>
