@@ -35,11 +35,11 @@ Edgefield Secondary School<br>
 
 Ms Lim Bee Leng<br>
 Kent Ridge Secondary School<br>
-[She turned a chat about hooliganism into a discussion on the importance of learning](https://www.schoolbag.edu.sg/story/she-turned-a-chat-about-hooliganism-into-a-discussion-on-the-importance-of-learning)
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/she-turned-a-chat-about-hooliganism-into-a-discussion-on-the-importance-of-learning"> She turned a chat about hooliganism into a discussion on the importance of learning </a><br>
 
 Ms Khairunnisa Binte Ismail<br>
 St. Gabriel’s Secondary School<br>
-[Her motto for her students? “Character first, academics a close second”](https://www.schoolbag.edu.sg/story/her-motto-for-her-students-character-first-academics-a-close-second)
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/her-motto-for-her-students-character-first-academics-a-close-second"> Her motto for her students? “Character first, academics a close second”</a><br>
 
 **Finalists**
 
