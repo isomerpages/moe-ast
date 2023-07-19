@@ -29,7 +29,7 @@ CHIJ Secondary (Toa Payoh)<br>
 <a target="_blank" href="https://www.schoolbag.edu.sg/story/she-gives-students-the-language-and-tools-to-express-their-passions-and-concerns"> She gives students the language and tools to express their passions and concerns</a><br><br>
 
 Mr Seow Tzer Yeun<br>
-Edgefield Secondary School<br>
+Edgefield Secondary School<br><br>
 
 
 Ms Lim Bee Leng<br>
