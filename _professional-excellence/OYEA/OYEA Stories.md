@@ -23,7 +23,7 @@ Gan Eng Seng Primary School<br>
 
 Ms Shobana D/O Sreetharan<br>
 Holy Innocents’ Primary School<br>
-[She infused Maths with K-Pop to turn an angry student around](https://www.schoolbag.edu.sg/story/she-infused-maths-with-k-pop-to-turn-an-angry-student-around)
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/she-infused-maths-with-k-pop-to-turn-an-angry-student-around"> She infused Maths with K-Pop to turn an angry student around</a>
 
 Ms Sum Kar Mun<br>
 CHIJ Secondary (Toa Payoh)<br>
