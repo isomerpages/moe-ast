@@ -19,15 +19,15 @@ third_nav_title: OYEA
 
 Mr Gan Tze Qiang Benjamin<br>
 Gan Eng Seng Primary School<br>
-<a target="_blank" href="https://www.schoolbag.edu.sg/story/how-a-chat-and-a-toothbrush-led-a-child-back-to-school">How a chat and a toothbrush led a child back to school</a>
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/how-a-chat-and-a-toothbrush-led-a-child-back-to-school">How a chat and a toothbrush led a child back to school</a><br>
 
 Ms Shobana D/O Sreetharan<br>
 Holy Innocents’ Primary School<br>
-<a target="_blank" href="https://www.schoolbag.edu.sg/story/she-infused-maths-with-k-pop-to-turn-an-angry-student-around"> She infused Maths with K-Pop to turn an angry student around</a>
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/she-infused-maths-with-k-pop-to-turn-an-angry-student-around"> She infused Maths with K-Pop to turn an angry student around</a><br>
 
 Ms Sum Kar Mun<br>
 CHIJ Secondary (Toa Payoh)<br>
-[She gives students the language and tools to express their passions and concerns](https://www.schoolbag.edu.sg/story/she-gives-students-the-language-and-tools-to-express-their-passions-and-concerns)
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/she-gives-students-the-language-and-tools-to-express-their-passions-and-concerns"> She gives students the language and tools to express their passions and concerns</a><br>
 
 Mr Seow Tzer Yeun<br>
 Edgefield Secondary School<br>
