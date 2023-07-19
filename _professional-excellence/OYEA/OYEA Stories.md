@@ -28,7 +28,8 @@ CHIJ Secondary (Toa Payoh)<br>
 <a target="_blank" href="https://www.schoolbag.edu.sg/story/she-gives-students-the-language-and-tools-to-express-their-passions-and-concerns"> She gives students the language and tools to express their passions and concerns</a><br><br>
 
 Mr Seow Tzer Yeun<br>
-Edgefield Secondary School<br><br>
+Edgefield Secondary School<br>
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/the-case-of-the-unbreakable-beaker-how-this-teacher-forms-bonds-through-science"> The case of the unbreakable beaker – how this teacher forms bonds through Science</a> <br><br>
 
 
 Ms Lim Bee Leng<br>
