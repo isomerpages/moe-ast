@@ -15,7 +15,7 @@ third_nav_title: OYEA
 <div>  
 
 <p>
-<b> 2023 Recipients</b><br><br>
+<b>Recipients</b>
 
 Mr Gan Tze Qiang Benjamin<br>
 Gan Eng Seng Primary School<br>
@@ -41,7 +41,7 @@ Ms Khairunnisa Binte Ismail<br>
 St. Gabriel’s Secondary School<br>
 [Her motto for her students? “Character first, academics a close second”](https://www.schoolbag.edu.sg/story/her-motto-for-her-students-character-first-academics-a-close-second)
 
-**2023 Finalists**
+**Finalists**
 
 Ms Lee Hui Ting<br>
 Canberra Primary School<br>
