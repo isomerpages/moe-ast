@@ -27,7 +27,7 @@ Holy Innocents’ Primary School<br>
 
 Ms Sum Kar Mun<br>
 CHIJ Secondary (Toa Payoh)<br>
-She gives students the language and tools to express their passions and concerns
+[She gives students the language and tools to express their passions and concerns](https://www.schoolbag.edu.sg/story/she-gives-students-the-language-and-tools-to-express-their-passions-and-concerns)
 
 Mr Seow Tzer Yeun<br>
 Edgefield Secondary School<br>
@@ -35,11 +35,11 @@ Edgefield Secondary School<br>
 
 Ms Lim Bee Leng<br>
 Kent Ridge Secondary School<br>
-She turned a chat about hooliganism into a discussion on the importance of learning
+[She turned a chat about hooliganism into a discussion on the importance of learning](https://www.schoolbag.edu.sg/story/she-turned-a-chat-about-hooliganism-into-a-discussion-on-the-importance-of-learning)
 
 Ms Khairunnisa Binte Ismail<br>
 St. Gabriel’s Secondary School<br>
-Her motto for her students? “Character first, academics a close second”
+[Her motto for her students? “Character first, academics a close second”](https://www.schoolbag.edu.sg/story/her-motto-for-her-students-character-first-academics-a-close-second)
 
 **2023 Finalists**
 
