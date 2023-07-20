@@ -4,8 +4,7 @@ permalink: /professional-excellence/oyea/stories/
 description: ""
 third_nav_title: OYEA
 ---
-
-<a href="https://drive.google.com/file/d/1s8gFMI-nwK9p7oPQJgcCUye3eMvwwAc8/view"><img src="/images/oyea23-video.PNG"></a>
+<a target="_blank" href="https://drive.google.com/file/d/1s8gFMI-nwK9p7oPQJgcCUye3eMvwwAc8/view"><img src="/images/oyea23-video.PNG"></a>
 2023 OYEA video
 
 <ul class="jekyllcodex_accordion"> 
