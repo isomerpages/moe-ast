@@ -4,17 +4,8 @@ permalink: /professional-excellence/oyea/stories/
 description: ""
 third_nav_title: OYEA
 ---
-<a target="_blank" href="https://drive.google.com/file/d/1s8gFMI-nwK9p7oPQJgcCUye3eMvwwAc8/view"><img src="/images/oyea23-video.PNG"></a>
-**2023 OYEA video**
-
-<ul class="jekyllcodex_accordion"> 
-  
-<li>  
-  
-<input type="checkbox" id="accordion1">  
-  
-<label for="accordion1">OYEA Stories 2023</label>  
-<div>  
+**OYEA Stories 2023**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Trhq8sjn4II" height="315" width="560"></iframe>
 
 <u>Recipients</u><br>
 	
@@ -60,9 +51,3 @@ Catholic High School (Secondary)<br>
 Mdm Shariffa Amalsharaff Binte Syed Othman Aledroos<br>
 Springfield Secondary School<br>
 <a target="_blank" href="https://www.schoolbag.edu.sg/story/she-started-podcasts-and-other-platforms-to-give-every-student-a-voice"> She started podcasts and other platforms ‘to give every student a voice’</a><br><br>
-
-  
-</div>  
-  
-</li>  
-</ul>
