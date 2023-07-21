@@ -5,7 +5,7 @@ description: ""
 third_nav_title: OYEA
 ---
 **OYEA Stories 2023**
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Trhq8sjn4II" height="500" width="800"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Trhq8sjn4II" height="315" width="560"></iframe>
 
 <u>Recipients</u><br>
 	
