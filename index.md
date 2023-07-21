@@ -12,7 +12,7 @@ sections:
       title: Congratulations to our OYEA 2023 Recipients and Finalists
       subtitle: OYEA 2023
       button: Read more
-      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/oyea/recipients-and-finalists/
+      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/oyea/stories/
       image: /images/Awards/oyea2023-awardees.jpg
       alt: oyea2023
   - infopic:
