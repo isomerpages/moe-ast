@@ -1,5 +1,5 @@
 ---
-title: Mr Seow Tzer Yeun Edgefield Secondary School
+title: Mr Seow Tzer Yeun (Edgefield Secondary School)
 date: 2023-07-24
 layout: link
 description: ""

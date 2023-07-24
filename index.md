@@ -16,6 +16,14 @@ sections:
       image: /images/Awards/oyea2023-awardees.jpg
       alt: oyea2023
   - infopic:
+      title: Brown Bag Series
+      subtitle: Upcoming Events
+      description: Generative Learning in Professional Learning Communities
+      button: Read More
+      url: /events/upcoming-events/
+      image: /images/Events/upcoming-aug2023-small.jpg
+      alt: Image alt text
+  - infopic:
       title: MOE Supports President's Challenge
       description: You can now make a difference in the lives of beneficiaries
         supported by the President's Challenge via our MOE online fundraising
@@ -29,7 +37,7 @@ sections:
       title: Thank you for joining us at TCEF 2023
       subtitle: Recent Event
       button: Click for more recent events
-      url: https://academyofsingaporeteachers.moe.edu.sg/events/recent-events
+      url: /events/recent-events/
       alt: TCEF2023
       image: /images/Events/tcef2023-thkyou-1.png
       description: Do visit the TCEF2023 website for conference session recordings and
