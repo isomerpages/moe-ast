@@ -10,4 +10,4 @@ description: ""
 | -------- | -------- | -------- |
 |  22 Aug 2023  | Online Zoom  | Generative Learning in Professional Learning Communities  |
 
-<a target="_blank" href="https://go/gov.sg/plc-wiki">![brownbag-aug23](/images/Events/brownbag-aug2023.jpg)</a>
+<a target="_blank" href="https://go.gov.sg/plc-wiki">![brownbag-aug23](/images/Events/brownbag-aug2023.jpg)</a>
