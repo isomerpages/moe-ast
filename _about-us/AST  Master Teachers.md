@@ -66,7 +66,11 @@ Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nb
 <h4>Geography Master Teachers</h4>
 <div style="clear:both">
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
+	
+<!-- Mr Yuen Kah Mun -->
 <img src="/images/geo1.png" style="width:80px;height:100px;margin-right:15px;" align="left"><strong>Mr Yuen Kah Mun</strong><br>Master Teacher / Geography <br>(Boon Lay Secondary School)<br><br>Email: <a href="mailto:Yuen_Kah_Mun@schools.gov.sg">Yuen_Kah_Mun@schools.gov.sg</a><br>Contact no.: 6794 0161</div>
+	
+<!-- Ms Lim Puay Yin -->
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 <img src="/images/geo2.png" style="width:60px;height:105px;margin-right:15px;" align="left"><strong>Ms Lim Puay Yin</strong><br>Master Teacher / Geography<br><br><br>Email: <a href="mailto:Lim_Puay_Yin@moe.gov.sg">Lim_Puay_Yin@moe.gov.sg</a><br>Contact no.: 6664 1427	</div>
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
