@@ -92,6 +92,9 @@ Educators who return from the DAI Program in the U.S. will share their learning 
 
 #### Resources and Reflections from International Recipients
 
+The DAI Program also involves educators from the U.S. coming to Singapore for an exchange. These educators are attached to Singapore schools and MOE HQ divisions, and also provide professional development offerings to teachers in the schools to which they are attached.
+
+
 	
 	
 </p>  
