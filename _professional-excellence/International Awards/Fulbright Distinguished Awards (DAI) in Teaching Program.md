@@ -74,9 +74,11 @@ Educators who return from the DAI Program in the U.S. will share their learning 
 <ul class="jekyllcodex_accordion">  
 	
 <li>  
-  
+  		
 <input type="checkbox" id="accordion9">  
   
+#### Hear more from our Fulbrighters!
+	
 <label for="accordion9">Distinguished Fulbright Award in Teaching 2022</label>  
   
 <div>  
