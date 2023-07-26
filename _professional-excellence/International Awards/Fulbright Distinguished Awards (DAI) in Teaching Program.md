@@ -77,7 +77,7 @@ Educators who return from the DAI Program in the U.S. will share their learning 
   		
 <input type="checkbox" id="accordion9">  
   
-#### Hear more from our Fulbrighters!
+####  Hear more from our Fulbrighters!
 	
 <label for="accordion9">Singapore Fulbright Award Recipients 2022</label>  
   
@@ -100,9 +100,7 @@ The DAI Program also involves educators from the U.S. coming to Singapore for an
 </p><div>  
   
 <p>
-
-	
-	
+       
 </p>  
   
 </div>  
