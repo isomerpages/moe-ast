@@ -79,7 +79,7 @@ Educators who return from the DAI Program in the U.S. will share their learning 
   
 #### Hear more from our Fulbrighters!
 	
-<label for="accordion9">Distinguished Fulbright Award in Teaching 2022</label>  
+<label for="accordion9">Singapore Fulbright Award Recipients 2022</label>  
   
 <div>  
   
@@ -94,6 +94,12 @@ Educators who return from the DAI Program in the U.S. will share their learning 
 
 The DAI Program also involves educators from the U.S. coming to Singapore for an exchange. These educators are attached to Singapore schools and MOE HQ divisions, and also provide professional development offerings to teachers in the schools to which they are attached.
 
+	
+<label for="accordion9">U.S. Fulbright Award Recipients 2022</label>  
+  
+</p><div>  
+  
+<p>
 
 	
 	
@@ -101,7 +107,7 @@ The DAI Program also involves educators from the U.S. coming to Singapore for an
   
 </div>  
   
-</li> 
+</div></li> 
 
  <li>  
   
