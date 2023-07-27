@@ -4,6 +4,8 @@ permalink: /professional-learning/for-eos/twa-plus/
 description: ""
 third_nav_title: For Education Officers
 ---
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/yS5nIsbxUrs" height="500" width="900"></iframe>
+
 **About the Teacher Work Attachment Plus (TWA+) Programme**
 
 Our education landscape and workplaces are changing rapidly. Once our students leave school, they will be faced with new growth areas in various industries arising from technological and societal changes. To help teachers be future-ready and better equipped to guide students in navigating the volatile, uncertain, complex and ambiguous (VUCA) future, the Teacher Work Attachment Plus (TWA+) programme aims to broaden their perspectives through a range of learning journeys and work attachments in the public, private and people sectors. These professional learning experiences are specially curated to span different industry clusters and sectors, and designed to provide an insight into the trends, challenges, and opportunities of each industry.
