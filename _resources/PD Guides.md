@@ -64,4 +64,4 @@ a.&nbsp;Katz, S., &amp; Earl, L. (2010). Learning about networked learning commu
 
 b.&nbsp;Jackson, D., &amp; Temperley, J. (2007). From professional learning community to networked learning community. In L. Stoll &amp; K. S. Louis (Eds.),&nbsp; Professional learning communities: Divergence, depth and dilemmas (pp. 45–62). Maidenhead, England: Open University Press.
  
-   </b></b></b></b>
+   </b> </b></b> </b>
