@@ -29,7 +29,7 @@ description: ""
 <br>
 <br>
 	
-**Scans on workplace and adult learning**
+<b>Scans on workplace and adult learning<b>
 	
 <a href="https://www.linkedin.com/pulse/meet-modern-learner-cristina-brembilla" rel="noopener" target="\_blank">Meet the modern learner</a> 
 
@@ -41,12 +41,12 @@ description: ""
 <br>
 <br>
 <br>
-
-**Supporting resources**
-(Access to MOE Intranet and OPAL2.0 required)<br>
+<b>Supporting resources<b>
+(Access to MOE Intranet and OPAL2.0 required)
+	
 1.  <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/Information%20Kit_%20PL%20designers-2023.pdf" rel="noopener" target="\_blank">Information Kit for PL Designer</a><br>
 	
-2.  <a href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/cf8323e0-5e7b-48d7-828e-a364ba8805a6\" rel="noopener" target="\_blank"> Guide to Effective PD Vol 1: Workshops and Learning Programmes </a><br>
+2.  <a href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/cf8323e0-5e7b-48d7-828e-a364ba8805a6\" rel="noopener" target="\_blank">Guide to Effective PD Vol 1: Workshops and Learning Programmes  </a><br>
 	
 3.  <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/Guide%20to%20Blended%20PD_2023.pdf" rel="noopener" target="\_blank">Guide to Effective PD Vol 2: Blended PD Guide</a><br>
 	
@@ -54,11 +54,11 @@ description: ""
 	
 5.  <a href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/51d9cf3b-40aa-438a-95f5-082ae492cd30" rel="noopener" target="\_blank">Guide to Effective PD Vol 4: Instructional Mentoring</a><br>
 	
-</p>  
+</b></b></b></b></p><b><b><b>  
   
-</div>  
+</b></b></b></div><b><b><b>  
   
-</li>  
+</b></b></b></li><b><b><b>  
 <li>  
   
 <input type="checkbox" id="accordion2">  
@@ -90,6 +90,6 @@ b.&nbsp;Jackson, D., &amp; Temperley, J. (2007). From professional learning comm
 </li>  
 	
   
-</ul>
+</b></b></b></ul><b><b>
 
-<img src="/images/pdpo11.png" style="width:80%">
+<img src="/images/pdpo11.png" style="width:80%"></b></b>
