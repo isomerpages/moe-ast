@@ -69,7 +69,6 @@ b.&nbsp;Jackson, D., &amp; Temperley, J. (2007). From professional learning comm
   
   
   
-	
- </b></b></b></b></b></b>
 
-<img src="/images/pdpo11.png" style="width:80%">
+
+<img src="/images/pdpo11.png" style="width:80%"></b></b></b></b></b></b>
