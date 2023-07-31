@@ -54,13 +54,14 @@ description: ""
 	
 5.  <a href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/51d9cf3b-40aa-438a-95f5-082ae492cd30" rel="noopener" target="\_blank">Guide to Effective PD Vol 4: Instructional Mentoring</a><br>
 	
-</b></b></b></b></p><b><b><b>
+</b></b></b></b></p><b><b><b><b><b><b>
   
-</b></b></b></div><b><b><b>
+</b></b></b></b></b></b></div><b><b><b><b><b><b>
   
-</b></b></b></li><b><b><b>
+</b></b></b></b></b></b></li><b><b><b><b><b><b>
 
 
+	
 <li>  
   
 <input type="checkbox" id="accordion2">  
@@ -91,6 +92,6 @@ b.&nbsp;Jackson, D., &amp; Temperley, J. (2007). From professional learning comm
   
 </li>  
 	
- </b></b></b></ul>
+ </b></b></b></b></b></b></ul>
 
 <img src="/images/pdpo11.png" style="width:80%">
