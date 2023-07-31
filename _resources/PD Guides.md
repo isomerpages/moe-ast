@@ -34,18 +34,18 @@ description: ""
 	
 <b>Supporting resources<b>
 (Access to MOE Intranet and OPAL2.0 required)<br>
-	
-1.  <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/Information%20Kit_%20PL%20designers-2023.pdf" rel="noopener" target="\_blank">Information Kit for PL Designer</a><br>
-	
-2.  <a href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/cf8323e0-5e7b-48d7-828e-a364ba8805a6\" rel="noopener" target="\_blank">Guide to Effective PD Vol 1: Workshops and Learning Programmes  </a><br>
-	
-3.  <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/Guide%20to%20Blended%20PD_2023.pdf" rel="noopener" target="\_blank">Guide to Effective PD Vol 2: Blended PD Guide</a><br>
-	
-4.  <a href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/fd481152-be9b-43e0-9151-e9a2f6bd8437" rel="noopener" target="\_blank">Guide to Effective PD Vol 3: Networked Learning Communities</a><br>
-	
-5.  <a href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/51d9cf3b-40aa-438a-95f5-082ae492cd30" rel="noopener" target="\_blank">Guide to Effective PD Vol 4: Instructional Mentoring</a><br><br>
-	
-  
+
+
+
+| Resource | Synopsis |
+| -------- | -------- |
+| 1.  <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/Information%20Kit_%20PL%20designers-2023.pdf" rel="noopener" target="\_blank">Information Kit for PL Designer</a>     | This deck of slides serves as a one-stop information kit for Professional Learning designer ( PL designer).  It pulls together the different resources developed by PDPO on the principles of PL design for PL designers to refer to when engaging schools in their PL. |
+| 2.  <a href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/cf8323e0-5e7b-48d7-828e-a364ba8805a6\" rel="noopener" target="\_blank">Guide to Effective PD Vol 1: Workshops and Learning Programmes  </a>    | This guide is designed to help PL designers in conceptualising and facilitating effective professional learning workshops and learning programmes.  |
+|  3.  <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/Guide%20to%20Blended%20PD_2023.pdf" rel="noopener" target="\_blank">Guide to Effective PD Vol 2: Blended PD Guide</a>   | The guide provides readers with the principles and insights into the design and planning of blended professional learning experiences. |
+| 4.  <a href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/fd481152-be9b-43e0-9151-e9a2f6bd8437" rel="noopener" target="\_blank">Guide to Effective PD Vol 3: Networked Learning Communities</a>    | This guide is designed to help PL designers in understanding, planning and facilitating effective networked professional learning. |
+| 5.  <a href="https://www.opal2.moe.edu.sg/app/learner/detail/digitalcontent/51d9cf3b-40aa-438a-95f5-082ae492cd30" rel="noopener" target="\_blank">Guide to Effective PD Vol 4: Instructional Mentoring</a>     | This guide focuses on designing and facilitating effective mentoring in professional learning.    |
+
+
 	
 ### Global
 	
