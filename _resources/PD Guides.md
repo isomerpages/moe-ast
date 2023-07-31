@@ -60,7 +60,7 @@ description: ""
   
 </b></b></b></li>
 
-<b><b><b>  
+
 <li>  
   
 <input type="checkbox" id="accordion2">  
@@ -91,7 +91,6 @@ b.&nbsp;Jackson, D., &amp; Temperley, J. (2007). From professional learning comm
   
 </li>  
 	
-  
-</b></b></b></ul>
+ </ul>
 
 <img src="/images/pdpo11.png" style="width:80%">
