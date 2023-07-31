@@ -9,7 +9,7 @@ description: ""
 	
 <table> <tbody><tr> 
 	<td><img src="/images/scans-workplace.png"></td> 
-	<td><a href="https://www.nie.edu.sg/research/"><img src="/images/nie-pl.png"></a></td> 
+	<td><a href="https://www.nie.edu.sg/research/" rel="noopener" target="\_blank"><img src="/images/nie-pl.png"></a></td> 
 	<td><img src="/images/supt-resources.png"></td> 
 	</tr> </tbody></table>
 
