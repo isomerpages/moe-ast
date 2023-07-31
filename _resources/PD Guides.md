@@ -49,19 +49,19 @@ description: ""
   
 <b>Global<b>
 	
-<b>1.&nbsp;Workshops and Learning Programmes</b> <br>
+<b>1.&nbsp;Workshops and Learning Programmes</b><br>
 
-a.&nbsp;Desimone, L. M. (2009). Improving impact studies of teachers’ professional development: Toward better conceptualizations and measures.&nbsp;<i>Educational Researcher, 38 </i>(3), 181-199. <br><br>
+a.&nbsp;Desimone, L. M. (2009). Improving impact studies of teachers’ professional development: Toward better conceptualizations and measures.&nbsp;<i>Educational Researcher, 38 </i>(3), 181-199. <br>
 
 b.&nbsp;Guskey, T. R. (2002). Professional development and teacher change.&nbsp;<i>Teachers and Teaching: Theory and Practice, 8 </i>(3), 381-391.<br><br>
 
-<b>2.&nbsp;Blended Learning for PD</b> <br><br>
+<b>2.&nbsp;Blended Learning for PD</b><br>
 
 a.&nbsp;Community for Advancing Discovery Research in Education. (2017).&nbsp;<i>Emerging Design Principles for Online and Blended Teacher Professional Development in K-12 STEM Education</i>. Waltham, MA: Education Development Center, Inc.<br><br>
 
-<b>3.&nbsp;Networked Learning Communities</b><br><br> 
+<b>3.&nbsp;Networked Learning Communities</b><br>
 
-a.&nbsp;Katz, S., &amp; Earl, L. (2010). Learning about networked learning communities.&nbsp;<i>School Effectiveness and School Improvement: An International Journal of Research, Policy and Practice, 21</i>(1), 27–51.<br><br>
+a.&nbsp;Katz, S., &amp; Earl, L. (2010). Learning about networked learning communities.&nbsp;<i>School Effectiveness and School Improvement: An International Journal of Research, Policy and Practice, 21</i>(1), 27–51.<br>
 
 b.&nbsp;Jackson, D., &amp; Temperley, J. (2007). From professional learning community to networked learning community. In L. Stoll &amp; K. S. Louis (Eds.),&nbsp;<b>Professional learning communities: Divergence, depth and dilemmas</b> (pp. 45–62). Maidenhead, England: Open University Press.
 <p></p>  
