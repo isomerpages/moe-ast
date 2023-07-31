@@ -10,7 +10,7 @@ description: ""
 <table> <tbody><tr> 
 	<td><a href="#scans"><img src="/images/scans-workplace.png"></a></td> 
 	<td><a href="https://www.nie.edu.sg/research/" rel="noopener" target="\_blank"><img src="/images/nie-pl.png"></a></td> 
-	<td><img src="/images/supt-resources.png"></td> 
+	<td><a href="#resources"><img src="/images/supt-resources.png"></a></td> 
 	</tr> </tbody></table>
 
 <br>
@@ -32,8 +32,7 @@ description: ""
 <br>
 <br>
 	
-<b>Supporting resources<b>
-(Access to MOE Intranet and OPAL2.0 required)<br>
+<a name="resources"><b>Supporting Resources (Access to MOE Intranet and OPAL2.0 required)</b></a><b><b><br>
 
 
 
