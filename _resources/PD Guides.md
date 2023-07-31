@@ -19,8 +19,8 @@ description: ""
 	
 <table> <tbody><tr> 
 	<td><img src="/images/scans-workplace.png"></td> 
-	<td><img src="/images/nie-research.png"></td> 
-	<td><img src="/images/supt-resource.png"></td> 
+	<td><img src="/images/nie-pl.png"></td> 
+	<td><img src="/images/supt-resources.png"></td> 
 	</tr> </tbody></table>
 
 <br>
