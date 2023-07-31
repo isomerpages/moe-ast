@@ -31,9 +31,7 @@ description: ""
 <br>
 <br>
 	
-<a name="resources"><b>Supporting Resources (Access to MOE Intranet and OPAL2.0 required)</b></a><b><b><br>
-
-
+<a name="resources"><b>Supporting Resources (Access to MOE Intranet and OPAL2.0 required)</b></a><b><b>
 
 | Resource | Synopsis |
 | -------- | -------- |
