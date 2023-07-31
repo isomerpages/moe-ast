@@ -20,7 +20,7 @@ description: ""
 <br>
 	
 <b>Scans on workplace and adult learning<b><br>
-	
+
 <a href="https://www.linkedin.com/pulse/meet-modern-learner-cristina-brembilla" rel="noopener" target="\_blank">Meet the modern learner</a>
 	
 <a href="https://www.linkedin.com/pulse/artificial-intelligence-reshaping-everything" rel="noopener" target="\_blank">Artificial Learning is Reshaping Everything</a> 
