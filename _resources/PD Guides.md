@@ -29,10 +29,11 @@ description: ""
 <br>
 	
 **Scans on workplace and adult learning**
+	
+<a href="https://www.linkedin.com/pulse/meet-modern-learner-cristina-brembilla" rel="noopener" target="\_blank">Meet the modern learner</a> 
 
-[Meet the Modern Learner&nbsp;​](https://www.linkedin.com/pulse/meet-modern-learner-cristina-brembilla)
+<a href="https://www.linkedin.com/pulse/artificial-intelligence-reshaping-everything" rel="noopener" target="\_blank">Artificial Learning is Reshaping Everything</a> 
 
-[Artificial Learning is Reshaping Everything](https://www.linkedin.com/pulse/artificial-intelligence-reshaping-everything)
 	
 <br>
 <br>
