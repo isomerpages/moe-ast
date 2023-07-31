@@ -28,9 +28,17 @@ description: ""
 <br>
 <br>
 	
+**Scans on workplace and adult learning**
+
+[Meet the Modern Learner&nbsp;​](https://www.linkedin.com/pulse/meet-modern-learner-cristina-brembilla)
+
+[Artificial Learning is Reshaping Everything](https://www.linkedin.com/pulse/artificial-intelligence-reshaping-everything)
 	
-	
-	
+<br>
+<br>
+<br>
+<br>
+<br>
 You may also access the following resources:<br>
 (Access to MOE Intranet and OPAL2.0 required)<br>
 1.  <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/Information%20Kit_%20PL%20designers-2023.pdf" rel="noopener" target="\_blank">Information Kit for PL Designer</a><br>
