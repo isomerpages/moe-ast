@@ -37,7 +37,8 @@ description: ""
 <br>
 <br>
 <br>
-You may also access the following resources:<br>
+
+**Supporting resources**
 (Access to MOE Intranet and OPAL2.0 required)<br>
 1.  <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/Information%20Kit_%20PL%20designers-2023.pdf" rel="noopener" target="\_blank">Information Kit for PL Designer</a><br>
 	
