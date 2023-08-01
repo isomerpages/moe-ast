@@ -75,11 +75,11 @@ Educators who return from the DAI Program in the U.S. will share their learning 
 	
 <li>  
   		
-<input type="checkbox" id="accordion9">  
+<input type="checkbox" id="accordion10">  
   
 	<h4> Hear more from our Fulbrighters!</h4>
 	
-<label for="accordion9">Singapore Fulbright Award Recipients 2022</label>  
+	<label for="accordion10">Singapore Fulbright Award Recipients 2022</label>  
   
 <div>  
   
