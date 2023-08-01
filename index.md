@@ -27,7 +27,7 @@ sections:
       alt: olive-pc
   - infopic:
       title: Brown Bag Series
-      subtitle: Upcoming Events
+      subtitle: Upcoming Event
       description: Generative Learning in Professional Learning Communities
       button: Read More
       url: /events/upcoming-events/
