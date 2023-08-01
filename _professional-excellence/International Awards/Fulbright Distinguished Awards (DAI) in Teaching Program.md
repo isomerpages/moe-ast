@@ -70,7 +70,8 @@ Participating countries/region :
 
 Educators who return from the DAI Program in the U.S. will share their learning at national platforms like the Teachers’ Conference and ExCEL Fest (TCEF), and will get to work with the related Master Teachers to explore how their learning can be extended to the teaching fraternity.  In years when there is no TCEF, AST organises an Inquiry Project Sharing session during which the DAI recipients come together to engage in professional dialogue with our teachers on the implications of the learning from the DAI Program against our local educational context.
 <br><br>
-	<h4> Hear more from our Fulbrighters!</h4>
+####Hear more from our Fulbrighters!
+
 <ul class="jekyllcodex_accordion">  
 	
 <li>  
