@@ -23,7 +23,7 @@ sections:
       button: read more
       url: https://olive.moe.edu.sg/olive/spotlight/moe-supports-presidents-challenge-2023/
       image: /images/olive-pc.jfif
-      subtitle: Spotlights
+      subtitle: Spotlight
       alt: olive-pc
   - infopic:
       title: Brown Bag Series
