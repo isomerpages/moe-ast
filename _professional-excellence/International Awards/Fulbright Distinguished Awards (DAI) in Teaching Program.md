@@ -71,15 +71,15 @@ Participating countries/region :
 Educators who return from the DAI Program in the U.S. will share their learning at national platforms like the Teachers’ Conference and ExCEL Fest (TCEF), and will get to work with the related Master Teachers to explore how their learning can be extended to the teaching fraternity.  In years when there is no TCEF, AST organises an Inquiry Project Sharing session during which the DAI recipients come together to engage in professional dialogue with our teachers on the implications of the learning from the DAI Program against our local educational context.
 <br><br>
 
+#### Hear more from our Fulbrighters!
+
 <ul class="jekyllcodex_accordion">  
 	
 <li>  
   		
-<input type="checkbox" id="accordion9">  
-  
-####  Hear more from our Fulbrighters!
+<input type="checkbox" id="accordion10">  
 	
-<label for="accordion9">Singapore Fulbright Award Recipients 2022</label>  
+	<label for="accordion10">Singapore Fulbright Award Recipients 2022</label>  
   
 <div>  
   
@@ -90,22 +90,22 @@ Educators who return from the DAI Program in the U.S. will share their learning 
 	<br><a href="/files/FulbrightDAI/project-junerohini.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#4372D6">Inquiry Project (June Rohini)</span></a></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#4372D6;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="/files/FulbrightDAI/reflection-pengseng.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#4372D6">Reflection (Yeo Peng Seng) </span></a>
 	<br><a href="/files/FulbrightDAI/project-pengseng.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#4372D6">Inquiry Project (Yeo Peng Seng)</span></a></td></tr></tbody></table>
 
-#### Resources and Reflections from International Recipients
-
-The DAI Program also involves educators from the U.S. coming to Singapore for an exchange. These educators are attached to Singapore schools and MOE HQ divisions, and also provide professional development offerings to teachers in the schools to which they are attached.
-
+	</p></div>
 	
+</li><li>
+<input type="checkbox" id="accordion9">  
 <label for="accordion9">U.S. Fulbright Award Recipients 2022</label>  
-  
-</p><div>  
-  
-<p>
-       
-</p>  
-  
-</div>  
-  
-</div></li> 
+ 
+	<div>
+		<p></p><h4> Resources and Reflections from International Recipients</h4>
+
+<p>The DAI Program also involves educators from the U.S. coming to Singapore for an exchange. These educators are attached to Singapore schools and MOE HQ divisions, and also provide professional development offerings to teachers in the schools to which they are attached.</p>
+	<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/Fulbrighte%20Award/lauren%20marce%20hubert.png" alt="Image" width="203" height="250"></th><th style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/Fulbrighte%20Award/damon%20peterson.png" alt="Image" width="201" height="250"></th><th style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/Fulbrighte%20Award/i%20ling%20hsiung.png" alt="Image" width="170" height="251"></th></tr></thead><tbody><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:600;color:#484848">Mrs Lauren Marce Hubert<br><span style="font-weight:600;color:#484848">Camelback High School</span></span></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:600;color:#484848">Mr Damon Peterson</span><br><span style="font-weight:600;color:#484848">Dorothy I. Height Elementary School</span></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:600;color:#484848">Ms I Ling Hsiung</span><br><span style="font-weight:600;color:#484848">Anthony Sprangler Elementary School</span></td></tr><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#4372D6;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="/files/FulbrightDAI/2023%20fulbright%20reflection%20(lauren).pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#4372D6">[Lauren's Reflection]</span></a>
+<br><a href="/files/FulbrightDAI/project-auyardwah.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#4372D6">[Lauren's TCEF Slides]</span></a>	</td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#4372D6;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="/files/FulbrightDAI/2023%20fulbright%20reflection%20(damon).pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#4372D6">[Damon's Reflection]</span></a>
+	<br><a href="/files/FulbrightDAI/ss1226%20global%20literacy%20and%20philosophy%20for%20the%2021st%20century%20(1).pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#4372D6">[Damon's TCEF Slides]</span></a></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#4372D6;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><a href="/files/FulbrightDAI/2023%20fulbright%20reflection%20(i%20ling).pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#4372D6">[I-Ling's Reflection] </span></a>
+	<br><a href="/files/FulbrightDAI/project-pengseng.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#4372D6">[I-Ling's TCEF Slides]</span></a></td></tr></tbody></table>
+	</div>
+</li> 
 
  <li>  
   
