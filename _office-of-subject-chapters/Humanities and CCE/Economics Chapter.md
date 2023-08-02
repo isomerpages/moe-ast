@@ -49,22 +49,6 @@ The Economics Chapter aims to:<br><br>
 </div>  
   
 </li>  
-<li>  
-  
-<input type="checkbox" id="accordion2">  
-  
-<label for="accordion2">Our Economics Master Teacher</label>  
-  
-<div>  
-  
-<p>
-<img src="/images/tdh.png" style="width:80%"><br>
-<img src="/images/kgh.png" style="width:80%"><br>
-</p>  
-  
-</div>  
-  
-</li>  
   
 <li>  
   
