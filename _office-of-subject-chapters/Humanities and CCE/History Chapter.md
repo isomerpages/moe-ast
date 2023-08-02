@@ -39,23 +39,6 @@ We organise various professional learning activities for you:<br><br>
 </div>  
   
 </li>  
-<li>  
-  
-<input type="checkbox" id="accordion2">  
-  
-<label for="accordion2">Our History Master Teachers</label>  
-  
-<div>  
-  
-<p>
-<img src="/images/ohc3.png" style="width:80%"><br>
-<img src="/images/ohc4.png" style="width:80%"><br>
-<img src="/images/ohc5.png" style="width:80%"><br>
-</p>  
-  
-</div>  
-  
-</li>  
   
 <li>  
   
