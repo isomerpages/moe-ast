@@ -50,25 +50,6 @@ We organise various professional learning events for you:<br><br>
 </div>  
   
 </li>  
-<li>  
-  
-<input type="checkbox" id="accordion2">  
-  
-<label for="accordion2">Our Biology Master Teachers</label>  
-  
-<div>  
-  
-<p>
-
-<img src="/images/bc7.png" style="width:80%"><br>
-<img src="/images/bc6.png" style="width:80%"><br>
-<img src="/images/bc5.png" style="width:80%"><br>
-
-</p>  
-  
-</div>  
-  
-</li>  
   
 <li>  
   
