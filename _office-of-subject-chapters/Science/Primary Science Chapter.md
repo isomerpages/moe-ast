@@ -43,27 +43,7 @@ Through collaborative learning in a network, a teacher could broaden&nbsp;their 
 </div>  
   
 </li>  
-<li>  
-  
-<input type="checkbox" id="accordion2">  
-  
-<label for="accordion2">Our Primary Science Master Teachers</label>  
-  
-<div>  
-  
-<p>
-
-<img src="/images/psc4.png" style="width:80%"><br>
-<img src="/images/psc5.png" style="width:80%"><br>
-<img src="/images/psc6.png" style="width:80%"><br>
-<img src="/images/psc7.png" style="width:80%"><br>
-<img src="/images/psc8.png" style="width:80%"><br>
-
-</p>  
-  
-</div>  
-  
-</li>  
+ 
   
 <li>  
   
