@@ -35,26 +35,7 @@ A community of competent teacher leaders who inspire the learning and teaching o
 </div>  
   
 </li>  
-<li>  
-  
-<input type="checkbox" id="accordion2">  
-  
-<label for="accordion2">Our Primary Mathematics Teachers</label>  
-  
-<div>  
-  
-<p>
-<img src="/images/pmc3.png" style="width:80%"><br>
-<img src="/images/pmc4.png" style="width:80%"><br>
-<img src="/images/pmc5.png" style="width:80%"><br>
-<img src="/images/pmc6.png" style="width:80%"><br>
-<img src="/images/pmc7.png" style="width:80%"><br>
-<img src="/images/lgb-writeup.png" style="width:80%"><br>
-<img src="/images/csh-writeup-jan23.png" style="width:80%"><br>
-</p>  
-</div>  
-  
-</li>  
+ 
   
 <li>  
   
