@@ -30,22 +30,6 @@ The HAL Chapter serves as a focal point for teachers and Teacher Leaders of HALs
 </div>  
   
 </li>  
-<li>  
-  
-<input type="checkbox" id="accordion2">  
-  
-<label for="accordion2">Our High Ability Learners Master Teachers </label>  
-  
-<div>  
-  
-<p>
-<img src="/images/halc4.png" style="width:70%">
-
-</p>  
-  
-</div>  
-  
-</li>  
   
 <li>  
   
