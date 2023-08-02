@@ -16,14 +16,6 @@ sections:
       image: /images/Awards/oyea2023-awardees.jpg
       alt: oyea2023
   - infopic:
-      title: Brown Bag Series
-      subtitle: Upcoming Events
-      description: Generative Learning in Professional Learning Communities
-      button: Read More
-      url: /events/upcoming-events/
-      image: /images/Events/upcoming-aug2023-small.jpg
-      alt: Image alt text
-  - infopic:
       title: MOE Supports President's Challenge
       description: You can now make a difference in the lives of beneficiaries
         supported by the President's Challenge via our MOE online fundraising
@@ -31,8 +23,16 @@ sections:
       button: read more
       url: https://olive.moe.edu.sg/olive/spotlight/moe-supports-presidents-challenge-2023/
       image: /images/olive-pc.jfif
-      subtitle: Spotlights
+      subtitle: Spotlight
       alt: olive-pc
+  - infopic:
+      title: Brown Bag Series
+      subtitle: Upcoming Event
+      description: Generative Learning in Professional Learning Communities
+      button: Read More
+      url: /events/upcoming-events/
+      image: /images/Events/upcoming-aug2023-small.jpg
+      alt: Image alt text
   - infopic:
       title: Thank you for joining us at TCEF 2023
       subtitle: Recent Event
