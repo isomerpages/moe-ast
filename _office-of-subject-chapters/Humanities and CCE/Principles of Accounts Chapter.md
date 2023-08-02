@@ -31,22 +31,6 @@ Through participation in learning activities afforded by the POA Chapter, we hop
 </div>  
   
 </li>  
-<li>  
-  
-<input type="checkbox" id="accordion2">  
-  
-<label for="accordion2">Our Principles of Accounts Master Teacher</label>  
-  
-<div>  
-  
-<p>
-<img src="/images/pac3.png" style="width:80%"><br>
-
-</p>  
-  
-</div>  
-  
-</li>  
   
 <li>  
   

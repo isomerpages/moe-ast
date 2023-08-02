@@ -30,22 +30,6 @@ Through partnerships with schools, divisions in MOE, the National Institute of E
 </div>  
   
 </li>  
-<li>  
-  
-<input type="checkbox" id="accordion2">  
-  
-<label for="accordion2">Our Special Educational Needs Master Teacher </label>  
-  
-<div>  
-  
-<p>
-<img src="/images/senc3.png" style="width:70%">
-
-</p>  
-  
-</div>  
-  
-</li>  
   
 <li>  
   

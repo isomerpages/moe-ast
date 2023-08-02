@@ -43,23 +43,6 @@ We organise various professional learning activities for you: <br><br>
 </div>  
   
 </li>  
-<li>  
-  
-<input type="checkbox" id="accordion2">  
-  
-<label for="accordion2">Our Character and Citizenship Education Master Teachers</label>  
-  
-<div>  
-  
-<p>
-<img src="/images/ccec3.png" style="width:80%"><br>
-<img src="/images/ccec4.png" style="width:80%"><br>
-
-</p>  
-  
-</div>  
-  
-</li>  
   
 <li>  
   

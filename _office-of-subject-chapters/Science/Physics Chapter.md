@@ -40,29 +40,6 @@ The Physics Chapter strives to raise the professional standard in the subject di
 </div>  
   
 </li>  
-<li>  
-  
-<input type="checkbox" id="accordion2">  
-  
-<label for="accordion2">Our Physics Master Teachers</label>  
-  
-<div>  
-  
-<p>
-
-<img src="/images/pc3.png" style="width:80%"><br>
-<img src="/images/pc4.png" style="width:80%"><br>
-<img src="/images/pc5.png" style="width:80%"><br>
-<img src="/images/pc6.png" style="width:80%"><br>
-<img src="/images/pc7.png" style="width:80%"><br>
-
-
-
-</p>  
-  
-</div>  
-  
-</li>  
   
 <li>  
   

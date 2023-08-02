@@ -33,22 +33,6 @@ The Social Studies Chapter provides teachers with learning opportunities beyond 
 </div>  
   
 </li>  
-<li>  
-  
-<input type="checkbox" id="accordion2">  
-  
-<label for="accordion2">Our Social Studies Master Teacher</label>  
-  
-<div>  
-  
-<p>
-<img src="/images/ssc3.png" style="width:80%"><br>
-
-</p>  
-  
-</div>  
-  
-</li>  
   
 <li>  
   

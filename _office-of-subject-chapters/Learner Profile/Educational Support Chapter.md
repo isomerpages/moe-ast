@@ -30,24 +30,7 @@ The ES Chapter seeks to deepen teachers’ mastery and pedagogical content knowl
   
 </div>  
   
-</li>  
-<li>  
-  
-<input type="checkbox" id="accordion2">  
-  
-<label for="accordion2">Our Educational Support Master Teachers </label>  
-  
-<div>  
-  
-<p>
-<img src="/images/esc3.png" style="width:70%"><br>
-<img src="/images/esc4.png" style="width:70%"> <br>
-
-</p>  
-  
-</div>  
-  
-</li>  
+</li> 
   
 <li>  
   

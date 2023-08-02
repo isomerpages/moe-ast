@@ -51,22 +51,6 @@ LPL Learning Day
 </div>  
   
 </li>  
-<li>  
-  
-<input type="checkbox" id="accordion2">  
-  
-<label for="accordion2">Our Lower Primary Learners Master Teacher </label>  
-  
-<div>  
-  
-<p>
-<img src="/images/lplc3.png" style="width:80%">
-
-</p>  
-  
-</div>  
-  
-</li>  
   
 <li>  
   

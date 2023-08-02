@@ -39,29 +39,6 @@ third_nav_title: Science
 </div>  
   
 </li>  
-<li>  
-  
-<input type="checkbox" id="accordion2">  
-  
-<label for="accordion2">Our Chemistry Master Teachers</label>  
-  
-<div>  
-  
-<p>
-
-<img src="/images/cc6.png" style="width:80%"><br>
-<img src="/images/cc7.png" style="width:80%"><br>
-<img src="/images/cc8.png" style="width:80%"><br>
-<img src="/images/cc9.png" style="width:80%"><br>
-<img src="/images/cc10.png" style="width:80%"><br>
-
-
-
-</p>  
-  
-</div>  
-  
-</li>  
   
 <li>  
   

@@ -37,24 +37,7 @@ Through collaborative learning in a network, you could widen your   professional
 </div>  
   
 </li>  
-<li>  
-  
-<input type="checkbox" id="accordion2">  
-  
-<label for="accordion2">Our Geography Master Teachers</label>  
-  
-<div>  
-  
-<p>
-<img src="/images/gmt1.png" style="width:80%"><br>
-<img src="/images/gmt2.png" style="width:80%"><br>
-<img src="/images/gmt3.png" style="width:80%"><br>
-</p>  
-  
-</div>  
-  
-</li>  
-  
+
 <li>  
   
 <input type="checkbox" id="accordion3">  

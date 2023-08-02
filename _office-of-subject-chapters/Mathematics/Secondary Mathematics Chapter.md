@@ -45,28 +45,6 @@ A community of competent teacher leaders who inspire the learning and teaching o
 </div>  
   
 </li>  
-<li>  
-  
-<input type="checkbox" id="accordion2">  
-  
-<label for="accordion2">Our Secondary Mathematics Teachers</label>  
-  
-<div>  
-  
-<p>
-<img src="/images/tls-writeup0960400c65c649928bdb8117e36e07bf.png" style="width:80%"><br>
-<img src="/images/download.png" style="width:80%"><br>
-<img src="/images/7e50afa9d5157446cb7dea77213f39b82.jpg" style="width:80%"><br>
-<img src="/images/download-1.png" style="width:80%"><br>
-<img src="/images/download-2.png" style="width:80%"><br>
-<img src="/images/13d4d3d866c0443c3a9a36ecda707efc8.jpg" style="width:80%"><br>
-<img src="/images/download-3.png" style="width:80%"><br>
-<img src="/images/sharonlee-writeup-jan23647f5adfac6e4cdf9d44543b60b3ad79.png" style="width:80%"><br>
-</p>  
-
-</div>  
-  
-</li>  
   
 <li>  
   
