@@ -36,23 +36,6 @@ Through collaborative learning in&nbsp;the NFS professional&nbsp;network,&nbsp;t
 </div>  
   
 </li>  
-<li>  
-  
-<input type="checkbox" id="accordion2">  
-  
-<label for="accordion2">Our Nutrition &amp; Food Science Master Teacher</label>  
-  
-<div>  
-  
-<p>
-
-<img src="/images/nfsc2.png" style="width:70%">
-<img src="/images/anglk-writeup-jan23.png" style="width:70%">
-
-</p>  
-</div>  
-  
-</li>  
   
 <li>  
   
