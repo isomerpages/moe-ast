@@ -31,24 +31,7 @@ By participating in learning activities organised by the D&amp;T Chapter, our D&
   
 </div>  
   
-</li>  
-<li>  
-  
-<input type="checkbox" id="accordion2">  
-  
-<label for="accordion2">Our Master Teacher/Educational Support overseeing the Design &amp; Technology Chapter</label>  
-  
-<div>  
-  
-<p>
-
-<img src="/images/dtc3.png" style="width:70%">
-
-</p>  
-  
-</div>  
-  
-</li>  
+</li>   
   
 <li>  
   
