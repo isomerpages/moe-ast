@@ -109,8 +109,11 @@ Educators who return from the DAI Program in the U.S. will share their learning 
 
  <li>  
   
+
 <input type="checkbox" id="accordion8">  
   
+	<div>
+		<p></p><h4> Resource Archive</h4>
 <label for="accordion8">Distinguished Fulbright Award in Teaching 2020</label>  
   
 <div>  
@@ -123,7 +126,7 @@ Educators who return from the DAI Program in the U.S. will share their learning 
   
 </div>  
   
-</li> 
+</div></li> 
 	
 <li>  
   
