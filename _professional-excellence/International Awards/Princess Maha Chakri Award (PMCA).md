@@ -12,12 +12,11 @@ PMCA is a royal award to be presented by Her Royal Highness Princess Maha Chakri
 
 <ul class="jekyllcodex_accordion">  
   
-	
-<li>  
+	<li>  
   
-<input type="checkbox" id="accordion3">  
+<input type="checkbox" id="accordion1">  
   
-<label for="accordion3">2023 Recipient</label>  
+<label for="accordion1">2023 Recipient</label>  
   
 <div>  
   
@@ -44,9 +43,9 @@ Mdm Chong is regarded as an expert on educational matters for VI students due to
 	
 <li>  
   
-<input type="checkbox" id="accordion1">  
+<input type="checkbox" id="accordion2">  
   
-<label for="accordion1">2017 Recipient</label>  
+<label for="accordion2">2017 Recipient</label>  
   
 <div>  
   
@@ -65,9 +64,9 @@ Click <a href="https://drive.google.com/file/d/1h2c-rTCRTiewsszSU8sKWES0Mnlbwsgk
 	
 <li>  
   
-<input type="checkbox" id="accordion2">  
+<input type="checkbox" id="accordion3">  
   
-<label for="accordion2">2015 Recipient</label>  
+<label for="accordion3">2015 Recipient</label>  
   
 <div>  
   
