@@ -12,7 +12,7 @@ PMCA is a royal award to be presented by Her Royal Highness Princess Maha Chakri
 
 <ul class="jekyllcodex_accordion">  
   
-	<li>  
+<li>  
   
 <input type="checkbox" id="accordion1">  
   
