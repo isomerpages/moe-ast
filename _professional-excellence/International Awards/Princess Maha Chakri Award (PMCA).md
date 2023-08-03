@@ -6,7 +6,7 @@ third_nav_title: International Awards
 ---
 ### Princess Maha Chakri Award (PMCA)
 
-<img style="width:30%" src="/images/PMCA%20logo.jpg"> 
+<img style="width:20%" src="/images/PMCA%20logo.jpg"> 
 
 PMCA is a royal award to be presented by Her Royal Highness Princess Maha Chakri Sirindhorn of Thailand to commemorate her 60th birthday. This award will be offered once in two years, starting from 2015, to one teacher from each of the 11 SEAMEO member countries (10 ASEAN countries and Timor Leste) to celebrate excellence in the teaching profession and recognise teachers for their contribution to the future generation.
 
@@ -16,7 +16,36 @@ PMCA is a royal award to be presented by Her Royal Highness Princess Maha Chakri
   
 <input type="checkbox" id="accordion1">  
   
-<label for="accordion1">2017 Recipient</label>  
+<label for="accordion1">2023 Recipient</label>  
+  
+<div>  
+  
+<p>
+	
+
+<img src="/images/pennychong-pmca.png" style="width:20%">      
+</p><center><b><p></p><center><b>Mdm Chong Chew Luan Penny <br>
+Ahmad Ibrahim Secondary School </b></center><br></b></center>
+
+Mdm Chong Chew Luan Penny is a teacher for visually impaired (VI) students, and she strongly believes in inclusive education. She has dedicated 15 years of excellent service to nurturing VI students in Ahmad Ibrahim Secondary School (AISS), which has 7 students who are VI and need additional support. Mdm Chong has been a dedicated resource teacher for all subjects that her VI students undertake. This duty also includes converting academic materials into Braille, developing additional materials, or embarking on ad hoc projects like learning an online tool for music composition to assist a student how to use it for his music examination at O-level. She also leads the other VI resource teachers in providing the best coaching programme for the VI students in the school.<br><br>
+
+Mdm Chong played an instrumental role in the holistic development of VI students through the implementation of various initiatives. For instance, she initiated a collaboration between the school and National University of Singapore’s College of Alice and Peter Tan since 2018 to reinforce the school's 2-level approach to the VI programme, whereby VI students learn daily living skills to gain greater independence and our sighted students learn to help and care for the VI. Building on this collaboration, Mdm Chong continued to develop the character and confidence of her VI students through service-learning experiences with the elderly in St. Luke’s Care Centre, and through teaching Braille to younger children from Tasek Jurong, a non-profit organisation that runs programmes to support and uplift the community.<br><br>
+
+While working on her students’ academic progress, Mdm Chong is also conscious about promoting inclusion in and outside of school. Therefore, she creates opportunities for VI students to interact with sighted students and get them involved in activities externally, where they work with mentors to pursue their interests or showcase their talents. For instance, since 2014, Penny has liaised with Ngee Ann Polytechnic (NP) and coordinated with the Assistant Year-Head and Form Teachers to organise the annual Dialogue-in-the-Dark Learning Journey in NP. This aims to provide first-hand experience of the challenges which VI persons face in their daily lives. Another partnership was with the Singapore Art Museum, where artists like Ling Nah and Angie Seah incorporated adaptations in their artworks for the VI students, allowing them to have hands-on activities that develop their analytical skills in art.<br><br>
+
+Mdm Chong is regarded as an expert on educational matters for VI students due to her rich experience and the depth of her work. As a result, Mdm Chong often shares her knowledge with officers in MOE HQ, other education institutions and Singapore Examinations and Assessment Board on VI-related issues. Beyond Singapore, Mdm Chong had also hosted a Vietnamese delegate from Nguyen Ding Chiu School for the Blind in Ho Chih Minh City, where she shared and exchanged pedagogy and practices with the delegate. This exchange also broadened her views on VI education which enriches her work with her VI students. These professional conversations have helped the fraternity grow its knowledge in teaching VI students. Furthermore, her work with the VI students at AISS has broadly shaped the school’s way of managing and working with SEN students, and in supporting access arrangement for students with various impairments for learning and examinations.
+ 
+<p></p>
+	
+</div>  
+	
+</li>  
+	
+<li>  
+  
+<input type="checkbox" id="accordion2">  
+  
+<label for="accordion2">2017 Recipient</label>  
   
 <div>  
   
@@ -35,9 +64,9 @@ Click <a href="https://drive.google.com/file/d/1h2c-rTCRTiewsszSU8sKWES0Mnlbwsgk
 	
 <li>  
   
-<input type="checkbox" id="accordion2">  
+<input type="checkbox" id="accordion3">  
   
-<label for="accordion2">2015 Recipient</label>  
+<label for="accordion3">2015 Recipient</label>  
   
 <div>  
   
@@ -119,13 +148,10 @@ Founded on the belief that every child can succeed, I conceptualised and designe
 
 An inclusive education is not what we do to our students. Rather, it is what we do with them, and for them, to bring out the best in each of them. I am deeply humbled and most honoured to be conferred the Princess Maha Chakri Award (PMCA).&nbsp;<br><br>
 
-  
 
 Lead, care and inspire – I will continue to do my best to lead, care for and inspire the education fraternity.<br><br>
 <b>“A teacher’s heartbeat lies in shaping lives and moulding the future generations for greater success ahead. “</b><br><br>
 <p></p>  
-  
 </div>  
-  
 </li>
 </ul>
