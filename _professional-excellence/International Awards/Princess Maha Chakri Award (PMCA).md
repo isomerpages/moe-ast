@@ -15,16 +15,16 @@ PMCA is a royal award to be presented by Her Royal Highness Princess Maha Chakri
 	
 <li>  
   
-<input type="checkbox" id="accordion1">  
+<input type="checkbox" id="accordion3">  
   
-<label for="accordion1">2023 Recipient</label>  
+<label for="accordion3">2023 Recipient</label>  
   
 <div>  
   
 <p>
 	
 
-<img src="/images/pennychong-pmca.png" style="width:30%">      
+<img src="/images/pennychong-pmca.png" style="width:20%">      
 </p><center><b><p></p><center><b>Mdm Chong Chew Luan Penny <br>
 Ahmad Ibrahim Secondary School </b></center><br></b></center>
 
