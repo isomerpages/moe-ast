@@ -12,6 +12,6 @@ If you have any queries about OYEA, please contact the following officers.
 
 | Officer | Email Address | Contact number |
 |---|---|---|
-| Mr Huzaifah Haris  | [Muhammad\_Huzaifah\_HARIS@moe.gov.sg](mailto:Muhammad_Huzaifah_HARIS@moe.gov.sg)   | 6664 1378 |
-| Ms Kalvinder Jeet kaur | [Kalvinder_Jeet_KAUR@moe.gov.sg](mailto:Kalvinder_Jeet_Kaur@moe.gov.sg) | 6664 1390 |
-| Mr Tan Guodong | [Tan_Guodong@moe.gov.sg](mailto:Tan_Guodong@moe.gov.sg) | 6664 1387 |
+| Mr Huzaifah Haris  | [MOE_AST_OYEA@moe.gov.sg](mailto:Muhammad_Huzaifah_HARIS@moe.gov.sg)   | 6664 1378 |
+| Ms Kalvinder Jeet kaur |[MOE_AST_OYEA@moe.gov.sg](mailto:Kalvinder_Jeet_Kaur@moe.gov.sg) | 6664 1390 |
+| Mr Tan Guodong | [MOE_AST_OYEA@moe.gov.sg](mailto:Tan_Guodong@moe.gov.sg) | 6664 1387 |
