@@ -23,7 +23,7 @@ Through this platform, teachers will **engage in professional exchange of pedago
 | -------- | -------- | -------- |
 | **Lead** and **Engage** the Teaching Community | Engage in **professional sharing and knowledge creation** | Grow teachers to champion **Teacher Ownership Teacher Leadership (TOTL)** in professional learning   |
 
-#### Call for Proposals for 2024 Teacher -Led Workshops (TLW) \[Extended Deadline: 11 August 2023 (Fri)\]*
+#### Call for Proposals for 2024 Teacher -Led Workshops (TLW) \[Final Deadline: 17 August 2023 (Fri)\]*
 
 1. AST calls for proposals from teachers to conduct TLWs. The proposed TLW should be minimally shared previously at school-based or cluster-based platforms. Facilitators should also obtain approval from their principals before applying. 
 2.	TLWs can be conducted individually or in teams of <u>up to three facilitators</u>. Correspondences will be made through the Main Facilitator via emails or calls. 
@@ -34,7 +34,7 @@ Through this platform, teachers will **engage in professional exchange of pedago
     | **Date**                           | **Activity**                                                    |
     |------------------------------------|-----------------------------------------------------------------|
     |     8 May 2023(Mon)                |     Call   for Proposals                                        |
-    |    11 August 2023 (Fri)             |     Deadline for application submission                         |
+    |    17 August 2023 (Fri)             |     Final deadline for application submission                         |
     |     Mid Nov 2023                   |     Announcement of successful and unsuccessful applications    |
     |     Mid Feb to Mid     Sep 2024    |     Conduct of TLWs for successful applications                 |
 6. After the TLWs have been completed, AST will extend e-Certificates of Appreciation and the collated feedback from the participants to the facilitators through their principals. 
