@@ -26,10 +26,10 @@ sections:
       subtitle: Spotlight
       alt: olive-pc
   - infopic:
-      title: Brown Bag Series
+      title: TWA Plus VISTAs
       subtitle: Upcoming Event
-      description: Generative Learning in Professional Learning Communities
-      button: Read More
+      description: Latest Trends in Arts and Culture
+      button: Click for more events
       url: /events/upcoming-events/
       image: /images/Events/upcoming-aug2023-small.jpg
       alt: Image alt text
