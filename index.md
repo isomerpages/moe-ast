@@ -29,9 +29,9 @@ sections:
       title: TWA Plus VISTAs
       subtitle: Upcoming Event
       description: Latest Trends in Arts and Culture
-      button: Click for more events
+      button: Click For Registration
       url: /events/upcoming-events/
-      image: /images/Events/upcoming-aug2023-small.jpg
+      image: /images/Events/vista-sep23-sml.PNG
       alt: Image alt text
   - infopic:
       title: Thank you for joining us at TCEF 2023
