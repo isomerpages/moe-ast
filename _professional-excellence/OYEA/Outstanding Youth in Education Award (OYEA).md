@@ -8,10 +8,4 @@ The OYEA is a national award that recognises and honours the achievements of you
 
 #### Contact Us
 
-If you have any queries about OYEA, please contact the following officers.
-
-| Officer | Email Address | Contact number |
-|---|---|---|
-| Mr Huzaifah Haris  | [MOE_AST_OYEA@moe.gov.sg](mailto:MOE_AST_OYEA@moe.gov.sg)   | 6664 1378 |
-| Ms Kalvinder Jeet kaur |[MOE_AST_OYEA@moe.gov.sg](mailto:MOE_AST_OYEA@moe.gov.sg) | 6664 1390 |
-| Mr Tan Guodong | [MOE_AST_OYEA@moe.gov.sg](mailto:MOE_AST_OYEA@moe.gov.sg) | 6664 1387 |
+If you have any queries about OYEA, please contact us at: [MOE\_AST\_OYEA@moe.gov.sg](mailto:MOE_AST_OYEA@moe.gov.sg).
