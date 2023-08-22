@@ -13,7 +13,7 @@ Prior to his engagement as the Outstanding Educator for AST’s OEIC (from 10 Ap
 
 <figure><img style="width:75%" src="/images/oeic2023.jpg"><img style="width:75%" src="/images/oeic2023%2020230412_134524%20(1).jpg"><figcaption> Mr Noschese used inquiry-based activities to engage a class of Secondary Three Physics students at Zhonghua Secondary School, April 2023</figcaption></figure>
 
-##### Overview of the Onsite Workshops (Part 1) [17 April to 20 April 2023]
+##### Overview of Onsite Workshops (Part 1) [17 April to 20 April 2023]
 
 During each of the four zonal workshops, Mr Noschese modelled pedagogical leadership via hands-on activities for workshop participants.  He also drew reference from his lesson demonstration in Zhonghua Secondary School to deepen participants’ understanding of one of the learning strategies employed, namely the ‘Observe, Predict and Apply’ model and how variables in teaching and learning can be considered when designing and enacting lessons. 
 
