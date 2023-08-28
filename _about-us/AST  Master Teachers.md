@@ -204,7 +204,7 @@ Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nb
 <h4>Educational Support Master Teachers</h4>
 <div style="clear:both">
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
-<img src="/images/es1.png" style="width:80px;height:100px;margin-right:15px;" align="left"><strong>Mdm Hadzar Binte Misiri</strong><br>Master Teacher / Educational Support<br><br>Email: <a href="mailto:Misiri_HADZAR@moe.gov.sg">Misiri_HADZAR@moe.gov.sg</a><br>Contact no.: 6664 1419</div>
+<img src="/images/es1.png" style="width:80px;height:100px;margin-right:15px;" align="left"><strong>Mdm Hadzar Binte Misiri</strong><br>Master Teacher / Educational Support<br><br>Email: <a href="mailto:hadzar_misiri@moe.gov.sg">hadzar_misiri@moe.gov.sg</a><br>Contact no.: 6664 1419</div>
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 <img src="/images/es2.png" style="width:80px;height:80px;margin-right:15px;" align="left"><strong>Dr Muhammad Nazir Amir</strong><br>Master Teacher / Educational Support<br><br>Email: <a href="mailto:Muhammad_Nazir_Amir@moe.gov.sg">Muhammad_Nazir_Amir@moe.gov.sg</a><br>Contact no.: 6664 142</div>
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
