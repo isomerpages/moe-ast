@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Mathematics
 ---
 <img src="/images/SubChap/primarymaths-chapter-2023.jpg" style="width:100%">
-  
+
+<ul class="jekyllcodex_accordion">  
+	
 The Primary Mathematics Chapter champions quality learning in mathematics by building teacher capacity, encouraging pedagogical innovations and facilitating research-informed practice to impact student learning. It aims to build a culture of professionalism and pride in the teaching of mathematics. Besides upholding professional standards in mathematics, the Primary Mathematics Chapter will serve as a focal point for mathematics teachers to collaborate and network. Through partnerships with various MOE divisions and external partners, the Primary Mathematics Chapter seeks to raise the professional standards in the learning and teaching of mathematics in Singapore.
   
 <li>  
@@ -62,4 +64,4 @@ A community of competent teacher leaders who inspire the learning and teaching o
 
 </div>  
   
-</li>
+</li></ul>
