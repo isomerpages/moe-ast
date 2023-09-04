@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Science
 ---
 <img src="/images/SubChap/physics-chapter-2023.jpg" style="width:100%">
-  
+
+<ul class="jekyllcodex_accordion">  
+
 <li>  
   
 <input type="checkbox" id="accordion1">  
@@ -67,5 +69,4 @@ The Physics Chapter strives to raise the professional standard in the subject di
   
 </div>  
   
-</li>  	
- 
+</li></ul>
