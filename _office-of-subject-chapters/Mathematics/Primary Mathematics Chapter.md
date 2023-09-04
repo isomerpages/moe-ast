@@ -19,11 +19,11 @@ The Primary Mathematics Chapter champions quality learning in mathematics by bui
 <p>
 The Primary Mathematics Chapter focuses on building teachers’ capacity in pedagogical content knowledge and subject content knowledge in the teaching of mathematics. As a catalyst for professional growth, it fosters pedagogical innovations and facilitates research-informed practices to help teachers strengthen the theory-practice nexus.<br><br>
 
-<b>Mission:</b><br><br>
+<b>Mission:</b><br>
 
 To build a teacher-led culture of professional excellence in the learning and teaching of mathematics<br><br>
 
-<b>Vision:</b><br><br>
+<b>Vision:</b><br>
 
 A community of competent teacher leaders who inspire the learning and teaching of mathematics
 </p>  
@@ -32,7 +32,6 @@ A community of competent teacher leaders who inspire the learning and teaching o
   
 </li>  
  
-  
 <li>  
   
 <input type="checkbox" id="accordion3">  
@@ -63,5 +62,4 @@ A community of competent teacher leaders who inspire the learning and teaching o
 
 </div>  
   
-</li>  	
-  
+</li>
