@@ -29,11 +29,11 @@ You can access the video of the IMMC 2021 Virtual Award and Sharing Session&nbsp
 <p>
 A key focus of the Secondary Mathematics Chapter is building teachers’ capacity in pedagogical content knowledge and subject matter knowledge in the teaching and learning of Secondary Mathematics. As a catalyst for professional growth, it facilitates classroom research and helps teachers to make connections in the theory-practice nexus.<br><br>
 
-<b>Mission:</b><br><br>
+<b>Mission:</b><br>
 
 To build a teacher-led culture of professional excellence in the learning and teaching of mathematics<br><br>
 
-<b>Vision:</b><br><br>
+<b>Vision:</b><br>
 
 A community of competent teacher leaders who inspire the learning and teaching of mathematics
 </p>  
@@ -76,5 +76,4 @@ A community of competent teacher leaders who inspire the learning and teaching o
   
 </div>  
   
-</li>  	
-  
+</li>
