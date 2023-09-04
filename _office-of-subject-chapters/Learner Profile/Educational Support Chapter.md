@@ -6,6 +6,8 @@ third_nav_title: Learner Profile
 ---
 <img src="/images/SubChap/edsupport-chapter-2023.jpg" style="width:100%">
 
+<ul class="jekyllcodex_accordion">  
+
 <li>  
 
 </li><li>  
@@ -64,4 +66,4 @@ The ES Chapter seeks to deepen teachers’ mastery and pedagogical content knowl
   
 </div>  
   
-</li>
+</li></ul>
