@@ -14,11 +14,11 @@ third_nav_title: Humanities and CCE
 <div>  
   
 <p>
-The Principles of Accounts (POA) Chapter is a professional network that aims to<br><br>
+The Principles of Accounts (POA) Chapter is a professional network that aims to<br>
 
 •   promote a culture of professionalism and pride within the POA fraternity;<br>
 •   serve as a focal point for POA teachers to engage in collaborative learning and inquiry; and<br>
-•   broaden their professional knowledge to improve classroom practice through collaborative learning in a network.<br><br>
+•   broaden their professional knowledge to improve classroom practice through collaborative learning in a network.<br>
 
 Through participation in learning activities afforded by the POA Chapter, we hope teachers are empowered to transform what they have gathered from the networked learning communities into their instructional practices. In addition, the engagement in networked learning will help to foster teacher leadership.
 </p>  
@@ -82,4 +82,4 @@ You may contact&nbsp;Mdm Rabiyah Ismail <a href="mailto:Rabiyah_ISMAIL@moe.gov.s
   
 </div>  
   
-</li>  		
+</li>
