@@ -6,10 +6,8 @@ third_nav_title: Learner Profile
 ---
 <img src="/images/SubChap/hal-chapter-2023.jpg" style="width:100%">
 
-<input id="type=">
-
 <li>  
-![](/images/SubChap/hal-chapter-2023.jpg)  
+
 <input type="checkbox" id="accordion1">  
   
 <label for="accordion1">Objectives of the High Ability Learners Chapter</label>  
