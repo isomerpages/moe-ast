@@ -30,13 +30,13 @@ St Gabriel's Secondary School<br>
 <a target="_blank" href="https://www.schoolbag.edu.sg/story/this-discipline-master-makes-connections-before-corrections"> This discipline master makes connections before corrections</a> <br><br>
 
 
-Ms Lim Bee Leng<br>
-Kent Ridge Secondary School<br>
-<a target="_blank" href="https://www.schoolbag.edu.sg/story/she-turned-a-chat-about-hooliganism-into-a-discussion-on-the-importance-of-learning"> She turned a chat about hooliganism into a discussion on the importance of learning </a><br><br>
+Mdm Ashikin Bte Abdul Ra'uuf<br>
+Ngee Ann Secondary School<br>
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/to-students-facing-challenges-she-says-don-t-just-dream-reach-for-the-moon"> To students facing challenges, she says: Don't just dream, reach for the moon </a><br><br>
 
-Ms Khairunnisa Binte Ismail<br>
-St. Gabriel’s Secondary School<br>
-<a target="_blank" href="https://www.schoolbag.edu.sg/story/her-motto-for-her-students-character-first-academics-a-close-second"> Her motto for her students? “Character first, academics a close second”</a><br><br>
+Mr Shahul Hameed S/O Kuthubudeen<br>
+Serangoon Garden Secondary School<br>
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/a-teacher-s-devotion-draws-his-students-back-to-school"> A teacher's devotion draws his students back to school</a><br><br>
 
 <u>Finalists</u><br>
 	
