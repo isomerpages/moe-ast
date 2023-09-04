@@ -6,6 +6,8 @@ third_nav_title: Science
 ---
 <img src="/images/SubChap/nfs-chapter-2023.jpg" style="width:100%">
 
+<ul class="jekyllcodex_accordion">  
+
 <li>  
   
 <input type="checkbox" id="accordion1">  
@@ -64,5 +66,4 @@ Through collaborative learning in&nbsp;the NFS professional&nbsp;network,&nbsp;t
   
 </div>  
   
-</li>  	
-  
+</li></ul>
