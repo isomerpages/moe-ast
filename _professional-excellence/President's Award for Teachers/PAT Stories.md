@@ -38,6 +38,14 @@ Mr Shahul Hameed S/O Kuthubudeen<br>
 Serangoon Garden Secondary School<br>
 <a target="_blank" href="https://www.schoolbag.edu.sg/story/a-teacher-s-devotion-draws-his-students-back-to-school"> A teacher's devotion draws his students back to school</a><br><br>
 
+Ms Malini D/O Thyagesan<br>
+Republic Polytechnic<br>
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/big-wins-start-with-small-wins-for-lecturer-who-co-developed-a-self-sterilising-agent"> Big wins start with small wins for lecturer who co-developed a self-sterilising agent </a><br><br>
+
+Mr Fann Zhi Jie<br>
+Singapore Polytechnic<br>
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/no-grades-no-problem-to-his-interior-design-students"> No grades? No problem to his interior design students</a><br><br>
+
 <u>Finalists</u><br>
 	
 Ms Lee Hui Ting<br>
