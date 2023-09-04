@@ -4,7 +4,7 @@ permalink: /office-of-subject-chapters/humanities-and-cce/social-studies-chapter
 description: ""
 third_nav_title: Humanities and CCE
 ---
-<img src="/images/SubChap/socialstudies-chapter-2023.jpg" style="width:100%">
+<img src="/images/SubChap/socialstudies-chapter-2023.jpg" style="width:70%">
 
 <ul class="jekyllcodex_accordion">  
 
