@@ -23,11 +23,11 @@ CHIJ (Katong) Primary School<br>
 
 Mr Chan Joo Seng Melvin<br>
 Chua Chu Kang Secondary School<br>
-<a target="_blank" href="https://www.schoolbag.edu.sg/story/she-gives-students-the-language-and-tools-to-express-their-passions-and-concerns"> 'The ideas never stop coming ubtil the bell rings': How one teacher makes History this riveting</a><br><br>
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/the-ideas-never-stop-coming-until-the-bell-rings-how-one-teacher-makes-history-this-riveting"> 'The ideas never stop coming until the bell rings': How one teacher makes History this riveting</a><br><br>
 
-Mr Seow Tzer Yeun<br>
-Edgefield Secondary School<br>
-<a target="_blank" href="https://www.schoolbag.edu.sg/story/the-case-of-the-unbreakable-beaker-how-this-teacher-forms-bonds-through-science"> The case of the unbreakable beaker – how this teacher forms bonds through Science</a> <br><br>
+Mr Poh Wei Beng<br>
+St Gabriel's Secondary School<br>
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/this-discipline-master-makes-connections-before-corrections"> This discipline master makes connections before corrections</a> <br><br>
 
 
 Ms Lim Bee Leng<br>
