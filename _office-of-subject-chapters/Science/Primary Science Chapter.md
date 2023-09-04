@@ -6,6 +6,10 @@ third_nav_title: Science
 ---
 <img src="/images/SubChap/primary-science-subject-chapter-2023-2.jpg" style="width:100%">
 
+<li>  
+  
+<input type="checkbox" id="accordion1">  
+	
 <label for="accordion1">Objectives of the Primary Science Chapter</label>  
   
 <div>  
@@ -36,7 +40,7 @@ Through collaborative learning in a network, a teacher could broaden&nbsp;their 
   
  
   
-<li>  
+</li><li>  
   
 <input type="checkbox" id="accordion3">  
   
@@ -73,5 +77,4 @@ Through collaborative learning in a network, a teacher could broaden&nbsp;their 
   
 </div>  
   
-</li>  	
-  
+</li>
