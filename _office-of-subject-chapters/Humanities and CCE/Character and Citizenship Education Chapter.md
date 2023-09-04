@@ -85,9 +85,9 @@ We organise various professional learning activities for you: <br>
 <div>  
   
 <p>
-Every teacher is a CCE teacher and is a member of the CCE Chapter. We invite you to be an active member of the CCE Chapter. <br><br>
+Every teacher is a CCE teacher and is a member of the CCE Chapter. We invite you to be an active member of the CCE Chapter. <br>
 
-<i>Join&nbsp;us today,&nbsp;so that we continue to grow together as a vibrant fraternity of enabled educators!</i><br><br>
+<i>Join&nbsp;us today,&nbsp;so that we continue to grow together as a vibrant fraternity of enabled educators!</i><br>
 
 _For more information, please write to <a href="mailto:Teo_Ping_Wei@moe.gov.sg">Ms Teo Ping Wei</a> and <a href="mailto:Siraj_Ansari_MOHAMED_SHARIFF@moe.gov.sg">Siraj Ansari </a>
 </p>  
