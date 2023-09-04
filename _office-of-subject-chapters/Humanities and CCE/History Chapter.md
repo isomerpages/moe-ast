@@ -4,8 +4,7 @@ permalink: /office-of-subject-chapters/humanities-and-cce/history-chapter/
 description: ""
 third_nav_title: Humanities and CCE
 ---
-![](/images/ohc1.png)
-<img src="/images/ohc2.png" style="width:70%">
+<img src="/images/SubChap/history-chapter-2023.jpg" style="width:100%">
 
 <ul class="jekyllcodex_accordion">  
   
