@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Humanities and CCE
 ---
 <img src="/images/SubChap/poa-chapter-2023.jpg" style="width:100%">
+
+<ul class="jekyllcodex_accordion">  
+	
 <li>  
   
 <input type="checkbox" id="accordion1">  
@@ -82,4 +85,4 @@ You may contact&nbsp;Mdm Rabiyah Ismail <a href="mailto:Rabiyah_ISMAIL@moe.gov.s
   
 </div>  
   
-</li>
+</li></ul>
