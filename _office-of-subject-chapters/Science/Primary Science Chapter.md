@@ -4,17 +4,8 @@ permalink: /office-of-subject-chapters/science/primary-science-chapter/
 description: ""
 third_nav_title: Science
 ---
-![](/images/psc1.png)
+<img src="/images/SubChap/primary-science-subject-chapter-2023-2.jpg" style="width:100%">
 
-<img src="/images/ssc_prisci23.png" style="width:70%">
-
-
-<ul class="jekyllcodex_accordion">  
-  
-<li>  
-  
-<input type="checkbox" id="accordion1">  
-  
 <label for="accordion1">Objectives of the Primary Science Chapter</label>  
   
 <div>  
@@ -42,7 +33,7 @@ Through collaborative learning in a network, a teacher could broaden&nbsp;their 
   
 </div>  
   
-</li>  
+  
  
   
 <li>  
@@ -84,4 +75,3 @@ Through collaborative learning in a network, a teacher could broaden&nbsp;their 
   
 </li>  	
   
-</ul>
