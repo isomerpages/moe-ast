@@ -6,6 +6,8 @@ third_nav_title: Science
 ---
 <img src="/images/SubChap/primary-science-subject-chapter-2023-2.jpg" style="width:100%">
 
+<ul class="jekyllcodex_accordion">  
+
 <li>  
   
 <input type="checkbox" id="accordion1">  
@@ -77,4 +79,4 @@ Through collaborative learning in a network, a teacher could broaden&nbsp;their 
   
 </div>  
   
-</li>
+</li></ul>
