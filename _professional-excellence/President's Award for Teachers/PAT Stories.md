@@ -48,18 +48,34 @@ Singapore Polytechnic<br>
 
 <u>Finalists</u><br>
 	
-Ms Lee Hui Ting<br>
-Canberra Primary School<br>
-<a target="_blank" href="https://www.schoolbag.edu.sg/story/add-maths-science-and-pumpkins-and-you-get-lessons-plus-a-side-of-dessert"> Add Maths, Science and pumpkins and you get? Lessons plus a side of dessert</a><br><br>
+Mr Koh Hock Lai Kelvin<br>
+St. Anthony's Primary School<br>
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/teaching-values-to-tweens-takes-heart-and-lots-of-ice-cream-sticks"> Teaching values to tweens takes heart and lots of ice cream sticks</a><br><br>
 
-Mdm Lim Peak Deng<br>
-Sengkang Green Primary School<br>
-<a target="_blank" href="https://www.schoolbag.edu.sg/story/cheering-her-students-bite-sized-successes-whets-their-appetite-to-learn-mandarin">Cheering her students’ bite-sized successes whets their appetite to learn Mandarin</a><br><br>
+Mr Chua Boon Hwee, Daniel<br>
+Chongzheng Primary School<br>
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/pokemon-maths-game-on-says-teacher-who-speaks-his-students-language">Pokemon Math? Game on, says teacher who speaks his students' language</a><br><br>
 
-Ms S Purnima Janani @Purnima Janani Sampath Kumar<br>
-Catholic High School (Secondary)<br>
-<a target="_blank" href="https://www.schoolbag.edu.sg/story/she-models-empathy-the-highest-form-of-knowledge-to-her-students">She models empathy, the ‘highest form of knowledge’, to her students</a><br><br>
+Mdm Saedah Bte Mohamed Hussien<br>
+Xishan Primary School (Secondary)<br>
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/stronger-louder-calmer-students-is-this-cce-head-s-three-pointed-wish">Stronger, louder, CALMer students, is this CCE head's three-pointed wish</a><br><br>
 
-Mdm Shariffa Amalsharaff Binte Syed Othman Aledroos<br>
-Springfield Secondary School<br>
-<a target="_blank" href="https://www.schoolbag.edu.sg/story/she-started-podcasts-and-other-platforms-to-give-every-student-a-voice"> She started podcasts and other platforms ‘to give every student a voice’</a><br><br>
+Mr Yeo Choon Hwa<br>
+Queensway Secondary School<br>
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/read-e-stead-e-pe!-how-this-sports-coach-leapt-for-tech"> Read-e, stead-e, PE! How this sports coach leapt for tech’</a><br><br>
+
+Mdm Tan Pin Yin<br>
+West Spring Secondary School<br>
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/hacking-the-chinese-language-so-students-want-to-learn"> Hacking the Chinese language so students want to learn</a><br><br>
+
+Ms Clarissa Lee Vwen Chia<br>
+Ngee Ann Polytechnic<br>
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/nursing-gets-real-thanks-to-scenario-based-learning-and-real-life-experiences">Nursing gets real, thanks to scenario-based learning and real-life experiences</a><br><br>
+
+Mr Choo Meng Cher<br>
+Institute of Technical Education<br>
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/how-to-get-students-all-excited-about-voltage-or-waveforms-ask-(meng)-'cher">How to get students all excited about voltage or waveforms? Ask (Meng) 'Cher</a><br><br>
+
+Mr Yeo Choon Hwa<br>
+Queensway Secondary School<br>
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/read-e-stead-e-pe!-how-this-sports-coach-leapt-for-tech"> Read-e, stead-e, PE! How this sports coach leapt for tech’</a><br><br>
