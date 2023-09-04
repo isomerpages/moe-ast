@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Science
 ---
 <img src="/images/SubChap/d&amp;t-chapter-2023.jpg" style="width:100%">
-  
+
+<ul class="jekyllcodex_accordion">  
+	
 <li>  
   
 <input type="checkbox" id="accordion1">  
@@ -103,4 +105,4 @@ Check out our past D&amp;T subject chapter events here:  <br><br>
  
 </div>  
   
-</li>
+</li></ul>
