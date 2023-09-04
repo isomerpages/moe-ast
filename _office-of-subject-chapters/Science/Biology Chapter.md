@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Science
 ---
 <img src="/images/SubChap/bio-chapter-2023.jpg" style="width:100%">
-  
+
+<ul class="jekyllcodex_accordion">  
+	
 <li>  
   
 <input type="checkbox" id="accordion1">  
@@ -83,4 +85,4 @@ We organise various professional learning events for you:<br><br>
   
 </div>  
   
-</li>
+</li></ul>
