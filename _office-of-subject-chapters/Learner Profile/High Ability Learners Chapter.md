@@ -4,9 +4,9 @@ permalink: /office-of-subject-chapters/learner-profile/high-ability-learners-cha
 description: ""
 third_nav_title: Learner Profile
 ---
-<img type="checkbox" src="/images/SubChap/hal-chapter-2023
+<img src="/images/SubChap/hal-chapter-2023.jpg" style="width:100%">
 
-<input id=" style="width:100%">  "&gt;
+<input id="type=">
 
 <li>  
 ![](/images/SubChap/hal-chapter-2023.jpg)  
@@ -59,5 +59,4 @@ The HAL Chapter serves as a focal point for teachers and Teacher Leaders of HALs
   
 </div>  
   
-</li>  	
-  
+</li>
