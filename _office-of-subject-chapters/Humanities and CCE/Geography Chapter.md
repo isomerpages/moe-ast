@@ -46,12 +46,8 @@ Through collaborative learning in a network, you could widen your   professional
   
 <div>  
   
-<p>
-<img src="/images/tm01.png" style="width:80%"><br>
-<img src="/images/tm02.png" style="width:80%"><br>
-<img src="/images/tm03.png" style="width:80%">
-</p>  
-  
+
+	
 </div>  
   
 </li>  
