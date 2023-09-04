@@ -4,7 +4,7 @@ permalink: /office-of-subject-chapters/science/design-and-technology-chapter/
 description: ""
 third_nav_title: Science
 ---
-<img src="/images/SubChap/d&amp;t-chapter-2023.jpg" style="width:70%">
+<img src="/images/SubChap/d&amp;t-chapter-2023.jpg" style="width:100%">
   
 <li>  
   
@@ -103,4 +103,4 @@ Check out our past D&amp;T subject chapter events here:  <br><br>
  
 </div>  
   
-</li>  		
+</li>
