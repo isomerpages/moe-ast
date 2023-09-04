@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Humanities and CCE
 ---
 <img src="/images/SubChap/socialstudies-chapter-2023.jpg" style="width:100%">
+
+<ul class="jekyllcodex_accordion">  
+
 <li>  
 	
 <input type="checkbox" id="accordion1">  
@@ -63,5 +66,4 @@ The Social Studies Chapter provides teachers with learning opportunities beyond 
   
 </div>  
   
-</li>  	
-  
+</li></ul>
