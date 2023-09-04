@@ -4,14 +4,10 @@ permalink: /office-of-subject-chapters/learner-profile/high-ability-learners-cha
 description: ""
 third_nav_title: Learner Profile
 ---
-![](/images/halc1.png)
+<img src="/images/SubChap/hal-chapter-2023.jpg" style="width:100%">
 
-<img src="/images/mtt-01.png" style="width:70%">
-
-<ul class="jekyllcodex_accordion">  
-  
 <li>  
-  
+
 <input type="checkbox" id="accordion1">  
   
 <label for="accordion1">Objectives of the High Ability Learners Chapter</label>  
@@ -19,10 +15,9 @@ third_nav_title: Learner Profile
 <div>  
   
 <p>
-<b>Objectives of the High Ability Learner Chapter</b><br><br>
 	
 The High Ability Learners (HALs) Chapter seeks to enhance pedagogical practice in the teaching of learners with high ability. The chapter engenders the belief that our students have diverse learning needs and they bring with them a wide range of experiences, beliefs, knowledge, and skills.  High ability learners have specific learning needs to be met. For learning to be effective, teachers need to adapt teaching pace, approaches, and assessment practices to be developmentally appropriate for these learners.
-<br><br>
+<br>
 The HAL Chapter serves as a focal point for teachers and Teacher Leaders of HALs to learn from, with and on behalf of one another. Through partnerships with schools, divisions in MOE, the National Institute of Education (NIE) and external partners, the HAL Chapter seeks to promote pedagogical innovations and facilitate research-informed practice, with the aim of supporting high ability learners in every school towards actualising their potential.
 	
 </p>  
@@ -61,6 +56,4 @@ The HAL Chapter serves as a focal point for teachers and Teacher Leaders of HALs
   
 </div>  
   
-</li>  	
-  
-</ul>
+</li>

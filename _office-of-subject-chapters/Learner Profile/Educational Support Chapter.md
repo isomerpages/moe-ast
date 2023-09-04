@@ -4,14 +4,13 @@ permalink: /office-of-subject-chapters/learner-profile/educational-support-chapt
 description: ""
 third_nav_title: Learner Profile
 ---
-![](/images/esc1.png)
-
-<img src="/images/scc_escpic23.jpg" style="width:70%">
-
+<img src="/images/SubChap/edsupport-chapter-2023.jpg" style="width:100%">
 
 <ul class="jekyllcodex_accordion">  
-  
+
 <li>  
+
+</li><li>  
   
 <input type="checkbox" id="accordion1">  
   
@@ -67,6 +66,4 @@ The ES Chapter seeks to deepen teachers’ mastery and pedagogical content knowl
   
 </div>  
   
-</li>  	
- 
-</ul>
+</li></ul>

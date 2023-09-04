@@ -4,10 +4,7 @@ permalink: /office-of-subject-chapters/science/chemistry-chapter/
 description: ""
 third_nav_title: Science
 ---
-![](/images/cc1.png)
-
-<img src="/images/cc2.png" style="width:70%">
-
+<img src="/images/SubChap/chem-chapter-2023.jpg" style="width:100%">
 
 <ul class="jekyllcodex_accordion">  
   
@@ -23,7 +20,7 @@ third_nav_title: Science
 <img src="/images/cc3.png" style="width:70%"> <br>
 <img src="/images/cc4.png" style="width:70%"> <br>
 	
-<b>The Chapter organises a diverse range of professional learning activities to cater to different learning preference and interest:</b><br><br>
+<b>The Chapter organises a diverse range of professional learning activities to cater to different learning preference and interest:</b><br>
 
 •   Learning journeys to industries and Institutes of Higher Learning<br>
 •   Professional conversations with overseas and local educators<br>
@@ -31,7 +28,7 @@ third_nav_title: Science
 •   NLC-led workshops e.g.&nbsp; Learning to write Data-based Questions (O-level), Enhancing Students’ Conceptual Understanding of Chemistry through Microscale Experiments Workshop, etc.<br>
 •   Role-based Learning Sessions for e.g. Professional Learning Sessions for BTs, ST-LT Network Learning, etc.<br>
 •   Masterclasses by Experts<br>
-•   Chemistry Learning Day (biennial) <br><br>
+•   Chemistry Learning Day (biennial) <br>
 	
 <img src="/images/cc5.png" style="width:70%"> <br>
 </p>  

@@ -4,14 +4,10 @@ permalink: /office-of-subject-chapters/humanities-and-cce/economics-chapter/
 description: ""
 third_nav_title: Humanities and CCE
 ---
-![](/images/ec1.png)
-
-<img src="/images/top-pic-01.png" style="width:70%">
-
-All teachers teaching Economics are members of the Economics Chapter. We invite you to be an inspiring member of U in Economics.&nbsp;&nbsp;_Join us today,&nbsp;so that we can grow together as a vibrant Economics Networked Learning Community!_
-
-<ul class="jekyllcodex_accordion">  
+<img src="/images/SubChap/economics-chapter-2023.jpg" style="width:100%">
   
+<ul class="jekyllcodex_accordion">  
+	
 <li>  
   
 <input type="checkbox" id="accordion1">  
@@ -38,9 +34,9 @@ The Economics Chapter aims to:<br><br>
 <b>3. Create</b><br><br>
 
 •   quality professional learning experiences for Economics teachers grounded on the disciplinary roots of Economics to deepen their pedagogical content knowledge and subject content knowledge.<br>
-•   quality resources for the teaching and learning of Economics.<br><br>
+•   quality resources for the teaching and learning of Economics.<br>
 
-<b>4. Champion</b><br><br>
+<b>4. Champion</b><br>
 
 •   teacher-ownership and teacher leadership towards professional excellence in the teaching of Economics.<br>
 •   innovative practices in the teaching of Economics.
@@ -86,6 +82,4 @@ The Economics Chapter is led by the Master Teachers who work closely with a core
   
 </div>  
   
-</li>  	
-  
- </ul>
+</li></ul>

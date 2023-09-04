@@ -4,12 +4,10 @@ permalink: /office-of-subject-chapters/science/biology-chapter/
 description: ""
 third_nav_title: Science
 ---
-![](/images/bc1.png)
-
-<img src="/images/2023biochaptermtts.jpg" style="width:70%">
+<img src="/images/SubChap/bio-chapter-2023.jpg" style="width:100%">
 
 <ul class="jekyllcodex_accordion">  
-  
+	
 <li>  
   
 <input type="checkbox" id="accordion1">  
@@ -19,9 +17,9 @@ third_nav_title: Science
 <div>  
   
 <p>
-The Biology Chapter is a platform to encourage&nbsp;pedagogical innovation and research-informed practice to impact teaching.&nbsp;It works closely with Curriculum Planning&nbsp;and Development Division&nbsp;and other related educational agencies to extend learning in Biology.&nbsp; Through collaboration and networking, it harnesses synergy among teachers in schools, MOE Divisions and professional associations. <br><br>
+The Biology Chapter is a platform to encourage&nbsp;pedagogical innovation and research-informed practice to impact teaching.&nbsp;It works closely with Curriculum Planning&nbsp;and Development Division&nbsp;and other related educational agencies to extend learning in Biology.&nbsp; Through collaboration and networking, it harnesses synergy among teachers in schools, MOE Divisions and professional associations. <br>
 	
-The key objective of Biology Chapter is to&nbsp;enhance the capacity and capability of teachers in the learning and teaching of Biology. <br><br>
+The key objective of Biology Chapter is to&nbsp;enhance the capacity and capability of teachers in the learning and teaching of Biology. <br>
 	
 The Master Teachers lead in facilitating professional development through courses and networks, such as:<br><br>
 	
@@ -87,5 +85,4 @@ We organise various professional learning events for you:<br><br>
   
 </div>  
   
-</li>  	
-  </ul>
+</li></ul>

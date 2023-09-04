@@ -4,13 +4,10 @@ permalink: /office-of-subject-chapters/learner-profile/special-educational-needs
 description: ""
 third_nav_title: Learner Profile
 ---
-![](/images/senc1.png)
-
-<img src="/images/senc2.png" style="width:70%">
-
+<img src="/images/SubChap/specedneeds-chapter-2023.jpg" style="width:100%">
 
 <ul class="jekyllcodex_accordion">  
-  
+
 <li>  
   
 <input type="checkbox" id="accordion1">  
@@ -64,6 +61,4 @@ Through partnerships with schools, divisions in MOE, the National Institute of E
  
 </div>  
   
-</li>  		
-
-</ul>
+</li></ul>

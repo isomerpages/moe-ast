@@ -4,9 +4,9 @@ permalink: /office-of-subject-chapters/mathematics/secondary-mathematics-chapter
 description: ""
 third_nav_title: Mathematics
 ---
-![](/images/smc1.png)
+<img src="/images/SubChap/secondarymaths-chapter-2023.jpg" style="width:100%">
 
-<img src="/images/sec-math-mtts-jan23.png" style="width:70%">
+<ul class="jekyllcodex_accordion">  
 
 The Secondary Mathematics Chapter champions quality learning in mathematics by building teacher capacity, encouraging pedagogical innovations and facilitating research-informed practice to impact student learning. It aims to build a culture of professionalism and pride in the teaching of mathematics. Besides upholding professional standards in mathematics, the Secondary Mathematics Chapter will serve as a focal point for mathematics teachers to collaborate and network. Through partnerships with various MOE divisions and external partners, the Secondary Mathematics Chapter seeks to raise the professional standards in the learning and teaching of mathematics in Singapore.
 
@@ -19,8 +19,6 @@ Hwa Chong Institution has emerged as one of two top teams, out of 51 teams from 
 Congratulations to Hwa Chong Institution and Victoria School for doing Singapore proud! More details can be found at&nbsp;[https://www.immcsingapore.org/](https://www.immcsingapore.org/).  
 
 You can access the video of the IMMC 2021 Virtual Award and Sharing Session&nbsp;[here](https://app.wipster.io/Review/CQq-OAC154NjA8moiT64SQThjM48BnQvD_LbOOiCi28BdAVcgQ).
-
-<ul class="jekyllcodex_accordion">  
   
 <li>  
   
@@ -33,11 +31,11 @@ You can access the video of the IMMC 2021 Virtual Award and Sharing Session&nbsp
 <p>
 A key focus of the Secondary Mathematics Chapter is building teachers’ capacity in pedagogical content knowledge and subject matter knowledge in the teaching and learning of Secondary Mathematics. As a catalyst for professional growth, it facilitates classroom research and helps teachers to make connections in the theory-practice nexus.<br><br>
 
-<b>Mission:</b><br><br>
+<b>Mission:</b><br>
 
 To build a teacher-led culture of professional excellence in the learning and teaching of mathematics<br><br>
 
-<b>Vision:</b><br><br>
+<b>Vision:</b><br>
 
 A community of competent teacher leaders who inspire the learning and teaching of mathematics
 </p>  
@@ -80,6 +78,4 @@ A community of competent teacher leaders who inspire the learning and teaching o
   
 </div>  
   
-</li>  	
-  
-</ul>
+</li></ul>

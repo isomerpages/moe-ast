@@ -4,13 +4,11 @@ permalink: /office-of-subject-chapters/mathematics/primary-mathematics-chapter/
 description: ""
 third_nav_title: Mathematics
 ---
-![](/images/pmc1.png)
-
-<img src="/images/prmath-mtts-jan23.png" style="width:70%">
-
-The Primary Mathematics Chapter champions quality learning in mathematics by building teacher capacity, encouraging pedagogical innovations and facilitating research-informed practice to impact student learning. It aims to build a culture of professionalism and pride in the teaching of mathematics. Besides upholding professional standards in mathematics, the Primary Mathematics Chapter will serve as a focal point for mathematics teachers to collaborate and network. Through partnerships with various MOE divisions and external partners, the Primary Mathematics Chapter seeks to raise the professional standards in the learning and teaching of mathematics in Singapore.
+<img src="/images/SubChap/primarymaths-chapter-2023.jpg" style="width:100%">
 
 <ul class="jekyllcodex_accordion">  
+	
+The Primary Mathematics Chapter champions quality learning in mathematics by building teacher capacity, encouraging pedagogical innovations and facilitating research-informed practice to impact student learning. It aims to build a culture of professionalism and pride in the teaching of mathematics. Besides upholding professional standards in mathematics, the Primary Mathematics Chapter will serve as a focal point for mathematics teachers to collaborate and network. Through partnerships with various MOE divisions and external partners, the Primary Mathematics Chapter seeks to raise the professional standards in the learning and teaching of mathematics in Singapore.
   
 <li>  
   
@@ -23,11 +21,11 @@ The Primary Mathematics Chapter champions quality learning in mathematics by bui
 <p>
 The Primary Mathematics Chapter focuses on building teachers’ capacity in pedagogical content knowledge and subject content knowledge in the teaching of mathematics. As a catalyst for professional growth, it fosters pedagogical innovations and facilitates research-informed practices to help teachers strengthen the theory-practice nexus.<br><br>
 
-<b>Mission:</b><br><br>
+<b>Mission:</b><br>
 
 To build a teacher-led culture of professional excellence in the learning and teaching of mathematics<br><br>
 
-<b>Vision:</b><br><br>
+<b>Vision:</b><br>
 
 A community of competent teacher leaders who inspire the learning and teaching of mathematics
 </p>  
@@ -36,7 +34,6 @@ A community of competent teacher leaders who inspire the learning and teaching o
   
 </li>  
  
-  
 <li>  
   
 <input type="checkbox" id="accordion3">  
@@ -67,5 +64,4 @@ A community of competent teacher leaders who inspire the learning and teaching o
 
 </div>  
   
-</li>  	
-  </ul>
+</li></ul>

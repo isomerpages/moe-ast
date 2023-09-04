@@ -4,13 +4,10 @@ permalink: /office-of-subject-chapters/science/nutrition-and-food-science-chapte
 description: ""
 third_nav_title: Science
 ---
-![](/images/nfsc1.png)
-
-<img src="/images/nfsc10.png" style="width:50%">
-<img src="/images/nfc-01.png" style="width:50%">
+<img src="/images/SubChap/nfs-chapter-2023.jpg" style="width:100%">
 
 <ul class="jekyllcodex_accordion">  
-  
+
 <li>  
   
 <input type="checkbox" id="accordion1">  
@@ -22,9 +19,9 @@ third_nav_title: Science
 <p>
 The NFS Chapter works closely with Curriculum Planning and Development Division and other related educational agencies to extend learning in Nutrition and Food Science. &nbsp;Through collaboration and networking, it harnesses synergy among Nutrition and Food Science teachers in schools, MOE Divisions and institutions of higher education to work towards improved student outcomes.<br><br>
 
-Through collaborative learning in&nbsp;the NFS professional&nbsp;network,&nbsp;teachers&nbsp;could broaden&nbsp;their professional knowledge and improve their practices. There will be opportunities to obtain updates on curriculum and pedagogy, and to&nbsp;share ideas and resources with fellow teachers in the NFS&nbsp;fraternity.<br><br>
+Through collaborative learning in&nbsp;the NFS professional&nbsp;network,&nbsp;teachers&nbsp;could broaden&nbsp;their professional knowledge and improve their practices. There will be opportunities to obtain updates on curriculum and pedagogy, and to&nbsp;share ideas and resources with fellow teachers in the NFS&nbsp;fraternity.<br>
 
-<b>We organise various professional learning activities for you:</b> <br><br>
+<b>We organise various professional learning activities for you:</b><br>
 
 •   Courses and learning programmes<br>
 •   Learning journeys<br>
@@ -69,6 +66,4 @@ Through collaborative learning in&nbsp;the NFS professional&nbsp;network,&nbsp;t
   
 </div>  
   
-</li>  	
-  
-</ul>
+</li></ul>

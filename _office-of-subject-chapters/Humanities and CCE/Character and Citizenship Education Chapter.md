@@ -4,9 +4,7 @@ permalink: /office-of-subject-chapters/humanities-and-cce/character-and-citizens
 description: ""
 third_nav_title: Humanities and CCE
 ---
-![](images/ccec1.png)
-
-<img src="/images/ccec2.png" style="width:70%">
+<img src="/images/SubChap/cce-chapter-2023.jpg" style="width:100%">
 
 <ul class="jekyllcodex_accordion">  
   
@@ -19,21 +17,20 @@ third_nav_title: Humanities and CCE
 <div>  
   
 <p>
-<b><u>Character &amp; Citizenship Education Chapter</u></b><br><br>
 
-The Character &amp; Citizenship Education (CCE) Chapter aims to support the delivery of the CCE curriculum through<br><br>
+The Character &amp; Citizenship Education (CCE) Chapter aims to support the delivery of the CCE curriculum through<br>
 
 •   deepening the pedagogical content knowledge of teachers for quality student learning<br>
-•   building a culture of teacher-led professionalism through championing professional collaboration and learning among teachers<br><br>
+•   building a culture of teacher-led professionalism through championing professional collaboration and learning among teachers<br>
 
-<b>What do we do?</b><br><br>
+<b>What do we do?</b>
 
-The focus will be on how teachers could intentionally and purposefully apply pedagogical approaches that are developmentally appropriate, engage students cognitively and affectively and have an impact on their learning so that students grow up to be morally upright individuals, and responsible and active citizens.&nbsp;<br><br>
+The focus will be on how teachers could intentionally and purposefully apply pedagogical approaches that are developmentally appropriate, engage students cognitively and affectively and have an impact on their learning so that students grow up to be morally upright individuals, and responsible and active citizens.&nbsp;<br>
 
-The subject chapter is a natural platform to develop and grow Teacher Leaders. We explore ways to raise the level of professional practice in the classroom and expertise across the system. As drivers of pedagogical leadership, we act as a focal point for teachers to gather and learn from one another. Together we build our professional ethos and develop a culture of professional excellence and pride in the fraternity.<br><br>
+The subject chapter is a natural platform to develop and grow Teacher Leaders. We explore ways to raise the level of professional practice in the classroom and expertise across the system. As drivers of pedagogical leadership, we act as a focal point for teachers to gather and learn from one another. Together we build our professional ethos and develop a culture of professional excellence and pride in the fraternity.<br>
 
-We organise various professional learning activities for you: <br><br>
-
+We organise various professional learning activities for you: <br>
+	
 •   workshops and professional learning opportunities with external partners<br>
 •   learning journeys<br>
 •   professional conversations with overseas and local educators<br>
@@ -90,9 +87,9 @@ We organise various professional learning activities for you: <br><br>
 <div>  
   
 <p>
-Every teacher is a CCE teacher and is a member of the CCE Chapter. We invite you to be an active member of the CCE Chapter. <br><br>
+Every teacher is a CCE teacher and is a member of the CCE Chapter. We invite you to be an active member of the CCE Chapter. <br>
 
-<i>Join&nbsp;us today,&nbsp;so that we continue to grow together as a vibrant fraternity of enabled educators!</i><br><br>
+<i>Join&nbsp;us today,&nbsp;so that we continue to grow together as a vibrant fraternity of enabled educators!</i><br>
 
 _For more information, please write to <a href="mailto:Teo_Ping_Wei@moe.gov.sg">Ms Teo Ping Wei</a> and <a href="mailto:Siraj_Ansari_MOHAMED_SHARIFF@moe.gov.sg">Siraj Ansari </a>
 </p>  
@@ -100,5 +97,4 @@ _For more information, please write to <a href="mailto:Teo_Ping_Wei@moe.gov.sg">
 </div>  
   
 	
-</li>  		
-</ul>
+</li></ul>

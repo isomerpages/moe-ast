@@ -4,9 +4,9 @@ permalink: /office-of-subject-chapters/learner-profile/lower-primary-learners-ch
 description: ""
 third_nav_title: Learner Profile
 ---
-![](/images/lplc1.png)
+<img src="/images/SubChap/lpl-chapter-2023.jpg" style="width:100%">
 
-<img src="/images/lplc2.png" style="width:60%">
+<ul class="jekyllcodex_accordion">  
 
 The Lower Primary Learners (LPL) Chapter champions quality learning in Primary 1 and Primary 2 by building teacher capacity, encouraging pedagogical innovations and facilitating research-informed practice to impact student learning. It engenders the professional belief that every student can learn, and that children learn best through multi-sensory methods and through authentic and active learning. The LPL Chapter will serve as a focal point for Primary 1 and Primary 2 teachers to collaborate and network. Through partnerships with various MOE divisions and external partners, the LPL Chapter seeks to raise the professional standards in the teachers to support learners as they transit from Kindergarten to Primary Schools.
 
@@ -331,4 +331,4 @@ Audrey SIM (Ms):&nbsp;<a href="mailto:Audrey_sim@moe.gov.sg">Audrey_sim@moe.gov.
 </div>  
   
 </li>  		
-</ul>
+</ul></ul>

@@ -4,8 +4,7 @@ permalink: /office-of-subject-chapters/humanities-and-cce/history-chapter/
 description: ""
 third_nav_title: Humanities and CCE
 ---
-![](/images/ohc1.png)
-<img src="/images/ohc2.png" style="width:70%">
+<img src="/images/SubChap/history-chapter-2023.jpg" style="width:100%">
 
 <ul class="jekyllcodex_accordion">  
   
@@ -20,13 +19,13 @@ third_nav_title: Humanities and CCE
 <p>
 The History Chapter provides a platform for the History fraternity to network and collaboratively engage in building expertise and resources that would enable teachers to inspire in students a life-long passion for the study of history. We are working closely with the History Unit, CPDD, ETD and the National Institute of Education to create different learning experiences for History teachers.&nbsp; These learning experiences connect History teachers through the creation of networked learning communities.<br><br>
 
-The aims of the History Chapter are to:<br><br>
+The aims of the History Chapter are to:<br>
 
 •   raise the professional standards in the teaching and learning of History<br>
 •   build a culture of professionalism and pride in the History fraternity<br>
-•   serve as a focal point for History teachers’ collaboration and networking<br><br>
+•   serve as a focal point for History teachers’ collaboration and networking<br>
 
-We organise various professional learning activities for you:<br><br>
+We organise various professional learning activities for you:<br>
 
 •   Courses and learning programmes<br>
 •   Learning journeys<br>

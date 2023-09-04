@@ -4,13 +4,10 @@ permalink: /office-of-subject-chapters/science/design-and-technology-chapter/
 description: ""
 third_nav_title: Science
 ---
-![](/images/dtc1.png)
-
-<img src="/images/dtc2.png" style="width:70%">
-
+<img src="/images/SubChap/d&amp;t-chapter-2023.jpg" style="width:100%">
 
 <ul class="jekyllcodex_accordion">  
-  
+	
 <li>  
   
 <input type="checkbox" id="accordion1">  
@@ -20,11 +17,11 @@ third_nav_title: Science
 <div>  
   
 <p>
-The Design &amp; Technology (D&amp;T) Chapter is a professional network that aims to <br><br>
+The Design &amp; Technology (D&amp;T) Chapter is a professional network that aims to <br>
 
 • promote a culture of professionalism and pride within the D&amp;T fraternity;  <br>
 • serve as a focal point for D&amp;T teachers to engage in collaborative learning and inquiry; and  <br>
-• broaden their professional knowledge to improve classroom practice through collaborative learning in a network.  <br><br>
+• broaden their professional knowledge to improve classroom practice through collaborative learning in a network.  <br>
 
 By participating in learning activities organised by the D&amp;T Chapter, our D&amp;T teachers can be empowered to incorporate their ideas and insights from networked learning communities into their instructional practices. In addition, such engagement in networked learning will help to foster teacher ownership and teacher leadership.
 </p>  
@@ -108,5 +105,4 @@ Check out our past D&amp;T subject chapter events here:  <br><br>
  
 </div>  
   
-</li>  		
-</ul>
+</li></ul>
