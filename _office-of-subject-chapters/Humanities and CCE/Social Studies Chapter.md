@@ -4,14 +4,9 @@ permalink: /office-of-subject-chapters/humanities-and-cce/social-studies-chapter
 description: ""
 third_nav_title: Humanities and CCE
 ---
-![](/images/ssc1.png)
-
-<img src="/images/ssc2.png" style="width:70%">
-
-<ul class="jekyllcodex_accordion">  
-  
+<img src="/images/SubChap/socialstudies-chapter-2023.jpg" style="width:100%">
 <li>  
-  
+	
 <input type="checkbox" id="accordion1">  
   
 <label for="accordion1">Objectives of the Social Studies Chapter</label>  
@@ -69,4 +64,4 @@ The Social Studies Chapter provides teachers with learning opportunities beyond 
 </div>  
   
 </li>  	
-  </ul>
+  
