@@ -76,6 +76,10 @@ Mr Choo Meng Cher<br>
 Institute of Technical Education<br>
 <a target="_blank" href="https://www.schoolbag.edu.sg/story/how-to-get-students-all-excited-about-voltage-or-waveforms-ask-(meng)-'cher">How to get students all excited about voltage or waveforms? Ask (Meng) 'Cher</a><br><br>
 
-Mr Yeo Choon Hwa<br>
-Queensway Secondary School<br>
-<a target="_blank" href="https://www.schoolbag.edu.sg/story/read-e-stead-e-pe!-how-this-sports-coach-leapt-for-tech"> Read-e, stead-e, PE! How this sports coach leapt for tech’</a><br><br>
+Ms Yap Wei Ling<br>
+Republic Polytechnic<br>
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/securing-more-women-for-the-cyber-force">Securing more women for the cyber force</a><br><br>
+
+Mr Tio Choon Fook<br>
+Nanyang Polytechnic<br>
+<a target="_blank" href="https://www.schoolbag.edu.sg/story/ux-lecturer-puts-students-experience-first-walks-the-talk"> UX lecturer puts students' experience first, walks the talk</a><br><br>
