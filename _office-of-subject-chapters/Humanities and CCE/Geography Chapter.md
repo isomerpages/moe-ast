@@ -17,11 +17,11 @@ third_nav_title: Humanities and CCE
 <div>  
   
 <p>
-The Geography Chapter’s vision ‘Every Geography Teacher, a Geographer’ is an aspirational anchor to motivate us to think like a geographer in disciplinary understanding and practice. Our mission is to empower geography teachers to create learning experiences that reflect disciplinary practices. We invite geography teachers to learn in a culture of collaborative inquiry through courses and collaborative efforts in networked learning communities. Our wish is for all geography teachers to continuously hone their craft in research-informed practice and engage in pedagogical innovation. We collaborate and network with organisations with similar aims and interests in Geography education. These include MOE divisions such as  CPDD and ETD   the National Institute of Education (NIE) and other partner organisations such as EOS, NParks, URA and professional associations such as the Geography Teachers’ Association of Singapore. In time, we hope to extend our networks and partnerships with international geography education agencies. <br><br>
+The Geography Chapter’s vision ‘Every Geography Teacher, a Geographer’ is an aspirational anchor to motivate us to think like a geographer in disciplinary understanding and practice. Our mission is to empower geography teachers to create learning experiences that reflect disciplinary practices. We invite geography teachers to learn in a culture of collaborative inquiry through courses and collaborative efforts in networked learning communities. Our wish is for all geography teachers to continuously hone their craft in research-informed practice and engage in pedagogical innovation. We collaborate and network with organisations with similar aims and interests in Geography education. These include MOE divisions such as  CPDD and ETD   the National Institute of Education (NIE) and other partner organisations such as EOS, NParks, URA and professional associations such as the Geography Teachers’ Association of Singapore. In time, we hope to extend our networks and partnerships with international geography education agencies. <br>
 
 Through collaborative learning in a network, you could widen your   professional discourse with your fellow Geography educators and deepen your subject content knowledge and pedagogical content knowledge.<br><br>
 
-<b>We organise various professional learning activities  :</b><br><br>
+<b>We organise various professional learning activities  :</b><br>
 
 •   Networked Learning <br>
 •   Workshops<br>
