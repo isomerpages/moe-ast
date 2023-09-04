@@ -17,8 +17,6 @@ Hwa Chong Institution has emerged as one of two top teams, out of 51 teams from 
 Congratulations to Hwa Chong Institution and Victoria School for doing Singapore proud! More details can be found at&nbsp;[https://www.immcsingapore.org/](https://www.immcsingapore.org/).  
 
 You can access the video of the IMMC 2021 Virtual Award and Sharing Session&nbsp;[here](https://app.wipster.io/Review/CQq-OAC154NjA8moiT64SQThjM48BnQvD_LbOOiCi28BdAVcgQ).
-
-<ul class="jekyllcodex_accordion">  
   
 <li>  
   
@@ -80,4 +78,3 @@ A community of competent teacher leaders who inspire the learning and teaching o
   
 </li>  	
   
-</ul>
