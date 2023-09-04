@@ -4,12 +4,7 @@ permalink: /office-of-subject-chapters/humanities-and-cce/principles-of-accounts
 description: ""
 third_nav_title: Humanities and CCE
 ---
-![](/images/pac1.png)
-
-<img src="/images/pac2.png" style="width:70%">
-
-<ul class="jekyllcodex_accordion">  
-  
+<img src="/images/SubChap/poa-chapter-2023.jpg" style="width:100%">
 <li>  
   
 <input type="checkbox" id="accordion1">  
@@ -88,4 +83,3 @@ You may contact&nbsp;Mdm Rabiyah Ismail <a href="mailto:Rabiyah_ISMAIL@moe.gov.s
 </div>  
   
 </li>  		
-</ul>
