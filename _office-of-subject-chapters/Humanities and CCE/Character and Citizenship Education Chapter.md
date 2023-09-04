@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Humanities and CCE
 ---
 <img src="/images/SubChap/cce-chapter-2023.jpg" style="width:100%">
+
+<ul class="jekyllcodex_accordion">  
   
 <li>  
   
@@ -95,4 +97,4 @@ _For more information, please write to <a href="mailto:Teo_Ping_Wei@moe.gov.sg">
 </div>  
   
 	
-</li>
+</li></ul>
