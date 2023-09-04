@@ -6,6 +6,8 @@ third_nav_title: Humanities and CCE
 ---
 <img src="/images/SubChap/economics-chapter-2023.jpg" style="width:100%">
   
+<ul class="jekyllcodex_accordion">  
+	
 <li>  
   
 <input type="checkbox" id="accordion1">  
@@ -80,4 +82,4 @@ The Economics Chapter is led by the Master Teachers who work closely with a core
   
 </div>  
   
-</li>
+</li></ul>
