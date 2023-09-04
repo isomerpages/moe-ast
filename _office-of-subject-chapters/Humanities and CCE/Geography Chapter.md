@@ -4,10 +4,7 @@ permalink: /office-of-subject-chapters/humanities-and-cce/geography-chapter/
 description: ""
 third_nav_title: Humanities and CCE
 ---
-![](/images/osc5.png)
-
-
-<img src="/images/osc6.png" style="width:70%">
+<img src="/images/SubChap/geography-subject-chapter-2023-2.jpg" style="width:100%">
 
 <ul class="jekyllcodex_accordion">  
   
