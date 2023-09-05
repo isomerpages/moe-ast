@@ -68,21 +68,18 @@ Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nb
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 	
 <!-- Mr Yuen Kah Mun -->
-<img align="left" style="width:80px;height:100px;margin-right:15px;" src="/images/SubChap/mr%20yuen%20kah%20mun%20.png"><strong>Mr Yuen Kah Mun</strong><br>Master Teacher / Geography<br>(Boon Lay Secondary School)<br>Area of Specialisation: Differentatied Instruction, High Ability Learners, Fieldwork<br>Email: <a href="mailto:Yuen_Kah_Mun@schools.gov.sg">Yuen_Kah_Mun@schools.gov.sg</a><br>Contact no.: 6794 0161<br>
+<div style="float:left; width:350px; height:250px; padding:10px; display:block"><img align="left" style="width:80px;height:100px;margin-right:15px;" src="/images/SubChap/mr%20yuen%20kah%20mun%20.png"><strong>Mr Yuen Kah Mun</strong><br>Master Teacher / Geography<br>(Boon Lay Secondary School)<br>Area of Specialisation: Differentatied Instruction, High Ability Learners, Fieldwork<br>Email: <a href="mailto:Yuen_Kah_Mun@schools.gov.sg">Yuen_Kah_Mun@schools.gov.sg</a><br>Contact no.: 6794 0161<br>
 
 <!-- Ms Lim Puay Yin -->
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
-<img align="left" style="width:60px;height:105px;margin-right:15px;" src="/images/geo2.png"><strong>Ms Lim Puay Yin</strong><br>Master Teacher / Geography<br><br><br><br>Area of Specialisation: Formative Assessment and Questioning,&nbsp;Concept-based Teaching &amp; Learning, Curriculum Redesign <br>Email: <a href="mailto:Lim_Puay_Yin@moe.gov.sg">Lim_Puay_Yin@moe.gov.sg</a><br>Contact no.: 6664 1427	</div>
-<div style="float:left; width:350px; height:250px; padding:10px; display:block">
+<img align="left" style="width:60px;height:105px;margin-right:15px;" src="/images/geo2.png"><strong>Ms Lim Puay Yin</strong><br>Master Teacher / Geography<br><br><br><br>Area of Specialisation: Formative Assessment and Questioning,&nbsp;Concept-based Teaching &amp; Learning, Curriculum Redesign <br>Email: <a href="mailto:Lim_Puay_Yin@moe.gov.sg">Lim_Puay_Yin@moe.gov.sg</a><br>Contact no.: 6664 1427<br>
 
-<!-- Ms Lim Puay Yin -->
-<div style="float:left; width:350px; height:250px; padding:10px; display:block">
-<img align="left" style="width:60px;height:105px;margin-right:15px;" src="/images/geo2.png"><strong>Ms Lim Puay Yin</strong><br>Master Teacher / Geography<br><br><br>Email: <a href="mailto:Lim_Puay_Yin@moe.gov.sg">Lim_Puay_Yin@moe.gov.sg</a><br>Contact no.: 6664 1427	</div><div style="float:left; width:350px; height:250px; padding:10px; display:block">
-	
 <!-- Ms Lum Kit Kuan Melanie -->
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 <img align="left" style="width:80px;height:109px;margin-right:15px;" src="/images/geo3.png"><strong>Ms Lum Kit Kuan Melanie</strong><br>Master Teacher / Geography<br><br><br>Email: <a href="mailto:Melanie_Lum@moe.gov.sg">Melanie_Lum@moe.gov.sg</a><br>Contact no.: 6664 1444</div>
 <div style="clear:both"><hr></div>
+	
+
 </div>
 <h4>History Master Teachers</h4>
 <div style="clear:both">
