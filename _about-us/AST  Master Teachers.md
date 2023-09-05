@@ -3,11 +3,11 @@ title: AST  Master Teachers
 permalink: /about-us/ast-master-teachers/
 description: ""
 ---
-!\[\](/images/Our%20MTT/mtt\_ast\_2023.jpg)
+![](/images/Our%20MTT/mtt_ast_2023.jpg)
 
   
 
-\#### Building a culture of teacher-led professionalism and pride in the teaching fraternity
+#### Building a culture of teacher-led professionalism and pride in the teaching fraternity
 
   
 
@@ -15,17 +15,8 @@ The Office of Subject Chapters in the AST is home to Principal Master and Master
 
   
 
-\##### Subject Chapters in AST
-
-  
-
-
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <table style="border-style:solid; border-width:2px; width:90%"><tbody><tr><th style="background:#eeeeee">Humanities &amp; CCE </th><td>
+##### Subject Chapters in AST
+ <table style="border-style:solid; border-width:2px; width:90%"><tbody><tr><th style="background:#eeeeee">Humanities &amp; CCE </th><td>
 
 <ul>
 
