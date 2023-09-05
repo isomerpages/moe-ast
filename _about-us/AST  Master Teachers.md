@@ -68,7 +68,7 @@ Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nb
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 	
 <!-- Mr Yuen Kah Mun -->
-<img align="left" style="width:80px;height:100px;margin-right:15px;" src="/images/SubChap/mr%20yuen%20kah%20mun%20.png"><strong>Mr Yuen Kah Mun</strong><br>Master Teacher / Geography<br>(Boon Lay Secondary School)<br><br><br>Area of Specialisation: Differentatied Instruction, High Ability Learners, Fieldwork<br>Email: <a href="mailto:Yuen_Kah_Mun@schools.gov.sg">Yuen_Kah_Mun@schools.gov.sg</a><br>Contact no.: 6794 0161<div style="float:left; width:350px; height:250px; padding:10px; display:block">
+<img align="left" style="width:80px;height:100px;margin-right:15px;" src="/images/SubChap/mr%20yuen%20kah%20mun%20.png"><strong>Mr Yuen Kah Mun</strong><br>Master Teacher / Geography<br>(Boon Lay Secondary School)<br>Area of Specialisation: Differentatied Instruction, High Ability Learners, Fieldwork<br>Email: <a href="mailto:Yuen_Kah_Mun@schools.gov.sg">Yuen_Kah_Mun@schools.gov.sg</a><br>Contact no.: 6794 0161<br>
 
 <!-- Ms Lim Puay Yin -->
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
@@ -237,4 +237,4 @@ Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nb
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 <img align="left" style="width:100px;height:76px;margin-right:15px;" src="/images/hal.png"><strong>Mdm Evelyn Yeo</strong><br>Master Teacher/ High Ability Learners<br><br>Email: <a href="mailto:Evelyn_YEO@moe.gov.sg">Evelyn_YEO@moe.gov.sg</a><br>Contact no.: 6664 1420</div>
 <div style="clear:both"><hr></div>
-</div></div></div></div></div>
+</div></div></div></div>
