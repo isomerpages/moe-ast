@@ -4,7 +4,7 @@ permalink: /office-of-subject-chapters/learner-profile/high-ability-learners-cha
 description: ""
 third_nav_title: Learner Profile
 ---
-<img src="/images/SubChap/hal-chapter-2023.jpg" style="width:100%">
+<img src="/images/SubChap/hal-chapter-2023.jpg" style="width:70%">
 
 <li>  
 

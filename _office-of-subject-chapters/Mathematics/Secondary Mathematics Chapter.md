@@ -4,7 +4,7 @@ permalink: /office-of-subject-chapters/mathematics/secondary-mathematics-chapter
 description: ""
 third_nav_title: Mathematics
 ---
-<img src="/images/SubChap/secondarymaths-chapter-2023.jpg" style="width:100%">
+<img src="/images/SubChap/secondarymaths-chapter-2023.jpg" style="width:70%">
 
 <ul class="jekyllcodex_accordion">  
 

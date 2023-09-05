@@ -4,7 +4,7 @@ permalink: /office-of-subject-chapters/science/biology-chapter/
 description: ""
 third_nav_title: Science
 ---
-<img src="/images/SubChap/bio-chapter-2023.jpg" style="width:100%">
+<img src="/images/SubChap/bio-chapter-2023.jpg" style="width:70%">
 
 <ul class="jekyllcodex_accordion">  
 	
