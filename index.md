@@ -13,8 +13,6 @@ sections:
       subtitle: PAT 2023
       button: Read more
       url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/presidents-award-for-teachers/recipients-and-finalists/
-      image: /images/Awards/v3_pat 2023_finalist and recipients_announcement post_with
-        header.jpg
       alt: pat2023
   - infopic:
       title: MOE Supports President's Challenge
