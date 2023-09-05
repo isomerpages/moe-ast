@@ -4,7 +4,7 @@ permalink: /office-of-subject-chapters/science/nutrition-and-food-science-chapte
 description: ""
 third_nav_title: Science
 ---
-<img src="/images/SubChap/nfs-chapter-2023.jpg" style="width:100%">
+<img src="/images/SubChap/nfs-chapter-2023.jpg" style="width:70%">
 
 <ul class="jekyllcodex_accordion">  
 
