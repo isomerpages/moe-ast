@@ -4,7 +4,7 @@ permalink: /office-of-subject-chapters/learner-profile/educational-support-chapt
 description: ""
 third_nav_title: Learner Profile
 ---
-<img src="/images/SubChap/edsupport-chapter-2023.jpg" style="width:100%">
+<img src="/images/SubChap/edsupport-chapter-2023.jpg" style="width:70%">
 
 <ul class="jekyllcodex_accordion">  
 
