@@ -120,17 +120,17 @@ Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nb
 
 <!-- Mr Yuen Kah Mun -->
 
-<img src="/images/geo1.png" style="width:80px;height:100px;margin-right:15px;" align="left"><strong>Mr Yuen Kah Mun</strong><br>Master Teacher / Geography <br>(Boon Lay Secondary School)<br><br>Email: <a href="mailto:Yuen\_Kah\_Mun@schools.gov.sg">Yuen\_Kah\_Mun@schools.gov.sg</a><br>Contact no.: 6794 0161</div>
+<img src="/images/geo1.png" style="width:80px;height:100px;margin-right:15px;" align="left"><strong>Mr Yuen Kah Mun</strong><br>Master Teacher / Geography <br>(Boon Lay Secondary School)<br><br>Email: <a href="mailto:Yuen\_Kah\_Mun@schools.gov.sg">Yuen_Kah_Mun@schools.gov.sg</a><br>Contact no.: 6794 0161</div>
 
 <!-- Ms Lim Puay Yin -->
 
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 
-<img src="/images/geo2.png" style="width:60px;height:105px;margin-right:15px;" align="left"><strong>Ms Lim Puay Yin</strong><br>Master Teacher / Geography<br><br><br>Email: <a href="mailto:Lim\_Puay\_Yin@moe.gov.sg">Lim\_Puay\_Yin@moe.gov.sg</a><br>Contact no.: 6664 1427 </div>
+<img src="/images/geo2.png" style="width:60px;height:105px;margin-right:15px;" align="left"><strong>Ms Lim Puay Yin</strong><br>Master Teacher / Geography<br><br><br>Email: <a href="mailto:Lim\_Puay\_Yin@moe.gov.sg">Lim_Puay_Yin@moe.gov.sg</a><br>Contact no.: 6664 1427 </div>
 
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 
-<img src="/images/geo3.png" style="width:80px;height:109px;margin-right:15px;" align="left"><strong>Ms Lum Kit Kuan Melanie</strong><br>Master Teacher / Geography<br><br><br>Email: <a href="mailto:Melanie\_Lum@moe.gov.sg">Melanie\_Lum@moe.gov.sg</a><br>Contact no.: 6664 1444</div>
+<img src="/images/geo3.png" style="width:80px;height:109px;margin-right:15px;" align="left"><strong>Ms Lum Kit Kuan Melanie</strong><br>Master Teacher / Geography<br><br><br>Email: <a href="mailto:Melanie\_Lum@moe.gov.sg">Melanie_Lum@moe.gov.sg</a><br>Contact no.: 6664 1444</div>
 
 <div style="clear:both"><hr></div>
 
@@ -142,15 +142,15 @@ Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nb
 
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 
-<img src="/images/hist1.png" style="width:80px;height:109px;margin-right:15px;" align="left"><strong>Mr Andrew Anthony</strong><br>Principal Master Teacher / History<br><br>Email: <a href="mailto:Anthony\_Andrew\_Michael@moe.gov.sg">Anthony\_Andrew\_Michael@moe.gov.sg</a><br>Contact no.: 66641445</div>
+<img src="/images/hist1.png" style="width:80px;height:109px;margin-right:15px;" align="left"><strong>Mr Andrew Anthony</strong><br>Principal Master Teacher / History<br><br>Email: <a href="mailto:Anthony\_Andrew\_Michael@moe.gov.sg">Anthony_Andrew_Michael@moe.gov.sg</a><br>Contact no.: 66641445</div>
 
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 
-<img src="/images/hist2.png" style="width:80px;height:109px;margin-right:15px;" align="left"><strong>Mr Tham Chin Pang Joseph</strong><br>Master Teacher/ History<br><br>Email:<a href="mailto:Tham\_Chin\_Pang@moe.gov.sg">Tham\_Chin\_Pang@moe.gov.sg</a><br>Contact no.: 6664 1438</div>
+<img src="/images/hist2.png" style="width:80px;height:109px;margin-right:15px;" align="left"><strong>Mr Tham Chin Pang Joseph</strong><br>Master Teacher/ History<br><br>Email:<a href="mailto:Tham\_Chin\_Pang@moe.gov.sg">Tham_Chin_Pang@moe.gov.sg</a><br>Contact no.: 6664 1438</div>
 
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 
-<img src="/images/hist3.png" style="width:80px;height:109px;margin-right:15px;" align="left"><strong>Mr Yeo Tze Chiang Lloyd Luc</strong><br>Master Teacher/ History<br><br>Email: <a href="mailto:Lloyd\_Luc\_Yeo@moe.gov.sg">Lloyd\_Luc\_Yeo@moe.gov.sg</a><br>Contact no.: 6664 1446</div>
+<img src="/images/hist3.png" style="width:80px;height:109px;margin-right:15px;" align="left"><strong>Mr Yeo Tze Chiang Lloyd Luc</strong><br>Master Teacher/ History<br><br>Email: <a href="mailto:Lloyd\_Luc\_Yeo@moe.gov.sg">Lloyd_Luc_Yeo@moe.gov.sg</a><br>Contact no.: 6664 1446</div>
 
 <div style="clear:both"><hr></div>
 
@@ -162,7 +162,7 @@ Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nb
 
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 
-<img src="/images/ss1.png" style="width:120px;height:100px;margin-right:15px;" align="left"><strong>Mdm Premaletha Gopalakrishnan</strong><br>Master Teacher / Social Studies<br><br>Email: <a href="mailto:Premaletha\_Gopalakrishnan@moe.gov.sg">Premaletha\_Gopalakrishnan@moe.gov.sg</a><br>Contact no.: 6664 1437</div>
+<img src="/images/ss1.png" style="width:120px;height:100px;margin-right:15px;" align="left"><strong>Mdm Premaletha Gopalakrishnan</strong><br>Master Teacher / Social Studies<br><br>Email: <a href="mailto:Premaletha\_Gopalakrishnan@moe.gov.sg">Premaletha_Gopalakrishnan@moe.gov.sg</a><br>Contact no.: 6664 1437</div>
 
 <div style="clear:both"><hr></div>
 
@@ -174,11 +174,11 @@ Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nb
 
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 
-<img src="/images/econs1.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Tan Dai Hwee</strong><br>Master Teacher / Economics<br><br>Email: <a href="mailto:Tan\_Dai\_Hwee@moe.gov.sg">Tan\_Dai\_Hwee@moe.gov.sg</a><br>Contact no.: 6664 1443</div>
+<img src="/images/econs1.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Tan Dai Hwee</strong><br>Master Teacher / Economics<br><br>Email: <a href="mailto:Tan\_Dai\_Hwee@moe.gov.sg">Tan_Dai_Hwee@moe.gov.sg</a><br>Contact no.: 6664 1443</div>
 
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 
-<img src="/images/pxb-mtt-khoogeehwee.jpg" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mr Khoo Gee Hwee</strong><br>Master Teacher / Economics<br><br>Email: <a href="mailto:Khoo\_Gee\_Hwee@moe.gov.sg">Khoo\_Gee\_Hwee@moe.gov.sg</a><br>Contact no.: 6664 1425</div>
+<img src="/images/pxb-mtt-khoogeehwee.jpg" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mr Khoo Gee Hwee</strong><br>Master Teacher / Economics<br><br>Email: <a href="mailto:Khoo\_Gee\_Hwee@moe.gov.sg">Khoo_Gee_Hwee@moe.gov.sg</a><br>Contact no.: 6664 1425</div>
 
 <div style="clear:both"><hr></div>
 
@@ -190,31 +190,31 @@ Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nb
 
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 
-<img src="/images/math1.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Cynthia Seto</strong><br>Principal Master Teacher/ Primary Mathematics<br><br>Email: <a href="mailto:Cynthia\_Seto@moe.gov.sg">Cynthia\_Seto@moe.gov.sg</a><br>Contact no.: 6664 1578</div>
+<img src="/images/math1.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Cynthia Seto</strong><br>Principal Master Teacher/ Primary Mathematics<br><br>Email: <a href="mailto:Cynthia\_Seto@moe.gov.sg">Cynthia_Seto@moe.gov.sg</a><br>Contact no.: 6664 1578</div>
 
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 
-<img src="/images/math2.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Ms Chan Min Lie</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:CHAN\_Min\_Lie@moe.gov.sg">CHAN\_Min\_Lie@moe.gov.sg</a><br>Contact no.: 6664 1406</div>
+<img src="/images/math2.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Ms Chan Min Lie</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:CHAN\_Min\_Lie@moe.gov.sg">CHAN_Min_Lie@moe.gov.sg</a><br>Contact no.: 6664 1406</div>
 
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 
-<img src="/images/math3.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mr Choon Ming Kwang</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Choon\_Ming\_Kwang@moe.gov.sg">Choon\_Ming\_Kwang@moe.gov.sg</a><br>Contact no.: 6664 1445</div>
+<img src="/images/math3.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mr Choon Ming Kwang</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Choon\_Ming\_Kwang@moe.gov.sg">Choon_Ming_Kwang@moe.gov.sg</a><br>Contact no.: 6664 1445</div>
 
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 
-<img src="/images/math4.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Ms Heng Chor Hui Theresa</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Theresa\_Heng@moe.gov.sg">Theresa\_Heng@moe.gov.sg</a><br>Contact no.: 6664 1576</div>
+<img src="/images/math4.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Ms Heng Chor Hui Theresa</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Theresa\_Heng@moe.gov.sg">Theresa_Heng@moe.gov.sg</a><br>Contact no.: 6664 1576</div>
 
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 
-<img src="/images/math5.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Ms Teh Wan</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Teh\_Wan@moe.gov.sg">Teh\_Wan@moe.gov.sg</a><br>Contact no.: 6664 1577</div>
+<img src="/images/math5.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Ms Teh Wan</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Teh\_Wan@moe.gov.sg">Teh_Wan@moe.gov.sg</a><br>Contact no.: 6664 1577</div>
 
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 
-<img src="/images/pxb-changsuohuib825d0ad8ec447f6a35273e332cb7ac6.jpg" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Chang Suo Hui</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Chang\_Suo\_Hui@moe.gov.sg">Chang\_Suo\_Hui@moe.gov.sg</a><br>Contact no.: 6664 1406</div>
+<img src="/images/pxb-changsuohuib825d0ad8ec447f6a35273e332cb7ac6.jpg" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Chang Suo Hui</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Chang\_Suo\_Hui@moe.gov.sg">Chang_Suo_Hui@moe.gov.sg</a><br>Contact no.: 6664 1406</div>
 
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 
-<img src="/images/pxb-mtt-lohguatbee7da3811206454f9496c5bec5bd7fbc7d.jpg" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mdm Loh Guat Bee</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Loh\_Guat\_Bee@moe.gov.sg">Loh\_Guat\_Bee@moe.gov.sg</a><br>Contact no.: 6664 1404</div>
+<img src="/images/pxb-mtt-lohguatbee7da3811206454f9496c5bec5bd7fbc7d.jpg" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Mdm Loh Guat Bee</strong><br>Master Teacher / Primary Mathematics<br><br>Email: <a href="mailto:Loh\_Guat\_Bee@moe.gov.sg">Loh_Guat_Bee@moe.gov.sg</a><br>Contact no.: 6664 1404</div>
 
 <div style="clear:both"><hr></div>
 
@@ -226,15 +226,15 @@ Guided by the professional learning philosophy of "Teacher Ownership, Teacher&nb
 
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 
-<img src="/images/math12.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Tan Liang Soon</strong><br>Principal Master Teacher / Secondary and JC Mathematics<br><br>Email: <a href="mailto:Tan\_Liang\_Soon@moe.gov.sg">Tan\_Liang\_Soon@moe.gov.sg</a><br>Contact no.: 6664 1585</div>
+<img src="/images/math12.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Tan Liang Soon</strong><br>Principal Master Teacher / Secondary and JC Mathematics<br><br>Email: <a href="mailto:Tan\_Liang\_Soon@moe.gov.sg">Tan_Liang_Soon@moe.gov.sg</a><br>Contact no.: 6664 1585</div>
 
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 
-<img src="/images/math6.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Foo Kum Fong</strong><br>Master Teacher / Secondary Mathematics <br><br>Email: <a href="mailto:foo\_kum\_fong@moe.gov.sg">foo\_kum\_fong@moe.gov.sg</a><br>Contact no.: 6664 1412</div>
+<img src="/images/math6.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Foo Kum Fong</strong><br>Master Teacher / Secondary Mathematics <br><br>Email: <a href="mailto:foo\_kum\_fong@moe.gov.sg">foo_kum_fong@moe.gov.sg</a><br>Contact no.: 6664 1412</div>
 
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 
-<img src="/images/math7.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Leong Swee Ling</strong><br>Master Teacher / Secondary Mathematics (Bukit Merah Secondary School)<br><br>Email: <a href="mailto:leong\_swee\_ling@schools.gov.sg">leong\_swee\_ling@schools.gov.sg</a><br>Contact no.: 6474 8934</div>
+<img src="/images/math7.png" style="width:80px;height:105px;margin-right:15px;" align="left"><strong>Dr Leong Swee Ling</strong><br>Master Teacher / Secondary Mathematics (Bukit Merah Secondary School)<br><br>Email: <a href="mailto:leong\_swee\_ling@schools.gov.sg">leong_swee_ling@schools.gov.sg</a><br>Contact no.: 6474 8934</div>
 
 <div style="float:left; width:350px; height:250px; padding:10px; display:block">
 
