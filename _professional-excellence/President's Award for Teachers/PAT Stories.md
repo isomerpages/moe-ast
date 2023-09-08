@@ -56,8 +56,8 @@ Mr Chua Boon Hwee, Daniel<br>
 Chongzheng Primary School<br>
 <a target="_blank" href="https://www.schoolbag.edu.sg/story/pokemon-maths-game-on-says-teacher-who-speaks-his-students-language">Pokemon Math? Game on, says teacher who speaks his students' language</a><br><br>
 
-Mdm Saedah Bte Mohamed Hussien<br>
-Xishan Primary School (Secondary)<br>
+Ms Saedah Bte Mohamed Hussien<br>
+Xishan Primary School<br>
 <a target="_blank" href="https://www.schoolbag.edu.sg/story/stronger-louder-calmer-students-is-this-cce-head-s-three-pointed-wish">Stronger, louder, CALMer students, is this CCE head's three-pointed wish</a><br><br>
 
 Mr Yeo Choon Hwa<br>
