@@ -15,4 +15,4 @@ You may access more information regarding SFEd from the links below:
 |   |   |
 |---|---|
 | <img src="/images/proex42.png" style="width:50px;height:50px;margin-right:15px;" align="left"> | [Infosheet on SFEd](/files/infosheet-on-SFEd.pdf) |
-| <img src="/images/proex44.png" style="width:50px;height:50px;margin-right:15px;" align="left"> | [SFEd Wikipage](https://www.opal2.moe.edu.sg/csl/s/skillsfuture-for-educators-sfed/wiki/page/view?title=Overview)(For MOE Educators; OPAL2.0 login required) |
+| <img src="/images/proex44.png" style="width:50px;height:50px;margin-right:15px;" align="left"> | [SFEd Wikipage](https://www.opal2.moe.edu.sg/csl/s/skillsfuture-for-educators-sfed/wiki/page/view?title=Overview) (For MOE Educators; OPAL2.0 login required) |
