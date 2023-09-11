@@ -4,7 +4,7 @@ permalink: /professional-excellence/skillsfuture-for-educators/overview/
 description: ""
 third_nav_title: SkillsFuture for Educators
 ---
-SkillsFuture for Educators (SFEd) was announced at the MOE Committee of Supply 2020 under the&nbsp;[Learn for Life movement](https://moe.gov.sg/microsites/cos2020/index.html). It is an initiative to improve teachers’ competencies and encourage lifelong learning.
+SkillsFuture for Educators (SFEd) was announced at the MOE Committee of Supply 2020 under the Learn for Life movement . It is an initiative to improve teachers’ competencies and encourage lifelong learning.
 
 <img src="/images/proex41.png" style="width:80%">
 
