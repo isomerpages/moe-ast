@@ -22,13 +22,3 @@ description: ""
 <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/eas/eas-learning-fest.aspx"><img src="/images/Events/easlf2023_postevent.png" style="width:1000px"></a>
 
 <p></p>
-<p id="vistas"></p>
-
-| Date | Venue | Event|
-| -------- | -------- | -------- |
-| 16 May  | AST or Zoom   | Professional Learning Series: VISTAs|
-
-
-<a href="https://intranet.moe.gov.sg/academy/TWA/Pages/VISTAs.aspx"><img src="/images/Events/vista-16may23.png" style="width:1000px"></a>
-*MOE Intranet access required*
-<p></p>
