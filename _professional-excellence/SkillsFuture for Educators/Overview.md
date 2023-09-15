@@ -10,6 +10,18 @@ SkillsFuture for Educators (SFEd) was announced at the MOE Committee of Supply 2
 
 **By Ong Ye Kung, Former Minister for Education, 4 March 2020.**
 
+##### Areas of Practice
+
+SFEd is a PD roadmap that guides teachers to strengthen their practice in six areas:
+
+<img src="/images/proex45.png" style="width:50%">
+
+##### Levels of Practice
+
+There are four Levels of Practice in each of the six areas: Emergent, Proficient, Accomplished, and Leading.
+
+<img src="/images/proex46.png" style="width:80%">
+
 You may access more information regarding SFEd from the links below:
 
 |   |   |

@@ -26,14 +26,6 @@ sections:
       subtitle: Spotlight
       alt: olive-pc
   - infopic:
-      title: TWA Plus VISTAs
-      subtitle: Upcoming Event
-      description: Latest Trends in Arts and Culture
-      button: Click For Registration
-      url: /events/upcoming-events/
-      image: /images/Events/vista-sep23-sml.PNG
-      alt: Image alt text
-  - infopic:
       title: Thank you for joining us at TCEF 2023
       subtitle: Recent Event
       button: Click for more recent events
