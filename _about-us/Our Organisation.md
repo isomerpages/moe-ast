@@ -17,7 +17,7 @@ The Academy of Singapore Teachers, subject chapters, teacher academies and langu
 
 ![](/images/One-Academy-orgchart.png)
 
-| Acronym | Branch / Academy / Language Centre name in full |
+| Abbreviation | Branch / Academy / Language Centre name in full |
 | - | -------- | 
 | CDB | Corporate Development Branch  | 
 | PDB1 | Professional Development Branch 1  |
