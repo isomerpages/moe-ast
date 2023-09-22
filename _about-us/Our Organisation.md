@@ -17,6 +17,18 @@ The Academy of Singapore Teachers, subject chapters, teacher academies and langu
 
 ![](/images/One-Academy-orgchart.png)
 
+| Abbreviation | Branch / Academy / Language Centre name in full |
+| - | -------- | 
+| CDB | Corporate Development Branch  | 
+| PDB1 | Professional Development Branch 1  |
+| PDB2 | Professional Development Branch 2 |
+| PXB | Pedagogical Excellence Branch |
+| ELIS | English Language Institute of Singapore |
+| PESTA | Physical Education &amp; Sports Teacher Academy |
+| STAR | Singapore Teachers’ Academy for the aRts |
+| MLCS | Malay Language Centre of Singapore |
+| SCCL | Singapore Centre for Chinese Language |
+| UPTLC (PDTL) | Umar Pulavar Tamil Language Centre <br>(Professional Development of Tamil Language Teachers)|
   
 
 #### Our Mission and Vision
