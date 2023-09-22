@@ -15,7 +15,7 @@ The Academy of Singapore Teachers, subject chapters, teacher academies and langu
 #### Many Academies. One Mission
 **How we are connected**
 
-![](/images/One-Academy-orgchart.png)
+![](/images/one-academy-orgchart_new.png)
 
 | Abbreviation | Branch / Academy / Language Centre name in full |
 | - | -------- | 
