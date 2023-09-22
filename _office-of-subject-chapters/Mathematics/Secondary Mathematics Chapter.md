@@ -16,9 +16,10 @@ In promoting STEM education among our teachers, 49 team advisers were engaged in
 
 Hwa Chong Institution has emerged as one of two top teams, out of 51 teams from 27 countries/regions, to be accorded the Outstanding Award in the international round of IM²C. This is the second consecutive win in IM²C for Singapore. Victoria School was accorded the Honorable Mention award.
 
-Congratulations to Hwa Chong Institution and Victoria School for doing Singapore proud! More details can be found at&nbsp;[https://www.immcsingapore.org/](https://www.immcsingapore.org/).  
+Congratulations to Hwa Chong Institution and Victoria School for doing Singapore proud! More details can be found at <a href="https://www.immcsingapore.org/">https://www.immcsingapore.org/</a>
 
-You can access the video of the IMMC 2021 Virtual Award and Sharing Session&nbsp;[here](https://app.wipster.io/Review/CQq-OAC154NjA8moiT64SQThjM48BnQvD_LbOOiCi28BdAVcgQ).
+
+You can access the video of the IMMC 2021 Virtual Award and Sharing Session <a href="https://app.wipster.io/Review/CQq-OAC154NjA8moiT64SQThjM48BnQvD_LbOOiCi28BdAVcgQ">here</a><br>
   
 <li>  
   
