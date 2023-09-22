@@ -28,7 +28,8 @@ To build a teacher-led culture of professional excellence in the learning and te
 <b>Vision:</b><br>
 
 A community of competent teacher leaders who inspire the learning and teaching of mathematics
-</p>  
+</p>
+<br>
   
 </div>  
   

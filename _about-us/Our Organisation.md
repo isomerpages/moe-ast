@@ -15,7 +15,7 @@ The Academy of Singapore Teachers, subject chapters, teacher academies and langu
 #### Many Academies. One Mission
 **How we are connected**
 
-![](/images/One-Academy-orgchart.png)
+![](/images/one-academy-orgchart_new.png)
 
 | Abbreviation | Branch / Academy / Language Centre name in full |
 | - | -------- | 
@@ -28,7 +28,7 @@ The Academy of Singapore Teachers, subject chapters, teacher academies and langu
 | STAR | Singapore Teachers’ Academy for the aRts |
 | MLCS | Malay Language Centre of Singapore |
 | SCCL | Singapore Centre for Chinese Language |
-| UPTLC (PDTL) | Umar Pulavar Tamil Language Centre <br>(Professional Development of Tamil Language Teachers)|
+| PDTL | Professional Development of Tamil Language Teachers|
   
 
 #### Our Mission and Vision
