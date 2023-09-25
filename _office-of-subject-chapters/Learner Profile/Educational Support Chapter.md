@@ -4,9 +4,7 @@ permalink: /office-of-subject-chapters/learner-profile/educational-support-chapt
 description: ""
 third_nav_title: Learner Profile
 ---
-<img src="/images/SubChap/edsupport-chapter-2023.jpg" style="width:70%">
-
-<ul class="jekyllcodex_accordion">  
+<img src="/images/SubChap/edsupport-chapter-2023-1.jpg" style="width:70%"><ul class="jekyllcodex_accordion">  
 
 <li>  
 
@@ -21,10 +19,9 @@ third_nav_title: Learner Profile
 <p>
 
 	  
-The Educational Support (ES) Chapter is a professional network which aims to promote a culture of professionalism and pride for teachers supporting Low Progress Learners (LPL). It will also serve as a focal point for teachers of LPL to engage in collaborative learning and inquiry. <br><br>
+The Educational Support (ES) Chapter is a professional network which aims to promote a culture of professionalism and pride for teachers supporting students who benefit from educational support. It serves as a focal point for teachers to engage in collaborative learning and inquiry. <br><br>
 
-The ES Chapter seeks to deepen teachers’ mastery and pedagogical content knowledge in supporting LPL. Through partnerships with schools, divisions in MOE and the National Institute of Education (NIE), the ES Chapter promotes pedagogical innovations and facilitates research-informed practice, with the aim of motivating and engaging LPL in schools.
-	
+Through collaborations with schools, MOE divisions, and the National Institute of Education (NIE), the Chapter aims to enhance teacher’s Pedagogical Context Knowledge (PCK) pertaining to motivation and engagement.
 </p>  
   
 </div>  
