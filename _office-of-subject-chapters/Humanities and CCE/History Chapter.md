@@ -24,7 +24,7 @@ The aims of the History Chapter are to:<br>
 •   raise the professional standards in the teaching and learning of History<br>
 •   build a culture of professionalism and pride in the History fraternity<br>
 •   serve as a focal point for History teachers’ collaboration and networking<br>
-
+<br>
 We organise various professional learning activities for you:<br>
 
 •   Courses and learning programmes<br>
