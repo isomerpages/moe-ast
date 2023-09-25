@@ -36,7 +36,7 @@ The Economics Chapter aims to:<br><br>
 •   quality professional learning experiences for Economics teachers grounded on the disciplinary roots of Economics to deepen their pedagogical content knowledge and subject content knowledge.<br>
 •   quality resources for the teaching and learning of Economics.<br>
 
-<b>4. Champion</b><br>
+<b>4. Champion</b><br><br>
 
 •   teacher-ownership and teacher leadership towards professional excellence in the teaching of Economics.<br>
 •   innovative practices in the teaching of Economics.
