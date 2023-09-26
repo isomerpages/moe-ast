@@ -51,10 +51,19 @@ The objectives of the Workshop (Part 2) were to learn how Inquiry-based Learning
  
 Our OE, Mr. Noschese, shared a summary on the Observe, Predict, and Apply (OPA) framework, presented in Workshop (Part 1) in April. This pedagogical model encouraged students to actively engage with the scientific concepts by first observing a phenomenon, making predictions based on their observations, and then applying their understanding to real-world scenarios. With it, Mr. Noschese also refreshed the audience’s memory of the lesson he did with his students using the ideas presented by participants. The approach not only fostered critical thinking and problem-solving skills but also nurtured the students' innate curiosity and developed their scientific reasoning skills.
 
+<figure><img style="width:100%" src="/images/oeic12023.png"><figcaption>Sharing by Mr. Francesco P. Neal-Noschese
+</figcaption></figure>
+
 The localizing of pedagogical practice was witnessed through Mr. Tang’s sharing of his invaluable experiences implementing the OPA framework in his classroom. In particular, he highlighted its successful application across various topics, with a special focus on Energy and Pressure. By seamlessly integrating the OPA framework, Mr. Tang enabled his students to explore the fundamental principles of these concepts through hands-on activities, collaborative discussions, and real-world problem-solving exercises. This approach not only enhanced their understanding but also instilled a sense of curiosity and ownership in their learning journey.
+
+<figure><img style="width:100%" src="/images/oeic22023.png"><figcaption>Sharing by Mr. Lawrence Tang
+</figcaption></figure>
 
 In the second segment of this workshop, local educators from four different schools shared their experiences and insights on applying inquiry-based approaches in various Physics topics through the four concurrent sessions. These sessions offered insights to dynamic methods employed by these educators to make Physics come alive for their students. 
 
+<figure><img style="width:100%" src="/images/oeic32023.png"><figcaption>Forging sustained partnerships for positive and impactful learning experiences
+</figcaption></figure>
+
 The OEIC programme has served to be a dynamic and innovative platform for educators to be inspired, exchange ideas, learn from one another's successes, and collectively contribute to the innovation and transformation of Physics education. Through the application of the OPA framework and diverse inquiry-based methods, educators are empowered to transform traditional classrooms into vibrant hubs of curiosity, critical thinking, and practical application, aligned to the nurturing of 21st century competencies in our students.
  
-We are honoured to have the opportunity to have collaborated with Mr. Noschese through the OEIC Programme and we would like to thank him for his generosity in sharing his insights with our local educators. 
+We are honoured to have the opportunity to have collaborated with Mr. Noschese through the OEIC Programme and we would like to thank him for his generosity in sharing his insights with our local educators.
