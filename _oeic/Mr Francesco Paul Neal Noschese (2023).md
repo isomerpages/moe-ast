@@ -31,3 +31,30 @@ Through feedback given by teacher participants on the four workshops, participan
 ##### Overview of Online Workshop (Part 2) [16 August 2023]
 
 More information on the online workshop will be made available in Semester 2.
+
+###### Preamble
+
+Workshop (Part 2) was led by our Outstanding Educator (OE), Mr. Noschese, in collaboration with our Teacher Collaborator (TC), Mr. Lawrence Tang (Lead Teacher/Physics, Zhonghua Secondary School). This was followed by the sharing by local educators at four concurrent sessions which demonstrated further localizing pedagogical practices in schools, inspired by Mr Noschese. 
+
+The concurrent sessions were: 
+
+
+
+| Presenting Schools | Title | Presenters |
+| -------- | -------- | -------- |
+| Anderson Secondary School    | 5E Inquiry in Teaching Energy using MIRO and Tracker’ |  Mr Ang  Richmond Dy Mr Lai Rher Wei Mr Ng Weilun     |
+| Canberra Secondary School | Use of Open-ended Problems and Making Students Do Pattern-finding in the Teaching of Energy | Mr Chia Wai Han Mrs Goh Wai Yee Mr He Jiaen Mr Koh Tat Siang Ms Ng Liting Olivia |
+| Fuhua Secondary School     | Inquiry-based Approach to Engage Learners - Creating a prototype to solve a real-world DC Circuit Problem | Mr Muhammad Khairi Bin Ruslihan Mr Loh Kok Wee Raymond     |
+| Guangyang Secondary School   | An Inquiry-based Exploration of Conservation of Energy | Mrs Lim Poh Geok Mrs Loh-Teo Siew Khim Kim Ms Tan Ee Ling Janelle Mr Yong Kwong Fui   |
+
+The objectives of the Workshop (Part 2) were to learn how Inquiry-based Learning (IBL) strategies can be deployed in Physics classrooms and explore how these approaches could enhance the development of 21CC in our students. The participants delved into innovative teaching approaches that sparked curiosity, critical thinking, and active engagement among students; ultimately fostering a deeper understanding of Physics concepts.
+ 
+Our OE, Mr. Noschese, shared a summary on the Observe, Predict, and Apply (OPA) framework, presented in Workshop (Part 1) in April. This pedagogical model encouraged students to actively engage with the scientific concepts by first observing a phenomenon, making predictions based on their observations, and then applying their understanding to real-world scenarios. With it, Mr. Noschese also refreshed the audience’s memory of the lesson he did with his students using the ideas presented by participants. The approach not only fostered critical thinking and problem-solving skills but also nurtured the students' innate curiosity and developed their scientific reasoning skills.
+
+The localizing of pedagogical practice was witnessed through Mr. Tang’s sharing of his invaluable experiences implementing the OPA framework in his classroom. In particular, he highlighted its successful application across various topics, with a special focus on Energy and Pressure. By seamlessly integrating the OPA framework, Mr. Tang enabled his students to explore the fundamental principles of these concepts through hands-on activities, collaborative discussions, and real-world problem-solving exercises. This approach not only enhanced their understanding but also instilled a sense of curiosity and ownership in their learning journey.
+
+In the second segment of this workshop, local educators from four different schools shared their experiences and insights on applying inquiry-based approaches in various Physics topics through the four concurrent sessions. These sessions offered insights to dynamic methods employed by these educators to make Physics come alive for their students. 
+
+The OEIC programme has served to be a dynamic and innovative platform for educators to be inspired, exchange ideas, learn from one another's successes, and collectively contribute to the innovation and transformation of Physics education. Through the application of the OPA framework and diverse inquiry-based methods, educators are empowered to transform traditional classrooms into vibrant hubs of curiosity, critical thinking, and practical application, aligned to the nurturing of 21st century competencies in our students.
+ 
+We are honoured to have the opportunity to have collaborated with Mr. Noschese through the OEIC Programme and we would like to thank him for his generosity in sharing his insights with our local educators. 
