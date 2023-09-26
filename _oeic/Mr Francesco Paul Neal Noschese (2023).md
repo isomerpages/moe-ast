@@ -42,10 +42,10 @@ The concurrent sessions were:
 
 | Presenting Schools | Title | Presenters |
 | -------- | -------- | -------- |
-| Anderson Secondary School    | 5E Inquiry in Teaching Energy using MIRO and Tracker’ |  Mr Ang  Richmond Dy Mr Lai Rher Wei Mr Ng Weilun     |
-| Canberra Secondary School | Use of Open-ended Problems and Making Students Do Pattern-finding in the Teaching of Energy | Mr Chia Wai Han Mrs Goh Wai Yee Mr He Jiaen Mr Koh Tat Siang Ms Ng Liting Olivia |
-| Fuhua Secondary School     | Inquiry-based Approach to Engage Learners - Creating a prototype to solve a real-world DC Circuit Problem | Mr Muhammad Khairi Bin Ruslihan Mr Loh Kok Wee Raymond     |
-| Guangyang Secondary School   | An Inquiry-based Exploration of Conservation of Energy | Mrs Lim Poh Geok Mrs Loh-Teo Siew Khim Kim Ms Tan Ee Ling Janelle Mr Yong Kwong Fui   |
+| Anderson Secondary School    | 5E Inquiry in Teaching Energy using MIRO and Tracker’ |  Mr Ang  Richmond Dy; Mr Lai Rher Wei; Mr Ng Weilun     |
+| Canberra Secondary School | Use of Open-ended Problems and Making Students Do Pattern-finding in the Teaching of Energy | Mr Chia Wai Han; Mrs Goh Wai Yee; Mr He Jiaen; Mr Koh Tat Siang; Ms Ng Liting Olivia |
+| Fuhua Secondary School     | Inquiry-based Approach to Engage Learners - Creating a prototype to solve a real-world DC Circuit Problem | Mr Muhammad Khairi Bin Ruslihan; Mr Loh Kok Wee Raymond     |
+| Guangyang Secondary School   | An Inquiry-based Exploration of Conservation of Energy | Mrs Lim Poh Geok; Mrs Loh-Teo Siew Khim Kim; Ms Tan Ee Ling Janelle; Mr Yong Kwong Fui   |
 
 The objectives of the Workshop (Part 2) were to learn how Inquiry-based Learning (IBL) strategies can be deployed in Physics classrooms and explore how these approaches could enhance the development of 21CC in our students. The participants delved into innovative teaching approaches that sparked curiosity, critical thinking, and active engagement among students; ultimately fostering a deeper understanding of Physics concepts.
  
