@@ -1,5 +1,5 @@
 ---
-title: Outstanding Youth in Education Award (OYEA)
+title: Overview
 permalink: /professional-excellence/oyea/overview/
 description: ""
 third_nav_title: OYEA
