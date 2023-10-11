@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Upcoming Events.md
-      - Recent Events.md
+      - Past Events.md
