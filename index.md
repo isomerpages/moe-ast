@@ -27,9 +27,9 @@ sections:
       alt: olive-pc
   - infopic:
       title: Thank you for joining us at TCEF 2023
-      subtitle: Recent Event
-      button: Click for more recent events
-      url: /events/recent-events/
+      subtitle: Past Events
+      button: Click for more
+      url: /events/past-events/
       alt: TCEF2023
       image: /images/Events/tcef2023-thkyou-1.png
       description: Do visit the TCEF2023 website for conference session recordings and

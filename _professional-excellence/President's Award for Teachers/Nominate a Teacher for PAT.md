@@ -4,4 +4,6 @@ permalink: /professional-excellence/presidents-award-for-teachers/nomination/
 description: ""
 third_nav_title: President's Award for Teachers
 ---
-<center><b>Nomination for the President’s Award for Teachers (PAT) 2023 has closed<b><center></center></b></b></center>
+![](/images/pat%202024%20poster%20(002).jpeg)
+
+Submit your nomination via [go.gov.sg/pat2024](https://go.gov.sg/pat2024) to express your appreciation for an outstanding young educator.
