@@ -7,9 +7,6 @@ third_nav_title: Learner Profile
 <img src="/images/SubChap/edsupport-chapter-2023-1.jpg" style="width:70%"><ul class="jekyllcodex_accordion">  
 
 <li>  
-
-</li><li>  
-  
 <input type="checkbox" id="accordion1">  
   
 <label for="accordion1">Objectives of the Educational Support Chapter</label>  
