@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/Hero Images/hero_image_read.JPG
   - infopic:
-      title: Congratulations to our PAT 2023 Recipients and Finalists
-      subtitle: PAT 2023
+      title: Congratulations to our PMCA 2023 recipient, Mdm Penny Chong
+      subtitle: PMCA 2023
       button: Read more
-      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/presidents-award-for-teachers/recipients-and-finalists/
-      alt: pat2023
-      image: /images/Awards/pat2023.png
+      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/international-awards/pmca/
+      alt: pmca2023
+      image: /images/penny pmca award (web).jpeg
   - infopic:
       title: MOE Supports President's Challenge
       description: You can now make a difference in the lives of beneficiaries
