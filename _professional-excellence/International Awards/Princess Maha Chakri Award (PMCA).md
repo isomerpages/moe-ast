@@ -10,6 +10,8 @@ third_nav_title: International Awards
 
 PMCA is a royal award to be presented by Her Royal Highness Princess Maha Chakri Sirindhorn of Thailand to commemorate her 60th birthday. This award will be offered once in two years, starting from 2015, to one teacher from each of the 11 SEAMEO member countries (10 ASEAN countries and Timor Leste) to celebrate excellence in the teaching profession and recognise teachers for their contribution to the future generation.
 
+
+
 **2023 Recipient**
   
   
@@ -28,7 +30,4 @@ While working on her students’ academic progress, Mdm Chong is also conscious 
 
 Mdm Chong is regarded as an expert on educational matters for VI students due to her rich experience and the depth of her work. As a result, Mdm Chong often shares her knowledge with officers in MOE HQ, other education institutions and Singapore Examinations and Assessment Board on VI-related issues. Beyond Singapore, Mdm Chong had also hosted a Vietnamese delegate from Nguyen Ding Chiu School for the Blind in Ho Chih Minh City, where she shared and exchanged pedagogy and practices with the delegate. This exchange also broadened her views on VI education which enriches her work with her VI students. These professional conversations have helped the fraternity grow its knowledge in teaching VI students. Furthermore, her work with the VI students at AISS has broadly shaped the school’s way of managing and working with SEN students, and in supporting access arrangement for students with various impairments for learning and examinations.
  
-<p></p>
-	
-  
-	
+Read more about Mdm Chong here: https://www.schoolbag.edu.sg/story/teaching-independence-in-a-sighted-world<p></p>
