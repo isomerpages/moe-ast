@@ -22,4 +22,4 @@ Teachers may access the STP at this&nbsp;[link](http://go.gov.sg/stp)&nbsp;(OPAL
 	
 <img src="/images/nie-ntu%20coffeetable%20ebook.png" style="width:40%">
 
-You may access the NIE-NTU CoffeeTable eBook: STP at this&nbsp;[link](https://ebook.ntu.edu.sg/a_ntu_stp_book_2023.html)&nbsp;.
+You may access the NIE-NTU CoffeeTable eBook on the STP at this&nbsp;[link](https://ebook.ntu.edu.sg/a_ntu_stp_book_2023.html)&nbsp;.
