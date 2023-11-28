@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /ast-contact-us/
 description: ""
+variant: markdown
 ---
 <img style="width:50%" src="/images/astlogo1.png">
 
@@ -9,11 +10,13 @@ Get in touch with us via this [Form](https://form.gov.sg/642bdbd5d11e700013f079c
 
 #### Our Location
 
-Address: Academy of Singapore Teachers (AST). 2 Malan Road, Singapore 109433&nbsp;  
-MRT station: 10 mins walk or about 500 metres from Labrador Park station (on Circle Line)  
-Bus services: 51, 57, 61, 93, 97, 97E, 100, 120, 166, 175, 963, 963E  
+**Address:**<br>Academy of Singapore Teachers (AST)<br>2 Malan Road, Singapore 109433
 
-Buses from nearby MRT stations  
+**MRT station:**<br> 10 mins walk or about 500 metres from Labrador Park station (on Circle Line)  
+
+**Bus services:**<br> 51, 57, 61, 93, 97, 97E, 100, 120, 166, 175, 963, 963E
+
+####Buses from nearby MRT stations<br>
 Buona Vista MRT and Commonwealth MRT: 100  
 Harbourfront MRT: 57, 61, 97, 100, 166  
 Holland Village MRT: 61  
