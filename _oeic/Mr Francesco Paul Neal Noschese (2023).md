@@ -2,6 +2,7 @@
 title: Mr Francesco Paul Neal Noschese (2023)
 permalink: /oeic/frank-noschese/
 description: ""
+variant: markdown
 ---
 ### Mr Francesco Paul Neal-Noschese (2023)
 
@@ -30,9 +31,6 @@ Through feedback given by teacher participants on the four workshops, participan
 
 ##### Overview of Online Workshop (Part 2) [16 August 2023]
 
-More information on the online workshop will be made available in Semester 2.
-
-###### Preamble
 
 Workshop (Part 2) was led by our Outstanding Educator (OE), Mr. Noschese, in collaboration with our Teacher Collaborator (TC), Mr. Lawrence Tang (Lead Teacher/Physics, Zhonghua Secondary School). This was followed by the sharing by local educators at four concurrent sessions which demonstrated further localizing pedagogical practices in schools, inspired by Mr Noschese. 
 
