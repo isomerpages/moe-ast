@@ -3,6 +3,7 @@ title: Instructional Mentoring
 permalink: /professional-learning/for-education-officers/instructional-mentoring/
 description: ""
 third_nav_title: For Education Officers
+variant: markdown
 ---
 <figure><img src="/images/im1.png"><figcaption>
 Credits: Screen capture from video entitled 'Use of Mentoring Language', produced by Educational Technology Division, MOE (2016), featuring Mdm Azizah Bte Abdul Razak and Mr Gion Pee.</figcaption></figure>
@@ -21,4 +22,4 @@ The Singapore Instructional Mentoring Approach (SIMA) articulates our vision and
 Guided by our mentoring mission to support and guide all mentees towards pedagogical excellence, SIMA emphasises three focus areas that are central to creating a quality instructional mentoring experience that will be valued and sought by all, namely, Promoting Mutual Growth, Relationship Building, and Localising Mentoring. The three associated processes detailed under each of these focus areas guide our Instructional Mentors in the knowledge, tools and protocols that are essential in supporting them to grow their mentoring practice, and create instructional mentoring experiences that are valued and sought by all, i.e., to all Beginning Teachers who are new to the profession and school, or experienced teachers seeking to grow and deepen their teaching practice.
 
 
-For MOE educators who are keen to learn more about instructional mentoring, you may register for the ‘Introduction to Instructional Mentoring’ courses via this link ([OPAL2.0](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Dcode%26client_id%3DOpal2WebApp%26state%3DTAoaUNU1RMaKDOdNGMtPhl7X_9lI7FVcNHxh-aNY75vlH%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fapp%252Findex.html%26scope%3Droles%2520profile%2520cxprofile%2520openid%2520cxDomainInternalApi%26code_challenge%3D35k9ijDiGiQ3YwknfWyKaxQVloqonyDdZ2PIdWYkh6U%26code_challenge_method%3DS256%26nonce%3DTAoaUNU1RMaKDOdNGMtPhl7X_9lI7FVcNHxh-aNY75vlH) login required).
+For MOE educators who are keen to learn more about instructional mentoring, you may register for the ‘Introduction to Instructional Mentoring’ courses via this link ([OPAL2.0](https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/17c8f936-dd6b-4854-b77c-f3f0dfdd7b25/fromlmm) login required).
