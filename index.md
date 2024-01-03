@@ -20,7 +20,7 @@ sections:
       description: Nominate an outstanding educator to express your appreciation.
       button: read more
       url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/presidents-award-for-teachers/nomination/
-      image: /images/pat 2024 poster (002).jpeg
+      image: /images/oyea 2024 poster (002).jpeg
       subtitle: Spotlight
       alt: olive-pc
   - infopic:
