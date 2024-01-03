@@ -26,7 +26,7 @@ A PLT works collaboratively to enhance student learning. The PLT’s project sho
 
 <b>3. How can teachers find the time to carry out their PLT project?  </b><br><br>
 
-The support provided by&nbsp;<a href="/professional-excellence/Professional-Learning-Groups/developing-effective-plcs/">school leaders</a>&nbsp;is crucial in ensuring the success of the PLC. Time should be specifically set aside for teachers to collaborate, in a way which will not add to their teaching and administrative workload. To achieve this, Time-Tabled Time (the time factored into a teacher’s timetable for professional development), where time slots are exclusively set aside for PLTs, is essential. <br><br>
+The support provided by&nbsp;<a href="https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/our-plc-journey/developing-effective-plcs/">school leaders</a>&nbsp;is crucial in ensuring the success of the PLC. Time should be specifically set aside for teachers to collaborate, in a way which will not add to their teaching and administrative workload. To achieve this, Time-Tabled Time (the time factored into a teacher’s timetable for professional development), where time slots are exclusively set aside for PLTs, is essential. <br><br>
 
 <b>4. What happens after a PLT comes to the end of its cycle?  </b><br><br>
 
