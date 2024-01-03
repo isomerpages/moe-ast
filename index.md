@@ -20,18 +20,17 @@ sections:
       description: Nominate an outstanding educator to express your appreciation.
       button: read more
       url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/presidents-award-for-teachers/nomination/
-      image: /images/oyea 2024 poster (002).jpeg
+      image: /images/Awards/PAT2024.PNG
       subtitle: Spotlight
       alt: olive-pc
   - infopic:
-      title: Thank you for joining us at TCEF 2023
-      subtitle: Past Events
-      button: Click for more
-      url: /events/past-events/
+      title: Outstanding Youth in Education Award 2024
+      subtitle: Spotlight
+      button: read more
+      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/oyea/nominate-a-teacher/
       alt: TCEF2023
-      image: /images/Events/tcef2023-thkyou-1.png
-      description: Do visit the TCEF2023 website for conference session recordings and
-        presentation materials
+      image: /images/Awards/OYEA2024.PNG
+      description: Nominate an outstanding educator to express your appreciation.
   - resources:
       title: Stories
       button: More stories
