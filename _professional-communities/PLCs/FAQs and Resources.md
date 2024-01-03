@@ -3,6 +3,7 @@ title: FAQs and Resources
 permalink: /professional-excellence/our-plc-journey/faqs-and-resources/
 description: ""
 third_nav_title: PLCs
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">  
   
@@ -17,7 +18,7 @@ third_nav_title: PLCs
 <p>
 <b>1. What is the difference between a Professional Learning Community (PLC) and a Professional Learning Team (PLT)?</b><br><br>
 
-A PLC focuses on teacher collaboration and professional development to take the school community to the next level in enhancing student learning. It involves every leader and staff member working collaboratively in smaller units known as PLTs. A school becomes a PLC when the PLTs work towards the realisation of articulated PLC goals, embodied in the&nbsp;<a href="link">3 Big Ideas, 4 Critical Questions and 5 Dimension for Effective PLCs</a>[3 Big Ideas, 4 Critical Questions and 5 Dimension for Effective PLCs](https://staging.d2dfevnwgxersp.amplifyapp.com/professional-excellence/Professional-Learning-Groups/ideas-questions-dimensions-for-effective-plcs/), and learn together as a community. <br><br>
+A PLC focuses on teacher collaboration and professional development to take the school community to the next level in enhancing student learning. It involves every leader and staff member working collaboratively in smaller units known as PLTs. A school becomes a PLC when the PLTs work towards the realisation of articulated PLC goals, embodied in the&nbsp;<a href="https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/our-plc-journey/ideas-questions-dimensions-for-effective-plcs/">3 Big Ideas, 4 Critical Questions and 5 Dimension for Effective PLCs</a>, and learn together as a community. <br><br>
 
 <b>2. What does a PLT do?</b><br><br>
 
