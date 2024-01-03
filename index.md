@@ -16,13 +16,11 @@ sections:
       alt: pmca2023
       image: /images/penny pmca award (web).jpeg
   - infopic:
-      title: MOE Supports President's Challenge
-      description: You can now make a difference in the lives of beneficiaries
-        supported by the President's Challenge via our MOE online fundraising
-        campaign.
+      title: President's Award for Teachers 2024
+      description: Nominate an outstanding educator to express your appreciation.
       button: read more
-      url: https://olive.moe.edu.sg/olive/spotlight/moe-supports-presidents-challenge-2023/
-      image: /images/olive-pc.jfif
+      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/presidents-award-for-teachers/nomination/
+      image: /images/pat 2024 poster (002).jpeg
       subtitle: Spotlight
       alt: olive-pc
   - infopic:
