@@ -1,0 +1,67 @@
+logo: /images/astlogo.svg
+links:
+  - title: Professional Learning
+    url: "#"
+    sublinks:
+      - title: For EOs
+        url: /professional-learning/for-eos/overview
+      - title: For EAS
+        url: /professional-learning/for-eas/
+      - title: For AEDs
+        url: /professional-learning/for-aeds/
+      - title: OPAL2.0
+        url: /professional-learning/opal/
+      - title: TWA+
+        url: /professional-learning/for-eos/twa-plus/
+  - title: Professional Communities
+    url: "#"
+    sublinks:
+      - title: PLCs
+        url: /professional-excellence/our-plc-journey/overview/
+      - title: NLCs
+        url: /professional-excellence/networked-learning-communities/overview/
+  - title: Professional Excellence
+    url: "#"
+    sublinks:
+      - title: Ethos of Teaching Profession
+        url: /professional-excellence/ethos/
+      - title: Teacher Growth Model
+        url: /professional-excellence/teacher-growth-model/
+      - title: Singapore Teaching Practice
+        url: /professional-excellence/the-singapore-teaching-practice/
+      - title: SkillsFuture For Educators
+        url: /professional-excellence/skillsfuture-for-educators/overview/
+      - title: Centre For Teaching & Learning
+        url: /professional-excellence/centre-for-teaching/ctle/
+      - title: President's Award for Teachers
+        url: /professional-excellence/presidents-award-for-teachers/overview/
+      - title: Outstanding Youth in Education
+        url: /professional-excellence/oyea/overview/
+      - title: Academy Awards for PD
+        url: /professional-excellence/academy-awards/overview/
+      - title: International Awards
+        url: /professional-excellence/international-awards/international-awards/
+  - title: Resources
+    url: /permalink
+    sublinks:
+      - title: OLive Staff Well Being
+        url: https://olive.moe.edu.sg/
+      - title: READ @ Academy
+        url: https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+      - title: MOE Heritage Centre
+        url: https://moehc.moe.edu.sg/
+      - title: PD Guides
+        url: /resources/pd-guides/
+  - title: About Us
+    url: "#"
+    sublinks:
+      - title: Our Organisation
+        url: /about-us/ast/
+      - title: Teachers' Council
+        url: /about-us/teachers-council/
+      - title: AST Master Teachers
+        url: /about-us/ast-master-teachers/
+      - title: Academies & Language Centres
+        url: /about-us/academies-and-language-centres/
+      - title: Contact Us
+        url: /ast-contact-us/
