@@ -42,11 +42,11 @@ AEDs and EAS may either join PLTs relevant to their own areas of work, or form t
 
 <b>7. What is the role of the School Staff Developer (SSD)?  </b><br><br>
 
-The&nbsp;<a href="/professional-excellence/Professional-Learning-Groups/developing-effective-plcs/">SSD</a>&nbsp;is a member of the coalition team and plays an active role in guiding PLTs in his/her school.&nbsp;<br><br>
+The&nbsp;<a href="https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/our-plc-journey/developing-effective-plcs/">SSD</a>&nbsp;is a member of the coalition team and plays an active role in guiding PLTs in his/her school.&nbsp;<br><br>
 
 <b>8. What if my school does not have a SSD?  </b><br><br>
 
-In such a case, a staff member who is currently in charge of the professional development of the whole staff, may be appointed to perform some of the roles of the&nbsp;<a href="/professional-excellence/Professional-Learning-Groups/developing-effective-plcs/">SSD</a>. <br><br>
+In such a case, a staff member who is currently in charge of the professional development of the whole staff, may be appointed to perform some of the roles of the&nbsp;<a href="https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/our-plc-journey/developing-effective-plcs/">SSD</a>. <br><br>
 
 <b>9. Has MOE explored existing PLC Models from overseas?  </b><br><br>
 
@@ -71,7 +71,7 @@ Source:&nbsp;<i>PLC Starter Kit</i>
 <div>  
   
 <p>
-To access relevant PLC resources, please click on this<a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72031">link</a>OPAL2.0 login required). <br><br>
+To access relevant PLC resources, please click on this <a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72031">link</a> (OPAL2.0 login required). <br><br>
 
 Here are the resources that you could find in OPAL2.0.&nbsp;
 <br><br>
