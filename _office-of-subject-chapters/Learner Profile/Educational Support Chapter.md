@@ -3,8 +3,9 @@ title: Educational Support Chapter
 permalink: /office-of-subject-chapters/learner-profile/educational-support-chapter/
 description: ""
 third_nav_title: Learner Profile
+variant: markdown
 ---
-<img src="/images/SubChap/edsupport-chapter-2023-1.jpg" style="width:70%"><ul class="jekyllcodex_accordion">  
+<img src="/images/SubChap/edsupport-chapter-2023-1.jpg" style="width:70%">
 
 <li>  
 <input type="checkbox" id="accordion1">  
@@ -60,4 +61,4 @@ Through collaborations with schools, MOE divisions, and the National Institute o
   
 </div>  
   
-</li></ul>
+</li>
