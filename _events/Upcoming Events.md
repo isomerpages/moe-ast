@@ -2,5 +2,6 @@
 title: Upcoming Events
 permalink: /events/upcoming-events/
 description: ""
+variant: tiptap
 ---
-There are no upcoming events for the time being. Please check back at a later date.
+<div class="isomer-image-wrapper"><img style="width: 80%;" height="auto" width="100%" alt="PD-T1-24" src="/images/Events/PLC2024_Term1.png"></div><p></p>
