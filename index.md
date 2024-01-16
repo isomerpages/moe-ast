@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Hero Images/hero_image_read.JPG
   - infopic:
-      title: PD Opportunities - Term 1 2024
+      title: PD Opportunities - Term One, 2024
       description: "[Sign up now!] 2024 Term 1 PD Opportunities in Professional
         Learning Community and Critical Inquiry"
       button: read more
