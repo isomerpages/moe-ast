@@ -2,6 +2,7 @@
 title: Past Events
 permalink: /events/past-events/
 description: ""
+variant: markdown
 ---
 <p id="tcef23"></p>
 
@@ -9,7 +10,7 @@ description: ""
 | -------- | -------- | -------- |
 | 30 May - 1 June  | - | TCEF 2023|
 
-<a href="https://www.tcef2023.sg"><img src="/images/Events/tcef2023-thkyou-1.png" style="width:1000px"></a>
+<img src="/images/Events/tcef2023-thkyou-1.png" style="width:1000px">
 
 <p></p>
 
