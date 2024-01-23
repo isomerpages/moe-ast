@@ -3,6 +3,7 @@ title: Teachers' Conference and ExCEL Fest
 permalink: /professional-learning/for-eos/tcef/
 description: ""
 third_nav_title: For Education Officers
+variant: markdown
 ---
 #### About TCEF2023
 
@@ -12,8 +13,3 @@ Over the years, the Teachers’ Conference has incorporated the MOE Innergy and 
 
 The conference aims to bring local educators together to learn, to connect and to engage with thought leaders and practitioners, as we explore possibilities for the future of teaching and learning. The theme of TCEF2023 is ‘Ignite Imagination. Empower Communities. Transform Practice’. It reinforces our fraternity’s emphasis on lifelong learning and supports us to continually deepen our beliefs, better understand our students, and further strengthen our classroom practice to nurture future-ready learners.
 
-#### Registration for TCEF2023
-
-All MOE staff and staff from SPED schools can register for the conference via the conference website [https://www.tcef2023.sg](https://www.tcef2023.sg/).
-
-![https://www.tcef2023.sg](/images/tcef2023.png)
