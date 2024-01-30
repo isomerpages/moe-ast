@@ -5,12 +5,9 @@ description: ""
 third_nav_title: Learner Profile
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Simple_Black_and_Turquoise_Welcome_Instagram_Post.png">
 </div>
-<ul>
-<li>
 <p>The Lower Primary Learners (LPL) Chapter champions quality learning in
 Primary 1 and Primary 2 by building teacher capacity, encouraging pedagogical
 innovations and facilitating research-informed practice to impact student
@@ -21,73 +18,69 @@ for Primary 1 and Primary 2 teachers to collaborate and network. Through
 partnerships with various MOE divisions and external partners, the LPL
 Chapter seeks to raise the professional standards in the teachers to support
 learners as they transit from Kindergarten to Primary Schools.</p>
-<ul>
-<li>
-<p>Objectives of the Lower Primary Learners Chapter</p>
-<p><strong>Objectives of the LPL Chapter</strong> 
-<br>
-<br>
-</p>
-<p>To deepen the&nbsp;pedagogical content knowledge&nbsp;of lower primary
-teachers for quality student learning.
-<br>
-<br>
-</p>
-<p>To champion&nbsp;professional collaboration&nbsp;and networked learning
-among lower primary teachers.
-<br>
-<br>
-</p>
-<p><strong>Mission of LPL Chapter</strong>
-<br>
-<br>
-</p>
-<p>To build a teacher-led culture of professional excellence to engender
-quality learning* in P1 and P2 students in their transition from preschool
-to primary school education.
-<br>
-<br>
-</p>
+<hr>
+<p></p>
+<h4><strong>Objectives of the LPL Chapter </strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>levelling up their knowledge and skills of P1 and P2 students to prepare
-them for the next level (P3) as well as to foster the holistic development
-of each child
-<br>
+<p>To deepen the&nbsp;pedagogical content knowledge&nbsp;of lower primary
+teachers for quality student learning.</p>
+</li>
+<li>
+<p>To champion&nbsp;professional collaboration&nbsp;and networked learning
+among lower primary teachers.
 <br>
 </p>
 </li>
 </ul>
-<p><strong>Vision of LPL Chapter (What)</strong>
-<br>
-<br>
-</p>
+<h4><strong>Mission of LPL Chapter</strong> </h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>To build a teacher-led culture of professional excellence to engender
+quality learning* in P1 and P2 students in their transition from preschool
+to primary school education.</p>
+</li>
+<li>
+<p>Levelling up their knowledge and skills of P1 and P2 students to prepare
+them for the next level (P3) as well as to foster the holistic development
+of each child.</p>
+</li>
+</ul>
+<p></p>
+<h4><strong>Vision of LPL Chapter (What)</strong> </h4>
 <p>A community of&nbsp;competent teacher&nbsp;leaders&nbsp;with strong pedagogical
 leadership in leading, guiding and inspiring lower primary learners.
 <br>
-<br>
 </p>
-<p><strong>We organise various professional learning activities for you:</strong> 
-<br>
-<br>
-</p>
-<p>Courses and Learning Programmes
-<br>Learning Journeys to MKs
-<br>Networked Learning Sessions e.g. ST-LT network
-<br>Masterclasses
-<br>Professional Conversations
-<br>LPL Learning Day</p>
-<p></p>
+<h4><strong>We organise various professional learning activities for you:</strong> </h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Courses and Learning Programmes</p>
 </li>
 <li>
-<p>Our Subject Chapter Core Team</p>
+<p>Learning Journeys to MKs</p>
+</li>
+<li>
+<p>Networked Learning Sessions e.g. ST-LT network</p>
+</li>
+<li>
+<p>Masterclasses</p>
+</li>
+<li>
+<p>Professional Conversations</p>
+</li>
+<li>
+<p>LPL Learning Day</p>
+</li>
+</ul>
+<hr>
+<h4><strong>Our Subject Chapter Core Team</strong></h4>
 <p></p>
 <table>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p><strong>Subject Chapter Core Team</strong>
-</p>
+<p></p>
 </th>
 </tr>
 <tr>
@@ -139,7 +132,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>North Zone</strong>
+<p><strong>::  NORTH ZONE  ::</strong>
 </p>
 </td>
 </tr>
@@ -156,7 +149,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>South Zone</strong>
+<p><strong>::  SOUTH ZONE  ::</strong>
 </p>
 </td>
 </tr>
@@ -184,7 +177,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>East Zone</strong>
+<p><strong>::  EAST ZONE  ::</strong>
 </p>
 </td>
 </tr>
@@ -223,7 +216,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>West Zone</strong>
+<p><strong>::  WEST ZONE  ::</strong>
 </p>
 </td>
 </tr>
@@ -251,7 +244,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>HQ (CPDD, ETD) and NIE</strong>
+<p><strong>::  HQ (CPDD, ETD) &amp; NIE  ::</strong>
 </p>
 </td>
 </tr>
@@ -290,35 +283,10 @@ leadership in leading, guiding and inspiring lower primary learners.
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p>Our Calendar of Events</p>
-<p></p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Our Calendar of Events</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>Our Calendar of Events:</strong>
-</p>
-</td>
-<td rowspan="2" colspan="1">
+<hr>
+<h4><strong>Our Calendar of Events</strong></h4>
 <p>For more information about chapter events, click on this <strong><a href="https://go.gov.sg/lowerprimarylearners" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> </strong>to
-access the chapter’s OPAL page ( <em>for MOE teachers only </em>). Alternatively,
+access the chapter’s OPAL page (<em>for MOE teachers only</em>). Alternatively,
 you may contact our Master Teachers to find out more!</p>
-</td>
-</tr>
-<tr></tr>
-</tbody>
-</table>
 <p></p>
-</li>
-</ul>
-</li>
-</ul>
 <p></p>
