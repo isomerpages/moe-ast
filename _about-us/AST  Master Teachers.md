@@ -145,7 +145,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:60px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/geo2.png">
+<img style="width:70px;height:100px;margin-left:15px;" height="auto" width="100%" src="/images/geo2.png">
 </div>
 <p><strong>Ms Lim Puay Yin</strong>
 <br>Master Teacher / Geography
@@ -446,149 +446,133 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <hr>
 <h4>Science (Primary) Master Teachers</h4>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:115px;margin-right:15px;" height="auto" width="100%" src="/images/sci14.png">
+<img style="width:80px;height:115px;margin-left:15px;" height="auto" width="100%" src="/images/sci14.png">
 </div>
 <p><strong>Mr Michael Long</strong>
 <br>Master Teacher / Primary Science (New Town Primary School)
-<br>
 <br>Email: <a href="mailto:michael_long_tian_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">michael_long_tian_heng@schools.gov.sg</a>
-<br>Contact no.: 6474 8805</p>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:125px;margin-right:15px;" height="auto" width="100%" src="/images/sci15.png">
+<img style="width:80px;height:125px;margin-left:15px;" height="auto" width="100%" src="/images/sci15.png">
 </div>
 <p><strong>Mdm Wong Mei Leng, Anne</strong>
-<br>Master Teacher / Primary Science (Eunos Primary School)
-<br>
-<br>Email: <a href="mailto:wong_mei_leng_anne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_mei_leng_anne@schools.gov.sg</a>
-<br>Contact no.: 6746 3336 x 231</p>
+<br>Principal Master Teacher / Primary Science 
+<br>Email: <a href="mailto:anne_wong@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anne_wong@moe.gov.sg</a>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-right:15px;" height="auto" width="100%" src="/images/sci16.png">
+<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/sci16.png">
 </div>
 <p><strong>Dr Goh Su Fen</strong>
 <br>Master Teacher / Primary Science
-<br>
 <br>Email: <a href="mailto:Goh_Su_Fen@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Goh_Su_Fen@moe.gov.sg</a>
-<br>Contact no.: 6664 1420</p>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:95px;margin-right:15px;" height="auto" width="100%" src="/images/sci17.png">
+<img style="width:80px;height:95px;margin-left:15px;" height="auto" width="100%" src="/images/sci17.png">
 </div>
 <p><strong>Dr Judy Lee</strong>
 <br>Master Teacher / Primary Science
-<br>
 <br>Email: <a href="mailto:Judy_Lh_Lee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Judy_Lh_Lee@moe.gov.sg</a>
-<br>Contact no.: 6664 1428</p>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:95px;margin-right:15px;" height="auto" width="100%" src="/images/sci18.png">
+<img style="width:80px;height:95px;margin-left:15px;" height="auto" width="100%" src="/images/sci18.png">
 </div>
 <p><strong>Dr Tan Poh Hiang</strong>
 <br>Master Teacher / Primary Science
-<br>
 <br>Email: <a href="mailto:Tan_Poh_Hiang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Poh_Hiang@moe.gov.sg</a>
-<br>Contact no.: 6664 1425</p>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:97px;margin-right:15px;" height="auto" width="100%" src="/images/sci19.png">
+<img style="width:90px;height:100px;margin-left:15px;" height="auto" width="100%" src="/images/sci19.png">
 </div>
 <p><strong>Mdm Yong Song Ling</strong>
 <br>Master Teacher / Primary Science
-<br>
-<br>Email: <a href="mailto:YONG_Song_Ling@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">YONG_Song_Ling@moe.gov.sg</a>
-<br>Contact no.: 6664 1419</p>
+<br>Email: <a href="mailto:YONG_Song_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">YONG_Song_Ling@schools.gov.sg</a></p>
 <p></p>
 <hr>
 <h4>Character and Citizenship Education Master Teachers</h4>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:97px;margin-right:15px;" height="auto" width="100%" src="/images/cce1.png">
+<img style="width:80px;height:97px;margin-left:15px;" height="auto" width="100%" src="/images/cce1.png">
 </div>
 <p><strong>Mdm Brenda Lee Chew Yan</strong>
 <br>Master Teacher / Character and Citizenship Education
-<br>
 <br>Email: <a href="mailto:Brenda_Lee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Brenda_Lee@moe.gov.sg</a>
-<br>Contact no.: 6664 144</p>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:97px;margin-right:15px;" height="auto" width="100%" src="/images/cce2.png">
+<img style="width:80px;height:100px;margin-left:15px;" height="auto" width="100%" src="/images/cce2.png">
 </div>
 <p><strong>Mr Osman Abdullah</strong>
 <br>Master Teacher / Character and Citizenship Education
-<br>
 <br>Email: <a href="mailto:Osman_Abdullah@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Osman_Abdullah@moe.gov.sg</a>
-<br>Contact no.: 6664 144</p>
+</p>
 <p></p>
 <hr>
 <h4>Educational Support Master Teachers</h4>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:100px;margin-right:15px;" height="auto" width="100%" src="/images/es1.png">
+<img style="width:80px;height:100px;margin-left:15px;" height="auto" width="100%" src="/images/es1.png">
 </div>
 <p><strong>Mdm Hadzar Binte Misiri</strong>
 <br>Master Teacher / Educational Support
-<br>
 <br>Email: <a href="mailto:hadzar_misiri@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hadzar_misiri@moe.gov.sg</a>
-<br>Contact no.: 6664 1419</p>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:80px;margin-right:15px;" height="auto" width="100%" src="/images/es2.png">
+<img style="width:80px;height:90px;margin-left:15px;" height="auto" width="100%" src="/images/es2.png">
 </div>
 <p><strong>Dr Muhammad Nazir Amir</strong>
 <br>Master Teacher / Educational Support
-<br>
 <br>Email: <a href="mailto:Muhammad_Nazir_Amir@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Nazir_Amir@moe.gov.sg</a>
-<br>Contact no.: 6664 142</p>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:86px;margin-right:15px;" height="auto" width="100%" src="/images/es3.png">
+<img style="width:80px;height:86px;margin-left:15px;" height="auto" width="100%" src="/images/es3.png">
 </div>
 <p><strong>Mr Tan Cher Chong</strong>
 <br>Master Teacher / Educational Support
-<br>
 <br>Email: <a href="mailto:Tan_Cher_Chong@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Cher_Chong@moe.gov.sg</a>
-<br>Contact no.: 6664 1419</p>
+</p>
 <p></p>
 <hr>
 <h4>Nutrition and Food Science Master Teachers</h4>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:106px;margin-right:15px;" height="auto" width="100%" src="/images/nfs.png">
+<img style="width:80px;height:106px;margin-left:15px;" height="auto" width="100%" src="/images/nfs.png">
 </div>
 <p><strong>Mdm Gnanamany Yacob</strong>
 <br>Master Teacher / Nutrition and Food Science
-<br>
 <br>Email: <a href="mailto:Gnanamany_Yacob@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Gnanamany_Yacob@moe.gov.sg</a>
-<br>Contact no.: 6664 1431</p>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:106px;margin-right:15px;" height="auto" width="100%" src="/images/pxb-anglaykheng8a0cdc2b154748df97af4a86840c0942.jpg">
+<img style="width:80px;height:106px;margin-left:15px;" height="auto" width="100%" src="/images/pxb-anglaykheng8a0cdc2b154748df97af4a86840c0942.jpg">
 </div>
 <p><strong>Ms Ang Lay Kheng</strong>
 <br>Master Teacher / Nutrition and Food Science
-<br>
 <br>Email: <a href="mailto:ang_lay_kheng@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_lay_kheng@moe.gov.sg</a>
-<br>Contact no.: 6664 1579</p>
+</p>
 <p></p>
 <hr>
 <h4>Special Needs Master Teachers</h4>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:106px;margin-right:15px;" height="auto" width="100%" src="/images/sn.png">
+<img style="width:80px;height:106px;margin-left:15px;" height="auto" width="100%" src="/images/sn.png">
 </div>
 <p><strong>Ms Sarinajit Kaur</strong>
 <br>Master Teacher / Special Educational Needs
-<br>
 <br>Email: <a href="mailto:Sarinajit_Kaur@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sarinajit_Kaur@moe.gov.sg</a>
-<br>Contact no.: 6664 1416</p>
+</p>
 <p></p>
 <hr>
 <h4>High Ability Learners Master Teachers</h4>
 <div class="isomer-image-wrapper">
-<img style="width:100px;height:76px;margin-right:15px;" height="auto" width="100%" src="/images/hal.png">
+<img style="width:100px;height:90px;margin-left:15px;" height="auto" width="100%" src="/images/hal.png">
 </div>
 <p><strong>Mdm Evelyn Yeo</strong>
 <br>Master Teacher/ High Ability Learners
-<br>
 <br>Email: <a href="mailto:Evelyn_YEO@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Evelyn_YEO@moe.gov.sg</a>
-<br>Contact no.: 6664 1420</p>
+</p>
 <p></p>
 <hr>
 <p></p>
