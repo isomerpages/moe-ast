@@ -163,7 +163,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:109px;margin-left:15px;" height="auto" width="100%" src="/images/geo3.png">
+<img style="width:90px;height:110px;margin-left:15px;" height="auto" width="100%" src="/images/MicheleTang.png">
 </div>
 <p><strong>Ms Michele Tang Sheng Lien</strong>
 <br>Master Teacher / Geography
