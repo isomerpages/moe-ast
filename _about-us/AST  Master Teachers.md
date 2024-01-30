@@ -248,15 +248,6 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/math5.png">
-</div>
-<p><strong>Ms Teh Wan</strong>
-<br>Master Teacher / Primary Mathematics
-<br>Email: <a href="mailto:Teh_Wan@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teh_Wan@moe.gov.sg</a>
-<br>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/pxb-changsuohuib825d0ad8ec447f6a35273e332cb7ac6.jpg">
 </div>
 <p><strong>Dr Chang Suo Hui</strong>
@@ -592,4 +583,22 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <hr>
+<h4>Lower Primary Learners Master Teachers</h4>
+<div class="isomer-image-wrapper">
+<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/math5.png">
+</div>
+<p><strong>Ms Teh Wan</strong>
+<br>Master Teacher / Lower Primary Learners
+<br>Email: <a href="mailto:Teh_Wan@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teh_Wan@moe.gov.sg</a>
+<br>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:90px;height:110px;margin-left:15px;" height="auto" width="100%" src="/images/LowLaiFong.PNG">
+</div>
+<p><strong>Ms Low Lai Fong Karen</strong>
+<br>Master Teacher / Lower Primary Learners
+<br>Email: <a href="mailto:Karen_Low@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Karen_Low@moe.gov.sg</a>
+<br>
+</p>
 <p></p>
