@@ -228,7 +228,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </div>
 <p><strong>Ms Chan Min Lie</strong>
 <br>Master Teacher / Primary Mathematics
-<br>Email: <a href="mailto:CHAN_Min_Lie@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHAN_Min_Lie@moe.gov.sg</a>
+<br>Email: <a href="mailto:CHAN_Min_Lie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHAN_Min_Lie@schools.gov.sg</a>
 <br><br>
 </p>
 <div class="isomer-image-wrapper">
