@@ -380,7 +380,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </div>
 <p><strong>Ms Teng Siew Lee</strong>
 <br>Master Teacher / Chemistry
-<br>Email: <a href="mailto:Teng_Siew_Lee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teng_Siew_Lee@moe.gov.sg</a>
+<br>Email: <a href="mailto:Teng_Siew_Lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teng_Siew_Lee@schools.gov.sg</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
