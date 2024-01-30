@@ -132,6 +132,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
+<p></p>
 <p><strong>:: NORTH ZONE ::</strong>
 </p>
 </td>
@@ -149,6 +150,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
+<p></p>
 <p><strong>:: SOUTH ZONE ::</strong>
 </p>
 </td>
@@ -177,6 +179,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
+<p></p>
 <p><strong>:: EAST ZONE ::</strong>
 </p>
 </td>
@@ -216,6 +219,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
+<p></p>
 <p><strong>:: WEST ZONE ::</strong>
 </p>
 </td>
@@ -244,6 +248,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
+<p></p>
 <p><strong>:: HQ (CPDD, ETD) &amp; NIE ::</strong>
 </p>
 </td>
