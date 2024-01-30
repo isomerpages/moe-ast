@@ -20,7 +20,7 @@ Chapter seeks to raise the professional standards in the teachers to support
 learners as they transit from Kindergarten to Primary Schools.</p>
 <hr>
 <p></p>
-<h4><strong>Objectives of the LPL Chapter </strong></h4>
+<h4><strong>Objectives of the LPL Chapter</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>To deepen the&nbsp;pedagogical content knowledge&nbsp;of lower primary
@@ -33,7 +33,7 @@ among lower primary teachers.
 </p>
 </li>
 </ul>
-<h4><strong>Mission of LPL Chapter</strong> </h4>
+<h4><strong>Mission of LPL Chapter</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>To build a teacher-led culture of professional excellence to engender
@@ -47,12 +47,12 @@ of each child.</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>Vision of LPL Chapter (What)</strong> </h4>
+<h4><strong>Vision of LPL Chapter (What)</strong></h4>
 <p>A community of&nbsp;competent teacher&nbsp;leaders&nbsp;with strong pedagogical
 leadership in leading, guiding and inspiring lower primary learners.
 <br>
 </p>
-<h4><strong>We organise various professional learning activities for you:</strong> </h4>
+<h4><strong>We organise various professional learning activities for you:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Courses and Learning Programmes</p>
@@ -132,7 +132,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>::  NORTH ZONE  ::</strong>
+<p><strong>:: NORTH ZONE ::</strong>
 </p>
 </td>
 </tr>
@@ -149,7 +149,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>::  SOUTH ZONE  ::</strong>
+<p><strong>:: SOUTH ZONE ::</strong>
 </p>
 </td>
 </tr>
@@ -177,7 +177,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>::  EAST ZONE  ::</strong>
+<p><strong>:: EAST ZONE ::</strong>
 </p>
 </td>
 </tr>
@@ -216,7 +216,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>::  WEST ZONE  ::</strong>
+<p><strong>:: WEST ZONE ::</strong>
 </p>
 </td>
 </tr>
@@ -244,7 +244,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>::  HQ (CPDD, ETD) &amp; NIE  ::</strong>
+<p><strong>:: HQ (CPDD, ETD) &amp; NIE ::</strong>
 </p>
 </td>
 </tr>
