@@ -544,6 +544,14 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>Master Teacher / Educational Support
 <br>Email: <a href="mailto:Tan_Cher_Chong@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Cher_Chong@moe.gov.sg</a>
 </p>
+<br>
+<div class="isomer-image-wrapper">
+<img style="width:80px;height:100px;margin-left:15px;" height="auto" width="100%" src="/images/KohSeokHwee.jpg">
+</div>
+<p><strong>Ms Koh Seok Hwee</strong>
+<br>Master Teacher / Educational Support
+<br>Email: <a href="mailto:Koh_Seok_Hwee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Koh_Seok_Hwee@moe.gov.sg</a>
+</p>
 <p></p>
 <hr>
 <h4>Nutrition and Food Science Master Teachers</h4>
