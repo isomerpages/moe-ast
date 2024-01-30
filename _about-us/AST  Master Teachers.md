@@ -446,19 +446,19 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <hr>
 <h4>Science (Primary) Master Teachers</h4>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:115px;margin-left:15px;" height="auto" width="100%" src="/images/sci14.png">
-</div>
-<p><strong>Mr Michael Long</strong>
-<br>Master Teacher / Primary Science (New Town Primary School)
-<br>Email: <a href="mailto:michael_long_tian_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">michael_long_tian_heng@schools.gov.sg</a>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width:80px;height:125px;margin-left:15px;" height="auto" width="100%" src="/images/sci15.png">
 </div>
 <p><strong>Mdm Wong Mei Leng, Anne</strong>
 <br>Principal Master Teacher / Primary Science 
 <br>Email: <a href="mailto:anne_wong@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anne_wong@moe.gov.sg</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:80px;height:115px;margin-left:15px;" height="auto" width="100%" src="/images/sci14.png">
+</div>
+<p><strong>Mr Michael Long</strong>
+<br>Master Teacher / Primary Science (New Town Primary School)
+<br>Email: <a href="mailto:michael_long_tian_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">michael_long_tian_heng@schools.gov.sg</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
