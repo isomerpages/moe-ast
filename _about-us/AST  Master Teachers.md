@@ -162,6 +162,15 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width:80px;height:109px;margin-left:15px;" height="auto" width="100%" src="/images/geo3.png">
+</div>
+<p><strong>Ms Michele Tang Sheng Lien</strong>
+<br>Master Teacher / Geography
+<br>Email: <a href="mailto:Michele_Tang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Michele_Tang@moe.gov.sg</a>
+<br>
+</p>
+<p></p>
 <hr>
 <h4>History Master Teachers</h4>
 <div class="isomer-image-wrapper">
