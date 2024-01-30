@@ -598,7 +598,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </div>
 <p><strong>Ms Low Lai Fong Karen</strong>
 <br>Master Teacher / Lower Primary Learners
-<br>Email: <a href="mailto:Karen_Low@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Karen_Low@moe.gov.sg</a>
+<br>Email: <a href="mailto:Low_Lai_Fong@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Low_Lai_Fong@moe.gov.sg</a>
 <br>
 </p>
 <p></p>
