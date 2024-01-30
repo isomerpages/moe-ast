@@ -137,7 +137,7 @@ professional learning directions set by the Subject Chapter Core Team and
 supported by the ST-LT Network Core Team and MTTs.</p>
 <h4>Geography Master Teachers</h4>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:100px;margin-right:15px;" height="auto" width="100%" src="/images/geo1.png">
+<img style="width:80px;height:100px;margin-left:15px;" height="auto" width="100%" src="/images/geo1.png">
 </div>
 <p><strong>Mr Yuen Kah Mun</strong>
 <br>Principal Master Teacher / Geography
@@ -145,7 +145,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:60px;height:105px;margin-right:15px;" height="auto" width="100%" src="/images/geo2.png">
+<img style="width:60px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/geo2.png">
 </div>
 <p><strong>Ms Lim Puay Yin</strong>
 <br>Master Teacher / Geography
@@ -154,7 +154,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:109px;margin-right:15px;" height="auto" width="100%" src="/images/geo3.png">
+<img style="width:80px;height:109px;margin-left:15px;" height="auto" width="100%" src="/images/geo3.png">
 </div>
 <p><strong>Ms Lum Kit Kuan Melanie</strong>
 <br>Master Teacher / Geography
@@ -165,7 +165,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <hr>
 <h4>History Master Teachers</h4>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:109px;margin-right:15px;" height="auto" width="100%" src="/images/hist1.png">
+<img style="width:80px;height:109px;margin-left:15px;" height="auto" width="100%" src="/images/hist1.png">
 </div>
 <p><strong>Mr Andrew Anthony</strong>
 <br>Principal Master Teacher / History
@@ -174,15 +174,16 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:109px;margin-right:15px;" height="auto" width="100%" src="/images/hist2.png">
+<img style="width:80px;height:109px;margin-left:15px;" height="auto" width="100%" src="/images/hist2.png">
 </div>
 <p><strong>Mr Tham Chin Pang Joseph</strong>
 <br>Master Teacher/ History
 <br>Email: <a href="mailto:Tham_Chin_Pang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tham_Chin_Pang@moe.gov.sg</a>
-<br>
+<br><br>
+	
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:109px;margin-right:15px;" height="auto" width="100%" src="/images/hist3.png">
+<img style="width:80px;height:109px;margin-left:15px;" height="auto" width="100%" src="/images/hist3.png">
 </div>
 <p><strong>Mr Yeo Tze Chiang Lloyd Luc</strong>
 <br>Master Teacher/ History
@@ -192,7 +193,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <hr>
 <h4>Social Studies Master Teachers</h4>
 <div class="isomer-image-wrapper">
-<img style="width:120px;height:100px;margin-right:15px;" height="auto" width="100%" src="/images/ss1.png">
+<img style="width:120px;height:100px;margin-left:15px;" height="auto" width="100%" src="/images/ss1.png">
 </div>
 <p><strong>Mdm Premaletha Gopalakrishnan</strong>
 <br>Master Teacher / Social Studies
@@ -201,7 +202,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <hr>
 <h4>Economics Master Teachers</h4>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-right:15px;" height="auto" width="100%" src="/images/econs1.png">
+<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/econs1.png">
 </div>
 <p><strong>Dr Tan Dai Hwee</strong>
 <br>Master Teacher / Economics
@@ -214,15 +215,15 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-right:15px;" height="auto" width="100%" src="/images/math2.png">
+<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/math2.png">
 </div>
 <p><strong>Ms Chan Min Lie</strong>
 <br>Master Teacher / Primary Mathematics
 <br>Email: <a href="mailto:CHAN_Min_Lie@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHAN_Min_Lie@moe.gov.sg</a>
-<br>
+<br><br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-right:15px;" height="auto" width="100%" src="/images/math3.png">
+<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/math3.png">
 </div>
 <p><strong>Mr Choon Ming Kwang</strong>
 <br>Master Teacher / Primary Mathematics
@@ -230,7 +231,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-right:15px;" height="auto" width="100%" src="/images/math4.png">
+<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/math4.png">
 </div>
 <p><strong>Ms Heng Chor Hui Theresa</strong>
 <br>Master Teacher / Primary Mathematics
@@ -238,7 +239,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-right:15px;" height="auto" width="100%" src="/images/math5.png">
+<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/math5.png">
 </div>
 <p><strong>Ms Teh Wan</strong>
 <br>Master Teacher / Primary Mathematics
@@ -247,7 +248,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-right:15px;" height="auto" width="100%" src="/images/pxb-changsuohuib825d0ad8ec447f6a35273e332cb7ac6.jpg">
+<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/pxb-changsuohuib825d0ad8ec447f6a35273e332cb7ac6.jpg">
 </div>
 <p><strong>Dr Chang Suo Hui</strong>
 <br>Master Teacher / Primary Mathematics
@@ -256,7 +257,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-right:15px;" height="auto" width="100%" src="/images/pxb-mtt-lohguatbee7da3811206454f9496c5bec5bd7fbc7d.jpg">
+<img style="width:130px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/pxb-mtt-lohguatbee7da3811206454f9496c5bec5bd7fbc7d.jpg">
 </div>
 <p><strong>Mdm Loh Guat Bee</strong>
 <br>Master Teacher / Primary Mathematics
@@ -266,7 +267,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <hr>
 <h4>Mathematics (Secondary) Master Teachers</h4>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-right:15px;" height="auto" width="100%" src="/images/math12.png">
+<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/math12.png">
 </div>
 <p><strong>Dr Tan Liang Soon</strong>
 <br>Principal Master Teacher / Secondary and JC Mathematics
@@ -274,7 +275,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-right:15px;" height="auto" width="100%" src="/images/math6.png">
+<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/math6.png">
 </div>
 <p><strong>Dr Foo Kum Fong</strong>
 <br>Master Teacher / Secondary Mathematics
@@ -282,7 +283,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-right:15px;" height="auto" width="100%" src="/images/math7.png">
+<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/math7.png">
 </div>
 <p><strong>Dr Leong Swee Ling</strong>
 <br>Master Teacher / Secondary Mathematics (Bukit Merah Secondary School)
@@ -291,7 +292,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-right:15px;" height="auto" width="100%" src="/images/math8.png">
+<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/math8.png">
 </div>
 <p><strong>Mr Chew Chong Kiat</strong>
 <br>Master Teacher / Secondary Mathematics
@@ -300,7 +301,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-right:15px;" height="auto" width="100%" src="/images/math9.png">
+<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/math9.png">
 </div>
 <p><strong>Mdm Low Leng</strong>
 <br>Master Teacher / Secondary Mathematics
@@ -309,7 +310,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-right:15px;" height="auto" width="100%" src="/images/math10.png">
+<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/math10.png">
 </div>
 <p><strong>Mr Ng Song Beng</strong>
 <br>Master Teacher / Secondary Mathematics
@@ -318,7 +319,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-right:15px;" height="auto" width="100%" src="/images/math11.png">
+<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/math11.png">
 </div>
 <p><strong>Mdm Pang Yen Ping</strong>
 <br>Master Teacher / Secondary Mathematics
@@ -327,7 +328,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-right:15px;" height="auto" width="100%" src="/images/pxb-lee-mei-ling622deef201f44a75a2836771471ec235.jpg">
+<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/pxb-lee-mei-ling622deef201f44a75a2836771471ec235.jpg">
 </div>
 <p><strong>Mdm Sharon Lee Mei Ling</strong>
 <br>Master Teacher / Secondary Mathematics
@@ -338,134 +339,109 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <hr>
 <h4>Science (Biology) Master Teachers</h4>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-right:15px;" height="auto" width="100%" src="/images/sci1.png">
+<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/sci1.png">
 </div>
 <p><strong>Mr Poh Meng Leng</strong>
 <br>Master Teacher/ Biology
-<br>
 <br>Email: <a href="mailto:Poh_Meng_Leng@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Poh_Meng_Leng@moe.gov.sg</a>
-<br>Contact no.: 6664 1434</p>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-right:15px;" height="auto" width="100%" src="/images/sci2.png">
+<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/sci2.png">
 </div>
 <p><strong>Ms Anna Koh</strong>
 <br>Master Teacher / Biology
-<br>
 <br>Email: <a href="mailto:Anna_Koh@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Anna_Koh@moe.gov.sg</a>
-<br>Contact no.: 6664 1432</p>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-right:15px;" height="auto" width="100%" src="/images/sci3.png">
+<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/sci3.png">
 </div>
 <p><strong>Mr Muhamad Salahuddin Ibrahim</strong>
 <br>Master Teacher / Biology
-<br>
-<br>Area of Specialisation/Interest:
-<br>Educational Technology, Educational Neuroscience,&nbsp; Practitioner Inquiry
-<br>
 <br>Email: <a href="mailto:Muhamad_Salahuddin_Ibrahim@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhamad_Salahuddin_Ibrahim@moe.gov.sg</a>
-<br>Contact no.: 6664 1574</p>
+</p>
 <p></p>
 <hr>
 <p>
-<br>
-<br>
+
 </p>
 <h4>Science (Chemistry) Master Teachers</h4>
 <div class="isomer-image-wrapper">
-<img style="width:90px;height:100px;margin-right:15px;" height="auto" width="100%" src="/images/sci4.png">
+<img style="width:90px;height:100px;margin-left:15px;" height="auto" width="100%" src="/images/sci4.png">
 </div>
 <p><strong>Mdm Tan Irene</strong>
 <br>Principal Master Teacher/ Chemistry
-<br>
 <br>Email: <a href="mailto:Irene_Tan@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Irene_Tan@moe.gov.sg</a>
-<br>Contact no.: 6664 1433</p>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:115px;margin-right:15px;" height="auto" width="100%" src="/images/sci5.png">
+<img style="width:80px;height:115px;margin-left:15px;" height="auto" width="100%" src="/images/sci5.png">
 </div>
 <p><strong>Ms Teng Siew Lee</strong>
 <br>Master Teacher / Chemistry
-<br>
 <br>Email: <a href="mailto:Teng_Siew_Lee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teng_Siew_Lee@moe.gov.sg</a>
-<br>Contact no.: 6664 1575</p>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:95px;margin-right:15px;" height="auto" width="100%" src="/images/sci6.png">
+<img style="width:80px;height:95px;margin-left:15px;" height="auto" width="100%" src="/images/sci6.png">
 </div>
 <p><strong>Mdm Goh Ai Lian</strong>
 <br>Master Teacher / Chemistry
-<br>
 <br>Email: <a href="mailto:GOH_Ai_Lian@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">GOH_Ai_Lian@moe.gov.sg</a>
-<br>Contact no.: 6664 1439</p>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-right:15px;" height="auto" width="100%" src="/images/sci7.png">
+<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/sci7.png">
 </div>
 <p><strong>Mr Goh Kien Huay</strong>
 <br>Master Teacher / Chemistry
-<br>
 <br>Email: <a href="mailto:GOH_Kien_Huay@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">GOH_Kien_Huay@moe.gov.sg</a>
-<br>Contact no.: 6664 1434</p>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-right:15px;" height="auto" width="100%" src="/images/sci8.png">
+<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/sci8.png">
 </div>
 <p><strong>Dr Md Shahrin K S Moorthy</strong>
 <br>Master Teacher / Chemistry
-<br>
 <br>Email: <a href="mailto:Md_Shahrin@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Md_Shahrin@moe.gov.sg</a>
-<br>Contact no.: 6664 1435</p>
+</p>
 <p></p>
 <hr>
 <h4>Science (Physics) Master Teachers</h4>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:115px;margin-right:15px;" height="auto" width="100%" src="/images/sci9.png">
+<img style="width:80px;height:115px;margin-left:15px;" height="auto" width="100%" src="/images/sci9.png">
 </div>
 <p><strong>Mr Yap Boon Chien</strong>
 <br>Master Teacher / Physics
 <br>(Changkat Changi Secondary School)
-<br>
 <br>Email: <a href="mailto:yap_boon_chien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_boon_chien@schools.gov.sg</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:100px;margin-right:15px;" height="auto" width="100%" src="/images/sci10.png">
+<img style="width:80px;height:100px;margin-left:15px;" height="auto" width="100%" src="/images/sci10.png">
 </div>
 <p><strong>Mr Lee Siew Lin</strong>
 <br>Master Teacher / Physics
-<br>
 <br>Email: <a href="mailto:lee_siew_lin@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_siew_lin@moe.gov.sg</a>
-<br>Contact no.: 6664 1423</p>
+</p>
 <p></p>
+
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:100px;margin-right:15px;" height="auto" width="100%" src="/images/sci11.png">
-</div>
-<p><strong>Mr Lau Chor Yam</strong>
-<br>Master Teacher / Physics
-<br>
-<br>Email: <a href="mailto:Lau_Chor_Yam@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lau_Chor_Yam@moe.gov.sg</a>
-<br>Contact no.: 6664 1426</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:80px;height:100px;margin-right:15px;" height="auto" width="100%" src="/images/sci12.png">
+<img style="width:80px;height:100px;margin-left:15px;" height="auto" width="100%" src="/images/sci12.png">
 </div>
 <p><strong>Mr Ong Kia Siang Jensen</strong>
 <br>Master Teacher / Physics
-<br>
 <br>Email: <a href="mailto:ONG_Kia_Siang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ONG_Kia_Siang@moe.gov.sg</a>
-<br>Contact no.: 6664 1317</p>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:115px;margin-right:15px;" height="auto" width="100%" src="/images/sci13.png">
+<img style="width:80px;height:115px;margin-left:15px;" height="auto" width="100%" src="/images/sci13.png">
 </div>
 <p><strong>Dr S. Ravindran</strong>
 <br>Master Teacher / Physics
-<br>
-<br>
 <br>Email: <a href="mailto:S_Ravindran@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">S_Ravindran@moe.gov.sg</a>
-<br>Contact no.: 6664 1440</p>
+</p>
 <p></p>
 <hr>
 <h4>Science (Primary) Master Teachers</h4>
