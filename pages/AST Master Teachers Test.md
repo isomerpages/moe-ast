@@ -7,8 +7,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20MTT/mtt_ast_2023.jpg">
 </div>
+<p></p>
 <blockquote>
-<h4>Building a culture of teacher-led professionalism and pride in the teaching fraternity</h4>
+<h4><strong>Building a culture of teacher-led professionalism and pride in the teaching fraternity</strong></h4>
 </blockquote>
 <p>The Office of Subject Chapters in the AST is home to Principal Master
 and Master Teachers from four Subject Clusters, namely, Humanities and
@@ -17,7 +18,9 @@ Master and Master Teachers are committed to growing the professionalism
 of the teaching fraternity, leading, mentoring and inspiring teachers to
 be caring, competent and passionate educators who live out the ethos of
 our teaching profession, to provide quality education for our students.</p>
-<h5>Subject Chapters in AST</h5>
+<h4><strong>Subject Chapters in AST</strong></h4>
+<p><strong>Humanities &amp; CCE</strong>
+</p>
 <table>
 <tbody>
 <tr>
