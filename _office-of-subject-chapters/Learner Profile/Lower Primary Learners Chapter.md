@@ -3,7 +3,7 @@ title: Lower Primary Learners Chapter
 permalink: /office-of-subject-chapters/learner-profile/lower-primary-learners-chapter/
 description: ""
 third_nav_title: Learner Profile
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Simple_Black_and_Turquoise_Welcome_Instagram_Post.png">
