@@ -36,7 +36,7 @@ among lower primary teachers.
 <ul data-tight="true" class="tight">
 <li>
 <p>To build a teacher-led culture of professional excellence to engender
-quality learning* in P1 and P2 students in their transition from preschool
+quality learning in P1 and P2 students in their transition from preschool
 to primary school education.</p>
 </li>
 <li>
