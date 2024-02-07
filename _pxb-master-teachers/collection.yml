@@ -1,5 +1,5 @@
 collections:
-  our-master-teachers:
+  pxb-master-teachers:
     output: true
     order:
       - Tamil Language/.keep
