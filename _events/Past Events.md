@@ -20,6 +20,6 @@ variant: markdown
 | -------- | -------- | -------- |
 | 29 May - 1 June  | - | EAS Learning Fest 2023|
 
-<a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/eas/eas-learning-fest.aspx"><img src="/images/Events/easlf2023_postevent.png" style="width:1000px"></a>
+<img src="/images/Events/easlf2023_postevent.png" style="width:1000px">
 
 <p></p>
