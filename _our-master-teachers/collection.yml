@@ -2,24 +2,6 @@ collections:
   our-master-teachers:
     output: true
     order:
-      - Chinese Language/.keep
-      - Chinese Language/Mdm Lim Kwee Hua 林季华.md
-      - Chinese Language/Dr Kwek Siew Hoon.md
-      - Chinese Language/Dr Zheng Yingjiang 郑迎江博士.md
-      - Chinese Language/Dr Goh Poh Huat 吴宝发.md
-      - Chinese Language/Ms Lucy Sim.md
-      - Chinese Language/Ms Teoh Hee San 张曦姗.md
-      - Chinese Language/Mdm Chau Sook Kuan.md
-      - Chinese Language/Mdm Chua Suay Hong.md
-      - Chinese Language/Dr Jiao Fuzhen.md
-      - Chinese Language/Dr Li Dongmei 李冬梅博士.md
-      - Chinese Language/Mr Lim Yee Pin.md
-      - Chinese Language/Mdm Min Yu.md
-      - Chinese Language/Ms Tan Geok Hoon.md
-      - Chinese Language/Mr Tang Chun Chieh.md
-      - Chinese Language/Mdm Wang Juan.md
-      - Chinese Language/Mdm Yang Xuehui.md
-      - Chinese Language/Mr Zhuo EnGuo.md
       - Malay Language/.keep
       - Malay Language/Mr Rahmat Bin Subadah.md
       - Malay Language/Mr Muhamad Rafi Abu Bakar.md
