@@ -141,7 +141,7 @@ our teaching profession, to provide quality education for our students.</p>
 </table>
 <hr>
 <p>Guided by the professional learning philosophy of "Teacher Ownership,
-Teacher&nbsp; Leadership" of learning, the Subject Chapters in AST bring
+Teacher&nbsp;Leadership" of learning, the Subject Chapters in AST bring
 together groups of educators to learn from and with each other. Different
 professional learning platforms are designed to deepen the pedagogical
 content knowledge of teachers in the Subject Chapter, guided by specific
