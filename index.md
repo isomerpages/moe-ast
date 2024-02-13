@@ -4,7 +4,7 @@ title: Academy of Singapore Teachers (AST)
 description: Brief site description here
 image: /images/astlogo.svg
 permalink: /
-notification: Welcome to Academy of Singapore Teachers
+notification: ""
 sections:
   - hero:
       background: /images/Hero Images/hero_image_read.JPG
