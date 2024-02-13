@@ -165,6 +165,16 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </div>
 </a>
 </div>
+<h4><strong>History Master Teachers</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Anthony_Andrew_Michael@moe.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Mr Andrew Anthony</div><div class="isomer-card-description">Principal Master Teacher / History</div><div class="isomer-card-link">Email</div></div></a>
+<a rel="noopener noreferrer nofollow" href="Tham_Chin_Pang@moe.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Tham Chin Pang Joseph</div>
+<div class="isomer-card-description">Master Teacher/ History</div>
+<div class="isomer-card-link">Email</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="Lloyd_Luc_Yeo@moe.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Mr Yeo Tze Chiang Lloyd Luc</div><div class="isomer-card-description">Master Teacher/ History</div><div class="isomer-card-link">Email</div></div></a>
+</div>
 <p>
 <br>
 </p>
