@@ -139,9 +139,6 @@ our teaching profession, to provide quality education for our students.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>Learner Profile</strong>
-</p>
 <hr>
 <p>Guided by the professional learning philosophy of "Teacher Ownership,
 Teacher&nbsp; Leadership" of learning, the Subject Chapters in AST bring
