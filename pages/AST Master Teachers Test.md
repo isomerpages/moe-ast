@@ -4,9 +4,11 @@ permalink: /permalink/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20MTT/mtt_ast_2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our MTT/mtt_ast_2023.jpg">
 </div>
+<p></p>
 <p></p>
 <blockquote>
 <h4><strong>Building a culture of teacher-led professionalism and pride in the teaching fraternity</strong></h4>
@@ -19,15 +21,21 @@ of the teaching fraternity, leading, mentoring and inspiring teachers to
 be caring, competent and passionate educators who live out the ethos of
 our teaching profession, to provide quality education for our students.</p>
 <h4><strong>Subject Chapters in AST</strong></h4>
-<p></p>
+<p>Guided by the professional learning philosophy of "Teacher Ownership,
+Teacher&nbsp;Leadership" of learning, the Subject Chapters in AST bring
+together groups of educators to learn from and with each other. Different
+professional learning platforms are designed to deepen the pedagogical
+content knowledge of teachers in the Subject Chapter, guided by specific
+professional learning directions set by the Subject Chapter Core Team and
+supported by the ST-LT Network Core Team and MTTs.</p>
 <table>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Humanities &amp; CCE</p>
+<p>HUMANITIES &amp; CCE</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mathematics</p>
+<p>MATHEMATICS</p>
 </th>
 </tr>
 <tr>
@@ -80,10 +88,10 @@ our teaching profession, to provide quality education for our students.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Science</p>
+<p>SCIENCE</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Learner Profile</strong>
+<p><strong>LEARNER PROFILE</strong>
 </p>
 </th>
 </tr>
@@ -140,28 +148,16 @@ our teaching profession, to provide quality education for our students.</p>
 </tbody>
 </table>
 <hr>
-<p>Guided by the professional learning philosophy of "Teacher Ownership,
-Teacher&nbsp;Leadership" of learning, the Subject Chapters in AST bring
-together groups of educators to learn from and with each other. Different
-professional learning platforms are designed to deepen the pedagogical
-content knowledge of teachers in the Subject Chapter, guided by specific
-professional learning directions set by the Subject Chapter Core Team and
-supported by the ST-LT Network Core Team and MTTs.</p>
-<h4><strong>Geography Master Teachers</strong></h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="yuen_kah_mun@moe.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mr Yuen Kah Mun" src="/images/mr yuen kah mun .png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Yuen Kah Mun</div><div class="isomer-card-description">Principal Master Teacher/ Geography</div><div class="isomer-card-link">Email</div></div></a>
+<h4><strong>Geography Master Teachers</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="yuen_kah_mun@moe.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Mr Yuen Kah Mun</div><div class="isomer-card-description">Principal Master Teacher/ Geography</div><div class="isomer-card-link">Email</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Lim_Puay_Yin@schools.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Lim Puay Yin" src="/images/geo2.png">
-</div>
-</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Lim Puay Yin</div>
 <div class="isomer-card-description">Master Teacher / Geography</div>
 <div class="isomer-card-link">Email</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="Melanie_Lum@moe.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ms Lum Kit Kuan Melanie" src="/images/geo3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Lum Kit Kuan Melanie</div><div class="isomer-card-description">Master Teacher / Geography</div><div class="isomer-card-link">Email</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="Melanie_Lum@moe.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Ms Lum Kit Kuan Melanie</div><div class="isomer-card-description">Master Teacher / Geography</div><div class="isomer-card-link">Email</div></div></a>
 </div>
 <p>
 <br>
