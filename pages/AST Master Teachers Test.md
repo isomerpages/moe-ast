@@ -148,7 +148,6 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </tbody>
 </table>
 <hr>
-<p></p>
 <h4><strong>Geography Master Teachers</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="yuen_kah_mun@moe.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Mr Yuen Kah Mun</div><div class="isomer-card-description">Principal Master Teacher/ Geography</div><div class="isomer-card-link">Email</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Lim_Puay_Yin@schools.gov.sg" class="isomer-card">
@@ -158,6 +157,13 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <div class="isomer-card-link">Email</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="Melanie_Lum@moe.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Ms Lum Kit Kuan Melanie</div><div class="isomer-card-description">Master Teacher / Geography</div><div class="isomer-card-link">Email</div></div></a>
+<a rel="noopener noreferrer nofollow" href="Michele_Tang@moe.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Michele Tang Sheng Lien</div>
+<div class="isomer-card-description">Master Teacher / Geography</div>
+<div class="isomer-card-link">Email</div>
+</div>
+</a>
 </div>
 <p>
 <br>
