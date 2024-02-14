@@ -34,7 +34,10 @@ among lower primary teachers.
 </p>
 </li>
 </ul>
-<h4><strong>Mission of LPL Chapter</strong></h4>
+	</li>
+	<li>
+		<input id="accordion2" type="checkbox">  
+		<label for="accordion2">Mission of LPL Chapter</label> 
 <ul data-tight="true" class="tight">
 <li>
 <p>To build a teacher-led culture of professional excellence to engender
@@ -47,13 +50,19 @@ them for the next level (P3) as well as to foster the holistic development
 of each child.</p>
 </li>
 </ul>
-<p></p>
-<h4><strong>Vision of LPL Chapter (What)</strong></h4>
+	</li>
+	<li>
+		<input id="accordion3" type="checkbox">  
+		<label for="accordion3">Vision of LPL Chapter (What)</label>
 <p>A community of&nbsp;competent teacher&nbsp;leaders&nbsp;with strong pedagogical
 leadership in leading, guiding and inspiring lower primary learners.
 <br>
 </p>
-<h4><strong>We organise various professional learning activities for you:</strong></h4>
+	</li>
+	
+	<li>
+	<input id="accordion4" type="checkbox">  
+		<label for="accordion4">We organise various professional learning activities for you:</label>
 <ul data-tight="true" class="tight">
 <li>
 <p>Courses and Learning Programmes</p>
@@ -74,9 +83,9 @@ leadership in leading, guiding and inspiring lower primary learners.
 <p>LPL Learning Day</p>
 </li>
 </ul>
-<hr>
-<h4><strong>Our Subject Chapter Core Team</strong></h4>
-<p></p>
+	</li>
+	<input id="accordion5" type="checkbox">  
+		<label for="accordion5">Our Subject Chapter Core Team</label>
 <table>
 <tbody>
 <tr>
@@ -273,8 +282,10 @@ leadership in leading, guiding and inspiring lower primary learners.
 </tr>
 </tbody>
 </table>
-<hr>
-<h4><strong>Our Calendar of Events</strong></h4>
+	
+	<li>
+	<input id="accordion6" type="checkbox">  
+	<label for="accordion6">Our Calendar of Events</label>
 <p>For more information about chapter events, click on this <strong><a href="https://go.gov.sg/lowerprimarylearners" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> </strong>to
 access the chapter’s OPAL page (<em>for MOE teachers only</em>). Alternatively,
 you may contact our Master Teachers to find out more!</p>
