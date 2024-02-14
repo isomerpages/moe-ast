@@ -97,7 +97,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 		<div>
 <table>
 <tbody>
-<tr>
+<tr style="background: rgb(191, 191, 191)">
 	<th>Name</th><th>Designation</th><th>Division/Branch or School</th>
 </tr>
 <tr>
@@ -134,7 +134,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td style="background: rgb(242, 242, 242)" rowspan="1" colspan="3">
 <p></p>
 <p><strong>NORTH ZONE</strong>
 </p>
@@ -152,7 +152,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td style="background: rgb(242, 242, 242)" rowspan="1" colspan="3">
 <p></p>
 <p><strong>SOUTH ZONE</strong>
 </p>
@@ -181,7 +181,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td style="background: rgb(242, 242, 242)" rowspan="1" colspan="3">
 <p></p>
 <p><strong>EAST ZONE</strong>
 </p>
@@ -221,7 +221,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td style="background: rgb(242, 242, 242)" rowspan="1" colspan="3">
 <p></p>
 <p><strong>WEST ZONE</strong>
 </p>
@@ -250,7 +250,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td style="background: rgb(242, 242, 242)" rowspan="1" colspan="3">
 <p></p>
 <p><strong>HQ (CPDD, ETD) &amp; NIE</strong>
 </p>
