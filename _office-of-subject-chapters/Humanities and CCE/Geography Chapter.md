@@ -71,69 +71,63 @@ variant: markdown
 					<th>Name</th><th>Designation</th><th>School
 				</th></tr>
 			<tr>
-					<td>Mr Yuen Kah Mun</td><td>Principal Master Teacher</td><td>AST/PXB</td>
+					<td>Ms Tan Shu-Wei</td><td>Senior Teacher</td><td>National Junior College</td>
 				</tr>
 			<tr>
-					<td>Ms Melanie Lum</td><td>Master Teacher</td><td>AST/PXB</td>
+					<td>Mr Ng Chenyee</td><td>Lead Teacher</td><td>Peirce Secondary School</td>
 				</tr>
 			</tbody></table>
 		<!-- East Zone -->
-	<p><b>NORTH ZONE</b></p>
+	<p><b>EAST ZONE</b></p>
 			<table>
 				<tbody><tr>
 					<th>Name</th><th>Designation</th><th>School
 				</th></tr>
 			<tr>
-					<td>Mr Yuen Kah Mun</td><td>Principal Master Teacher</td><td>AST/PXB</td>
+					<td>Ms Soh Lay Na</td><td>Senior Teacher</td><td>Chung Cheng High School (Main)</td>
 				</tr>
 			<tr>
-					<td>Ms Melanie Lum</td><td>Master Teacher</td><td>AST/PXB</td>
+					<td>Mdm Wendy Arleena Bte Sukma</td><td>Senior Teacher</td><td>St Anthony’s Canossian Secondary School</td>
 				</tr>
 			</tbody></table>
 	<!-- West Zone -->
-	<p><b>NORTH ZONE</b></p>
+	<p><b>WEST ZONE</b></p>
 			<table>
 				<tbody><tr>
 					<th>Name</th><th>Designation</th><th>School
 				</th></tr>
 			<tr>
-					<td>Mr Yuen Kah Mun</td><td>Principal Master Teacher</td><td>AST/PXB</td>
+					<td>Mdm Jayanthi Appacham</td><td>Lead Teacher</td><td>Bukit Batok Secondary School</td>
 				</tr>
 			<tr>
-					<td>Ms Melanie Lum</td><td>Master Teacher</td><td>AST/PXB</td>
+					<td>Mr Mohamed Osman B Rahamat</td><td>Senior Teacher</td><td>Jurong Pioneer Junior College</td>
 				</tr>
 			</tbody></table>
 	<!-- HQ/NIE -->
-	<p><b>NORTH ZONE</b></p>
+	<p><b>HQ (CPDD, ETD) and NIE</b></p>
 			<table>
 				<tbody><tr>
 					<th>Name</th><th>Designation</th><th>Division/Branch
 				</th></tr>
 			<tr>
-					<td>Mr Yuen Kah Mun</td><td>Principal Master Teacher</td><td>AST/PXB</td>
+					<td>Ms Annie Tan</td><td>Senior Specialist/Geography</td><td>CPDD2/Humanities</td>
 				</tr>
 			<tr>
-					<td>Ms Melanie Lum</td><td>Master Teacher</td><td>AST/PXB</td>
+					<td>Mr Soo Jiunn Huat</td><td>Senior Specialist</td><td>ETD/TfL</td>
 				</tr>
 			<tr>
-					<td>Ms Tang Sheng Lien Michele</td><td>Master Teacher</td><td>AST/PXB</td>
+					<td>Ms Oh Ee-Laine</td><td>Teaching Fellow</td><td>NIE/HSSE</td>
+				</tr>
+				<tr>
+					<td>Dr Seow Ing Chin Dorothy Tricia</td><td>Senior Lecturer</td><td>NIE/HSSE</td>
 				</tr>
 			</tbody></table>
-
-
 </div>  
-
 </li>  
-
 <li>  
-
-<input id="accordion4" type="checkbox">  
-
-<label for="accordion4">Our Calendar of Events</label>  
-
-<div>  
-
-<table style="border: medium; border-collapse: collapse;"><colgroup><col width="196"><col width="400"></colgroup><tbody><tr style="height: 15.75pt;"><td colspan="2" style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; background-color: rgb(0, 0, 0); padding: 0pt 5.75pt; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(255, 255, 255); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Our Calendar of Events</span></p></td></tr><tr style="height: 15.75pt;"><td rowspan="2" style="border-left-width: 0.5pt; border-left-style: solid; border-left-color: rgb(0, 0, 0); border-right-width: 0.5pt; border-right-style: solid; border-right-color: rgb(0, 0, 0); border-top-width: 0.5pt; border-top-style: solid; border-top-color: rgb(0, 0, 0); vertical-align: middle; padding: 0pt 5.75pt; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Our Calendar of Events:</span></p></td><td rowspan="2" style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; padding: 0pt 5.75pt; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="line-height: 1.2; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">For more information about chapter events, click on this </span><a href="https://www.opal2.moe.edu.sg/csl/s/2e0784bf-0536-4cc3-abb1-b737dccc64f1/" style="text-decoration: none;"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(17, 85, 204); background-color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;">link</span></a><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> </span><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">to access the chapter’s OPAL page ( </span><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-weight: 400; font-style: italic; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">for MOE teachers only </span><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">). Alternatively, you may contact our Master Teachers to find out more!</span></p></td></tr><tr style="height: 16.5pt;"></tr></tbody></table>
-
-</div>  
+	<input id="accordion3" type="checkbox">  
+	<label for="accordion3">Our Calendar of Events</label>  
+	<div> 
+		<p>For more information about chapter events, click on this&nbsp;<a href="https://www.opal2.moe.edu.sg/csl/s/2e0784bf-0536-4cc3-abb1-b737dccc64f1/">link</a>&nbsp;to access the chapter’s OPAL page (for MOE teachers only). Alternatively, you may contact our Master Teachers to find out more!</p>
+	</div>  
 </li></ul>
