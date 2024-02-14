@@ -21,7 +21,7 @@ variant: markdown
 <div>  
 <!-- AST -->
 <table>
-	<tbody><tr>
+	<tbody><tr style="background: rgb(191, 191, 191)">
 		<th>Name</th><th>Designation</th><th>Division/Branch</th>
 	</tr>
 	<tr>
@@ -40,7 +40,7 @@ variant: markdown
 		<td>Mr Muhammad Hamzah</td><td>Academy Officer</td><td>AST/PDB</td>
 	</tr>
 <!-- North Zone -->
-		<tr><td colspan="3"><p><b>NORTH ZONE</b></p></td></tr>
+		<tr><td style="background: rgb(242, 242, 242)" colspan="3"><p><b>NORTH ZONE</b></p></td></tr>
 			<tr>
 					<td>Mr Lai Kuan Hoe Leslie</td><td>LT/Learning Needs (ES)</td><td>Innova Primary School</td>
 				</tr>
@@ -48,7 +48,7 @@ variant: markdown
 					<td>Dr Ling Yuan</td><td>LT/Learning Needs (ES)</td><td>Edgefield Primary School</td>
 				</tr>
 	<!-- South Zone -->
-	<tr><td colspan="3"><p><b>SOUTH ZONE</b></p></td></tr>
+	<tr><td style="background: rgb(242, 242, 242)" colspan="3"><p><b>SOUTH ZONE</b></p></td></tr>
 			<tr>
 					<td>Ms Xu Yue Min Michelle</td><td>LT/Learning Needs (ES)</td><td>Ang Mo Kio Primary School</td>
 				</tr>
@@ -56,14 +56,14 @@ variant: markdown
 					<td>Mr Lim Beng Kim</td><td>ST/Learning Needs (ES)</td><td>Zhonghua Primary School</td>
 				</tr>
 		<!-- East Zone -->
-	<tr><td colspan="3"><p><b>EAST ZONE</b></p></td></tr>
+	<tr><td style="background: rgb(242, 242, 242)" colspan="3"><p><b>EAST ZONE</b></p></td></tr>
 			<tr>
 					<td>Mrs Tan Lay Chiat Agnes</td><td>LT/Learning Needs (ES)</td><td>Canossa Catholic Primary School</td>
 				</tr>
 			<tr>
 					<td>Mdm Koh Seok Hwee</td><td>LT/Learning Needs (ES)</td><td>St Anthony’s Canossian Secondary School</td>
 	<!-- West Zone -->
-	</tr><tr><td colspan="3"><p><b>WEST ZONE</b></p></td></tr>
+	</tr><tr><td style="background: rgb(242, 242, 242)" colspan="3"><p><b>WEST ZONE</b></p></td></tr>
 			<tr>
 					<td>Ms Suneeta Kaur</td><td>ST/Learning Needs (ES)</td><td>West Grove Primary School</td>
 				</tr>
@@ -71,7 +71,7 @@ variant: markdown
 					<td>Mr Syam Lal s/o Sadanandan</td><td>LT/Learning Needs (ES)</td><td>Bukit Batok Secondary School</td>
 				</tr>
 	<!-- HQ/NIE -->
-	<tr><td colspan="3"><p><b>HQ (CPDD, ETD) and NIE</b></p></td></tr>
+	<tr><td style="background: rgb(242, 242, 242)" colspan="3"><p><b>HQ (CPDD, ETD) and NIE</b></p></td></tr>
 			<tr>
 					<td>Ms Hor I Wei</td><td>Guidance Officer</td><td>SDCD/GB</td>
 				</tr>
