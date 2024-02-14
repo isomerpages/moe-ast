@@ -58,17 +58,14 @@ variant: markdown
 					<th>Name</th><th>Designation</th><th>School
 				</th></tr>
 			<tr>
-					<td>Mr Yuen Kah Mun</td><td>Principal Master Teacher</td><td>AST/PXB</td>
+					<td>Miss Lee Pei Ting</td><td>Senior Teacher</td><td>Ahmad Ibrahim Secondary School</td>
 				</tr>
 			<tr>
-					<td>Ms Melanie Lum</td><td>Master Teacher</td><td>AST/PXB</td>
-				</tr>
-			<tr>
-					<td>Ms Tang Sheng Lien Michele</td><td>Master Teacher</td><td>AST/PXB</td>
+					<td>Miss Huang Peishi</td><td>Senior Teacher</td><td>Naval Base Secondary School</td>
 				</tr>
 			</tbody></table>
 	<!-- South Zone -->
-	<p><b>NORTH ZONE</b></p>
+	<p><b>SOUTH ZONE</b></p>
 			<table>
 				<tbody><tr>
 					<th>Name</th><th>Designation</th><th>School
@@ -78,9 +75,6 @@ variant: markdown
 				</tr>
 			<tr>
 					<td>Ms Melanie Lum</td><td>Master Teacher</td><td>AST/PXB</td>
-				</tr>
-			<tr>
-					<td>Ms Tang Sheng Lien Michele</td><td>Master Teacher</td><td>AST/PXB</td>
 				</tr>
 			</tbody></table>
 		<!-- East Zone -->
@@ -95,9 +89,6 @@ variant: markdown
 			<tr>
 					<td>Ms Melanie Lum</td><td>Master Teacher</td><td>AST/PXB</td>
 				</tr>
-			<tr>
-					<td>Ms Tang Sheng Lien Michele</td><td>Master Teacher</td><td>AST/PXB</td>
-				</tr>
 			</tbody></table>
 	<!-- West Zone -->
 	<p><b>NORTH ZONE</b></p>
@@ -110,9 +101,6 @@ variant: markdown
 				</tr>
 			<tr>
 					<td>Ms Melanie Lum</td><td>Master Teacher</td><td>AST/PXB</td>
-				</tr>
-			<tr>
-					<td>Ms Tang Sheng Lien Michele</td><td>Master Teacher</td><td>AST/PXB</td>
 				</tr>
 			</tbody></table>
 	<!-- HQ/NIE -->
