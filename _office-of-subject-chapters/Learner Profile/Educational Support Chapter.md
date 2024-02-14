@@ -6,7 +6,7 @@ third_nav_title: Learner Profile
 variant: markdown
 ---
 <img src="/images/SubChap/edsupport-chapter-2023-1.jpg" style="width:70%">
-
+<ul>
 <li>  
 <input type="checkbox" id="accordion1">  
   
@@ -62,3 +62,4 @@ Through collaborations with schools, MOE divisions, and the National Institute o
 </div>  
   
 </li>
+</ul>
