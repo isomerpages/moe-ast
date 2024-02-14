@@ -3,8 +3,9 @@ title: Economics Chapter
 permalink: /office-of-subject-chapters/humanities-and-cce/economics-chapter/
 description: ""
 third_nav_title: Humanities and CCE
+variant: markdown
 ---
-<img src="/images/SubChap/economics-chapter-2023.jpg" style="width:70%">
+<img src="/images/SubChap/EconsSC-headerimage.png" style="width:70%">
   
 <ul class="jekyllcodex_accordion">  
 	
