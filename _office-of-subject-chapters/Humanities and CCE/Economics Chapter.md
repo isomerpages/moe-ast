@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Humanities and CCE
 variant: markdown
 ---
-<img src="/images/SubChap/EconsSC-headerimage.png" style="width:70%">
+<img src="/images/SubChap/EconsSC_headerimage.png" style="width:70%">
+
   
 <ul class="jekyllcodex_accordion">  
 	
