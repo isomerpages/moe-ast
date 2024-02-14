@@ -86,10 +86,10 @@ variant: markdown
 					<th>Name</th><th>Designation</th><th>School
 				</th></tr>
 			<tr>
-					<td>Ms Suneeta Kaur</td><td>Lead Teacher</td><td>Bukit Batok Secondary School</td>
+					<td>Ms Suneeta Kaur</td><td>ST/Learning Needs (ES)</td><td>West Grove Primary School</td>
 				</tr>
 			<tr>
-					<td>Mr Mohamed Osman B Rahamat</td><td>Senior Teacher</td><td>Jurong Pioneer Junior College</td>
+					<td>Mr Syam Lal s/o Sadanandan</td><td>LT/Learning Needs (ES)</td><td>Bukit Batok Secondary School</td>
 				</tr>
 			</tbody></table>
 	<!-- HQ/NIE -->
@@ -99,40 +99,27 @@ variant: markdown
 					<th>Name</th><th>Designation</th><th>Division/Branch
 				</th></tr>
 			<tr>
-					<td>Ms Annie Tan</td><td>Senior Specialist/Geography</td><td>CPDD2/Humanities</td>
+					<td>Ms Hor I Wei</td><td>Guidance Officer</td><td>SDCD/GB</td>
 				</tr>
 			<tr>
-					<td>Mr Soo Jiunn Huat</td><td>Senior Specialist</td><td>ETD/TfL</td>
+					<td>Mr Chua Han Wee</td><td>Educational Support Officer</td><td>SD/UESB</td>
 				</tr>
 			<tr>
-					<td>Ms Oh Ee-Laine</td><td>Teaching Fellow</td><td>NIE/HSSE</td>
+					<td>Mdm Jean Phua</td><td>Lead Specialist</td><td>ETD/LPET</td>
 				</tr>
 				<tr>
-					<td>Dr Seow Ing Chin Dorothy Tricia</td><td>Senior Lecturer</td><td>NIE/HSSE</td>
+					<td>Dr Carol Tan Soo Ching</td><td>Lecturer</td><td>NIE/PCHD</td>
 				</tr>
 			</tbody></table>
-	
-  
-</div>  
-  
+</div>    
 </li>  
-	
 <li>  
-  
-<input type="checkbox" id="accordion4">  
-  
-<label for="accordion4">Our Calendar of Events</label>  
-  
+<input type="checkbox" id="accordion3">  
+<label for="accordion3">Our Calendar of Events</label>  
 <div>  
+<p>For more information about chapter events, click on this <a href="https://www.opal2.moe.edu.sg/csl/s/b5b026f3-00f9-47f6-948c-3696cdff262b/home">link</a> to access the chapter’s OPAL page ( for MOE teachers only ). Alternatively, you may contact our Master Teachers to find out more!
   
-<p>
-
-<table style="border: medium; border-collapse: collapse;"><colgroup><col width="196"><col width="400"></colgroup><tbody><tr style="height: 15.75pt;"><td style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; background-color: rgb(0, 0, 0); padding: 0pt 5.75pt; overflow: hidden; overflow-wrap: break-word;" colspan="2"><p style="line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(255, 255, 255); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Our Calendar of Events</span></p></td></tr><tr style="height: 15.75pt;"><td style="border-left-width: 0.5pt; border-left-style: solid; border-left-color: rgb(0, 0, 0); border-right-width: 0.5pt; border-right-style: solid; border-right-color: rgb(0, 0, 0); border-top-width: 0.5pt; border-top-style: solid; border-top-color: rgb(0, 0, 0); vertical-align: middle; padding: 0pt 5.75pt; overflow: hidden; overflow-wrap: break-word;" rowspan="2"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Our Calendar of Events:</span></p></td><td style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; padding: 0pt 5.75pt; overflow: hidden; overflow-wrap: break-word;" rowspan="2"><p style="line-height: 1.2; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">For more information about chapter events, click on this </span><a style="text-decoration: none;" href="https://www.opal2.moe.edu.sg/csl/s/b5b026f3-00f9-47f6-948c-3696cdff262b/home"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(17, 85, 204); background-color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;">link</span></a><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> </span><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">to access the chapter’s OPAL page ( </span><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-weight: 400; font-style: italic; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">for MOE teachers only </span><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">). Alternatively, you may contact our Master Teachers to find out more!</span></p></td></tr><tr style="height: 16.5pt;"></tr></tbody></table>
-
- 
-</p>  
-  
-</div>  
+</p></div>  
   
 </li>
 </ul>
