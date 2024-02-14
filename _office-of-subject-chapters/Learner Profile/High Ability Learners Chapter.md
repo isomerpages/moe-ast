@@ -6,9 +6,8 @@ third_nav_title: Learner Profile
 variant: markdown
 ---
 <img src="/images/SubChap/hal-chapter-2023.jpg" style="width:70%">
-
+<ul class="jekyllcodex_accordion">
 <li>  
-
 <input type="checkbox" id="accordion1">  
   
 <label for="accordion1">Objectives of the High Ability Learners Chapter</label>  
@@ -32,7 +31,6 @@ The HAL Chapter serves as a focal point for teachers and Teacher Leaders of HALs
 <input type="checkbox" id="accordion3">  
   
 <label for="accordion3">Our Subject Chapter Core Team</label>  
-  
 <div>  
 
 
@@ -60,3 +58,4 @@ The HAL Chapter serves as a focal point for teachers and Teacher Leaders of HALs
 </div>  
   
 </li>
+	</ul>
