@@ -10,8 +10,8 @@ sections:
       background: /images/Hero Images/hero_image_read.JPG
       variant: floating
       size: sm
-      alignment: left
-      backgroundColor: black
+      alignment: right
+      backgroundColor: gray
       title: Welcome to Academy of Singapore Teachers
   - infopic:
       title: PD Opportunities - Term One, 2024
