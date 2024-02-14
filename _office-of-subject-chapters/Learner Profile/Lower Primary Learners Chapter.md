@@ -21,7 +21,8 @@ learners as they transit from Kindergarten to Primary Schools.</p>
 <ul class="jekyllcodex_accordion">  
 <li>  
 	<input id="accordion1" type="checkbox">  
-		<label for="accordion1">Objectives of the LPL Chapter</label>  
+		<label for="accordion1">Objectives of the LPL Chapter</label> 
+	<div>
 <ul data-tight="true" class="tight">
 <li>
 <p>To deepen the&nbsp;pedagogical content knowledge&nbsp;of lower primary
@@ -34,10 +35,12 @@ among lower primary teachers.
 </p>
 </li>
 </ul>
+	</div>
 	</li>
 	<li>
 		<input id="accordion2" type="checkbox">  
 		<label for="accordion2">Mission of LPL Chapter</label> 
+		<div>
 <ul data-tight="true" class="tight">
 <li>
 <p>To build a teacher-led culture of professional excellence to engender
@@ -50,19 +53,23 @@ them for the next level (P3) as well as to foster the holistic development
 of each child.</p>
 </li>
 </ul>
+		</div>
 	</li>
 	<li>
 		<input id="accordion3" type="checkbox">  
 		<label for="accordion3">Vision of LPL Chapter (What)</label>
+		<div>
 <p>A community of&nbsp;competent teacher&nbsp;leaders&nbsp;with strong pedagogical
 leadership in leading, guiding and inspiring lower primary learners.
 <br>
 </p>
+		</div>
 	</li>
 	
 	<li>
 	<input id="accordion4" type="checkbox">  
 		<label for="accordion4">We organise various professional learning activities for you:</label>
+		<div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Courses and Learning Programmes</p>
@@ -83,9 +90,12 @@ leadership in leading, guiding and inspiring lower primary learners.
 <p>LPL Learning Day</p>
 </li>
 </ul>
+		</div>
 	</li>
+	<li>
 	<input id="accordion5" type="checkbox">  
 		<label for="accordion5">Our Subject Chapter Core Team</label>
+		<div>
 <table>
 <tbody>
 <tr>
@@ -282,12 +292,14 @@ leadership in leading, guiding and inspiring lower primary learners.
 </tr>
 </tbody>
 </table>
-	
+		</div>
+	</li>
 	<li>
 	<input id="accordion6" type="checkbox">  
 	<label for="accordion6">Our Calendar of Events</label>
+		<div>
 <p>For more information about chapter events, click on this <strong><a href="https://go.gov.sg/lowerprimarylearners" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> </strong>to
 access the chapter’s OPAL page (<em>for MOE teachers only</em>). Alternatively,
-you may contact our Master Teachers to find out more!</p>
+	you may contact our Master Teachers to find out more!</p></div>
 <p></p>
 <p></p></li></ul>
