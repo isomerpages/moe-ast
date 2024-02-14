@@ -34,7 +34,7 @@ The HAL Chapter serves as a focal point for teachers and Teacher Leaders of HALs
 <div>  
 <!-- AST -->
 			<table>
-				<tbody><tr>
+				<tbody><tr style="background: rgb(191, 191, 191)">
 					<th width="40%">Name</th><th width="30%">Designation</th><th width="30%">Division/Branch
 				</th></tr>
 			<tr>
