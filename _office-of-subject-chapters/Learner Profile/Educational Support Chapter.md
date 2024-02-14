@@ -6,7 +6,7 @@ third_nav_title: Learner Profile
 variant: markdown
 ---
 <img src="/images/SubChap/edsupport-chapter-2023-1.jpg" style="width:70%">
-<ul>
+<ul class="jekyllcodex_accordion">
 <li>  
 <input type="checkbox" id="accordion1">  
 <label for="accordion1">Objectives of the Educational Support Chapter</label>  
@@ -39,65 +39,39 @@ variant: markdown
 	<tr>
 		<td>Mr Muhammad Hamzah</td><td>Academy Officer</td><td>AST/PDB</td>
 	</tr>
-	</tbody></table>
 <!-- North Zone -->
-	<p><b>NORTH ZONE</b></p>
-			<table>
-				<tbody><tr>
-					<th>Name</th><th>Designation</th><th>School
-				</th></tr>
+		<tr><td colspan="3"><p><b>NORTH ZONE</b></p></td></tr>
 			<tr>
 					<td>Mr Lai Kuan Hoe Leslie</td><td>LT/Learning Needs (ES)</td><td>Innova Primary School</td>
 				</tr>
 			<tr>
 					<td>Dr Ling Yuan</td><td>LT/Learning Needs (ES)</td><td>Edgefield Primary School</td>
 				</tr>
-			</tbody></table>
 	<!-- South Zone -->
-	<p><b>SOUTH ZONE</b></p>
-			<table>
-				<tbody><tr>
-					<th>Name</th><th>Designation</th><th>School
-				</th></tr>
+	<tr><td colspan="3"><p><b>SOUTH ZONE</b></p></td></tr>
 			<tr>
 					<td>Ms Xu Yue Min Michelle</td><td>LT/Learning Needs (ES)</td><td>Ang Mo Kio Primary School</td>
 				</tr>
 			<tr>
-					<td>Mr&nbsp;Lim Beng Kim</td><td>ST/Learning Needs (ES)</td><td>Zhonghua Primary School</td>
+					<td>Mr Lim Beng Kim</td><td>ST/Learning Needs (ES)</td><td>Zhonghua Primary School</td>
 				</tr>
-			</tbody></table>
 		<!-- East Zone -->
-	<p><b>EAST ZONE</b></p>
-			<table>
-				<tbody><tr>
-					<th>Name</th><th>Designation</th><th>School
-				</th></tr>
+	<tr><td colspan="3"><p><b>EAST ZONE</b></p></td></tr>
 			<tr>
 					<td>Mrs Tan Lay Chiat Agnes</td><td>LT/Learning Needs (ES)</td><td>Canossa Catholic Primary School</td>
 				</tr>
 			<tr>
 					<td>Mdm Koh Seok Hwee</td><td>LT/Learning Needs (ES)</td><td>St Anthony’s Canossian Secondary School</td>
-				</tr>
-			</tbody></table>
 	<!-- West Zone -->
-	<p><b>WEST ZONE</b></p>
-			<table>
-				<tbody><tr>
-					<th>Name</th><th>Designation</th><th>School
-				</th></tr>
+	</tr><tr><td colspan="3"><p><b>WEST ZONE</b></p></td></tr>
 			<tr>
 					<td>Ms Suneeta Kaur</td><td>ST/Learning Needs (ES)</td><td>West Grove Primary School</td>
 				</tr>
 			<tr>
 					<td>Mr Syam Lal s/o Sadanandan</td><td>LT/Learning Needs (ES)</td><td>Bukit Batok Secondary School</td>
 				</tr>
-			</tbody></table>
 	<!-- HQ/NIE -->
-	<p><b>HQ (CPDD, ETD) and NIE</b></p>
-			<table>
-				<tbody><tr>
-					<th>Name</th><th>Designation</th><th>Division/Branch
-				</th></tr>
+	<tr><td colspan="3"><p><b>HQ (CPDD, ETD) and NIE</b></p></td></tr>
 			<tr>
 					<td>Ms Hor I Wei</td><td>Guidance Officer</td><td>SDCD/GB</td>
 				</tr>
