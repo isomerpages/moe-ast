@@ -65,7 +65,6 @@ leadership in leading, guiding and inspiring lower primary learners.
 </p>
 		</div>
 	</li>
-	
 	<li>
 	<input id="accordion4" type="checkbox">  
 		<label for="accordion4">We organise various professional learning activities for you:</label>
