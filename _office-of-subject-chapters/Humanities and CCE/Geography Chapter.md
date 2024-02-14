@@ -36,10 +36,19 @@ variant: markdown
 					<th>Name</th><th>Designation</th><th>Division/Branch
 				</th></tr>
 			<tr>
-					<td>Name</td><td>Designation</td><td>Division/Branch</td>
+					<td>Mr Yuen Kah Mun</td><td>Principal Master Teacher</td><td>AST/PXB</td>
 				</tr>
 			<tr>
-					<td>Name</td><td>Designation</td><td>Division/Branch</td>
+					<td>Ms Melanie Lum</td><td>Master Teacher</td><td>AST/PXB</td>
+				</tr>
+			<tr>
+					<td>Ms Tang Sheng Lien Michele</td><td>Master Teacher</td><td>AST/PXB</td>
+				</tr>
+			<tr>
+					<td>Name</td><td>Master Teacher/Schools</td><td>AST/PXB</td>
+				</tr>
+			<tr>
+					<td>Name</td><td>Academy Officer</td><td>AST/PXB</td>
 				</tr>
 			</tbody></table>
 
