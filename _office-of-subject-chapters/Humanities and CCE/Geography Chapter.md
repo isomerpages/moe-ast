@@ -45,10 +45,90 @@ variant: markdown
 					<td>Ms Tang Sheng Lien Michele</td><td>Master Teacher</td><td>AST/PXB</td>
 				</tr>
 			<tr>
-					<td>Name</td><td>Master Teacher/Schools</td><td>AST/PXB</td>
+					<td>Mdm Lim Puay Yin</td><td>Master Teacher/Schools</td><td>AST/PXB</td>
 				</tr>
 			<tr>
-					<td>Name</td><td>Academy Officer</td><td>AST/PXB</td>
+					<td>Ms Loo An Qi</td><td>Academy Officer</td><td>AST/PXB</td>
+				</tr>
+			</tbody></table>
+	<!-- North Zone -->
+	<p><b>NORTH ZONE</b></p>
+			<table>
+				<tbody><tr>
+					<th>Name</th><th>Designation</th><th>School
+				</th></tr>
+			<tr>
+					<td>Mr Yuen Kah Mun</td><td>Principal Master Teacher</td><td>AST/PXB</td>
+				</tr>
+			<tr>
+					<td>Ms Melanie Lum</td><td>Master Teacher</td><td>AST/PXB</td>
+				</tr>
+			<tr>
+					<td>Ms Tang Sheng Lien Michele</td><td>Master Teacher</td><td>AST/PXB</td>
+				</tr>
+			</tbody></table>
+	<!-- South Zone -->
+	<p><b>NORTH ZONE</b></p>
+			<table>
+				<tbody><tr>
+					<th>Name</th><th>Designation</th><th>School
+				</th></tr>
+			<tr>
+					<td>Mr Yuen Kah Mun</td><td>Principal Master Teacher</td><td>AST/PXB</td>
+				</tr>
+			<tr>
+					<td>Ms Melanie Lum</td><td>Master Teacher</td><td>AST/PXB</td>
+				</tr>
+			<tr>
+					<td>Ms Tang Sheng Lien Michele</td><td>Master Teacher</td><td>AST/PXB</td>
+				</tr>
+			</tbody></table>
+		<!-- East Zone -->
+	<p><b>NORTH ZONE</b></p>
+			<table>
+				<tbody><tr>
+					<th>Name</th><th>Designation</th><th>School
+				</th></tr>
+			<tr>
+					<td>Mr Yuen Kah Mun</td><td>Principal Master Teacher</td><td>AST/PXB</td>
+				</tr>
+			<tr>
+					<td>Ms Melanie Lum</td><td>Master Teacher</td><td>AST/PXB</td>
+				</tr>
+			<tr>
+					<td>Ms Tang Sheng Lien Michele</td><td>Master Teacher</td><td>AST/PXB</td>
+				</tr>
+			</tbody></table>
+	<!-- West Zone -->
+	<p><b>NORTH ZONE</b></p>
+			<table>
+				<tbody><tr>
+					<th>Name</th><th>Designation</th><th>School
+				</th></tr>
+			<tr>
+					<td>Mr Yuen Kah Mun</td><td>Principal Master Teacher</td><td>AST/PXB</td>
+				</tr>
+			<tr>
+					<td>Ms Melanie Lum</td><td>Master Teacher</td><td>AST/PXB</td>
+				</tr>
+			<tr>
+					<td>Ms Tang Sheng Lien Michele</td><td>Master Teacher</td><td>AST/PXB</td>
+				</tr>
+			</tbody></table>
+	<!-- HQ/NIE -->
+	<p><b>NORTH ZONE</b></p>
+			<table>
+				<tbody><tr>
+					<th>Name</th><th>Designation</th><th>Division/Branch
+				</th></tr>
+			<tr>
+					<td>Mr Yuen Kah Mun</td><td>Principal Master Teacher</td><td>AST/PXB</td>
+				</tr>
+			<tr>
+					<td>Ms Melanie Lum</td><td>Master Teacher</td><td>AST/PXB</td>
+				</tr>
+			<tr>
+					<td>Ms Tang Sheng Lien Michele</td><td>Master Teacher</td><td>AST/PXB</td>
 				</tr>
 			</tbody></table>
 
