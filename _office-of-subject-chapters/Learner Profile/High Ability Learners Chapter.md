@@ -41,7 +41,7 @@ The HAL Chapter serves as a focal point for teachers and Teacher Leaders of HALs
 					<td>Evelyn Yeo</td><td>Master Teacher</td><td>Pedagogical Excellence Branch, Academy of Singapore Teachers</td>
 				</tr>
 	<!-- North Zone -->
-					<tr><td style="background-color:#eeeeee;" colspan="3"><p><b>NORTH ZONE</b></p></td></tr>
+					<tr><td style="bgcolor: rgb(242, 242, 242)" colspan="3"><p><b>NORTH ZONE</b></p></td></tr>
 			<tr>
 					<td>Ravinder Mohan Sharma</td><td>Lead Teacher</td><td>Edgefield Secondary School</td>
 				</tr>
@@ -62,7 +62,7 @@ The HAL Chapter serves as a focal point for teachers and Teacher Leaders of HALs
 					<td>Ngiam Tee Teng</td><td>Lead Teacher</td><td>Tao Nan School</td>
 				</tr>
 	<!-- West Zone -->
-	<tr><td bgcolor="light-grey&quot;" colspan="3  style="><p><b>WEST ZONE</b></p></td></tr>
+	<tr><td style="bgcolor=light-grey" colspan="3"><p><b>WEST ZONE</b></p></td></tr>
 			<tr>
 					<td>Chiew Sook Yee</td><td>Senior Teacher</td><td>Nan Hua Primary School</td>
 				</tr>
