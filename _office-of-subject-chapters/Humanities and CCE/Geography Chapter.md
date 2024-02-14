@@ -50,65 +50,40 @@ variant: markdown
 			<tr>
 					<td>Ms Loo An Qi</td><td>Academy Officer</td><td>AST/PXB</td>
 				</tr>
-			</tbody></table>
 	<!-- North Zone -->
-	<p><b>NORTH ZONE</b></p>
-			<table>
-				<tbody><tr>
-					<th>Name</th><th>Designation</th><th>School
-				</th></tr>
+					<tr><td colspan="3"><p><b>NORTH ZONE</b></p></td></tr>
 			<tr>
 					<td>Miss Lee Pei Ting</td><td>Senior Teacher</td><td>Ahmad Ibrahim Secondary School</td>
 				</tr>
 			<tr>
 					<td>Miss Huang Peishi</td><td>Senior Teacher</td><td>Naval Base Secondary School</td>
 				</tr>
-			</tbody></table>
 	<!-- South Zone -->
-	<p><b>SOUTH ZONE</b></p>
-			<table>
-				<tbody><tr>
-					<th>Name</th><th>Designation</th><th>School
-				</th></tr>
+					<tr><td colspan="3"><p><b>SOUTH ZONE</b></p></td></tr>
 			<tr>
 					<td>Ms Tan Shu-Wei</td><td>Senior Teacher</td><td>National Junior College</td>
 				</tr>
 			<tr>
 					<td>Mr Ng Chenyee</td><td>Lead Teacher</td><td>Peirce Secondary School</td>
 				</tr>
-			</tbody></table>
 		<!-- East Zone -->
-	<p><b>EAST ZONE</b></p>
-			<table>
-				<tbody><tr>
-					<th>Name</th><th>Designation</th><th>School
-				</th></tr>
+					<tr><td colspan="3"><p><b>EAST ZONE</b></p></td></tr>
 			<tr>
 					<td>Ms Soh Lay Na</td><td>Senior Teacher</td><td>Chung Cheng High School (Main)</td>
 				</tr>
 			<tr>
 					<td>Mdm Wendy Arleena Bte Sukma</td><td>Senior Teacher</td><td>St Anthony’s Canossian Secondary School</td>
 				</tr>
-			</tbody></table>
 	<!-- West Zone -->
-	<p><b>WEST ZONE</b></p>
-			<table>
-				<tbody><tr>
-					<th>Name</th><th>Designation</th><th>School
-				</th></tr>
+	<tr><td colspan="3"><p><b>WEST ZONE</b></p></td></tr>
 			<tr>
 					<td>Mdm Jayanthi Appacham</td><td>Lead Teacher</td><td>Bukit Batok Secondary School</td>
 				</tr>
 			<tr>
 					<td>Mr Mohamed Osman B Rahamat</td><td>Senior Teacher</td><td>Jurong Pioneer Junior College</td>
 				</tr>
-			</tbody></table>
 	<!-- HQ/NIE -->
-	<p><b>HQ (CPDD, ETD) and NIE</b></p>
-			<table>
-				<tbody><tr>
-					<th>Name</th><th>Designation</th><th>Division/Branch
-				</th></tr>
+					<tr><td colspan="3"><p><b>HQ (CPDD, ETD) and NIE</b></p></td></tr>
 			<tr>
 					<td>Ms Annie Tan</td><td>Senior Specialist/Geography</td><td>CPDD2/Humanities</td>
 				</tr>
