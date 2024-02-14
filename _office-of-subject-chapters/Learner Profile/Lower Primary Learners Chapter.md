@@ -18,8 +18,10 @@ for Primary 1 and Primary 2 teachers to collaborate and network. Through
 partnerships with various MOE divisions and external partners, the LPL
 Chapter seeks to raise the professional standards in the teachers to support
 learners as they transit from Kindergarten to Primary Schools.</p>
-<hr>
-<h4><strong>Objectives of the LPL Chapter</strong></h4>
+<ul class="jekyllcodex_accordion">  
+<li>  
+	<input id="accordion1" type="checkbox">  
+		<label for="accordion1">Objectives of the LPL Chapter</label>  
 <ul data-tight="true" class="tight">
 <li>
 <p>To deepen the&nbsp;pedagogical content knowledge&nbsp;of lower primary
@@ -78,18 +80,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Designation</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Division/Branch or School</strong>
-</p>
-</td>
+	<th>Name</th><th>Designation</th><th>Division/Branch or School</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -288,4 +279,4 @@ leadership in leading, guiding and inspiring lower primary learners.
 access the chapter’s OPAL page (<em>for MOE teachers only</em>). Alternatively,
 you may contact our Master Teachers to find out more!</p>
 <p></p>
-<p></p>
+<p></p></li></ul>
