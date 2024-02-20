@@ -4,10 +4,15 @@ title: Academy of Singapore Teachers (AST)
 description: Brief site description here
 image: /images/astlogo.svg
 permalink: /
-notification: Welcome to Academy of Singapore Teachers
+notification: ""
 sections:
   - hero:
       background: /images/Hero Images/hero_image_read.JPG
+      variant: floating
+      size: sm
+      alignment: right
+      backgroundColor: gray
+      title: Welcome to Academy of Singapore Teachers
   - infopic:
       title: PD Opportunities - Term One, 2024
       description: "[Sign up now!] 2024 Term 1 PD Opportunities in Professional
@@ -18,12 +23,14 @@ sections:
       subtitle: Upcoming Event
       alt: PD-T1-2024
   - infopic:
-      title: Congratulations to our PMCA 2023 recipient, Mdm Penny Chong
-      subtitle: PMCA 2023
+      title: Teaching Independence in a sighted world
+      subtitle: Spotlight
       button: Read more
       url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/international-awards/pmca/
       alt: pmca2023
       image: /images/penny pmca award (web).jpeg
+      description: Celebrating our Princess Maha Chakri Award (PMCA) recipient, Mdm
+        Penny Chong, a teacher for the visually impaired.
   - resources:
       title: Stories
       button: More stories

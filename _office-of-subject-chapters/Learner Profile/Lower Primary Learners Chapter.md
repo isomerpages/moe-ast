@@ -3,7 +3,7 @@ title: Lower Primary Learners Chapter
 permalink: /office-of-subject-chapters/learner-profile/lower-primary-learners-chapter/
 description: ""
 third_nav_title: Learner Profile
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Simple_Black_and_Turquoise_Welcome_Instagram_Post.png">
@@ -18,8 +18,11 @@ for Primary 1 and Primary 2 teachers to collaborate and network. Through
 partnerships with various MOE divisions and external partners, the LPL
 Chapter seeks to raise the professional standards in the teachers to support
 learners as they transit from Kindergarten to Primary Schools.</p>
-<hr>
-<h4><strong>Objectives of the LPL Chapter</strong></h4>
+<ul class="jekyllcodex_accordion">  
+<li>  
+	<input id="accordion1" type="checkbox">  
+		<label for="accordion1">Objectives of the LPL Chapter</label> 
+	<div>
 <ul data-tight="true" class="tight">
 <li>
 <p>To deepen the&nbsp;pedagogical content knowledge&nbsp;of lower primary
@@ -32,7 +35,12 @@ among lower primary teachers.
 </p>
 </li>
 </ul>
-<h4><strong>Mission of LPL Chapter</strong></h4>
+	</div>
+	</li>
+	<li>
+		<input id="accordion2" type="checkbox">  
+		<label for="accordion2">Mission of LPL Chapter</label> 
+		<div>
 <ul data-tight="true" class="tight">
 <li>
 <p>To build a teacher-led culture of professional excellence to engender
@@ -45,13 +53,22 @@ them for the next level (P3) as well as to foster the holistic development
 of each child.</p>
 </li>
 </ul>
-<p></p>
-<h4><strong>Vision of LPL Chapter (What)</strong></h4>
+		</div>
+	</li>
+	<li>
+		<input id="accordion3" type="checkbox">  
+		<label for="accordion3">Vision of LPL Chapter (What)</label>
+		<div>
 <p>A community of&nbsp;competent teacher&nbsp;leaders&nbsp;with strong pedagogical
 leadership in leading, guiding and inspiring lower primary learners.
 <br>
 </p>
-<h4><strong>We organise various professional learning activities for you:</strong></h4>
+		</div>
+	</li>
+	<li>
+	<input id="accordion4" type="checkbox">  
+		<label for="accordion4">We organise various professional learning activities for you:</label>
+		<div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Courses and Learning Programmes</p>
@@ -72,24 +89,16 @@ leadership in leading, guiding and inspiring lower primary learners.
 <p>LPL Learning Day</p>
 </li>
 </ul>
-<hr>
-<h4><strong>Our Subject Chapter Core Team</strong></h4>
-<p></p>
+		</div>
+	</li>
+	<li>
+	<input id="accordion5" type="checkbox">  
+		<label for="accordion5">Our Subject Chapter Core Team</label>
+		<div>
 <table>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Designation</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Division/Branch or School</strong>
-</p>
-</td>
+<tr style="background: rgb(191, 191, 191)">
+	<th>Name</th><th>Designation</th><th>Division/Branch or School</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -125,8 +134,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p></p>
+<td style="background: rgb(242, 242, 242)" rowspan="1" colspan="3">
 <p><strong>NORTH ZONE</strong>
 </p>
 </td>
@@ -143,8 +151,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p></p>
+<td style="background: rgb(242, 242, 242)" rowspan="1" colspan="3">
 <p><strong>SOUTH ZONE</strong>
 </p>
 </td>
@@ -172,8 +179,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p></p>
+<td style="background: rgb(242, 242, 242)" rowspan="1" colspan="3">
 <p><strong>EAST ZONE</strong>
 </p>
 </td>
@@ -212,8 +218,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p></p>
+<td style="background: rgb(242, 242, 242)" rowspan="1" colspan="3">
 <p><strong>WEST ZONE</strong>
 </p>
 </td>
@@ -241,8 +246,7 @@ leadership in leading, guiding and inspiring lower primary learners.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p></p>
+<td style="background: rgb(242, 242, 242)" rowspan="1" colspan="3">
 <p><strong>HQ (CPDD, ETD) &amp; NIE</strong>
 </p>
 </td>
@@ -282,10 +286,14 @@ leadership in leading, guiding and inspiring lower primary learners.
 </tr>
 </tbody>
 </table>
-<hr>
-<h4><strong>Our Calendar of Events</strong></h4>
+		</div>
+	</li>
+	<li>
+	<input id="accordion6" type="checkbox">  
+	<label for="accordion6">Our Calendar of Events</label>
+		<div>
 <p>For more information about chapter events, click on this <strong><a href="https://go.gov.sg/lowerprimarylearners" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> </strong>to
 access the chapter’s OPAL page (<em>for MOE teachers only</em>). Alternatively,
-you may contact our Master Teachers to find out more!</p>
+	you may contact our Master Teachers to find out more!</p></div>
 <p></p>
-<p></p>
+<p></p></li></ul>

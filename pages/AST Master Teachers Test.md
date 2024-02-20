@@ -1,12 +1,14 @@
 ---
 title: AST Master Teachers Test
-permalink: /permalink/
+permalink: /pre-prod/test01/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20MTT/mtt_ast_2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our MTT/mtt_ast_2023.jpg">
 </div>
+<p></p>
 <p></p>
 <blockquote>
 <h4><strong>Building a culture of teacher-led professionalism and pride in the teaching fraternity</strong></h4>
@@ -19,8 +21,25 @@ of the teaching fraternity, leading, mentoring and inspiring teachers to
 be caring, competent and passionate educators who live out the ethos of
 our teaching profession, to provide quality education for our students.</p>
 <h4><strong>Subject Chapters in AST</strong></h4>
-<p><strong>Humanities &amp; CCE</strong>
-</p>
+<p>Guided by the professional learning philosophy of "Teacher Ownership,
+Teacher&nbsp;Leadership" of learning, the Subject Chapters in AST bring
+together groups of educators to learn from and with each other. Different
+professional learning platforms are designed to deepen the pedagogical
+content knowledge of teachers in the Subject Chapter, guided by specific
+professional learning directions set by the Subject Chapter Core Team and
+supported by the ST-LT Network Core Team and MTTs.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>HUMANITIES &amp; CCE</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>MATHEMATICS</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/office-of-subject-chapters/humanities-and-cce/geography-chapter/" rel="noopener noreferrer nofollow" target="_blank">Geography</a>
@@ -43,13 +62,13 @@ our teaching profession, to provide quality education for our students.</p>
 </p>
 </li>
 <li>
-<p><a href="/office-of-subject-chapters/humanities-and-cce/character-and-citizenship-education-chapter/" rel="noopener noreferrer nofollow" target="_blank">Character and Citizenship Education</a>
+<p><a href="/office-of-subject-chapters/humanities-and-cce/character-and-citizenship-education-chapter/" rel="noopener noreferrer nofollow" target="_blank">Character and </a>
+<br><a href="/office-of-subject-chapters/humanities-and-cce/character-and-citizenship-education-chapter/" rel="noopener noreferrer nofollow" target="_blank">Citizenship Education</a>
 </p>
 </li>
 </ul>
-<p></p>
-<p><strong>Mathematics</strong>
-</p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/office-of-subject-chapters/mathematics/primary-mathematics-chapter/" rel="noopener noreferrer nofollow" target="_blank">Primary Mathematics</a>
@@ -60,9 +79,24 @@ our teaching profession, to provide quality education for our students.</p>
 </p>
 </li>
 </ul>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<p><strong>Science </strong>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>SCIENCE</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>LEARNER PROFILE</strong>
 </p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/office-of-subject-chapters/science/primary-science-chapter/" rel="noopener noreferrer nofollow" target="_blank">Primary Science</a>
@@ -89,9 +123,8 @@ our teaching profession, to provide quality education for our students.</p>
 </p>
 </li>
 </ul>
-<p></p>
-<p><strong>Learner Profile </strong>
-</p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/office-of-subject-chapters/learner-profile/special-educational-needs-chapter/" rel="noopener noreferrer nofollow" target="_blank">Special Educational Needs</a>
@@ -110,29 +143,37 @@ our teaching profession, to provide quality education for our students.</p>
 </p>
 </li>
 </ul>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
-<p>Guided by the professional learning philosophy of "Teacher Ownership,
-Teacher&nbsp; Leadership" of learning, the Subject Chapters in AST bring
-together groups of educators to learn from and with each other. Different
-professional learning platforms are designed to deepen the pedagogical
-content knowledge of teachers in the Subject Chapter, guided by specific
-professional learning directions set by the Subject Chapter Core Team and
-supported by the ST-LT Network Core Team and MTTs.</p>
-<h4><strong>Geography Master Teachers </strong></h4>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="yuen_kah_mun@moe.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mr Yuen Kah Mun" src="/images/mr yuen kah mun .png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Yuen Kah Mun</div><div class="isomer-card-description">Principal Master Teacher/ Geography</div><div class="isomer-card-link">Email </div></div></a>
+<h4><strong>Geography Master Teachers</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="yuen_kah_mun@moe.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Mr Yuen Kah Mun</div><div class="isomer-card-description">Principal Master Teacher/ Geography</div><div class="isomer-card-link">Email</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Lim_Puay_Yin@schools.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Lim Puay Yin" src="/images/geo2.png">
-</div>
-</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Lim Puay Yin</div>
 <div class="isomer-card-description">Master Teacher / Geography</div>
 <div class="isomer-card-link">Email</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="Melanie_Lum@moe.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ms Lum Kit Kuan Melanie" src="/images/geo3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Lum Kit Kuan Melanie</div><div class="isomer-card-description">Master Teacher / Geography</div><div class="isomer-card-link">Email</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="Melanie_Lum@moe.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Ms Lum Kit Kuan Melanie</div><div class="isomer-card-description">Master Teacher / Geography</div><div class="isomer-card-link">Email</div></div></a>
+<a rel="noopener noreferrer nofollow" href="Michele_Tang@moe.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Michele Tang Sheng Lien</div>
+<div class="isomer-card-description">Master Teacher / Geography</div>
+<div class="isomer-card-link">Email</div>
+</div>
+</a>
+</div>
+<h4><strong>History Master Teachers</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Anthony_Andrew_Michael@moe.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Mr Andrew Anthony</div><div class="isomer-card-description">Principal Master Teacher / History</div><div class="isomer-card-link">Email</div></div></a>
+<a rel="noopener noreferrer nofollow" href="Tham_Chin_Pang@moe.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Tham Chin Pang Joseph</div>
+<div class="isomer-card-description">Master Teacher/ History</div>
+<div class="isomer-card-link">Email</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="Lloyd_Luc_Yeo@moe.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Mr Yeo Tze Chiang Lloyd Luc</div><div class="isomer-card-description">Master Teacher/ History</div><div class="isomer-card-link">Email</div></div></a>
 </div>
 <p>
 <br>
