@@ -2,6 +2,7 @@
 title: Teachers' Council
 permalink: /about-us/teachers-council/
 description: ""
+variant: markdown
 ---
 The Teachers’ Council (TC) was established in January 2011 and chaired by the Director-General of Education, Ms Liew Wei Li. Members of the Council come from a broad spectrum of the fraternity. so that they are better positioned to represent and reflect the perspectives and voices of the fraternity.
 
@@ -12,7 +13,7 @@ The roles of the Council include:
 *   Advocating the growth of the Teaching Track.
 *   Supporting the well-being of all teachers by leading the fraternity in identifying and adopting good practices.
 
-### Members of Teachers’ Council:
+### Members of Teachers’ Council (2023):
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -38,7 +39,7 @@ The roles of the Council include:
   </tr>
   <tr>
     <td class="tg-ktyi">2.  </td>
-    <td class="tg-ktyi">A/P Liu Woon Chia</td>
+    <td class="tg-ktyi">Professor Liu Woon Chia</td>
     <td class="tg-ktyi">Dean, Teacher Education  </td>
     <td class="tg-ktyi">National Institute of Education</td>
   </tr>
