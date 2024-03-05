@@ -97,7 +97,7 @@ DAI Program against our local educational context.
 <h4>Hear more from our Fulbrighters!</h4>
 <ul>
 <li>
-<p><code>&lt;label for="accordion10"&gt;Singapore Fulbright Award Recipients 2022&lt;/label&gt;</code>
+<p><code>Singapore Fulbright Award Recipients 2023</code>
 </p>
 <p></p>
 <table>
@@ -158,11 +158,10 @@ DAI Program against our local educational context.
 </tr>
 </tbody>
 </table>
-<p></p><pre><code>&lt;/p&gt;&lt;/div&gt;</code></pre>
+<p></p><pre><code></code></pre>
 </li>
 <li>
-<p>U.S. Fulbright Award Recipients 2022</p><pre><code>&lt;div&gt;
-	&lt;p&gt;&lt;/p&gt;&lt;h4&gt; Resources and Reflections from International Recipients&lt;/h4&gt;</code></pre>
+<p>U.S. Fulbright Award Recipients 2022</p><pre><code></code></pre>
 <p>The DAI Program also involves educators from the U.S. coming to Singapore
 for an exchange. These educators are attached to Singapore schools and
 MOE HQ divisions, and also provide professional development offerings to
@@ -192,12 +191,12 @@ teachers in the schools to which they are attached.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Damon Peterson</strong>
+<p><strong>Mr Damon Peterson</strong> 
 <br><strong>Dorothy I. Height Elementary School</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms I Ling Hsiung</strong>
+<p><strong>Ms I Ling Hsiung</strong> 
 <br><strong>Anthony Sprangler Elementary School</strong>
 </p>
 </td>
