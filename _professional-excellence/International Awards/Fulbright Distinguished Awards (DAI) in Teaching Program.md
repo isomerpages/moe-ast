@@ -5,11 +5,11 @@ description: ""
 third_nav_title: International Awards
 variant: tiptap
 ---
-<h3>Fulbright Distinguished Awards in Teaching Program for International Teachers</h3>
+<h3><strong>Fulbright Distinguished Awards in Teaching Program for International Teachers</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/Fulbright%20logo-small.jpg">
 </div>
-<h4>Introduction</h4>
+<h4><strong>Introduction</strong></h4>
 <p>The DAI Program is one of the flagship international educational exchange
 programs supported by the U.S. government. It brings outstanding international
 educators to the United States (U.S.) for a semester-long program to pursue
@@ -92,82 +92,86 @@ during which the DAI recipients come together to engage in professional
 dialogue with our teachers on the implications of the learning from the
 DAI Program against our local educational context.
 <br>
-<br>
 </p>
-<h4>Hear more from our Fulbrighters!</h4>
-<ul>
-<li>
-<p><strong>Singapore Fulbright Award Recipients 2023</strong>
+<h4><strong>Hear more from our Fulbrighters!</strong></h4>
+<p><strong>SINGAPORE FULBRIGHT AWARD RECIPIENTS 2023</strong>
 </p>
 <table>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Ms_Faith.jpg">
+<img style="width: 62%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Ms_Faith.jpg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Ms_Sarifah.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Ms_Sarifah.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Mr_Ng_Ee_Noch.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Mr_Ng_Ee_Noch.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Faith Kaylie Ong Yi Cheng </strong>
-</p>
-<p><strong>Manjusri Secondary School</strong>
-</p>
+<p><strong>Ms Faith Kaylie Ong Yi Cheng</strong>
+<br>Manjusri Secondary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Sarifah Noor Aini Bte Syed Mahmood </strong>
-</p>
-<p><strong>Guangyang Secondary School</strong>
-</p>
+<p><strong>Ms Sarifah Noor Aini Bte Syed Mahmood</strong>
+<br>Guangyang Secondary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Ng Ee Noch </strong>
-</p>
-<p></p>
-<p><strong>Boon Lay Garden Primary School</strong>
-</p>
+<p><strong>Mr Ng Ee Noch</strong>
+<br>Boon Lay Garden Primary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/FulbrightDAI/Reflection__Faith_Kaylie_Ong_.pdf" rel="noopener noreferrer nofollow" target="_blank">Reflection (Faith Kaylie Ong)</a>
 </p>
+</li>
+<li>
 <p><a href="/files/FulbrightDAI/Research_Project__Faith_Kaylie_Ong_Yi_Cheng_.pdf" rel="noopener noreferrer nofollow" target="_blank">Research Project (Faith Kaylie Ong)</a>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/FulbrightDAI/Reflection_Sarifah.pdf" rel="noopener noreferrer nofollow" target="_blank">Reflection (Sarifah)</a>
 </p>
+</li>
+<li>
 <p><a href="/files/FulbrightDAI/Research_Project__Sarifah_Noor_Aini_Syed_Mahmood_.pdf" rel="noopener noreferrer nofollow" target="_blank">Research Project (Sarifah)</a>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/FulbrightDAI/Reflection__Ng_Ee_Noch_.pdf" rel="noopener noreferrer nofollow" target="_blank">Reflection (Ng Ee Noch)</a>
 </p>
+</li>
+<li>
 <p><a href="/files/FulbrightDAI/Research_Project__Ng_Ee_Noch_.pdf" rel="noopener noreferrer nofollow" target="_blank">Research Project (Ng Ee Noch)</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-</li>
-<li>
-<p><strong>U.S. Fulbright Award Recipients 2022</strong>
+<p><strong>US FULBRIGHT AWARD RECIPIENTS 2022</strong>
 </p>
 <p>The DAI Program also involves educators from the U.S. coming to Singapore
 for an exchange. These educators are attached to Singapore schools and
@@ -180,6 +184,7 @@ teachers in the schools to which they are attached.</p>
 <div class="isomer-image-wrapper">
 <img style="width:210px; height:210px" height="auto" width="100%" alt="Image" src="/images/Fulbrighte%20Award/lauren_hubert.jpg">
 </div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -194,40 +199,55 @@ teachers in the schools to which they are attached.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Lauren Marce Hubert<br>Camelback High School</strong>
-</p>
+<p><strong>Mrs Lauren Marce Hubert<br></strong>Camelback High School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Damon Peterson</strong> 
-<br><strong>Dorothy I. Height Elementary School</strong>
-</p>
+<br>Dorothy I. Height Elementary School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms I Ling Hsiung</strong> 
-<br><strong>Anthony Sprangler Elementary School</strong>
-</p>
+<br>Anthony Sprangler Elementary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/FulbrightDAI/2023%20fulbright%20reflection%20(lauren).pdf" rel="noopener noreferrer" target="_blank"><u>[Lauren's Reflection]</u></a> 
-<br><a href="/files/FulbrightDAI/ss3601%20teaching%20sustainability%20through%20project-based%20learning.pdf" rel="noopener noreferrer" target="_blank">[Lauren's Slides]</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/FulbrightDAI/2023%20fulbright%20reflection%20(lauren).pdf" rel="noopener noreferrer" target="_blank"><u>[Lauren's Reflection]</u></a>
 </p>
+</li>
+<li>
+<p><a href="/files/FulbrightDAI/ss3601%20teaching%20sustainability%20through%20project-based%20learning.pdf" rel="noopener noreferrer" target="_blank">[Lauren's Slides]</a>
+</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/FulbrightDAI/2023%20fulbright%20reflection%20(damon).pdf" rel="noopener noreferrer" target="_blank"><u>[Damon's Reflection]</u></a> 
-<br><a href="/files/FulbrightDAI/ss1226%20global%20literacy%20and%20philosophy%20for%20the%2021st%20century%20(1).pdf" rel="noopener noreferrer" target="_blank">[Damon's Slides]</a>
 </p>
+</li>
+<li>
+<p><a href="/files/FulbrightDAI/ss1226%20global%20literacy%20and%20philosophy%20for%20the%2021st%20century%20(1).pdf" rel="noopener noreferrer" target="_blank">[Damon's Slides]</a>
+</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/FulbrightDAI/2023%20fulbright%20reflection%20(i%20ling).pdf" rel="noopener noreferrer" target="_blank"><u>[I-Ling's Reflection] </u></a>
-<br><a href="/files/FulbrightDAI/ss1106%20a%20technology-based%20mathematics%20enrichment%20program.pdf" rel="noopener noreferrer" target="_blank">[I-Ling's Slides]</a>
 </p>
+</li>
+<li>
+<p><a href="/files/FulbrightDAI/ss1106%20a%20technology-based%20mathematics%20enrichment%20program.pdf" rel="noopener noreferrer" target="_blank">[I-Ling's Slides]</a>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-</li>
-</ul>
 <p></p>
