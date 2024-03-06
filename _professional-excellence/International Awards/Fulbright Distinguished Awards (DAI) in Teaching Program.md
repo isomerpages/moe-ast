@@ -118,7 +118,7 @@ DAI Program against our local educational context.
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Mr_Ng_Ee_Noch.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Mr_Ng_Ee_Noch.jpg">
 </div>
 </th>
 </tr>
