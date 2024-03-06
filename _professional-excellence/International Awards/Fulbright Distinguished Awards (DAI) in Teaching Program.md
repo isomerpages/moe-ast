@@ -131,7 +131,10 @@ DAI Program against our local educational context.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Ng Ee Noch Boon Lay Garden Primary School</strong>
+<p><strong>Mr Ng Ee Noch </strong>
+</p>
+<p></p>
+<p><strong>Boon Lay Garden Primary School</strong>
 </p>
 </td>
 </tr>
