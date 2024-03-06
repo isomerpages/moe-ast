@@ -22,7 +22,8 @@ and has allowed them to more deeply appreciate the strengths and areas
 of relative weakness of our education system as they engage in professional
 networked learning and dialogue with educators from the U.S. and from other
 participating countries.</p>
-<p>Participating countries/region :</p>
+<p><strong>Participating countries/region :</strong>
+</p>
 <table>
 <tbody>
 <tr>
