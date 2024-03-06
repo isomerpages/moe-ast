@@ -3,106 +3,224 @@ title: Design and Technology Chapter
 permalink: /office-of-subject-chapters/science/design-and-technology-chapter/
 description: ""
 third_nav_title: Science
+variant: tiptap
 ---
-<img src="/images/SubChap/d&amp;t-chapter-2023.jpg" style="width:70%">
-
-<ul class="jekyllcodex_accordion">  
-	
-<li>  
-  
-<input type="checkbox" id="accordion1">  
-  
-<label for="accordion1">Objectives of the Design &amp; Technology Chapter</label>  
-  
-<div>  
-  
-<p>
-The Design &amp; Technology (D&amp;T) Chapter is a professional network that aims to <br>
-
-• promote a culture of professionalism and pride within the D&amp;T fraternity;  <br>
-• serve as a focal point for D&amp;T teachers to engage in collaborative learning and inquiry; and  <br>
-• broaden their professional knowledge to improve classroom practice through collaborative learning in a network.  <br>
-
-By participating in learning activities organised by the D&amp;T Chapter, our D&amp;T teachers can be empowered to incorporate their ideas and insights from networked learning communities into their instructional practices. In addition, such engagement in networked learning will help to foster teacher ownership and teacher leadership.
-</p>  
-  
-</div>  
-  
-</li>   
-  
-<li>  
-  
-<input type="checkbox" id="accordion3">  
-  
-<label for="accordion3">Our Subject Chapter Core Team</label>  
-  
-<div>  
-  
-<p>
-Core Team members from schools are representatives of teacher leaders across the four zones, coming together to contribute to the professional development of teachers and teacher leaders in the chapter. <br><br>
-
-<i>2019 – 2020 Core Team</i> <br><br>
-
-<img src="/images/dtc4.png" style="width:70%">
-	
-<b>2021 – 2022 Core Team</b><br><br>
-
-<img src="/images/dtc5.png" style="width:70%">
-  
-</p>  
-  
-</div>  
-  
-</li>  
-	
-<li>  
-  
-<input type="checkbox" id="accordion4">  
-  
-<label for="accordion4">Our Calendar of Events</label>  
-  
-<div>  
-  
-<p>
-
-• Core Team Meetings (for D&amp;T Chapter Core Team members)  <br>
-• ST/LT Networked Learning Sessions (for STs/LTs of D&amp;T)  <br>
-• Chapter Learning Day (for all D&amp;T teachers)<br><br>
-
-Confirmed dates and information about these sessions will be communicated to the D&amp;T fraternity via email, so do look out for them!
- 
-</p>  
-  
-</div>  
-  
-</li>  	
-  
-<li>  
-  
-<input type="checkbox" id="accordion5">  
-  
-<label for="accordion5">How to join us?</label>  
-  
-<div>  
-  
-<p>
-  
-Every teacher is a member of a subject chapter based on the subject that he/she is teaching. Join us during our subject chapter outreach&nbsp;activities for a professional conversation with our members and teachers in the fraternity. <br><br>
-
-You will get to know more about the subject chapter, its relevance to your professional growth and how you can be involved in the networked learning communities.   <br><br>
-
-You may contact Mr Ow Yeong Wai Kit (ow_yeong_wai_kit@moe.gov.sg) if you have any queries regarding the Design &amp; Technology subject chapter. <br><br>
-
-Check out our past D&amp;T subject chapter events here:  <br><br>
-
-	
-<a href="/files/our-design-and-technology-subject-chapter-past-events68bab0a1c96041f6b2710cf79cd03f7a.pdf">our-design-and-technology-subject-chapter-past-events</a>(pdf) <br>
-
-3870 KB
-	
-	
-</p>  
- 
-</div>  
-  
-</li></ul>
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" src="/images/SubChap/d&amp;t-chapter-2023.jpg">
+</div>
+<h3>Objectives of the Design &amp; Technology Chapter</h3>
+<p>The Design &amp; Technology (D&amp;T) Chapter promotes a culture of professionalism
+and pride for teachers teaching D&amp;T.</p>
+<p>It serves as a focal point for D&amp;T teachers to engage in collaborative
+learning and inquiry to improve classroom practices.</p>
+<p>Through partnerships with various stakeholders, the Chapter promotes pedagogical
+innovations through research-informed practices.</p>
+<hr>
+<h3>Our Subject Chapter Core Team</h3>
+<p>Core Team members from schools are representatives of teacher leaders
+across the four zones, coming together to contribute to the professional
+development of teachers and teacher leaders in the chapter.
+<br>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Designation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School / Division</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Muhammad Nazir Bin Amir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Master Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST/PXB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ow Yeong Wai Kit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Academy Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST/PDB2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>North Zone</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Yong Koon Matthew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Orchid Park Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Susan Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seng Kang Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Li Yen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Punggol Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>South Zone</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sean Ng Wern Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Queenstown Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sui Siang Wey Jeffrey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gan Eng Seng School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>East Zone</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ma Lay Hwa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bedok View Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Zairani Bin Matyasir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>East Spring Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>West Zone</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Liaw Poh Geok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fajar Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>HQ (CPDD, ETD) and NIE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jason Tan Seng Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Lecturer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Institute of Education (NIE)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohammad Hafiz Bin Imram</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Curriculum Specialist (D&amp;T Unit)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CPDD 1, Sciences Branch</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Linda Teo Lian Eng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Educational Technology Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Educational Technology Division</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3>Our Calendar of Events</h3>
+<h4>Teacher-led Workshops</h4>
+<p>For more information on Teacher-led Workshops, you may visit the MOE AST
+TLW site, <a href="https://sites.google.com/view/asttlwgsite/tlw-listings-by-subject-areas/design-technology?authuser=0#h.lhmp1hudixvm" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h4>Core Team Meetings (for D&amp;T Chapter Core Team members)</h4>
+<h4>ST/LT Networked Learning Sessions (for STs/LTs of D&amp;T)</h4>
+<p>The upcoming Teacher Leader Network Session is scheduled on 25 April 2024
+at 2:30 p.m. Please save the date! More information will be sent out via
+email nearing the date.</p>
+<h4>Chapter Learning Day (for all D&amp;T teachers)</h4>
+<p>Confirmed dates and information about these sessions will be communicated
+to the D&amp;T fraternity via email, so do look out for them!</p>
+<p></p>
