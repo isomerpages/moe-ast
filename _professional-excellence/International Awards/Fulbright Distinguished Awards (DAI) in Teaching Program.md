@@ -97,9 +97,8 @@ DAI Program against our local educational context.
 <h4>Hear more from our Fulbrighters!</h4>
 <ul>
 <li>
-<p><code>Singapore Fulbright Award Recipients 2023</code>
+<p><strong>Singapore Fulbright Award Recipients 2023</strong>
 </p>
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -118,7 +117,7 @@ DAI Program against our local educational context.
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Mr_Ng_Ee_Noch.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Mr_Ng_Ee_Noch.jpg">
 </div>
 </th>
 </tr>
@@ -158,10 +157,11 @@ DAI Program against our local educational context.
 </tr>
 </tbody>
 </table>
-<p></p><pre><code></code></pre>
+<p></p>
 </li>
 <li>
-<p>U.S. Fulbright Award Recipients 2022</p><pre><code></code></pre>
+<p><strong>U.S. Fulbright Award Recipients 2022</strong>
+</p>
 <p>The DAI Program also involves educators from the U.S. coming to Singapore
 for an exchange. These educators are attached to Singapore schools and
 MOE HQ divisions, and also provide professional development offerings to
@@ -220,10 +220,7 @@ teachers in the schools to which they are attached.</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p><code>&lt;/li&gt;&lt;/ul&gt;</code>
-</p>
+<p></p>
 </li>
 </ul>
 <p></p>
