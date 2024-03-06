@@ -106,13 +106,13 @@ DAI Program against our local educational context.
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Ms_Faith.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Ms_Faith.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Ms_Sarifah.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Ms_Sarifah.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
