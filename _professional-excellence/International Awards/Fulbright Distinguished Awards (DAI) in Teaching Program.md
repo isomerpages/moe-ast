@@ -118,15 +118,15 @@ DAI Program against our local educational context.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Faith Kaylie Ong Yi Cheng</strong>
+<p><strong>Ms Faith Kaylie Ong Yi Cheng</strong> 
 <br>Manjusri Secondary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Sarifah Noor Aini Bte Syed Mahmood</strong>
+<p><strong>Ms Sarifah Noor Aini Bte Syed Mahmood</strong> 
 <br>Guangyang Secondary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Ng Ee Noch</strong>
+<p><strong>Mr Ng Ee Noch</strong> 
 <br>Boon Lay Garden Primary School</p>
 </td>
 </tr>
@@ -170,6 +170,7 @@ DAI Program against our local educational context.
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
 <p><strong>US FULBRIGHT AWARD RECIPIENTS 2022</strong>
 </p>
@@ -226,7 +227,7 @@ teachers in the schools to which they are attached.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/FulbrightDAI/2023%20fulbright%20reflection%20(damon).pdf" rel="noopener noreferrer" target="_blank"><u>[Damon's Reflection]</u></a> 
+<p><a href="/files/FulbrightDAI/2023%20fulbright%20reflection%20(damon).pdf" rel="noopener noreferrer" target="_blank"><u>[Damon's Reflection]</u></a>
 </p>
 </li>
 <li>
@@ -238,7 +239,7 @@ teachers in the schools to which they are attached.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/FulbrightDAI/2023%20fulbright%20reflection%20(i%20ling).pdf" rel="noopener noreferrer" target="_blank"><u>[I-Ling's Reflection] </u></a>
+<p><a href="/files/FulbrightDAI/2023%20fulbright%20reflection%20(i%20ling).pdf" rel="noopener noreferrer" target="_blank"><u>[I-Ling's Reflection]</u></a>
 </p>
 </li>
 <li>
