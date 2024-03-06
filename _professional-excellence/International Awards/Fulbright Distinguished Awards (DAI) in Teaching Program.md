@@ -123,15 +123,19 @@ DAI Program against our local educational context.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Faith Kaylie Ong Yi Cheng Manjusri Secondary School</strong>
+<p><strong>Ms Faith Kaylie Ong Yi Cheng </strong>
+</p>
+<p><strong>Manjusri Secondary School</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Sarifah Noor Aini Bte Syed Mahmood Guangyang Secondary School</strong>
+<p><strong>Ms Sarifah Noor Aini Bte Syed Mahmood </strong>
+</p>
+<p><strong>Guangyang Secondary School</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Ng Ee Noch</strong>
+<p><strong>Mr Ng Ee Noch </strong>
 </p>
 <p></p>
 <p><strong>Boon Lay Garden Primary School</strong>
