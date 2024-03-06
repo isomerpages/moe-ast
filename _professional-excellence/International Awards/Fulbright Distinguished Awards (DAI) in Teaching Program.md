@@ -105,13 +105,13 @@ DAI Program against our local educational context.
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Ms_Faith.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Ms_Faith.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Ms_Sarifah.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Ms_Sarifah.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -131,7 +131,7 @@ DAI Program against our local educational context.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Ng Ee Noch </strong>
+<p><strong>Mr Ng Ee Noch</strong>
 </p>
 <p></p>
 <p><strong>Boon Lay Garden Primary School</strong>
