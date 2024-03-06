@@ -172,7 +172,6 @@ DAI Program against our local educational context.
 </tbody>
 </table>
 <hr>
-<p></p>
 <p><strong>US FULBRIGHT AWARD RECIPIENTS 2022</strong>
 </p>
 <p>The DAI Program also involves educators from the U.S. coming to Singapore
