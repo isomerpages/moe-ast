@@ -14,23 +14,14 @@ sections:
       backgroundColor: gray
       title: Welcome to Academy of Singapore Teachers
   - infopic:
-      title: PD Opportunities - Term One, 2024
-      description: "[Sign up now!] 2024 Term 1 PD Opportunities in Professional
-        Learning Community and Critical Inquiry"
-      button: read more
-      url: /events/upcoming-events
-      image: /images/Events/PLC2024_Term1_small.PNG
-      subtitle: Upcoming Event
-      alt: PD-T1-2024
-  - infopic:
-      title: Teaching Independence in a sighted world
+      title: Fulbright Teacher Exchanges
       subtitle: Spotlight
       button: Read more
-      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/international-awards/pmca/
-      alt: pmca2023
-      image: /images/penny pmca award (web).jpeg
-      description: Celebrating our Princess Maha Chakri Award (PMCA) recipient, Mdm
-        Penny Chong, a teacher for the visually impaired.
+      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/international-awards/da-in-teaching-program/
+      alt: FB2023
+      image: /images/SGFulbrighters2023.png
+      description: Explore the journeys and inquiry projects of the 2022 - 2023
+        Singapore Fulbrighters
   - resources:
       title: Stories
       button: More stories
