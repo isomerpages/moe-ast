@@ -175,6 +175,17 @@ BTs, ST-LT Network Learning, etc.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mr Koh Bing Qin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Academy Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST / PDB1</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <p><strong>North Zone</strong>
 </p>
@@ -323,17 +334,6 @@ BTs, ST-LT Network Learning, etc.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ETD / LPET Branch</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Koh Bing Qin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Academy Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AST / PDB1</p>
 </td>
 </tr>
 </tbody>
