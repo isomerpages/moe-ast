@@ -8,7 +8,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/SubChap/secondarymaths-chapter-2023.jpg">
 </div>
-<h3>Objectives of the Secondary Mathematics Chapter</h3>
 <p>The Secondary Mathematics Chapter champions quality learning in mathematics
 by building teacher capacity, encouraging pedagogical innovations and facilitating
 research-informed practice to impact student learning. It aims to build
@@ -19,6 +18,7 @@ to collaborate and network. Through partnerships with various MOE divisions
 and external partners, the Secondary Mathematics Chapter seeks to raise
 the professional standards in the learning and teaching of mathematics
 in Singapore.</p>
+<h3>Objectives of the Secondary Mathematics Chapter</h3>
 <p>A key focus of the Secondary Mathematics Chapter is building teachers’
 capacity in pedagogical content knowledge and subject matter knowledge
 in the teaching and learning of Secondary Mathematics. As a catalyst for
