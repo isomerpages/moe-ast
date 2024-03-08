@@ -3,67 +3,242 @@ title: Social Studies Chapter
 permalink: /office-of-subject-chapters/humanities-and-cce/social-studies-chapter/
 description: ""
 third_nav_title: Humanities and CCE
+variant: tiptap
 ---
-<img src="/images/SubChap/socialstudies-chapter-2023.jpg" style="width:70%">
-
-<ul class="jekyllcodex_accordion">  
-
-<li>  
-	
-<input type="checkbox" id="accordion1">  
-  
-<label for="accordion1">Objectives of the Social Studies Chapter</label>  
-  
-<div>  
-  
-<p>
-The Social Studies Chapter provides teachers with learning opportunities beyond the school. It is a platform where teachers can collaborate with others on common professional interest areas. This allows teachers&nbsp;to deepen their professional knowledge and improve their practice to bring about student achievement. Participating in the Social Studies Chapter strengthens teachers’ professional practice, grows teacher leadership, and helps teachers stay current and connected with the fraternity. <br><br>
-
-<b>We organise various professional learning activities for you:</b><br>
-
-•   Workshops ( Research Informed Practice)<br>
-•   Chapter Outreach/ Learning journeys<br>
-•   Professional conversations with overseas and local educators<br>
-•   Networked learning sessions e.g. ST-LT network<br>
-•   Professional learning sessions for BTs, STs, LTs
-</p>  
-  
-</div>  
-  
-</li>  
-  
-<li>  
-  
-<input type="checkbox" id="accordion3">  
-  
-<label for="accordion3">Our Subject Chapter Core Team</label>  
-  
-<div>  
-  
-<p>
-<table style="border: medium; border-collapse: collapse;"><colgroup><col width="196"><col width="182"><col width="218"></colgroup><tbody><tr style="height: 15.75pt;"><td style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; background-color: rgb(0, 0, 0); padding: 0pt 5.75pt; overflow: hidden; overflow-wrap: break-word;" colspan="3"><p style="line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(255, 255, 255); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Subject Chapter Core Team</span></p></td></tr><tr style="height: 15.75pt;"><td style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; padding: 0pt 5.75pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Name</span></p></td><td style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; padding: 0pt 5.75pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Designation</span></p></td><td style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; padding: 0pt 5.75pt; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Division/Branch or School</span></p></td></tr><tr style="height: 15.75pt;"><td style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Ms Premaletha Gopalakrishnan</span></p></td><td style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Master Teacher</span></p></td><td style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">AST/PXB</span></p></td></tr><tr style="height: 15.75pt;"><td style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Mr Jason Seng Yang Sun</span></p></td><td style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Academy Officer</span></p></td><td style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">AST/PDB2</span></p></td></tr><tr style="height: 15.75pt;"><td style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;" colspan="3"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">North Zone</span></p></td></tr><tr style="height: 15.75pt;"><td style="border-width: 0.5pt 0.5pt 0.75pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Ms Wong Xiu Yan</span></p></td><td style="border-width: 0.5pt 0.75pt 0.5pt 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Senior Teacher</span></p></td><td style="border-width: 0.75pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Maris Stella High School (Sec)</span></p></td></tr><tr style="height: 15.75pt;"><td style="border-width: 0.75pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Ms Siti Aishah Bte Ibrahim</span></p></td><td style="border-width: 0.5pt 0.75pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Senior Teacher</span></p></td><td style="border-width: 0.75pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Greendale Secondary School</span></p></td></tr><tr style="height: 15.75pt;"><td style="border-width: 0.75pt 0.5pt 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;" colspan="3"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">South Zone</span></p></td></tr><tr style="height: 15pt;"><td style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Ms Renuka d/o Magaendran</span></p></td><td style="border-width: 0.5pt 0.75pt 0.5pt 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Lead Teacher</span></p></td><td style="border-width: 0.75pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Holy Innocents' High School</span></p></td></tr><tr style="height: 16.5pt;"><td style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Mr Marek Otreba</span></p></td><td style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Lead Teacher</span></p></td><td style="border-width: 0.75pt 0.5pt 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">St. Andrew's Secondary School</span></p></td></tr><tr style="height: 15.75pt;"><td style="border-width: 0.5pt 0.5pt 0.75pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;" colspan="3"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">East Zone</span></p></td></tr><tr style="height: 15.75pt;"><td style="border-width: 0.75pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Ms Hairunisa Hosnin</span></p></td><td style="border-width: 0.5pt 0.75pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Senior Teacher</span></p></td><td style="border-width: 0.75pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Pasir Ris Secondary School</span></p></td></tr><tr style="height: 15.75pt;"><td style="border-width: 0.75pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Ms Noriff Elyn Mohd Ariffin</span></p></td><td style="border-width: 0.5pt 0.75pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Senior Teacher</span></p></td><td style="border-width: 0.75pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Anglican High School</span></p></td></tr><tr style="height: 15.75pt;"><td style="border-width: 0.75pt 0.5pt 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;" colspan="3"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">West Zone</span></p></td></tr><tr style="height: 15.75pt;"><td style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Ms Adlin Ratini Binte Anwar</span></p></td><td style="border-width: 0.5pt 0.75pt 0.5pt 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Senior Teacher</span></p></td><td style="border-width: 0.75pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Hua Yi Secondary School</span></p></td></tr><tr style="height: 15.75pt;"><td style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Ms Rashidah Bte Kassim</span></p></td><td style="border-width: 0.5pt 0.75pt 0.5pt 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Senior Teacher</span></p></td><td style="border-width: 0.75pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Clementi Town Secondary School</span></p></td></tr><tr style="height: 15.75pt;"><td style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;" colspan="3"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">HQ (CPDD, ETD) and NIE</span></p></td></tr><tr style="height: 15.75pt;"><td style="border-width: 0.5pt 0.5pt 0.75pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Dr Yang Peidong</span></p></td><td style="border-width: 0.5pt 0.75pt 0.5pt 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Asst Professor</span></p><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Humanities &amp; Social Studies Education</span></p></td><td style="border-width: 0.75pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">NIE/ HSS</span></p></td></tr><tr style="height: 15.75pt;"><td style="border-width: 0.75pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Ms Sin Yueh Taur, Anita</span></p></td><td style="border-width: 0.5pt 0.75pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Curriculum Planning Officer, Social Studies (Sec)</span></p></td><td style="border-width: 0.75pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">CPDD2: Humanities Branch</span></p></td></tr><tr style="height: 15.75pt;"><td style="border-width: 0.75pt 0.5pt 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Ms Tan Jill-lynn Gwen</span></p></td><td style="border-width: 0.5pt 0.75pt 0.5pt 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Educational Technology Officer</span></p></td><td style="border-width: 0.75pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; overflow: hidden; overflow-wrap: break-word;"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">ETD: LPET</span></p></td></tr></tbody></table>
-  
-</p>  
-  
-</div>  
-  
-</li>  
-	
-<li>  
-  
-<input type="checkbox" id="accordion4">  
-  
-<label for="accordion4">Our Calendar of Events</label>  
-  
-<div>  
-  
-<p>
-	
-
-<table style="border: medium; border-collapse: collapse;"><colgroup><col width="196"><col width="400"></colgroup><tbody><tr style="height: 15.75pt;"><td style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; background-color: rgb(0, 0, 0); padding: 0pt 5.75pt; overflow: hidden; overflow-wrap: break-word;" colspan="2"><p style="line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(255, 255, 255); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Our Calendar of Events</span></p></td></tr><tr style="height: 15.75pt;"><td style="border-left-width: 0.5pt; border-left-style: solid; border-left-color: rgb(0, 0, 0); border-right-width: 0.5pt; border-right-style: solid; border-right-color: rgb(0, 0, 0); border-top-width: 0.5pt; border-top-style: solid; border-top-color: rgb(0, 0, 0); vertical-align: middle; padding: 0pt 5.75pt; overflow: hidden; overflow-wrap: break-word;" rowspan="2"><p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Our Calendar of Events:</span></p></td><td style="border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle; padding: 0pt 5.75pt; overflow: hidden; overflow-wrap: break-word;" rowspan="2"><p style="line-height: 1.2; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">For more information about chapter events, click on this </span><a style="text-decoration: none;" href="https://www.opal2.moe.edu.sg/csl/s/social-studies-chapter-wiki/"><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(17, 85, 204); background-color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;">link</span></a><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> </span><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">to access the chapter’s OPAL page ( </span><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-weight: 400; font-style: italic; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">for MOE teachers only </span><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">). Alternatively, you may contact our Master Teachers to find out more!</span></p></td></tr><tr style="height: 16.5pt;"></tr></tbody></table>
-
-</p>  
-  
-</div>  
-  
-</li></ul>
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" src="/images/SubChap/socialstudies-chapter-2023.jpg">
+</div>
+<h3>Objectives of the Social Studies Chapter</h3>
+<p>The Social Studies Chapter provides teachers with learning opportunities
+beyond the school. It is a platform where teachers can collaborate with
+others on common professional interest areas. This allows teachers&nbsp;to
+deepen their professional knowledge and improve their practice to bring
+about student achievement. Participating in the Social Studies Chapter
+strengthens teachers’ professional practice, grows teacher leadership,
+and helps teachers stay current and connected with the fraternity.</p>
+<p><strong>We organise various professional learning activities for you:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Workshops ( Research Informed Practice)</p>
+</li>
+<li>
+<p>Chapter Outreach/ Learning journeys</p>
+</li>
+<li>
+<p>Professional conversations with overseas and local educators</p>
+</li>
+<li>
+<p>Networked learning sessions e.g. ST-LT network</p>
+</li>
+<li>
+<p>Professional learning sessions for BTs, STs, L</p>
+</li>
+</ul>
+<hr>
+<h3>Our Subject Chapter Core Team</h3>
+<p></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Subject Chapter Core Team</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Division/Branch or School</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Premaletha Gopalakrishnan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Master Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST/PXB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jason Seng Yang Sun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Academy Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST/PDB2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>North Zone</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Xiu Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maris Stella High School (Sec)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Aishah Bte Ibrahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Greendale Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>South Zone</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Renuka d/o Magaendran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Holy Innocents' High School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Marek Otreba</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St. Andrew's Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>East Zone</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hairunisa Hosnin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pasir Ris Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Noriff Elyn Mohd Ariffin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Anglican High School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>West Zone</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Adlin Ratini Binte Anwar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hua Yi Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Rashidah Bte Kassim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clementi Town Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>HQ (CPDD, ETD) and NIE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Yang Peidong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst Professor</p>
+<p>Humanities &amp; Social Studies Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIE/HSS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sin Yueh Taur, Anita</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Curriculum Planning Officer, Social Studies (Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CPDD2/Humanities Branch</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Jill-lynn Gwen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Educational Technology Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ETD/LPET</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3>Our Calendar of Events</h3>
+<p>For more information about chapter events, click on this <strong><a href="https://www.opal2.moe.edu.sg/csl/s/social-studies-chapter-wiki/" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> </strong>to
+access the chapter’s OPAL page (<em>for MOE teachers only</em>). Alternatively,
+you may contact our Master Teachers to find out more!</p>
+<p></p>
