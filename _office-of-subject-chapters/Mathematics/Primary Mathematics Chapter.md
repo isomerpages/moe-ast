@@ -8,7 +8,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/SubChap/primarymaths-chapter-2023.jpg">
 </div>
-<h3>Objectives of the Primary Mathematics Chapter</h3>
 <p>The Primary Mathematics Chapter champions quality learning in mathematics
 by building teacher capacity, encouraging pedagogical innovations and facilitating
 research-informed practice to impact student learning. It aims to build
@@ -18,15 +17,16 @@ Chapter will serve as a focal point for mathematics teachers to collaborate
 and network. Through partnerships with various MOE divisions and external
 partners, the Primary Mathematics Chapter seeks to raise the professional
 standards in the learning and teaching of mathematics in Singapore.</p>
+<h3>Objectives of the Primary Mathematics Chapter</h3>
 <p>The Primary Mathematics Chapter focuses on building teachers’ capacity
 in pedagogical content knowledge and subject content knowledge in the teaching
 of mathematics. As a catalyst for professional growth, it fosters pedagogical
 innovations and facilitates research-informed practices to help teachers
 strengthen the theory-practice nexus.</p>
-<p><strong>Mission:</strong>
+<p><strong>Mission:</strong> 
 <br>To build a teacher-led culture of professional excellence in the learning
 and teaching of mathematics
-<br><strong>Vision:</strong>
+<br><strong>Vision:</strong> 
 <br>A community of competent teacher leaders who inspire the learning and
 teaching of mathematics</p>
 <hr>
