@@ -209,7 +209,7 @@ and helps teachers stay current and connected with the fraternity.</p>
 <p>Humanities &amp; Social Studies Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NIE/ HSS</p>
+<p>NIE/HSS</p>
 </td>
 </tr>
 <tr>
@@ -220,7 +220,7 @@ and helps teachers stay current and connected with the fraternity.</p>
 <p>Curriculum Planning Officer, Social Studies (Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CPDD2: Humanities Branch</p>
+<p>CPDD2/Humanities Branch</p>
 </td>
 </tr>
 <tr>
