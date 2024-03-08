@@ -10,29 +10,29 @@ variant: tiptap
 </div>
 <h3>Objectives of the Design &amp; Technology Chapter</h3>
 <p>The Design &amp; Technology (D&amp;T) Chapter promotes a culture of professionalism
-and pride for teachers teaching D&amp;T.</p>
-<p>It serves as a focal point for D&amp;T teachers to engage in collaborative
-learning and inquiry to improve classroom practices.</p>
-<p>Through partnerships with various stakeholders, the Chapter promotes pedagogical
-innovations through research-informed practices.</p>
+and pride for teachers teaching D&amp;T. It serves as a focal point for
+D&amp;T teachers to engage in collaborative learning and inquiry to improve
+classroom practices. Through partnerships with various stakeholders, the
+Chapter promotes pedagogical innovations through research-informed practices.</p>
 <hr>
 <h3>Our Subject Chapter Core Team</h3>
-<p>Core Team members from schools are representatives of teacher leaders
+<p>Core Team members from schools are representatives of Teacher Leaders
 across the four zones, coming together to contribute to the professional
-development of teachers and teacher leaders in the chapter.
-<br>
-</p>
+development of teachers and Teacher Leaders in the chapter.</p>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Designation</p>
+<p><strong>Designation</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School / Division</p>
+<p><strong>School / Division</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -48,13 +48,13 @@ development of teachers and teacher leaders in the chapter.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ow Yeong Wai Kit</p>
+<p>Ms Farah Binte Rosalan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Academy Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AST/PDB2</p>
+<p>AST/PXB</p>
 </td>
 </tr>
 <tr>
@@ -194,7 +194,7 @@ development of teachers and teacher leaders in the chapter.
 <p>Senior Curriculum Specialist (D&amp;T Unit)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CPDD 1, Sciences Branch</p>
+<p>CPDD 1/Sciences Branch</p>
 </td>
 </tr>
 <tr>
@@ -205,22 +205,39 @@ development of teachers and teacher leaders in the chapter.
 <p>Educational Technology Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Educational Technology Division</p>
+<p>ETD/LPET</p>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
 <h3>Our Calendar of Events</h3>
-<h4>Teacher-led Workshops</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Teacher-led Workshops</strong>
+</p>
 <p>For more information on Teacher-led Workshops, you may visit the MOE AST
 TLW site, <a href="https://sites.google.com/view/asttlwgsite/tlw-listings-by-subject-areas/design-technology?authuser=0#h.lhmp1hudixvm" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<h4>Core Team Meetings (for D&amp;T Chapter Core Team members)</h4>
-<h4>ST/LT Networked Learning Sessions (for STs/LTs of D&amp;T)</h4>
-<p>The upcoming Teacher Leader Network Session is scheduled on 25 April 2024
-at 2:30 p.m. Please save the date! More information will be sent out via
-email nearing the date.</p>
-<h4>Chapter Learning Day (for all D&amp;T teachers)</h4>
+<p></p>
+</li>
+<li>
+<p><strong>Core Team Meetings (for D&amp;T Chapter Core Team members)</strong>
+</p>
+<p></p>
+</li>
+<li>
+<p><strong>ST/LT Networked Learning Sessions (for STs/LTs of D&amp;T)</strong>
+</p>
+<p>The upcoming Teacher Leader Network Session is scheduled on <strong>25 April 2024 at 2:30 p.m.</strong> Please
+save the date! More information will be sent out via email nearing the
+date.</p>
+<p></p>
+</li>
+<li>
+<p><strong>Chapter Learning Day (for all D&amp;T teachers)</strong>
+</p>
 <p>Confirmed dates and information about these sessions will be communicated
 to the D&amp;T fraternity via email, so do look out for them!</p>
+</li>
+</ul>
 <p></p>
