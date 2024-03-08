@@ -191,7 +191,7 @@ teaching of mathematics</p>
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Greendale Secondary School</p>
+<p>Greendale Secondary School</p>
 </td>
 </tr>
 <tr>
