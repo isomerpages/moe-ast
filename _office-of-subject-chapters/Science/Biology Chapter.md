@@ -70,6 +70,7 @@ capability of teachers in the learning and teaching of Biology.
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/bc4.png">
 </div>
+<hr>
 <h3>Our Subject Chapter Core Team</h3>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/2023coreteam-png.jpg">
@@ -294,6 +295,7 @@ Science Education</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <h3>Our Calendar of Events</h3>
 <p>For more information about chapter events, click on this <strong><a href="https://www.opal2.moe.edu.sg/csl/s/df10644a-0963-465d-9069-40ae6f6435dd/?contentId=697826" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> </strong>to
 access the chapter’s OPAL page (<em>for MOE teachers only</em>). Alternatively,
