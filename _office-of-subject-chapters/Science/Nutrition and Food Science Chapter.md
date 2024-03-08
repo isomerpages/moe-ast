@@ -39,6 +39,7 @@ and to&nbsp;share ideas and resources with fellow teachers in the NFS&nbsp;frate
 <p>Professional learning sessions for BTs</p>
 </li>
 </ul>
+<hr>
 <h3>Our Subject Chapter Core Team</h3>
 <table>
 <tbody>
@@ -248,6 +249,7 @@ and to&nbsp;share ideas and resources with fellow teachers in the NFS&nbsp;frate
 </tr>
 </tbody>
 </table>
+<hr>
 <h3>Our Calendar of Events</h3>
 <p>For more information about chapter events, click on this <strong><a href="https://safe.menlosecurity.com/https://www.opal2.moe.edu.sg/csl/s/f3cd3238-f6eb-4339-a455-34a69a694455/" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> </strong>to
 access the chapter’s OPAL page (<em>for MOE teachers only</em>). Alternatively,
