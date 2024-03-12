@@ -20,19 +20,19 @@ and helps teachers stay current and connected with the fraternity.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Workshops ( Research Informed Practice)</p>
+<p>Workshops (Research Informed Practice)</p>
 </li>
 <li>
-<p>Chapter Outreach/ Learning journeys</p>
+<p>Chapter Outreach/Learning journeys</p>
 </li>
 <li>
 <p>Professional conversations with overseas and local educators</p>
 </li>
 <li>
-<p>Networked learning sessions e.g. ST-LT network</p>
+<p>Networked learning sessions e.g., ST-LT network</p>
 </li>
 <li>
-<p>Professional learning sessions for BTs, STs, L</p>
+<p>Professional learning sessions for BTs, STs, LTs</p>
 </li>
 </ul>
 <hr>
