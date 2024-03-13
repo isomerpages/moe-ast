@@ -9,13 +9,13 @@ variant: tiptap
 <img style="width:70%" height="auto" width="100%" src="/images/SubChap/hal-chapter-2023.jpg">
 </div>
 <h3>Objectives of the High Ability Learners Chapter</h3>
-<p>The High Ability Learners (HALs) Chapter seeks to enhance pedagogical
-practice in the teaching of learners with high ability. The chapter engenders
-the belief that our students have diverse learning needs and they bring
-with them a wide range of experiences, beliefs, knowledge, and skills.
-High ability learners have specific learning needs to be met. For learning
-to be effective, teachers need to adapt teaching pace, approaches, and
-assessment practices to be developmentally appropriate for these learners.</p>
+<p>The High Ability Learners (HAL) Chapter seeks to enhance pedagogical practice
+in the teaching of learners with high ability. The chapter engenders the
+belief that our students have diverse learning needs and they bring with
+them a wide range of experiences, beliefs, knowledge, and skills. High
+ability learners have specific learning needs to be met. For learning to
+be effective, teachers need to adapt teaching pace, approaches, and assessment
+practices to be developmentally appropriate for these learners.</p>
 <p>
 <br>The HAL Chapter serves as a focal point for teachers and Teacher Leaders
 of HALs to learn from, with and on behalf of one another. Through partnerships
