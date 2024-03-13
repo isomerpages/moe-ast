@@ -43,7 +43,7 @@ and facilitate professional workshops in various areas, for example:</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shahrin_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2023_05_18_at_11_11_40.jpg">
 </div>
 <p>From the workshops, effective classroom practices are surfaced and contextualised
 to the needs of the Chemistry teachers. Through collaborative learning,
@@ -53,10 +53,14 @@ that are run by Chemistry Master Teachers often adopt a 5Cs Approach (Curiosity,
 Comprehension, Convincing, Contextualisation, and Changed practice) where
 teachers are closely guided into transforming what they have learnt to
 good and effective classroom practices.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Siew_Ling.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2023_05_18_at_11_11_39.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_Kien_Huay.png">
+</div>
 <p><strong>The Chapter organises a diverse range of professional learning activities to cater to different learning preference and interest:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -87,6 +91,9 @@ BTs, ST-LT Network Learning, etc.</p>
 <p>Chemistry Learning Day (biennial)
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_03_06_at_4_34_29_PM.jpg">
+</div>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
