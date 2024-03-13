@@ -6,8 +6,9 @@ third_nav_title: Learner Profile
 variant: tiptap
 ---
 <p></p>
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Simple_Black_and_Turquoise_Welcome_Instagram_Post__4_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Simple_Black_and_Turquoise_Welcome_Instagram_Post__5_.png">
 </div>
 <h3>Objectives of the Special Educational Needs Chapter</h3>
 <p>The Special Educational Needs (SEN) Chapter is a professional network
