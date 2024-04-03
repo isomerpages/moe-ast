@@ -26,7 +26,7 @@ so that students who have the passion and ability in the subject will continue
 with Physics or a Physics-related STEM course in higher education institutes.
 <br>
 </p>
-<p><strong>We organise various professional learning activities for you:</strong>
+<p><strong>We organise various professional learning activities for you:</strong> 
 <br>
 </p>
 <ul data-tight="true" class="tight">
@@ -181,7 +181,7 @@ with Physics or a Physics-related STEM course in higher education institutes.
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yuying Secondary School</p>
+<p>Presbyterian High School</p>
 </td>
 </tr>
 <tr>
@@ -245,7 +245,7 @@ with Physics or a Physics-related STEM course in higher education institutes.
 <p>Mr Syed Ali Bin Mohamed Alhabshee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Westwood Secondary School</p>
