@@ -78,7 +78,7 @@ Knowledge (PCK) pertaining to motivation and engagement.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Seek Hwee</p>
+<p>Mdm Koh Seok Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Master Teacher</p>

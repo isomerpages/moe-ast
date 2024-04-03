@@ -210,6 +210,15 @@ development of teachers and Teacher Leaders in the chapter.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Core_Team_Members.jpg">
+</div>
+<p><em>From left: Ms Farah, Mr Zairani, Mr Matthew Tan, Mr Hafiz, Dr Nazir, Mr Jordan Loh, Mdm Lim Li Yen, Mr Dennis Loy and Ms Ma Lay Hwa</em>
+</p>
+<p><em>Absent with apologies: Mrs Ang Bee Kiow Eileen, Mr Wong Kok Siong, Mr Chua Qing Jun and Mr Ng Yong Sim</em>
+</p>
 <hr>
 <h3>Our Calendar of Events</h3>
 <ul data-tight="true" class="tight">
@@ -233,11 +242,39 @@ save the date! More information will be sent out via email nearing the
 date.</p>
 <p></p>
 </li>
-<li>
+</ul>
 <p><strong>Chapter Learning Day (for all D&amp;T teachers)</strong>
 </p>
 <p>Confirmed dates and information about these sessions will be communicated
 to the D&amp;T fraternity via email, so do look out for them!</p>
-</li>
-</ul>
+<hr>
+<h3>Past Events</h3>
+<h4>Chapter Learning Day 2023</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_Chapter_Learning_Day.jpg">
+</div>
+<p></p>
+<h4>STEM Interest NLC (Queenstown, Changkat Changi, Compassvale, Mayflower and East Spring Secondary Schools)</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM_Interest_NLC__Queenstown__Changkat_Changi__Compassvale__Mayflower_and_East_Spring_Secondary_Schools_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM_Interest_NLC__Queenstown__Changkat_Changi__Compassvale__Mayflower_and_East_Spring_Secondary_Schools__Part_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM_Interest_NLC__Queenstown__Changkat_Changi__Compassvale__Mayflower_and_East_Spring_Secondary_Schools__Part_2.jpg">
+</div>
+<h4>Teacher Leaders Networking Sessions</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Teacher_Leaders_Network.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_Teacher_Leaders_Networking_Sessions.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_Teacher_Leaders_Networking_Sessions_Part_2.jpg">
+</div>
 <p></p>
