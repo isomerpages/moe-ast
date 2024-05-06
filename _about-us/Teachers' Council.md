@@ -44,7 +44,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Liew Wei Li&nbsp;</p>
@@ -58,7 +58,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>2. &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Professor&nbsp;Liu Woon Chia</p>
@@ -72,7 +72,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Beatrice Chong</p>
@@ -86,7 +86,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>4.&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Poh Mun See&nbsp;</p>
@@ -201,7 +201,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Su-Jim Benjamin&nbsp;</p>
