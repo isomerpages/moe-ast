@@ -154,34 +154,6 @@ identifying and adopting good practices.</p>
 <p>Malay Language Centre</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Norasiken Binte Mohamed Noor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Academy Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Academy of Singapore Teachers&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10.&nbsp;&nbsp;&nbsp; &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Mr See Yong Xin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Curriculum Policy Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Curriculum Policy Office (CPO)&nbsp;</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
@@ -439,7 +411,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wee Wan Ying Susanna</p>
@@ -449,6 +421,34 @@ identifying and adopting good practices.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hua Yi Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Norasiken Binte Mohamed Noor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Academy Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Academy of Singapore Teachers&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr See Yong Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Curriculum Policy Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Curriculum Policy Office</p>
 </td>
 </tr>
 </tbody>
