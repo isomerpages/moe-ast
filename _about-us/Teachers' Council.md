@@ -2,215 +2,455 @@
 title: Teachers' Council
 permalink: /about-us/teachers-council/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-The Teachers’ Council (TC) was established in January 2011 and chaired by the Director-General of Education, Ms Liew Wei Li. Members of the Council come from a broad spectrum of the fraternity. so that they are better positioned to represent and reflect the perspectives and voices of the fraternity.
-
-The roles of the Council include:
-
-*   Championing the Ethos and the vision of the teaching profession.
-*   Promoting quality professional learning that is aligned with the philosophy of Teacher Ownership, Teacher Leadership. This nurtures a pedagogically excellent teaching fraternity and fosters a pervasive culture of teacher-led professional excellence.
-*   Advocating the growth of the Teaching Track.
-*   Supporting the well-being of all teachers by leading the fraternity in identifying and adopting good practices.
-
-### Members of Teachers’ Council (2023):
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax" colspan="4">MOE HQ and NIE Representatives</th>
-  </tr>
-</thead>
+<p>The Teachers’ Council (TC) was established in January 2011 and chaired
+by the Director-General of Education, Ms Liew Wei Li. Members of the Council
+come from a broad spectrum of the fraternity. so that they are better positioned
+to represent and reflect the perspectives and voices of the fraternity.</p>
+<p>The roles of the Council include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Championing the Ethos and the vision of the teaching profession.</p>
+</li>
+<li>
+<p>Promoting quality professional learning that is aligned with the philosophy
+of Teacher Ownership, Teacher Leadership. This nurtures a pedagogically
+excellent teaching fraternity and fosters a pervasive culture of teacher-led
+professional excellence.</p>
+</li>
+<li>
+<p>Advocating the growth of the Teaching Track.</p>
+</li>
+<li>
+<p>Supporting the well-being of all teachers by leading the fraternity in
+identifying and adopting good practices.</p>
+</li>
+</ul>
+<h3>Members of Teachers’ Council (2024):</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-ktyi">1.  </td>
-    <td class="tg-ktyi">Ms Liew Wei Li </td>
-    <td class="tg-ktyi">Director-General of Education</td>
-    <td class="tg-ktyi"> </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">2.  </td>
-    <td class="tg-ktyi">Professor Liu Woon Chia</td>
-    <td class="tg-ktyi">Dean, Teacher Education  </td>
-    <td class="tg-ktyi">National Institute of Education</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">3.  </td>
-    <td class="tg-ktyi">Mrs Chua-Lim Yen Ching </td>
-    <td class="tg-ktyi">Deputy Director-General of Education<br>(Professional Development) </td>
-    <td class="tg-zr06"> </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">4.  </td>
-    <td class="tg-ktyi">Mrs Poh Mun See </td>
-    <td class="tg-ktyi">Executive Director </td>
-    <td class="tg-ktyi">Academy of Singapore Teachers </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">5. </td>
-    <td class="tg-ktyi">Ms Yin Tong</td>
-    <td class="tg-ktyi">Divisional Director </td>
-    <td class="tg-ktyi">HR Solutions and Capabilities Division </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">6.  </td>
-    <td class="tg-ktyi">Mr Cheng San Shian Sherwin</td>
-    <td class="tg-ktyi">Director </td>
-    <td class="tg-ktyi">Curriculum Policy Office</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>MOE HQ and NIE Representatives</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Liew Wei Li&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Director-General of Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2. &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Professor&nbsp;Liu Woon Chia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dean, Teacher Education, National Institute of Education&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Beatrice Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Director-General of Education (Professional Development)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Poh Mun See&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Director&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Academy of Singapore Teachers&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yin Tong&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Divisional Director&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HR Solutions and Capabilities Division (HSCD)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Cheng San Shian Sherwin&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Director&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Curriculum Policy Office (CPO)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Anne Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal Master Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Academy of Singapore Teachers&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Rahmat Subadah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Master Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay Language Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Norasiken Binte Mohamed Noor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Academy Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Academy of Singapore Teachers&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10.&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Mr See Yong Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Curriculum Policy Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Curriculum Policy Office (CPO)&nbsp;</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax" colspan="4"><span style="font-weight:bold">School representatives</span></th>
-  </tr>
-</thead>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-ktyi">1.  </td>
-    <td class="tg-ktyi">Ms Ang Mui Khoong </td>
-    <td class="tg-ktyi">Principal </td>
-    <td class="tg-ktyi">South View Primary School   </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">2.</td>
-    <td class="tg-ktyi">Mr Loong Chieh Yung </td>
-    <td class="tg-ktyi">Vice-Principal </td>
-    <td class="tg-ktyi">Yishun Town Secondary School </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">3.</td>
-    <td class="tg-ktyi">Mr Rahmat Subadah </td>
-    <td class="tg-ktyi">Master Teacher </td>
-    <td class="tg-ktyi">Malay Language Centre of Singapore</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">4.</td>
-    <td class="tg-ktyi">Mr Tan Su-Jim Benjamin </td>
-    <td class="tg-ktyi">Master Teacher</td>
-    <td class="tg-ktyi">Punggol Secondary School</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">5.</td>
-    <td class="tg-ktyi">Mr Yuen Kah Mun </td>
-    <td class="tg-ktyi">Master Teacher </td>
-    <td class="tg-ktyi">Boon Lay Secondary School </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">6. </td>
-    <td class="tg-ktyi">Mr Leung Yulun </td>
-    <td class="tg-ktyi">Year Head </td>
-    <td class="tg-ktyi">Yuan Ching Secondary School </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">7.</td>
-    <td class="tg-ktyi">Mr Ganison S/O Rajamohan </td>
-    <td class="tg-ktyi">Special Assistant </td>
-    <td class="tg-ktyi">School Operations Policy Branch </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">8.</td>
-    <td class="tg-ktyi">Ms Ho Ai De Eunice </td>
-    <td class="tg-ktyi">Senior Manager</td>
-    <td class="tg-ktyi">International Cooperation and Strategy Team </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">9.</td>
-    <td class="tg-ktyi">Ms Ang Hui Ling Mabel </td>
-    <td class="tg-ktyi">Level Head </td>
-    <td class="tg-ktyi">Victoria Junior College </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">10. </td>
-    <td class="tg-ktyi">Mr Chua Wang Zhi </td>
-    <td class="tg-ktyi">Subject Head </td>
-    <td class="tg-ktyi">Jurong West Secondary School </td>
-  </tr>
-	  <tr>
-    <td class="tg-ktyi">11. </td>
-    <td class="tg-ktyi">Ms Low Yi Lun </td>
-    <td class="tg-ktyi">Subject Head </td>
-    <td class="tg-ktyi">Christ Church Secondary School </td>
-  </tr>
-	  <tr>
-    <td class="tg-ktyi">12. </td>
-    <td class="tg-ktyi">Ms Norasiken Binte Mohamed Noor </td>
-    <td class="tg-ktyi">Assistant Year Head </td>
-    <td class="tg-ktyi">Haig Girls' School </td>
-  </tr>
-	  <tr>
-    <td class="tg-ktyi">13. </td>
-    <td class="tg-ktyi">Mr Rahmat Tirmizi Bin Juma'at </td>
-    <td class="tg-ktyi">Senior Teacher </td>
-    <td class="tg-ktyi">Jurong West Secondary School </td>
-  </tr>
-	  <tr>
-    <td class="tg-ktyi">14. </td>
-    <td class="tg-ktyi">Ms Archana D/O Rethenam Loganathan </td>
-    <td class="tg-ktyi">Teacher </td>
-    <td class="tg-ktyi">Keming Primary School </td>
-  </tr>
-	  <tr>
-    <td class="tg-ktyi">15. </td>
-    <td class="tg-ktyi">Ms Darlene John Johney </td>
-    <td class="tg-ktyi">Teacher </td>
-    <td class="tg-ktyi">Zhenghua Secondary School </td>
-  </tr>
-	  <tr>
-    <td class="tg-ktyi">16. </td>
-    <td class="tg-ktyi">Ms Joanne Lee Yuan Khee </td>
-    <td class="tg-ktyi">Teacher </td>
-    <td class="tg-ktyi">Edgefield Secondary School </td>
-  </tr>
-	  <tr>
-    <td class="tg-ktyi">17. </td>
-    <td class="tg-ktyi">Ms Khor Ting Yan </td>
-    <td class="tg-ktyi">Teacher </td>
-    <td class="tg-ktyi">Zhenghua Primary School </td>
-  </tr>
-	  <tr>
-    <td class="tg-ktyi">18. </td>
-    <td class="tg-ktyi">Mr See Yong Xin </td>
-    <td class="tg-ktyi">Teacher </td>
-    <td class="tg-ktyi">Guangyang Secondary School </td>
-  </tr>
-	  <tr>
-    <td class="tg-ktyi">19. </td>
-    <td class="tg-ktyi">Ms Tan Shu Ting </td>
-    <td class="tg-ktyi">Teacher </td>
-    <td class="tg-ktyi">East Spring Secondary School </td>
-  </tr>
-	  <tr>
-    <td class="tg-ktyi">20. </td>
-    <td class="tg-ktyi">Ms Uma Magheswary D/O Pandyan</td>
-    <td class="tg-ktyi">Teacher </td>
-    <td class="tg-ktyi">Hougang Secondary School </td>
-  </tr>
-	  <tr>
-    <td class="tg-ktyi">21. </td>
-    <td class="tg-ktyi">Ms Vinotheni d/o Vatatheeswaran </td>
-    <td class="tg-ktyi">Teacher </td>
-    <td class="tg-ktyi">Peiying Primary School </td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>School Representatives</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Su-Jim Benjamin&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Master Teacher&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physical Education and Sports Teacher Academy&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ang Mui Khoong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South View Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Loong Chieh Yung&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yishun Town Secondary School&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nurul Ain Binte Ramli&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Broadrick Secondary School&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yap Zhi Jun Vivienne&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Greenridge Primary School&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rachel Subramaniam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rivervale Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nurul Amalina Binte Jamaludin&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Woodlands Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Wang Zhi&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jurong West Secondary School&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Uma Magheswary D/o Pandyan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hougang Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ang Hui Ling, Mabel&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Victoria Junior College</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Eng Leong, Alan&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Anderson Primary School&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Andrew Mathias Lim You Shun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unity Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Archana D/o Rethenam Loganathan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Keming Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Mingxun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Edgefield Secondary School&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Yu Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Springfield Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Seow Siang Kim Edgar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIJ St Theresa’s Convent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Shu Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>East Spring Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wee Wan Ying Susanna</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hua Yi Secondary School</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
