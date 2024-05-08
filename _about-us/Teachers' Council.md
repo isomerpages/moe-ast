@@ -182,7 +182,8 @@ identifying and adopting good practices.</p>
 <p>Master Teacher&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Physical Education and Sports Teacher Academy&nbsp;</p>
+<p>Physical Education and Sports Teacher Academy&nbsp;(Punggol Secondary
+School)</p>
 </td>
 </tr>
 <tr>
@@ -434,7 +435,7 @@ identifying and adopting good practices.</p>
 <p>Academy Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Academy of Singapore Teachers&nbsp;</p>
+<p>Academy of Singapore Teachers&nbsp;(formerly from Haig Girls' School)</p>
 </td>
 </tr>
 <tr>
@@ -448,7 +449,7 @@ identifying and adopting good practices.</p>
 <p>Curriculum Policy Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Curriculum Policy Office</p>
+<p>Curriculum Policy Office (formerly from Guangyang Secondary School)</p>
 </td>
 </tr>
 </tbody>
