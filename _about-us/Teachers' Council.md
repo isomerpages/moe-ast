@@ -53,7 +53,7 @@ identifying and adopting good practices.</p>
 <p>Director-General of Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;MOE</p>
 </td>
 </tr>
 <tr>
@@ -64,10 +64,10 @@ identifying and adopting good practices.</p>
 <p>Professor&nbsp;Liu Woon Chia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dean, Teacher Education, National Institute of Education&nbsp;&nbsp;</p>
+<p>Dean, Teacher Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National Institute of Education&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ identifying and adopting good practices.</p>
 <p>Deputy Director-General of Education (Professional Development)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MOE</p>
 </td>
 </tr>
 <tr>
@@ -182,7 +182,8 @@ identifying and adopting good practices.</p>
 <p>Master Teacher&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Physical Education and Sports Teacher Academy&nbsp;</p>
+<p>Physical Education and Sports Teacher Academy&nbsp;(Punggol Secondary
+School)</p>
 </td>
 </tr>
 <tr>
@@ -434,7 +435,7 @@ identifying and adopting good practices.</p>
 <p>Academy Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Academy of Singapore Teachers&nbsp;</p>
+<p>Academy of Singapore Teachers&nbsp;(formerly from Haig Girls' School)</p>
 </td>
 </tr>
 <tr>
@@ -448,7 +449,7 @@ identifying and adopting good practices.</p>
 <p>Curriculum Policy Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Curriculum Policy Office</p>
+<p>Curriculum Policy Office (formerly from Guangyang Secondary School)</p>
 </td>
 </tr>
 </tbody>
