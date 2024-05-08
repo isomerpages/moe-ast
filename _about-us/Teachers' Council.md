@@ -53,7 +53,7 @@ identifying and adopting good practices.</p>
 <p>Director-General of Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;MOE</p>
 </td>
 </tr>
 <tr>
@@ -64,10 +64,10 @@ identifying and adopting good practices.</p>
 <p>Professor&nbsp;Liu Woon Chia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dean, Teacher Education, National Institute of Education&nbsp;&nbsp;</p>
+<p>Dean, Teacher Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National Institute of Education&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ identifying and adopting good practices.</p>
 <p>Deputy Director-General of Education (Professional Development)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MOE</p>
 </td>
 </tr>
 <tr>
