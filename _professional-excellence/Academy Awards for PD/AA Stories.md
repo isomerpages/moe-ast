@@ -9,7 +9,7 @@ variant: tiptap
 <li>
 <p>AA Citations 2023</p>
 <p>1) <a href="/files/Academy Awards/AA 2023/Theophilia_Yong_Yeun_Foon_Chua_Chu_Kang_Secondary_Fellow_of_AST_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Mrs Theophilia Yong Yeun Foon</a> 
-<br><strong>Mrs Theophilia Yong Yeun Foon                                                 </strong>
+<br><strong>Mrs Theophilia Yong Yeun Foon</strong>
 </p>
 <p><strong>Chua Chu Kang Secondary School</strong> 
 <br>
