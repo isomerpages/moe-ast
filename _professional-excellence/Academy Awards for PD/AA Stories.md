@@ -9,8 +9,8 @@ variant: tiptap
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/Academy Awards/AA 2023/Theophilia_Yong_Yeun_Foon_Chua_Chu_Kang_Secondary_Fellow_of_AST_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Mrs Theophilia Yong Yeun Foon</a> 
-<br><strong>Mrs Theophilia Yong Yeun Foon</strong>
-<br><strong>Chua Chu Kang Secondary School</strong> 
+<br><strong>Mrs Theophilia Yong Yeun Foon</strong> 
+<br><strong>Chua Chu Kang Secondary School</strong>
 </p>
 <p></p>
 </li>
@@ -22,65 +22,54 @@ variant: tiptap
 </li>
 </ol>
 <p></p>
-<ul>
+<h4>AA Citations 2022</h4>
+<ol data-tight="true" class="tight">
 <li>
-<p>AA Citations 2022</p>
-<p>1) <a href="/files/Academy%20Awards/AA2022/ng_bing_fu_peirce_secondary_school_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Ng_Bing_Fu_Peirce_Secondary_School_2022(.pdf, 76 KB)</a> 
-<br><strong>Ng Bing Fu</strong> 
+<p><a href="/files/Academy%20Awards/AA2022/ng_bing_fu_peirce_secondary_school_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Ng_Bing_Fu_Peirce_Secondary_School_2022(.pdf, 76 KB)</a> 
+<br><strong>Ng Bing Fu</strong>
 <br><strong>Peirce Secondary School</strong> 
-<br>
-<br>
-</p>
-<p>2)<a href="/files/Academy%20Awards/AA2022/radha_devi_oonithan_hai_sing_catholic_school_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Radha_Devi_Oonithan_Hai_Sing_Catholic_School_2022(.pdf, 74 KB)</a> 
-<br><strong>Dr Radha Devi Oonithan</strong> 
-<br><strong>Hai Sing Catholic School</strong> 
-<br>
-<br>
 </p>
 <p></p>
-<ol start="3" data-tight="true" class="tight">
+</li>
+<li>
+<p><a href="/files/Academy%20Awards/AA2022/radha_devi_oonithan_hai_sing_catholic_school_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Radha_Devi_Oonithan_Hai_Sing_Catholic_School_2022(.pdf, 74 KB)</a> 
+<br><strong>Dr Radha Devi Oonithan</strong> 
+<br><strong>Hai Sing Catholic School</strong> 
+</p>
+<p></p>
+</li>
 <li>
 <p><a href="/files/Academy%20Awards/AA2022/chee_yao_rong_brendon_st_andrews_junior_college_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Chee_Yao_Rong_Brendon_St_Andrews_Junior_College_2022(.pdf, 95 KB)</a> 
 <br><strong>Mr Chee Yao Rong, Brendon</strong> 
 <br><strong>St. Andrew’s Junior College</strong> 
-<br>
-<br>
 </p>
 </li>
 </ol>
 <p></p>
-</li>
+<h4>AA Citations 2021</h4>
+<ol data-tight="true" class="tight">
 <li>
-<p>AA Citations 2021</p>
-<p>1) <a href="/files/aac1.pdf" rel="noopener noreferrer nofollow" target="_blank">Chang Suo Hui_Kranji Primary School_2021(.pdf, 54.77 KB)</a> 
+<p><a href="/files/aac1.pdf" rel="noopener noreferrer nofollow" target="_blank">Chang Suo Hui_Kranji Primary School_2021(.pdf, 54.77 KB)</a> 
 <br><strong>Chang Suo Hui</strong> 
 <br><strong>Kranji Primary School</strong> 
-<br>
-<br>
 </p>
-<ol start="2" data-tight="true" class="tight">
+<p></p>
+</li>
 <li>
 <p><a href="/files/aac2.pdf" rel="noopener noreferrer nofollow" target="_blank">Yeo Leng Choo_Victoria Junior College_2021(.pdf, 55.94 KB)</a> 
 <br><strong>Yeo Leng Choo</strong> 
 <br><strong>Victoria Junior College</strong> 
-<br>
-<br>
 </p>
-</li>
-</ol>
 <p></p>
 </li>
-<li>
-<p>AA Citations 2020</p>
-<p>1) <a href="/files/aac3.pdf" rel="noopener noreferrer nofollow" target="_blank">Cheng Mee Eng_Princess Elizabeth Primary School_2020(.pdf, 17.83 KB)</a> 
+</ol>
+<h4>AA Citations 2020</h4>
+<p><a href="/files/aac3.pdf" rel="noopener noreferrer nofollow" target="_blank">Cheng Mee Eng_Princess Elizabeth Primary School_2020(.pdf, 17.83 KB)</a> 
 <br><strong>Cheng Mee Eng</strong> 
 <br><strong>Princess Elizabeth Primary School</strong> 
-<br>
-<br>
 </p>
-</li>
-<li>
-<p>AA Citations 2019</p>
+<p></p>
+<h4>AA Citations 2019</h4>
 <p>1) <a href="/files/aac4.pdf" rel="noopener noreferrer nofollow" target="_blank">Ong Daphne Rachel_Broadrick Secondary School_2019(.pdf, 13.91 KB)</a> 
 <br><strong>Ong Daphne Rachel</strong> 
 <br><strong>Broadrick Secondary School</strong> 
@@ -98,7 +87,7 @@ variant: tiptap
 </li>
 </ol>
 <p></p>
-</li>
+<ol data-tight="true" class="tight">
 <li>
 <p>AA Citations 2018</p>
 <p>1) <a href="https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/professional-recognition-docs/academy-awards-for-professional-development-docs/tan-kwee-tin_huamin-primary-school_2018.docx?sfvrsn=457e0960_0" rel="noopener noreferrer nofollow" target="_blank">Tan Kwee Tin_Huamin Primary School_2018(.docx, 17.38 KB)</a> 
@@ -214,5 +203,5 @@ variant: tiptap
 <br>
 </p>
 </li>
-</ul>
+</ol>
 <p></p>
