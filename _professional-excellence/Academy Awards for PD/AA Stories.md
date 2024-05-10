@@ -10,14 +10,12 @@ variant: tiptap
 <p>AA Citations 2023</p>
 <p>1) <a href="/files/Academy Awards/AA 2023/Theophilia_Yong_Yeun_Foon_Chua_Chu_Kang_Secondary_Fellow_of_AST_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Mrs Theophilia Yong Yeun Foon</a> 
 <br><strong>Mrs Theophilia Yong Yeun Foon</strong>
-</p>
-<p><strong>Chua Chu Kang Secondary School</strong> 
+<br><strong>Chua Chu Kang Secondary School</strong> 
 <br>
 </p>
 <p>2)<a href="/files/Academy Awards/AA 2023/Lum_Tuck_Choi_Jason_Fairfield_Methodist_Sec_Fellow_of_AST_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Lum Tuck Choi Jason</a> 
 <br><strong>Mr Lum Tuck Choi Jason</strong>
-</p>
-<p><strong>Fairfield Methodist School (Secondary)</strong>
+<br><strong>Fairfield Methodist School (Secondary)</strong>
 </p>
 <p></p>
 <p></p>
