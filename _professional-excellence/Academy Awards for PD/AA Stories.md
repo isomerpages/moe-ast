@@ -26,22 +26,22 @@ variant: tiptap
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/Academy%20Awards/AA2022/ng_bing_fu_peirce_secondary_school_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Ng_Bing_Fu_Peirce_Secondary_School_2022(.pdf, 76 KB)</a> 
-<br><strong>Ng Bing Fu</strong>
-<br><strong>Peirce Secondary School</strong> 
+<br><strong>Ng Bing Fu</strong> 
+<br><strong>Peirce Secondary School</strong>
 </p>
 <p></p>
 </li>
 <li>
 <p><a href="/files/Academy%20Awards/AA2022/radha_devi_oonithan_hai_sing_catholic_school_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Radha_Devi_Oonithan_Hai_Sing_Catholic_School_2022(.pdf, 74 KB)</a> 
 <br><strong>Dr Radha Devi Oonithan</strong> 
-<br><strong>Hai Sing Catholic School</strong> 
+<br><strong>Hai Sing Catholic School</strong>
 </p>
 <p></p>
 </li>
 <li>
 <p><a href="/files/Academy%20Awards/AA2022/chee_yao_rong_brendon_st_andrews_junior_college_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Chee_Yao_Rong_Brendon_St_Andrews_Junior_College_2022(.pdf, 95 KB)</a> 
 <br><strong>Mr Chee Yao Rong, Brendon</strong> 
-<br><strong>St. Andrew’s Junior College</strong> 
+<br><strong>St. Andrew’s Junior College</strong>
 </p>
 </li>
 </ol>
@@ -51,57 +51,59 @@ variant: tiptap
 <li>
 <p><a href="/files/aac1.pdf" rel="noopener noreferrer nofollow" target="_blank">Chang Suo Hui_Kranji Primary School_2021(.pdf, 54.77 KB)</a> 
 <br><strong>Chang Suo Hui</strong> 
-<br><strong>Kranji Primary School</strong> 
+<br><strong>Kranji Primary School</strong>
 </p>
 <p></p>
 </li>
 <li>
 <p><a href="/files/aac2.pdf" rel="noopener noreferrer nofollow" target="_blank">Yeo Leng Choo_Victoria Junior College_2021(.pdf, 55.94 KB)</a> 
 <br><strong>Yeo Leng Choo</strong> 
-<br><strong>Victoria Junior College</strong> 
+<br><strong>Victoria Junior College</strong>
 </p>
 <p></p>
 </li>
 </ol>
 <h4>AA Citations 2020</h4>
+<ol data-tight="true" class="tight">
+<li>
 <p><a href="/files/aac3.pdf" rel="noopener noreferrer nofollow" target="_blank">Cheng Mee Eng_Princess Elizabeth Primary School_2020(.pdf, 17.83 KB)</a> 
 <br><strong>Cheng Mee Eng</strong> 
-<br><strong>Princess Elizabeth Primary School</strong> 
+<br><strong>Princess Elizabeth Primary School</strong>
 </p>
+</li>
+</ol>
 <p></p>
 <h4>AA Citations 2019</h4>
-<p>1) <a href="/files/aac4.pdf" rel="noopener noreferrer nofollow" target="_blank">Ong Daphne Rachel_Broadrick Secondary School_2019(.pdf, 13.91 KB)</a> 
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/aac4.pdf" rel="noopener noreferrer nofollow" target="_blank">Ong Daphne Rachel_Broadrick Secondary School_2019(.pdf, 13.91 KB)</a> 
 <br><strong>Ong Daphne Rachel</strong> 
 <br><strong>Broadrick Secondary School</strong> 
 <br>
-<br>
 </p>
-<ol start="2" data-tight="true" class="tight">
+</li>
 <li>
 <p><a href="/files/aac5.pdf" rel="noopener noreferrer nofollow" target="_blank">Chan Min Lie_Edgefield Primary School_2019(.pdf, 14.43 KB)</a> 
 <br><strong>Chan Min Lie</strong> 
 <br><strong>Edgefield Primary School</strong> 
 <br>
-<br>
 </p>
+<p></p>
 </li>
 </ol>
-<p></p>
+<h4>AA Citations 2018</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>AA Citations 2018</p>
-<p>1) <a href="https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/professional-recognition-docs/academy-awards-for-professional-development-docs/tan-kwee-tin_huamin-primary-school_2018.docx?sfvrsn=457e0960_0" rel="noopener noreferrer nofollow" target="_blank">Tan Kwee Tin_Huamin Primary School_2018(.docx, 17.38 KB)</a> 
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/professional-recognition-docs/academy-awards-for-professional-development-docs/tan-kwee-tin_huamin-primary-school_2018.docx?sfvrsn=457e0960_0" rel="noopener noreferrer nofollow" target="_blank">Tan Kwee Tin_Huamin Primary School_2018(.docx, 17.38 KB)</a> 
 <br><strong>Tan Kwee Tin</strong> 
 <br><strong>Huamin Primary School</strong> 
 <br>
-<br>
 </p>
-<ol start="2">
+</li>
 <li>
 <p><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/professional-recognition-docs/academy-awards-for-professional-development-docs/hadzar-binte-misiri_sengkang-primary-school_2018.docx?sfvrsn=e237bcd4_0" rel="noopener noreferrer nofollow" target="_blank">Hadzar Binte Misiri_Sengkang Primary School_2018(.docx, 17.09 KB)</a> 
 <br><strong>Hadzar Binte Misiri</strong> 
 <br><strong>Sengkang Primary School</strong> 
-<br>
 <br>
 </p>
 </li>
@@ -114,10 +116,7 @@ variant: tiptap
 </p>
 </li>
 </ol>
-<p></p>
-</li>
-<li>
-<p>AA Citations 2017</p>
+<h4>AA Citations 2017</h4>
 <p>1) <a href="https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/professional-recognition-docs/academy-awards-for-professional-development-docs/lai-kuan-hoe_innova-primary-school_2017.docx?sfvrsn=54c992f0_0" rel="noopener noreferrer nofollow" target="_blank">Lai Kuan Hoe_Innova Primary School_2017(.docx, 13.67 KB)</a> 
 <br><strong>Lai Kuan Hoe</strong> 
 <br><strong>Innova Primary School</strong> 
@@ -136,7 +135,7 @@ variant: tiptap
 </ol>
 <p>Please upload the doc files here.</p>
 <p></p>
-</li>
+<ol data-tight="true" class="tight">
 <li>
 <p>AA Citations 2016</p>
 <p>1) <a href="https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/professional-recognition-docs/academy-awards-for-professional-development-docs/pang-yen-ping_gan-eng-seng_2016.docx?sfvrsn=bb45dc3_0" rel="noopener noreferrer nofollow" target="_blank">Pang Yen Ping_Gan Eng Seng_2016(.docx, 13.6 KB)</a> 
