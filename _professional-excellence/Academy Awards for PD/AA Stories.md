@@ -5,22 +5,24 @@ description: ""
 third_nav_title: Academy Awards for PD
 variant: tiptap
 ---
-<ul>
+<h4>AA Citations 2023</h4>
+<ol data-tight="true" class="tight">
 <li>
-<p>AA Citations 2023</p>
-<p>1) <a href="/files/Academy Awards/AA 2023/Theophilia_Yong_Yeun_Foon_Chua_Chu_Kang_Secondary_Fellow_of_AST_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Mrs Theophilia Yong Yeun Foon</a> 
-<br><strong>Mrs Theophilia Yong Yeun Foon</strong> 
+<p><a href="/files/Academy Awards/AA 2023/Theophilia_Yong_Yeun_Foon_Chua_Chu_Kang_Secondary_Fellow_of_AST_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Mrs Theophilia Yong Yeun Foon</a> 
+<br><strong>Mrs Theophilia Yong Yeun Foon</strong>
 <br><strong>Chua Chu Kang Secondary School</strong> 
-<br>
 </p>
-<p>2)<a href="/files/Academy Awards/AA 2023/Lum_Tuck_Choi_Jason_Fairfield_Methodist_Sec_Fellow_of_AST_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Lum Tuck Choi Jason</a> 
+<p></p>
+</li>
+<li>
+<p><a href="/files/Academy Awards/AA 2023/Lum_Tuck_Choi_Jason_Fairfield_Methodist_Sec_Fellow_of_AST_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Lum Tuck Choi Jason</a> 
 <br><strong>Mr Lum Tuck Choi Jason</strong> 
 <br><strong>Fairfield Methodist School (Secondary)</strong>
 </p>
-<p></p>
-<p></p>
-<p></p>
 </li>
+</ol>
+<p></p>
+<ul>
 <li>
 <p>AA Citations 2022</p>
 <p>1) <a href="/files/Academy%20Awards/AA2022/ng_bing_fu_peirce_secondary_school_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Ng_Bing_Fu_Peirce_Secondary_School_2022(.pdf, 76 KB)</a> 
@@ -123,7 +125,6 @@ variant: tiptap
 </p>
 </li>
 </ol>
-<p>Please upload the doc files here.</p>
 <p></p>
 </li>
 <li>
@@ -165,7 +166,6 @@ variant: tiptap
 </p>
 </li>
 </ol>
-<p>Please upload the doc files here.</p>
 <p></p>
 </li>
 <li>
