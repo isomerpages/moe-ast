@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Learner Profile
 variant: tiptap
 ---
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/SubChap/edsupport-chapter-2023-1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updated_ES_Chapter_Image.png">
 </div>
 <h3>Objectives of the Educational Support Chapter</h3>
 <ul data-tight="true" class="tight">
@@ -18,13 +19,18 @@ for teachers to engage in collaborative learning and inquiry.</p>
 </li>
 <li>
 <p>Through collaborations with schools, MOE divisions, and the National Institute
-of Education (NIE), the Chapter aims to enhance teacher’s Pedagogical Context
-Knowledge (PCK) pertaining to motivation and engagement.</p>
+of Education (NIE), the Chapter aims to enhance teachers' Pedagogical Context
+Knowledge (PCK) pertaining to motivation and engagement in learning.</p>
 </li>
 </ul>
 <hr>
 <h4>Our Subject Chapter Core Team</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -89,13 +95,13 @@ Knowledge (PCK) pertaining to motivation and engagement.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Mei Tay Mui Fong</p>
+<p>Ms Deepa Nanwani Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mentor Coach</p>
+<p>Senior Academy Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AST/PXB</p>
+<p>AST/PDB1</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +191,7 @@ Knowledge (PCK) pertaining to motivation and engagement.</p>
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bu kit Batok Secondary School</p>
+<p>Bukit Batok Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -201,7 +207,7 @@ Knowledge (PCK) pertaining to motivation and engagement.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>HQ (CPDD, ETD) and NIE</strong>
+<p><strong>MOE HQ and NIE</strong>
 </p>
 </td>
 </tr>
