@@ -95,6 +95,17 @@ Knowledge (PCK) pertaining to motivation and engagement in learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Mei Tay Mui Fong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mentor Coach</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST/PXB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Deepa Nanwani Singh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,7 +134,7 @@ Knowledge (PCK) pertaining to motivation and engagement in learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr ling Yuan</p>
+<p>Dr Ling Yuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
