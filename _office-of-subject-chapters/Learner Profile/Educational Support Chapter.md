@@ -123,7 +123,7 @@ Knowledge (PCK) pertaining to motivation and engagement in learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr ling Yuan</p>
+<p>Dr Ling Yuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
