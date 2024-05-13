@@ -31,7 +31,12 @@ In addition, the engagement in networked learning will help to foster teacher
 leadership.</p>
 <hr>
 <h3>Our Subject Chapter Core Team</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -153,7 +158,7 @@ leadership.</p>
 <p>Mr Simon Sng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Student Well-being</p>
+<p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bedok South Secondary School</p>
