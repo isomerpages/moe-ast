@@ -3,65 +3,152 @@ title: Teacher–Led Workshops
 permalink: /professional-learning/for-eos/tlw/
 description: ""
 third_nav_title: For Education Officers
+variant: tiptap
 ---
-![TLW Banner](/images/tlw%20banner.png)
-
-#### Overview of Teacher-led Workshops (TLW)
-
-Teacher-Led Workshops (TLWs) are conducted **by teachers for teachers**. 
-
-Guided by the mission of the Academy of Singapore Teachers (AST) to develop **a teacher-led culture of professional excellence**, TLW is a platform to **provide professional opportunities** for our teachers **to share their good practices** within the fraternity.
-
-Through this platform, teachers will **engage in professional exchange of pedagogical content knowledge, leading to enhanced pedagogical practice**.
-
-
-#### Objectives of Teacher-Led Workshops (TLW)
-
-
-
-| ![](/images/2023%20designs-02.png)| ![](/images/2023%20designs-01.png) | ![](/images/2023%20designs-03.png) |
-| -------- | -------- | -------- |
-| **Lead** and **Engage** the Teaching Community | Engage in **professional sharing and knowledge creation** | Grow teachers to champion **Teacher Ownership Teacher Leadership (TOTL)** in professional learning   |
-
-#### Call for Proposals for 2024 Teacher -Led Workshops (TLW) \[CLOSED\]*
-
-1. AST calls for proposals from teachers to conduct TLWs. The proposed TLW should be minimally shared previously at school-based or cluster-based platforms. Facilitators should also obtain approval from their principals before applying. 
-2.	TLWs can be conducted individually or in teams of <u>up to three facilitators</u>. Correspondences will be made through the Main Facilitator via emails or calls. 
-3.	Facilitators should propose a TLW that is relevant to the teaching level of students that they have applied their pedagogy or approach in their own classroom and school. For example, Junior College/Centralised Institute teachers should not be proposing a workshop meant for Primary school teachers. 
-4. Online Video-conferencing (OVC) would be the preferred mode for TLWs. Subject to approval, facilitator(s) may also propose for their TLWs to be conducted as a face-to-face workshop, to be held at AST or at the facilitators' school (for location-based TLW). Another possible option would be e-TLW, an asynchronous e-learning package that would be hosted on OPAL2.0.
-6. Please contact the AST TLW team, Ms Andrea Foo (FOO_Shi_Jia@moe.gov.sg) and Mr Benjamin Huang (Benjamin_HUANG@moe.gov.sg) should there be any queries. 
-
-    | **Date**                           | **Activity**                                                    |
-    |------------------------------------|-----------------------------------------------------------------|
-    |     8 May 2023(Mon)                |     Call   for Proposals                                        |
-    |    17 August 2023 (Thu)             |     Final deadline for application submission                         |
-    |     Mid Nov 2023                   |     Announcement of successful and unsuccessful applications    |
-    |     Mid Feb to Mid     Sep 2024    |     Conduct of TLWs for successful applications                 |
-6. After the TLWs have been completed, AST will extend e-Certificates of Appreciation and the collated feedback from the participants to the facilitators through their principals. 
-
-##### Documents for TLW Proposal Submission
-
-| **S/N** | **Description**                                                                                                                   | **Link**                                                            |
-|----------------|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| 1              |     Facilitators   should refer to the 2024 TLW Proposal Submission InfoSheet to guide the   process of submitting their application.    |    [2024 TLW Proposal Submission InfoSheet](https://go.gov.sg/2024tlwproposalsubmissioninfosheet)    |
-| 2              |     The 2024 TLW   Facilitation Plan Template is a necessary document during the application   process.                                  |     [2024 TLW Facilitation Plan Template](https://go.gov.sg/2024tlwfacilitationplantemplate)       |
-
-##### Link to submit Proposals
-Please click on the link to submit your proposals for  2024 Teacher-led Workshops (TLWs).
-
-Submission of Proposals Link: [https://go.gov.sg/2024tlw-application](https://go.gov.sg/2024tlw-application)
-
-#### Details of Teacher-led Workshops (TLW)
-
-##### Modes of Teacher-led Workshops (TLW)
-
-Teacher-led Workshops (TLW) can be conducted through the following modes of delivery: 
-![](/images/modes%20of%20tlw%20.jpg)
-
-**Note:** Synchronous Learning TLWs are conducted in the afternoons of Tuesdays, Thursdays and Fridays across the academic year approximately from Term 1 Week 9 to Term 4 Week 1. 
-
-##### TLW Google Site
-
-To find out more details about the TLWs available, you may click this [link](https://go.gov.sg/ast-tlw-gsite) to assess the TLW Google Site.
-
-We strongly encourage all teachers to promptly sign up for TLWs via [OPAL2.0](https://www.opal2.moe.edu.sg) if you are interested in the TLWs, as the number  of places are  limited and they are on a                            first-come-first-served basis!
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TLW Banner" src="/images/tlw%20banner.png">
+</div>
+<h4>Overview of Teacher-led Workshops (TLW)</h4>
+<p>Teacher-Led Workshops (TLWs) are conducted <strong>by teachers for teachers</strong>.</p>
+<p>Guided by the mission of the Academy of Singapore Teachers (AST) to develop <strong>a teacher-led culture of professional excellence</strong>,
+TLW is a platform to <strong>provide professional opportunities</strong> for
+our teachers <strong>to share their good practices</strong> within the fraternity.</p>
+<p>Through this platform, teachers will <strong>engage in professional exchange of pedagogical content knowledge, leading to enhanced pedagogical practice</strong>.</p>
+<h4>Objectives of Teacher-Led Workshops (TLW)</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20designs-02.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20designs-01.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20designs-03.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Lead</strong> and <strong>Engage</strong> the Teaching Community</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Engage in <strong>professional sharing and knowledge creation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grow teachers to champion <strong>Teacher Ownership Teacher Leadership (TOTL)</strong> in
+professional learning</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Call for Proposals for 2025 Teacher -Led Workshops (TLW) [OPEN]</h4>
+<p>The Academy of Singapore Teachers (AST) is inviting educators to submit
+proposals for Teacher-Led Workshops (TLWs). The proposed TLW should be
+minimally shared previously at school-based or cluster-based platforms.
+Additionally, facilitators are required to obtain approval from their principals
+before submitting their proposals.</p>
+<p>Facilitators are encouraged to propose TLWs that are relevant to the teaching
+level of the students for whom they have applied their pedagogy or approach
+in their own classrooms and schools. For instance, educators from Junior
+Colleges or Centralised Institutes should tailor their workshops to the
+needs of their peers at the same educational level, rather than proposing
+workshops meant for Primary school teachers.</p>
+<h5>TLW Proposal Submission Timeline</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 May 2024 (Mon)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Call for Proposals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 July 2024 (Wed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deadline for Submission of Proposals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>By 11 November 2024 (Mon)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Announcement of successful and unsuccessful applications</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>End-Feb to Mid-Sep 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Conduct of TLWs for successful applications</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Please contact the AST TLW team, Ms Chong Jieqi (<a rel="noopener noreferrer nofollow" target="_blank">chong_jieqi@moe.gov.sg</a>),
+Ms Foo Shi Jia (<a rel="noopener noreferrer nofollow" target="_blank">foo_shi_jia@moe.gov.sg</a>)
+and Ms Yu Mi Soh (<a rel="noopener noreferrer nofollow" target="_blank">soh_yu_mi@moe.gov.sg</a>)
+should there be any queries.</p>
+<p>After the TLWs have been completed, AST will extend e-Certificates of
+Appreciation and the collated feedback from the participants to the facilitators
+through their principals.</p>
+<h5>Presentation Modes of Teacher-led Workshops (TLW)</h5>
+<p>Teacher-led Workshops (TLW) can be conducted through the following modes
+of delivery:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TLW_modes.png">
+</div>
+<p>In-person and online TLWs are conducted in the afternoons of Tuesdays,
+Thursdays and Fridays across the academic year approximately from Term
+1 Week 9 to Term 4 Week 1.</p>
+<h5>Useful Links for Proposal Submission</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Facilitators should refer to the 2025 TLW Information Guide for more information
+on the process of submitting their application.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://file.go.gov.sg/tlw-information-guide.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 TLW Information Guide</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FormSG Link to submit your proposal for 2025 Teacher-led Workshops (TLWs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/663098941bf6143720f4ec58" rel="noopener noreferrer nofollow" target="_blank">Submission of Proposals FormSG</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
