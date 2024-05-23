@@ -12,7 +12,6 @@ variant: tiptap
 <p></p>
 <p><strong>For more information,&nbsp; you may refer to the following:</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
