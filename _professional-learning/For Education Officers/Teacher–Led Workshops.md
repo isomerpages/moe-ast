@@ -152,3 +152,7 @@ on the process of submitting their application.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TLW_modes_1.png">
+</div>
+<p></p>
