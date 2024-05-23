@@ -118,7 +118,7 @@ through their principals.</p>
 <p>Teacher-led Workshops (TLW) can be conducted through the following modes
 of delivery:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TLW_modes.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TLW_modes_1.png">
 </div>
 <p>In-person and online TLWs are conducted in the afternoons of Tuesdays,
 Thursdays and Fridays across the academic year approximately from Term
