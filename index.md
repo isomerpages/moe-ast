@@ -14,14 +14,6 @@ sections:
       backgroundColor: gray
       title: Welcome to Academy of Singapore Teachers
   - infopic:
-      title: Academy Awards for Professional Development
-      id: infopic
-      description: Nominations for 2024 is now closed. Thank you!
-      button: read more
-      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/academy-awards/nomination/
-      image: /images/Awards/Closed_AA_Poster.png
-      alt: Image alt text
-  - infopic:
       title: Fulbright Teacher Exchanges
       subtitle: Spotlight
       button: Read more
