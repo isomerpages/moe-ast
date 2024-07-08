@@ -16,10 +16,10 @@ sections:
   - infopic:
       title: Academy Awards for Professional Development
       id: infopic
-      description: Nominations are open (24 May to 28 June 2024)
+      description: Nominations for 2024 is now closed. Thank you!
       button: read more
       url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/academy-awards/nomination/
-      image: /images/Awards/AAnom2024.png
+      image: /images/Awards/Closed_AA_Poster.png
       alt: Image alt text
   - infopic:
       title: Fulbright Teacher Exchanges
