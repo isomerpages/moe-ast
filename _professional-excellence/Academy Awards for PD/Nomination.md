@@ -6,10 +6,10 @@ third_nav_title: Academy Awards for PD
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024 Nomination details" src="/images/Awards/AA_nominations_2024.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nomination period is now closed" src="/images/Awards/Closed_AA_Poster.png">
+</div>
 <p><strong>For more information,&nbsp; you may refer to the following:</strong>
 </p>
 <table style="minWidth: 50px">
