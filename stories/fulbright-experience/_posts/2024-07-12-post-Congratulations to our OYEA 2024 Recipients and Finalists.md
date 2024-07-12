@@ -7,3 +7,8 @@ description: ""
 image: /images/OYEA24_Announcement_Collage_9_Jul_D3.png
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OYEA24_Announcement_Collage_9_Jul_D3.png">
+</div>
+<p></p>
