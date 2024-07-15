@@ -7,9 +7,8 @@ variant: tiptap
 ---
 <p><strong>OYEA Stories 2024</strong>
 </p>
-<p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Rp1BftYAb_s"></iframe>
+<iframe height="500" width="889" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Rp1BftYAb_s"></iframe>
 </div>
 <p><strong><u>Recipients</u></strong>
 </p>
