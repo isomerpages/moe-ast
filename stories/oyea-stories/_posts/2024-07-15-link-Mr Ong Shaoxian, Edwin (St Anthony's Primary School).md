@@ -1,5 +1,5 @@
 ---
-title: Mr Ong Shaoxian, Edwin St Anthony's Primary Sch(ool)
+title: Mr Ong Shaoxian, Edwin (St Anthony's Primary School)
 date: 2024-07-15
 layout: link
 description: ""
