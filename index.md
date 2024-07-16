@@ -19,7 +19,7 @@ sections:
       id: infopic
       button: READ MORE
       url: /professional-excellence/oyea/recipients-and-finalists/
-      image: /images/Awards/OYEA2024_collage.png
+      image: /images/Awards/OYEA24_AnnounceCollage_15_Jul.png
       alt: Image alt text
   - infopic:
       title: Fulbright Teacher Exchanges

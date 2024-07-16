@@ -6,8 +6,9 @@ third_nav_title: OYEA
 variant: tiptap
 ---
 <h4><strong>Congratulations to Our OYEA 2024 Recipients and Finalists</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OYEA24_Announcement_Collage_9_Jul_D3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards/OYEA24_AnnounceCollage_15_Jul.png">
 </div>
 <h4><strong>OYEA Recipients and Finalists 2024</strong></h4>
 <table style="minWidth: 50px">
