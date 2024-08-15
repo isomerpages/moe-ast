@@ -6,5 +6,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.schoolbag.edu.sg/story/when-they-ask-why-in-social-studies-he-asks-them-why-not/
+external: https://www.schoolbag.edu.sg/story/when-they-ask-why-in-social-studies-he-asks-them-why-not/
 ---

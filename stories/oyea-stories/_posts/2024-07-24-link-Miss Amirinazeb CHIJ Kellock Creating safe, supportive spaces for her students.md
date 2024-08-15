@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.schoolbag.edu.sg/story/creating-safe-supportive-spaces-for-her-students-puts-a-smile-on-her-face/
+external: https://www.schoolbag.edu.sg/story/creating-safe-supportive-spaces-for-her-students-puts-a-smile-on-her-face/
 ---
