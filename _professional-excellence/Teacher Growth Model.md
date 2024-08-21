@@ -4,8 +4,9 @@ permalink: /professional-excellence/teacher-growth-model/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/proex3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TGM_Logo_aa_200624.png">
 </div>
 <h3>Every Teacher, A Gem</h3>
 <p>The Teacher Growth Model (TGM) serves as the roadmap for Singapore teachers
