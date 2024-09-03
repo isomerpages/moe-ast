@@ -61,7 +61,7 @@ the 21st&nbsp;Century.</p>
 <p>&nbsp;</p>
 <p><strong><u>Finalists</u></strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p>Ms Guo Yuanhui Adelene</p>
 <p>Anderson Primary School</p>
 <p>The sky’s the limit? Then she’s their trusted pilot</p>
@@ -88,16 +88,16 @@ the 21st&nbsp;Century.</p>
 <p>&nbsp;</p>
 <p>Ms Jebaraj Preethi</p>
 <p>Institute of Technical Education</p>
-<p>&nbsp;</p>
+<p></p>
 <p>&nbsp;</p>
 <p>Mr Leong Kim Soon</p>
 <p>Institute of Technical Education</p>
-<p>&nbsp;</p>
+<p></p>
 <p>&nbsp;</p>
 <p>Mr Lim Boon Yang Vincent</p>
 <p>Republic Polytechnic</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Ms Zhang Huiyu</p>
 <p>Temasek Polytechnic</p>
 <p>&nbsp;</p>
