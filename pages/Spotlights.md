@@ -2,11 +2,11 @@
 title: Spotlights
 permalink: /spotlights/
 description: ""
+variant: tiptap
 ---
-<p id="tcef23"></p>
-
-| Date | Venue | Event|
-| -------- | -------- | -------- |
-| 30 May - 1 June 2023     | Marina Bay Sands  | Teachers' Conference and ExCEL Fest|
-
-<a href="https://www.tcef2023.sg"><img src="/images/tcef2023.png" style="width:1000px"></a>
+<p><strong>Congratulations to our PAT 2024 Recipients and Finalists</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards/PAT_v2.jpg">
+</div>
+<p></p>
