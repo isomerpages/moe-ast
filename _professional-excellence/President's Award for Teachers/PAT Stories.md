@@ -28,19 +28,24 @@ the 21st&nbsp;Century.</p>
 <br>Greendale Primary School
 <br><a href="https://www.schoolbag.edu.sg/story/he-seeds-good-habits-that-could-save-the-world/" rel="noopener noreferrer nofollow" target="_blank">He seeds good habits that could save the world</a>
 </p>
-<p>Ms Chua Jin Xun Opera Estate Primary School
+<p>Ms Chua Jin Xun
+<br>Opera Estate Primary School
 <br><a href="https://www.schoolbag.edu.sg/story/she-believes-in-teaching-r-r-ight-from-the-start/" rel="noopener noreferrer nofollow" target="_blank">She believes in teaching R-R-IGHT from the start</a>
 </p>
-<p>Dr Bryan Tan Yong Hao Temasek Secondary School
+<p>Dr Bryan Tan Yong Hao
+<br>Temasek Secondary School
 <br><a href="https://www.schoolbag.edu.sg/story/this-super-charged-alumnus-gives-back-in-chemistry-and-more/" rel="noopener noreferrer nofollow" target="_blank">This super-charged alumnus gives back in Chemistry and more</a>
 </p>
-<p>Mdm Nan Zhonghua Yuan Ching Secondary School
+<p>Mdm Nan Zhonghua
+<br>Yuan Ching Secondary School
 <br><a href="https://www.schoolbag.edu.sg/story/she-places-character-before-the-chinese-language/" rel="noopener noreferrer nofollow" target="_blank">She places character before the Chinese Language</a>
 </p>
-<p>Ms Eunice Chia Siew Peng Nanyang Polytechnic
+<p>Ms Eunice Chia Siew Peng
+<br>Nanyang Polytechnic
 <br><a href="https://www.schoolbag.edu.sg/story/preparing-learners-for-jobs-not-yet-created/" rel="noopener noreferrer nofollow" target="_blank">Preparing learners for jobs not yet created</a>
 </p>
-<p>Ms Clarice Sim Chwei Lin Singapore Polytechnic
+<p>Ms Clarice Sim Chwei Lin
+<br>Singapore Polytechnic
 <br><a href="https://www.schoolbag.edu.sg/story/using-data-to-set-up-a-classroom-for-one/" rel="noopener noreferrer nofollow" target="_blank">Using data to set up a classroom for one</a>
 </p>
 <p><strong><u>Finalists</u></strong>
