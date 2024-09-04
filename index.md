@@ -14,12 +14,12 @@ sections:
       backgroundColor: gray
       title: Welcome to Academy of Singapore Teachers
   - infopic:
-      title: Congratulations to our OYEA 2024 Recipients and Finalists
+      title: Congratulations to our PAT 2024 Recipients and Finalists
       subtitle: Spotlight
       id: infopic
       button: READ MORE
-      url: /professional-excellence/oyea/recipients-and-finalists/
-      image: /images/Awards/OYEA24_AnnounceCollage_15_Jul.png
+      url: professional-excellence/presidents-award-for-teachers/recipients-and-finalists/
+      image: /images/Awards/PAT_v2.jpg
       alt: Image alt text
   - infopic:
       title: Fulbright Teacher Exchanges
