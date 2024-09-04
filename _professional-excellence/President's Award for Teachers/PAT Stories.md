@@ -17,13 +17,14 @@ the 21st&nbsp;Century.</p>
 </p>
 <p><strong><u>Recipients</u></strong>
 </p>
-<p>Mr Shang Thian Huat Blangah Rise Primary School <a href="https://www.schoolbag.edu.sg/story/p-stands-for-possibilities-for-this-pe-teacher/" rel="noopener noreferrer nofollow" target="_blank">P stands for possibilities for this PE teacher</a>
+<p>Mr Shang Thian Huat Blangah Rise Primary School
+<br><a href="https://www.schoolbag.edu.sg/story/p-stands-for-possibilities-for-this-pe-teacher/" rel="noopener noreferrer nofollow" target="_blank">P stands for possibilities for this PE teacher</a>
 </p>
-<p>&nbsp;</p>
-<p>Mr Kevin Francis Joseph Chongzheng Primary School <a href="https://www.schoolbag.edu.sg/story/he-reinvents-the-game-of-teaching-and-instilling-values/" rel="noopener noreferrer nofollow" target="_blank">He reinvents the game of teaching and instilling values</a>
+<p></p>
+<p>Mr Kevin Francis Joseph Chongzheng Primary School
+<br><a href="https://www.schoolbag.edu.sg/story/he-reinvents-the-game-of-teaching-and-instilling-values/" rel="noopener noreferrer nofollow" target="_blank">He reinvents the game of teaching and instilling values</a>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p>Mr Mohan S/O Krishnamoorthy Greendale Primary School <a href="https://www.schoolbag.edu.sg/story/he-seeds-good-habits-that-could-save-the-world/" rel="noopener noreferrer nofollow" target="_blank">He seeds good habits that could save the world</a>
 </p>
 <p>&nbsp;</p>
@@ -71,5 +72,6 @@ love, love who you teach’</p>
 <p>Ms Zhang Huiyu Temasek Polytechnic</p>
 <p>&nbsp;</p>
 <p>
+<br>
 <br>
 </p>
