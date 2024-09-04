@@ -16,16 +16,19 @@ the 21st&nbsp;Century.</p>
 <p><strong>Read about the inspiring stories of PAT recipients and finalists</strong>
 </p>
 <p><strong><u>Recipients</u></strong>
-</p>
-<p>Mr Shang Thian Huat Blangah Rise Primary School
+<br>Mr Shang Thian Huat
+<br>Blangah Rise Primary School
 <br><a href="https://www.schoolbag.edu.sg/story/p-stands-for-possibilities-for-this-pe-teacher/" rel="noopener noreferrer nofollow" target="_blank">P stands for possibilities for this PE teacher</a>
 </p>
 <p></p>
-<p>Mr Kevin Francis Joseph Chongzheng Primary School
+<p>Mr Kevin Francis Joseph
+<br>Chongzheng Primary School
 <br><a href="https://www.schoolbag.edu.sg/story/he-reinvents-the-game-of-teaching-and-instilling-values/" rel="noopener noreferrer nofollow" target="_blank">He reinvents the game of teaching and instilling values</a>
 </p>
 <p></p>
-<p>Mr Mohan S/O Krishnamoorthy Greendale Primary School <a href="https://www.schoolbag.edu.sg/story/he-seeds-good-habits-that-could-save-the-world/" rel="noopener noreferrer nofollow" target="_blank">He seeds good habits that could save the world</a>
+<p>Mr Mohan S/O Krishnamoorthy
+<br>Greendale Primary School
+<br><a href="https://www.schoolbag.edu.sg/story/he-seeds-good-habits-that-could-save-the-world/" rel="noopener noreferrer nofollow" target="_blank">He seeds good habits that could save the world</a>
 </p>
 <p>&nbsp;</p>
 <p>Ms Chua Jin Xun Opera Estate Primary School <a href="https://www.schoolbag.edu.sg/story/she-believes-in-teaching-r-r-ight-from-the-start/" rel="noopener noreferrer nofollow" target="_blank">She believes in teaching R-R-IGHT from the start</a>
