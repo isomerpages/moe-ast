@@ -6,5 +6,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.schoolbag.edu.sg/story/he-reinvents-the-game-of-teaching-and-instilling-values/
+external: https://www.schoolbag.edu.sg/story/he-reinvents-the-game-of-teaching-and-instilling-values/
 ---

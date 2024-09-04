@@ -5,10 +5,11 @@ description: ""
 third_nav_title: President's Award for Teachers
 variant: tiptap
 ---
-<h3>Congratulations to Our PAT 2024 Recipients and Finalists!</h3>
+<h3>Congratulations to our PAT 2024 Recipients and Finalists!</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards/PAT_v2.jpg">
 </div>
+<p></p>
 <p>
 <br><strong>PAT Recipients and Finalists 2024</strong>
 </p>
@@ -19,26 +20,26 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Name of Recipient</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>School (at year of award)</strong>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School</strong>
 </p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Koh Hock Lai Kelvin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>St. Anthony's Primary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chua Boon Hwee, Daniel</p>
+<p>Shang Thian Huat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blangah Rise Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kevin Joseph Francis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chongzheng Primary School</p>
@@ -46,63 +47,54 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Saedah Bte Mohamed Hussien</p>
+<p>Mohan s/o Krishnamoorthy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Xishan Primary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Yeo Choon Hwa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Queensway Secondary School</p>
+<p>Greendale Primary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Pin Yin</p>
+<p>Chua Jin Xun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>West Spring Secondary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Clarissa Lee Vwen Chia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ngee Ann Polytechnic</p>
+<p>Opera Estate Primary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Choo Meng Cher</p>
+<p>Bryan Tan Yong Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Institute of Technical Education</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Yap Wei Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Republic Polytechnic</p>
+<p>Temasek Secondary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tio Choon Fook</p>
+<p>Nan Zhonghua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yuan Ching Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eunice Chia Siew Peng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nanyang Polytechnic</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Clarice Sim Chwei Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -201,7 +193,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <p></p>
