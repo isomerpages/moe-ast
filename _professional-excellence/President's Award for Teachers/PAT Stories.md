@@ -15,7 +15,7 @@ develops holistically and emerges as confident and competent students of
 the 21st&nbsp;Century.</p>
 <p><strong>Read about the inspiring stories of PAT recipients and finalists</strong>
 </p>
-<p><strong><u>Recipients</u></strong>
+<p><strong>Recipients</strong>
 <br>Mr Shang Thian Huat
 <br>Blangah Rise Primary School
 <br><a href="https://www.schoolbag.edu.sg/story/p-stands-for-possibilities-for-this-pe-teacher/" rel="noopener noreferrer nofollow" target="_blank">P stands for possibilities for this PE teacher</a>
@@ -48,34 +48,44 @@ the 21st&nbsp;Century.</p>
 <br>Singapore Polytechnic
 <br><a href="https://www.schoolbag.edu.sg/story/using-data-to-set-up-a-classroom-for-one/" rel="noopener noreferrer nofollow" target="_blank">Using data to set up a classroom for one</a>
 </p>
-<p><strong><u>Finalists</u></strong>
+<p><strong>Finalists</strong>
 <br>Ms Guo Yuanhui Adelene
 <br>Anderson Primary School
-<br>The sky’s the limit? Then she’s their trusted pilot</p>
+<br><a href="https://www.schoolbag.edu.sg/story/the-skys-the-limit-then-shes-their-trusted-pilot/" rel="noopener noreferrer nofollow" target="_blank">The sky’s the limit? Then she’s their trusted pilot</a>
+</p>
 <p>Mr Chan Zi Xian
 <br>Yio Chu Kang Primary School
-<br>He multiplies curiosity in young learners</p>
+<br><a href="https://www.schoolbag.edu.sg/story/he-multiplies-curiosity-in-young-learners/" rel="noopener noreferrer nofollow" target="_blank">He multiplies curiosity in young learners</a>
+</p>
 <p>Mdm Toh Ji Rong
 <br>Beatty Secondary School
-<br>Her secret sauce: Knowledge through interaction and lots of joy</p>
+<br><a href="https://www.schoolbag.edu.sg/story/her-secret-sauce-knowledge-through-interaction-and-lots-of-joy/" rel="noopener noreferrer nofollow" target="_blank">Her secret sauce: Knowledge through interaction and lots of joy</a>
+</p>
 <p>Ms Ang Sing Yee
 <br>Compassvale Secondary School
-<br>She guides students to be a North Star</p>
+<br><a href="https://www.schoolbag.edu.sg/story/she-guides-students-to-be-a-north-star/" rel="noopener noreferrer nofollow" target="_blank">She guides students to be a North Star</a>
+</p>
 <p>Ms Ng Suan Khee Judy
 <br>Hougang Secondary School
-<br>Cultivating virtue and hope is her winning formula</p>
+<br><a href="https://www.schoolbag.edu.sg/story/cultivating-virtue-and-hope-is-her-winning-formula/" rel="noopener noreferrer nofollow" target="_blank">Cultivating virtue and hope is her winning formula</a>
+</p>
 <p>Mrs Yogeswari Balasubramanian
 <br>Punggol Secondary School
-<br>‘Teach what you love, love who you teach’</p>
-<p>Ms Jebaraj Preethi
-<br>Institute of Technical Education</p>
-<p>Mr Leong Kim Soon
-<br>Institute of Technical Education</p>
-<p>Mr Lim Boon Yang Vincent
-<br>Republic Polytechnic</p>
-<p>Ms Zhang Huiyu
-<br>Temasek Polytechnic</p>
-<p>
-<br>
-<br>
+<br><a href="https://www.schoolbag.edu.sg/story/teach-what-you-love-love-who-you-teach/" rel="noopener noreferrer nofollow" target="_blank">‘Teach what you love, love who you teach’</a>
 </p>
+<p>Ms Jebaraj Preethi
+<br>Institute of Technical Education
+<br><a href="https://www.schoolbag.edu.sg/story/she-puts-the-ai-in-ai/" rel="noopener noreferrer nofollow" target="_blank">She puts the 爱 (ài) in AI</a>&nbsp;</p>
+<p>Mr Leong Kim Soon
+<br>Institute of Technical Education
+<br><a href="https://www.schoolbag.edu.sg/story/success-comes-in-different-forms-for-his-students/" rel="noopener noreferrer nofollow" target="_blank">Success comes in different forms for his students</a>
+</p>
+<p>Mr Lim Boon Yang Vincent
+<br>Republic Polytechnic
+<br><a href="https://www.schoolbag.edu.sg/story/no-roadblocks-just-roadmaps-for-this-engineer-turned-educator/" rel="noopener noreferrer nofollow" target="_blank">No roadblocks, just roadmaps for this engineer turned educator</a>
+</p>
+<p>Ms Zhang Huiyu
+<br>Temasek Polytechnic
+<br><a href="https://www.schoolbag.edu.sg/story/making-learning-inclusive-for-all/" rel="noopener noreferrer nofollow" target="_blank">Making learning inclusive for all</a>
+</p>
+<p>&nbsp;</p>
