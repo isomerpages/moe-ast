@@ -14,12 +14,12 @@ sections:
       backgroundColor: gray
       title: Welcome to Academy of Singapore Teachers
   - infopic:
-      title: Congratulations to our PAT 2024 Recipients and Finalists
+      title: How does learning come alive?
       subtitle: Spotlight
       id: infopic
       button: READ MORE
-      url: professional-excellence/presidents-award-for-teachers/recipients-and-finalists/
-      image: /images/Awards/PAT_v2.jpg
+      url: https://www.youtube.com/watch?v=xxOqM610n2g
+      image: /images/thumbnail_v3.jpg
       alt: Image alt text
   - infopic:
       title: Fulbright Teacher Exchanges
