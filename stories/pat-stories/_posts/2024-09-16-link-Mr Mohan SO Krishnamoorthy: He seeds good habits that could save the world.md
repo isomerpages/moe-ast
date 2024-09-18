@@ -1,5 +1,5 @@
 ---
-title: "Mr Mohan S O Krishnamoorthy: He seeds good habits that could save the world"
+title: "Mr Mohan SO Krishnamoorthy: He seeds good habits that could save the world"
 date: 2024-09-16
 layout: link
 description: ""
