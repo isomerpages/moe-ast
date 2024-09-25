@@ -24,7 +24,7 @@ technology use meaningfully and incorporating interdisciplinary ideas in
 the classroom. Collaborative approaches could also be adopted to foster
 critical thinking and deep learning among students and effective professional
 learning is crucial in realising these educational goals.</p>
-<h4><strong><u>Overview of Collaboration between Outstanding Educator (OE), Master Teachers (MTT) and Teacher Collaborator (TC)</u></strong></h4>
+<h4>Overview of Collaboration between Outstanding Educator (OE), Master Teachers (MTT) and Teacher Collaborator (TC)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__Slides_oeic_overview.jpg">
 </div>
