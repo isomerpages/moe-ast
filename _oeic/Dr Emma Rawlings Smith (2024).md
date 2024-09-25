@@ -4,7 +4,7 @@ permalink: /dr-emma-rawlings-smith-2024/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Dr Emma Rawlings Smith (2024)</strong></h3>
+<h3><strong>Emma Rawlings Smith (2024)</strong></h3>
 <h4><strong><u>AST’s 32nd Outstanding Educator-in-Consultancy (OEIC) Programme</u></strong></h4>
 <p>Dr Emma Rawlings Smith is a distinguished figure in Sustainability and
 Geography Education. Currently serving as a Lecturer in Sustainability
@@ -131,3 +131,46 @@ historical and current maps, examining changes in transport infrastructure,
 and reflecting on the economic, social, and environmental significance
 of transport evolution, the lesson prompts students to consider the impact
 of good transport on their lives and the city.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9__Alvin_Lesson_Demo.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9__Alvin_Webinar.png">
+</div>
+<p>Similarly, Suraini's lesson focused on the multifaceted nature of liveability
+in a city, utilizing mental maps as a tool to explore diverse experiences
+within a neighbourhood, emphasizing the influence of various factors such
+as age, gender, socio-economic profiles, and physical capabilities on residents'
+experiences. By adopting different female resident profiles through activities
+that involve analysing mental maps and reflecting on the diverse experiences
+within a neighbourhood, students gained empathy for various perspectives
+and understood the complex factors influencing women's experiences in the
+city.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10__Suriani_Lesson_Demo.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10__Suriani_Webinar.png">
+</div>
+<h4><strong><u>OEIC Insights from Professional Conversation(s) with NIE, CPDD, and AST</u></strong></h4>
+<p>The conversations underscored the significance of place-based learning
+in offering contextualised and experiential learning opportunities, particularly
+beneficial for students with Special Educational Needs (SEN). This approach,
+rooted in real-world settings, provides a tangible and immersive learning
+experience, catering to diverse learning needs and bolstering student engagement.
+Moreover, the discussions delineated the unique attributes of place-based
+learning, distinct from traditional case studies and field work, emphasising
+its focus on local environments, community connections, and interdisciplinary
+learning.</p>
+<p>Addressing the challenge of curating lessons without physical visits,
+the conversations highlighted the use of virtual resources, community partnerships,
+and technology to create authentic place-based learning experiences within
+the classroom. These insights offer a comprehensive understanding of the
+principles and practical applications of place-based learning, showcasing
+its potential to enrich educational experiences and meet the diverse learning
+needs of students.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/11__CPDD_convo__brightened_.jpg">
+</div>
+<p></p>
