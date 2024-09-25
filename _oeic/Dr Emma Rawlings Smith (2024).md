@@ -169,8 +169,21 @@ the classroom. These insights offer a comprehensive understanding of the
 principles and practical applications of place-based learning, showcasing
 its potential to enrich educational experiences and meet the diverse learning
 needs of students.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/11__CPDD_convo__brightened_.jpg">
-</div>
-<p></p>
+<h4><strong><u>OEIC Insights for Geography and Sustainability Education</u></strong></h4>
+<p>The OEIC programme has significantly advanced Geography and Sustainability
+Education through the pivotal role of place-based learning. Key insights
+include immersing students in local environments, incorporating historical
+perspectives and personal geographies, fostering cross-disciplinary collaborations,
+and engaging with students' emotions. Practical examples and demonstrations
+of implementing place-based learning in our teacher collaborators’ classroom
+were appreciated, with a focus on making geographical concepts relatable
+to students' daily lives. The intention to incorporate local context, develop
+interdisciplinary learning, tap on students' personal geographies, and
+leverage technology further underscores the commitment to enhancing relevance,
+engagement, and fostering a sense of place and ownership in students. By
+humanising teaching and learning, the programme empowers educators to create
+more authentic and impactful learning experiences, advancing Geography
+and Sustainability Education.</p>
+<p>We are honoured to have collaborated with Dr Emma Rawlings Smith through
+the OEIC Programme and we would like to thank her for her generosity in
+sharing her insights with our local educators.</p>
