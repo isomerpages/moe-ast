@@ -102,8 +102,32 @@ different inquiry methods to enhance students’ learning experiences.</p>
 place-based learning into sustainability education, aiming to empower students
 with civic, global, and cross-cultural literacy within the framework of
 Emerging 21st Century Competencies (E21CC).</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/7__Webinar.png">
 </div>
-<p></p>
+<p>Emma's presentation on "Place-based education in a rapidly changing world"
+highlighted the importance of place in geography education and outlined
+key principles for implementing place-based pedagogies. Emma demonstrated
+infusing place-based learning into lessons through the lens of 'Big Concepts,
+Community Contexts’. Her emphasis on student agency through the "Ask, Find
+Out, Act" frame and the inclusion of community perspectives underscored
+the transformative power of place-based education. These practical strategies
+empowered teachers to deepen students' understanding of geographical concepts,
+foster environmental and societal responsibility, and empower them to become
+informed, responsible stewards of the Earth.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8__Emma_Webinar.png">
+</div>
+<h4><strong><u>Contextualisation and Application of Place-based education by our Teacher Collaborators</u></strong></h4>
+<p>Our Teacher Collaborators, Mr Alvin Yeo (LT/Geography, Holy Innocents’
+High School) and Ms Suriani Amran (ST/Geography, Catholic Junior College)
+contextualised and applied place-based learning in their classroom context
+by incorporating real-world, local examples to enrich students' understanding
+of key concepts.</p>
+<p>Alvin centred his lesson on the importance of a good transport system
+in a city, using Singapore's public transport development and Hougang as
+a case study. By engaging students in activities that involve analysing
+historical and current maps, examining changes in transport infrastructure,
+and reflecting on the economic, social, and environmental significance
+of transport evolution, the lesson prompts students to consider the impact
+of good transport on their lives and the city.</p>
