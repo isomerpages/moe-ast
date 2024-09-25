@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Emma Rawlings Smith (2024)</strong></h3>
-<h4><strong><u>AST’s 32nd Outstanding Educator-in-Consultancy (OEIC) Programme</u></strong></h4>
+<h4>AST’s 32nd Outstanding Educator-in-Consultancy (OEIC) Programme</h4>
 <p>Dr Emma Rawlings Smith is a distinguished figure in Sustainability and
 Geography Education. Currently serving as a Lecturer in Sustainability
 and Geography Education at the University of Southampton, Emma is a Chartered
