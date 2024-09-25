@@ -89,14 +89,14 @@ experiences across different teaching profiles and levels.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/6__Discussion__Workshops_.png">
 </div>
-<h4><strong><u>Feedback from Workshop Participants</u></strong></h4>
+<h4>Feedback from Workshop Participants</h4>
 <p>Participants expressed appreciation for the practical and useful resources
 and innovative ideas for executing sustainability lessons, and they highlighted
 the importance of integrating place-based learning in everyday lessons;
 planning for intentional experiences; and applying place-based learning
 in the classroom with greater depth. They also expressed interest in exploring
 different inquiry methods to enhance students’ learning experiences.</p>
-<h4><strong><u>Overview of Webinar and OE sharing</u></strong></h4>
+<h4>Overview of Webinar and OE sharing</h4>
 <p>The webinar, titled "Applying Place-based Learning in Sustainability Education
 – What does it look, sound and feel like?" focused on the integration of
 place-based learning into sustainability education, aiming to empower students
@@ -118,7 +118,7 @@ informed, responsible stewards of the Earth.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/8__Emma_Webinar.png">
 </div>
-<h4><strong><u>Contextualisation and Application of Place-based education by our Teacher Collaborators</u></strong></h4>
+<h4>Contextualisation and Application of Place-based education by our Teacher Collaborators</h4>
 <p>Our Teacher Collaborators, Mr Alvin Yeo (LT/Geography, Holy Innocents’
 High School) and Ms Suriani Amran (ST/Geography, Catholic Junior College)
 contextualised and applied place-based learning in their classroom context
@@ -152,7 +152,7 @@ city.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/10__Suriani_Webinar.png">
 </div>
-<h4><strong><u>OEIC Insights from Professional Conversation(s) with NIE, CPDD, and AST</u></strong></h4>
+<h4>OEIC Insights from Professional Conversation(s) with NIE, CPDD, and AST</h4>
 <p>The conversations underscored the significance of place-based learning
 in offering contextualised and experiential learning opportunities, particularly
 beneficial for students with Special Educational Needs (SEN). This approach,
@@ -169,7 +169,7 @@ the classroom. These insights offer a comprehensive understanding of the
 principles and practical applications of place-based learning, showcasing
 its potential to enrich educational experiences and meet the diverse learning
 needs of students.</p>
-<h4><strong><u>OEIC Insights for Geography and Sustainability Education</u></strong></h4>
+<h4>OEIC Insights for Geography and Sustainability Education</h4>
 <p>The OEIC programme has significantly advanced Geography and Sustainability
 Education through the pivotal role of place-based learning. Key insights
 include immersing students in local environments, incorporating historical
