@@ -51,7 +51,7 @@ platforms via our OEIC OPAL2.0 Wikipage: <a rel="noopener noreferrer nofollow" t
 login is required.)</p>
 <ul>
 <li>
-<p>2024 OEIC: <a href="/oeic/frank-noschese/" rel="noopener noreferrer" target="_blank"><u>Dr Emma Rawlings Smith</u></a>
+<p>2024 OEIC: <a href="/oeic/dr-emma-rawlings-smith-2024/" rel="noopener noreferrer" target="_blank"><u>Dr Emma Rawlings Smith</u></a>
 </p>
 </li>
 <li>
