@@ -1,5 +1,6 @@
 ---
-title: TWA plus Reflection Story Mr Chia Poh Cheng
+title: Mr Chia Poh Cheng, Attachment to Advanced Micro Devices (Singapore)
+  (Manufacturing & Engineering)
 date: 2024-05-10
 layout: file
 description: ""

@@ -1,5 +1,5 @@
 ---
-title: "TWA plus Reflection Story: Ms Lam Kar Mun"
+title: Ms Lam Kar Mun, Attachment to AI Singapore (InfoComm & Technology)
 date: 2024-09-15
 layout: file
 description: ""

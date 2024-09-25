@@ -1,6 +1,5 @@
 ---
-title: "TWA Plus Reflection Story: Mdm Kong Su Sze, Attachment to Science Centre
-  Singapore"
+title: Mdm Kong Su Sze, Attachment to Science Centre Singapore (Science & Research)
 date: 2023-11-30
 layout: file
 description: ""
