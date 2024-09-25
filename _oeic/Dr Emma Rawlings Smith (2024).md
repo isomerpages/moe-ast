@@ -75,4 +75,35 @@ maps which drew from individuals’ personal geographies, values analyses,
 and debates based on authentic case studies from the community, to invite
 students to reflect more deeply on their relationship with their local
 context and environment.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5__Workshops__in_person_.jpg">
+</div>
+<p>The workshops were customised to meet the learning needs of various teachers’
+levels and profiles (i.e. Secondary, JC Teachers, Middle Managers, Teacher
+Leaders). The learning activities encourage collaborative learning and
+sharing of classroom practices and experiences, which allows teachers to
+exchange best practices and address common concerns. This tailored approach
+facilitated targeted exploration of pedagogical strategies, assessment
+methods, and pedagogical leadership development, fostering impactful learning
+experiences across different teaching profiles and levels.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6__Discussion__Workshops_.png">
+</div>
+<h4><strong><u>Feedback from Workshop Participants</u></strong></h4>
+<p>Participants expressed appreciation for the practical and useful resources
+and innovative ideas for executing sustainability lessons, and they highlighted
+the importance of integrating place-based learning in everyday lessons;
+planning for intentional experiences; and applying place-based learning
+in the classroom with greater depth. They also expressed interest in exploring
+different inquiry methods to enhance students’ learning experiences.</p>
+<h4><strong><u>Overview of Webinar and OE sharing</u></strong></h4>
+<p>The webinar, titled "Applying Place-based Learning in Sustainability Education
+– What does it look, sound and feel like?" focused on the integration of
+place-based learning into sustainability education, aiming to empower students
+with civic, global, and cross-cultural literacy within the framework of
+Emerging 21st Century Competencies (E21CC).</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7__Webinar.png">
+</div>
 <p></p>
