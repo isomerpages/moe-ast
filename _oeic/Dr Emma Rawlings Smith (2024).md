@@ -65,7 +65,7 @@ a sense of responsibility towards environmental conservation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4__Emma_Lesson_Demo.jpg">
 </div>
-<h4><strong><u>Overview of Onsite Workshops</u></strong></h4>
+<h4>Overview of Onsite Workshops</h4>
 <p>Emma modelled pedagogical leadership by providing perspectives on place-based
 education to enhance learning experiences for students through her perspectives
 as a Geography educator, academic, and work in the public transportation
