@@ -2,6 +2,7 @@ collections:
   oeic:
     output: true
     order:
+      - Dr Emma Rawlings Smith (2024).md
       - Mr Francesco Paul Neal Noschese (2023).md
       - Professor Jeremy Stoddard (2022).md
       - Mr John Miller (2022).md
