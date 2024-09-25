@@ -39,7 +39,7 @@ landscape and development of students' Emerging 21st Century Competencies
 (E21CC). The outcomes of this collaboration has enriched the professional
 learning of local Geography educators and laid the groundwork for impactful
 and contextually relevant learning experiences for students.</p>
-<h4><strong><u>Overview of Lesson Demonstration at Holy Innocents’ High School</u></strong></h4>
+<h4>Overview of Lesson Demonstration at Holy Innocents’ High School</h4>
 <p>Emma collaborated with our local Teacher Collaborator, Mr Alvin Yeo (Lead
 Teacher/Geography, Holy Innocents’ High School (HIHS)), to apply place-based
 learning strategies for teaching the concept of sustainable water management
