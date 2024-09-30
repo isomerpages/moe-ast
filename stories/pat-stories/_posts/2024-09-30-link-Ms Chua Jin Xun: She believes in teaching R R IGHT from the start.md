@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.schoolbag.edu.sg/story/she-believes-in-teaching-r-r-ight-from-the-start/
+external: https://www.schoolbag.edu.sg/story/she-believes-in-teaching-r-r-ight-from-the-start/
 ---
