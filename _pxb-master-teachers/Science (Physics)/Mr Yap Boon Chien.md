@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Science (Physics)
 variant: markdown
 ---
-<img src="/images/mt78.png" style="width:80%">
+<img src="/images/Our%20MTT/Yap_Boon_Chien_Oct24.png" style="width:80%">
 
 #### Profile
 
