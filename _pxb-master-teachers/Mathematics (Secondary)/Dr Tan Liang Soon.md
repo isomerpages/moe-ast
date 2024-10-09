@@ -17,7 +17,7 @@ Liang Soon holds a Master of Information Technology in Education from University
 
 **Professional Involvement and Contributions**
 
-Tan, L. S. &amp; Hang, K. H. (2018). Mathematical Problem Solving in Jurong Junior College.&nbsp;_INNOVATION_.&nbsp;[www.innovationmagazine.com/volumes/v16n1/schoolssection1.html](www.innovationmagazine.com/volumes/v16n1/schoolssection1.html)
+Tan, L. S. &amp; Hang, K. H. (2018). Mathematical Problem Solving in Jurong Junior College.&nbsp;_INNOVATION_.&nbsp;[http://www.innovationmagazine.com/volumes/v16n1/schoolssection1.html](http://www.innovationmagazine.com/volumes/v16n1/schoolssection1.html)
 
 Tan, L. S. &amp; Hang, K. H. (2017). Facilitating students’ mathematical noticing. In Kaur, B., and Lee, N. H. (Eds.),&nbsp;_Empowering Mathematics Learners_&nbsp;(pp. 31-50). World Scientific.
 
