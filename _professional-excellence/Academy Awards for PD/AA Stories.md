@@ -17,7 +17,7 @@ variant: tiptap
 <li>
 <p><a href="https://go.gov.sg/fellow2024daniel" rel="noopener nofollow" target="_blank">Mr </a>
 <a href="https://go.gov.sg/fellow2024kuanhoe" rel="noopener nofollow" target="_blank">Lai Kuan Hoe</a>
-<br><strong>Mr Lai Kuan Hoe </strong> 
+<br><strong>Mr Lai Kuan Hoe </strong>
 <br><strong>Innova Primary School</strong>
 </p>
 <p></p>
