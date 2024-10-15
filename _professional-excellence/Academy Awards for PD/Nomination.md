@@ -24,46 +24,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aa-nominationguide2024</a>
+<p><a href="https://go.gov.sg/aa-nominationguide2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aa-nominationguide2024</a>
 </p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Nomination Form (Fellow/Associate)</strong>
+<p><a rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aa-nom-fellowassociate2024</a>
-</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Nomination Form (Partner)</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aa-nomination-partner2024</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Micro-learning Unit:</strong>
-</p>
-<p>(Sample Write-Up &amp; Exemplars)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aa-mlu2024</a>
-</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +36,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aa-wiki</a> 
+<p><a href="https://go.gov.sg/aa-wiki" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aa-wiki</a> 
 <a href="https://go.gov.sg/aa-wiki" rel="noopener noreferrer nofollow" target="_blank">&nbsp;&nbsp;</a>
 </p>
 </td>

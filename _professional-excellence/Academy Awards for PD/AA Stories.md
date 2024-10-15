@@ -5,6 +5,24 @@ description: ""
 third_nav_title: Academy Awards for PD
 variant: tiptap
 ---
+<h4>AA Citations 2024</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/fellow2024daniel" rel="noopener nofollow" target="_blank">Mr Chua Boon Hwee Daniel, </a>
+<br><strong>Mr Chua Boon Hwee Daniel </strong>
+<br><strong>Chongzheng Primary School</strong>
+</p>
+<p></p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/fellow2024daniel" rel="noopener nofollow" target="_blank">Mr </a>
+<a href="https://go.gov.sg/fellow2024kuanhoe" rel="noopener nofollow" target="_blank">Lai Kuan Hoe</a>
+<br><strong>Mr Lai Kuan Hoe </strong>
+<br><strong>Innova Primary School</strong>
+</p>
+<p></p>
+</li>
+</ol>
 <h4>AA Citations 2023</h4>
 <ol data-tight="true" class="tight">
 <li>

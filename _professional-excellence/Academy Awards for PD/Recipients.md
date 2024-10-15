@@ -3,7 +3,11 @@ title: Recipients
 permalink: /professional-excellence/academy-awards/recipients/
 description: ""
 third_nav_title: Academy Awards for PD
+variant: tiptap
 ---
-
-![AA2023](/images/Awards/2023%20poster_final_.jpg)
-For the full list of awardees, please click [here.](/files/list%20of%20fellow%20associate%20partner%20of%20ast%20award%20recipients%202023.pdf)
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2024 Results" src="/images/Awards/Heartiest_Congratulations_2024_results.png">
+</div>
+<p>For the full list of awardees, please click <a href="https://file.go.gov.sg/aaresults2024.pdf" rel="noopener nofollow" target="_blank">here</a>
+</p>
