@@ -13,8 +13,10 @@ sections:
       alignment: right
       backgroundColor: gray
       title: Welcome to Academy of Singapore Teachers
-      url: /Files/Corporate/AST_Booklet_DigitalFA_Pages_LR.pdf
-      button: Our Corporate Information
+      key_highlights:
+        - title: Our Corporate Information
+          description: ""
+          url: /Files/Corporate/AST_Booklet_DigitalFA_Pages_LR.pdf
   - infopic:
       title: How does learning come alive?
       subtitle: Spotlight
