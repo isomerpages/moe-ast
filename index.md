@@ -14,6 +14,7 @@ sections:
       backgroundColor: gray
       title: Welcome to Academy of Singapore Teachers
       url: https://academyofsingaporeteachers.moe.edu.sg/files/corporate/AST_Booklet_DigitalFA_Pages_LR
+      button: Our Corporate Information
   - infopic:
       title: How does learning come alive?
       subtitle: Spotlight
