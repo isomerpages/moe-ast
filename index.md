@@ -13,10 +13,8 @@ sections:
       alignment: right
       backgroundColor: gray
       title: Welcome to Academy of Singapore Teachers
-      key_highlights:
-        - title: Our Corporate Information
-          description: ""
-          url: /files/corporate/AST_Booklet_DigitalFA_Pages_LR.pdf
+      button: Our Corporate Information
+      url: https://go.gov.sg/ast-corpinfo
   - infopic:
       title: How does learning come alive?
       subtitle: Spotlight
