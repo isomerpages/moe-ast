@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: Our Corporate Information
           description: ""
-          url: /Files/Corporate/AST_Booklet_DigitalFA_Pages_LR.pdf
+          url: /files/corporate/AST_Booklet_DigitalFA_Pages_LR.pdf
   - infopic:
       title: How does learning come alive?
       subtitle: Spotlight
