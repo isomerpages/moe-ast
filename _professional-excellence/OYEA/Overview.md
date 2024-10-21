@@ -5,17 +5,12 @@ description: ""
 third_nav_title: OYEA
 variant: tiptap
 ---
-<h3>President’s Award for Teachers (PAT)</h3>
-<p>The President’s Award for Teachers (PAT) recognises excellent educators
-for their role in moulding the future of our nation.</p>
-<p>In recognition of their inspiration to their students and peers, eight
-outstanding educators received the PAT 2024 from President Tharman Shanmugaratnam
-during the Teachers’ Day Reception held at the Fairmont Hotel on Thursday,
-29 August 2024. They constantly adopt innovative approaches in their lessons,
-and are lifelong learners and mentors to their peers. They reach out to
-their students, affirm their strengths and efforts, and encourage them
-to pursue their dreams. Through their words and deeds, these educators
-are an inspiration to their students and colleagues.</p>
+<h3>Outstanding Youth in Education Award (OYEA)</h3>
+<p>The OYEA is a national award that recognises and honours the achievements
+of young educators who&nbsp;have shown admirable passion for teaching,
+and commitment to inspiring and nurturing their students.&nbsp;Launched
+in 1999, it seeks to recognise excellent younger teachers for their youthful
+idealism, enthusiasm, energy, and serving as inspiring role models for
+the fraternity.</p>
 <h4>Contact Us</h4>
-<p>If you have any queries about PAT, please contact us at: <a rel="noopener noreferrer nofollow" target="_blank">MOE_PATOYEA@moe.gov.sg</a>
-</p>
+<p>If you have any queries about OYEA, please contact us at: <a href="mailto:MOE_AST_OYEA@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE_AST_OYEA@moe.gov.sg</u></a>.</p>
