@@ -13,6 +13,20 @@ sections:
       alignment: right
       backgroundColor: gray
       title: Welcome to Academy of Singapore Teachers
+  - announcements:
+      title: PAT and OYEA 2025
+      id: announcements
+      announcement_items:
+        - title: President's Award for Teachers (PAT) 2025
+          date: 21 October 2024
+          announcement: Nominations open till 10 Jan 2025
+          link_text: Click here to nominate
+          link_url: /professional-excellence/presidents-award-for-teachers/nomination/
+        - title: Outstanding Youth in Education Award (OYEA) 2025
+          date: 21 October 2024
+          announcement: Announcement content
+          link_text: Click here to nominate
+          link_url: /professional-excellence/oyea/nominate-a-teacher/
   - infopic:
       title: How does learning come alive?
       subtitle: Spotlight
