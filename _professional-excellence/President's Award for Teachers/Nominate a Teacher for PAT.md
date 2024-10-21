@@ -16,8 +16,5 @@ Education, or National Institute of Early Childhood Development.</p>
 </p>
 <p>Nomination closes on <strong><u>10 January 2025, Friday</u></strong>.</p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PAT 2025" src="/images/Awards/PAT.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/pat2025"><img style="width: 100%" height="auto" width="100%" alt="PAT 2025" src="/images/Awards/PAT.png"></a>
 <p></p>
