@@ -12,7 +12,7 @@ both their students and peers.</p>
 <p>PAT is open to teachers presently in service at a primary school, secondary
 school, Junior College/Millennia Institute, Polytechnic, Institute of Technical
 Education, or National Institute of Early Childhood Development.</p>
-<p>Express your appreciation by submitting a nomination here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pat2025</a>
+<p>Express your appreciation by submitting a nomination here: <a href="https://go.gov.sg/pat2025" rel="noopener nofollow" target="_blank">https://go.gov.sg/pat2025</a>
 </p>
 <p>Nomination closes on <strong><u>10 January 2025, Friday</u></strong>.</p>
 <p></p>
