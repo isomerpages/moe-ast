@@ -16,10 +16,8 @@ of the nation.</p>
 presently in service at a primary school, secondary school, junior college/Millennia
 Institute.</p>
 <p></p>
-<p>Express your appreciation by submitting a nomination here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/oyea2025</a>&nbsp;</p>
+<p>Express your appreciation by submitting a nomination here: <a href="https://go.gov.sg/oyea2025" rel="noopener nofollow" target="_blank">https://go.gov.sg/oyea2025&nbsp;</a>
+</p>
 <p>Nomination closes on <strong><u>10 January 2025, Friday</u></strong>.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="OYEA 2025" src="/images/Awards/OYEA_1.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/oyea2025"><img style="width: 100%" height="auto" width="100%" alt="OYEA 2025" src="/images/Awards/OYEA_1.jpg"></a>
 <p></p>
