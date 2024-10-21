@@ -2,6 +2,7 @@
 title: For Allied Educators
 permalink: /professional-learning/for-aeds/
 description: ""
+variant: markdown
 ---
 The Allied Educator Scheme was implemented with effect from 1 Jan 2009.&nbsp;&nbsp;Allied Educators (AEDs) are part of the school team who work closely with the teachers to ensure the holistic development of our students.&nbsp;&nbsp;The different groups of AEDs and job functions are as follows in&nbsp;Table 1&nbsp;below.
 
@@ -9,7 +10,7 @@ The Allied Educator Scheme was implemented with effect from 1 Jan 2009.&nbsp;&nb
 
 | AED | Job Function(s) |
 |---|---|
-| AED (LBS)  | Works closely with the school management in setting up structures and processes in the school to support students with special needs<br>Provides learning and behavioural support to students with mild special needs like autism, dyslexia, and attention-deficit / hyperactivity disorder (ADHD)<br>  |
+| Special Needs Educational (SEN) Officer  | Works closely with the school management in setting up structures and processes in the school to support students with special needs<br>Provides learning and behavioural support to students with mild special needs like autism, dyslexia, and attention-deficit / hyperactivity disorder (ADHD)<br>  |
 | AED (Teaching and Learning) | Works with teachers to enhance the teaching and learning of students in both academic and non-academic areas |
 | School Counsellor (SC) | Works closely with the school management in planning and implementing a school-wide counselling system<br>Counsels pupils, consults school personnel and parents, and shares with teachers and parents counselling-related aspects<br>Conducts specialised guidance programmes with at-risk pupils who need additional help in their social and emotional development |
 

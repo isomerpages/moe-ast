@@ -2,11 +2,6 @@ collections:
   pxb-master-teachers:
     output: true
     order:
-      - Tamil Language/.keep
-      - Tamil Language/Mdm Alli d o Allagoo.md
-      - Tamil Language/Mdm Letchimi d o Marimuthu.md
-      - Tamil Language/Mdm Manjula d o Ramasamy.md
-      - Tamil Language/Mr Subramaniam s o Nadaison.md
       - Geography/Mr Yuen Kah Mun.md
       - Geography/Ms Lim Puay Yin.md
       - Geography/Ms Lum Kit Kuan Melanie.md
