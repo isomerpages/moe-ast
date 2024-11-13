@@ -21,7 +21,7 @@ Our education landscape and workplaces are changing rapidly. Once our students l
 See what the past TWA+ participants have to say about their experiences! Click [here](https://academyofsingaporeteachers.moe.edu.sg/stories/twa-plus-experience/)!
 
 **Start Your Learning Now!**
-The full list of hosting partners and their offerings for MOE staff can be accessed via our [TWA+ Wiki](https://go.gov.sg/opaltwawiki) in OPAL2.0. Interested participants can apply for these opportunities using the application form on our wiki, after obtaining approval from their School Leaders or Branch Heads. [OPAL2.0 access required].  Non-MOE staff who are interested to find out about the work attachment opportunities are invited to write in to us at TWA_plus@moe.gov.sg.
+The full list of hosting partners and their offerings for MOE staff can be accessed via our [TWA+ Wiki](https://go.gov.sg/opaltwawiki) in OPAL2.0. Interested participants can apply for these opportunities using the application form on our wiki, after obtaining approval from their School Leaders or Branch Heads. [OPAL2.0 access required].  Non-MOE staff who are interested to find out about the work attachment opportunities are invited to write in to us at [TWA_plus@moe.gov.sg](mailto:TWA_plus@moe.gov.sg).
   
 
 **Be Our Partner**
