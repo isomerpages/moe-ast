@@ -3,6 +3,7 @@ title: Teacher Work Attachment Plus Programme
 permalink: /professional-learning/for-eos/twa-plus/
 description: ""
 third_nav_title: For Education Officers
+variant: markdown
 ---
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/yS5nIsbxUrs" height="500" width="900"></iframe>
 
@@ -20,8 +21,8 @@ Our education landscape and workplaces are changing rapidly. Once our students l
 See what the past TWA+ participants have to say about their experiences! Click [here](https://academyofsingaporeteachers.moe.edu.sg/stories/twa-plus-experience/)!
 
 **Start Your Learning Now!**
-
-The full list of hosting partners and their offerings made available for MOE staff can be accessed [here](https://intranet.moe.gov.sg/academy/TWA/Pages/twa_localworkatt.aspx). Upon seeking their School Leaders’ or Branch Head’s approval, interested participants can apply for the opportunities using these [application forms](https://intranet.moe.gov.sg/academy/TWA/Pages/app_procedures_forms.aspx). [MOE Intranet access required]
+The full list of hosting partners and their offerings for MOE staff can be accessed via our [TWA+ Wiki](https://go.gov.sg/opaltwawiki) in OPAL2.0. Interested participants can apply for these opportunities using the application form on our wiki, after obtaining approval from their School Leaders or Branch Heads. [OPAL2.0 access required].  Non-MOE staff who are interested to find out about the work attachment opportunities are invited to write in to us at TWA_plus@moe.gov.sg.
+  
 
 **Be Our Partner**
 
