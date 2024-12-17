@@ -61,10 +61,10 @@ identifying and adopting good practices.</p>
 <p>2. &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Professor&nbsp;Liu Woon Chia</p>
+<p>A/P Chow Jia Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dean, Teacher Education</p>
+<p>Dean, Teacher Education and Undergraduate Programmes</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National Institute of Education&nbsp;&nbsp;</p>
