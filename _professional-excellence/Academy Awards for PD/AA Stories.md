@@ -6,7 +6,8 @@ third_nav_title: Academy Awards for PD
 variant: tiptap
 ---
 <h4>Read about the inspiring stories of some of the 2024 Academy Awards Recipients</h4>
-<p>2024 Fellow of AST Recipients</p>
+<p><strong>2024 Fellow of AST Recipients</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards/Photo_2__Daniel.jpg">
@@ -23,7 +24,8 @@ variant: tiptap
 <br><strong>Innova Primary School</strong>
 </p>
 <p></p>
-<p>2024 Associate of AST Recipients</p>
+<p><strong>2024 Associate of AST Recipients</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards/Photo_4__Associates.jpg">
@@ -31,5 +33,12 @@ variant: tiptap
 <p>Click <a href="https://go.gov.sg/aaplspotlight" rel="noopener nofollow" target="_blank">here </a>for
 inspiring stories of some of the 2024 Associate of AST recipients.</p>
 <p></p>
-<p>2024 Partner of AST Recipients</p>
+<p><strong>2024 Partner of AST Recipients</strong>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards/Photo_5__Partners.jpg">
+</div>
+<p>Thank you to our partners for supporting the professional learning of
+our officers. Their expertise and dedication have played a vital role in
+fostering meaningful growth and development within our fraternity.</p>
