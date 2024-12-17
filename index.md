@@ -53,4 +53,12 @@ sections:
       url: /about-us/academies-and-language-centres/
       alt: Other Academies and LCs
       image: /images/acad-lc-logo-ver1.JPG
+  - infopic:
+      title: Celebrating Excellence and Fostering Connections
+      id: infopic
+      description: Featuring inspiring stories of recipients from the Academy Awards
+        for Professional Development 2024
+      button: Read more
+      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/academy-awards/aa-stories/
+      image: /images/Photo_1__Group.jpg
 ---
