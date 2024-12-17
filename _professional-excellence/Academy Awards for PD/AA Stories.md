@@ -11,7 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards/Photo_2__Daniel.jpg">
 </div>
-<p><a href="https://go.gov.sg/fellow2024daniel" rel="noopener nofollow" target="_blank">Mr Chua Boon Hwee Daniel, </a><strong> </strong>
+<p><a href="https://go.gov.sg/fellow2024daniel" rel="noopener nofollow" target="_blank">Mr Chua Boon Hwee Daniel, </a>
 <br><strong>Chongzheng Primary School</strong>
 </p>
 <p></p>
@@ -23,5 +23,11 @@ variant: tiptap
 <br><strong>Innova Primary School</strong>
 </p>
 <p></p>
-<h4></h4>
+<p>2024 Associate of AST Recipients</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards/Photo_4__Associates.jpg">
+</div>
+<p>Click <a href="https://go.gov.sg/aaplspotlight" rel="noopener nofollow" target="_blank">here</a>for
+inspiring stories of some of the 2024 Associate of AST recipients.</p>
 <p></p>
