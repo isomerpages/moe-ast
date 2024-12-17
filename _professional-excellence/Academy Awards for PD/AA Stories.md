@@ -28,6 +28,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards/Photo_4__Associates.jpg">
 </div>
-<p>Click <a href="https://go.gov.sg/aaplspotlight" rel="noopener nofollow" target="_blank">here</a>for
+<p>Click <a href="https://go.gov.sg/aaplspotlight" rel="noopener nofollow" target="_blank">here </a>for
 inspiring stories of some of the 2024 Associate of AST recipients.</p>
+<p></p>
+<p>2024 Partner of AST Recipients</p>
 <p></p>
