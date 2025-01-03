@@ -24,10 +24,10 @@ the teaching fraternity to a higher international standing.</p>
 <p><strong>How we are connected</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="OneAST-orgchart" src="/images/Org Chart/ASTOrgChart_Jan2025.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="orgchart" src="/images/Org Chart/ASTOrgChart_Jan2025.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
