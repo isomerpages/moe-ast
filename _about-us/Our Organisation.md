@@ -25,9 +25,14 @@ the teaching fraternity to a higher international standing.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart/One_Academy_orgchart.png">
+<img style="width: 100%" height="auto" width="100%" alt="OneAST-orgchart" src="/images/Org Chart/ASTOrgChart_Jan2025.jpg">
 </div>
-<table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
