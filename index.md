@@ -61,4 +61,5 @@ sections:
       button: Read more
       url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/academy-awards/aa-stories/
       image: /images/Photo_1__Group.jpg
+      alt: Group photo at AA ceremony
 ---
