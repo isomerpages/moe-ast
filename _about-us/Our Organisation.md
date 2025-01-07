@@ -23,10 +23,14 @@ the teaching fraternity to a higher international standing.</p>
 <h4>Many Academies. One Mission</h4>
 <p><strong>How we are connected</strong>
 </p>
-<p></p>
-<p></p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="orgchart" src="/images/Org Chart/ASTOrgChart_Jan2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="One-Academy Organisation Chart" src="/images/Org Chart/One_Academy_orgchart_Jan2025.png">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
