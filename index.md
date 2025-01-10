@@ -13,20 +13,15 @@ sections:
       alignment: right
       backgroundColor: gray
       title: Welcome to Academy of Singapore Teachers
-  - announcements:
-      title: PAT and OYEA 2025 Nominations
-      id: announcements
-      announcement_items:
-        - title: President's Award for Teachers (PAT) 2025
-          date: 21 October 2024
-          announcement: Nominations open till 10 Jan 2025
-          link_text: Read more and nominate
-          link_url: /professional-excellence/presidents-award-for-teachers/nomination/
-        - title: Outstanding Youth in Education Award (OYEA) 2025
-          date: 21 October 2024
-          announcement: Nominations open till 10 Jan 2025
-          link_text: Read more and nominate
-          link_url: /professional-excellence/oyea/nominate-a-teacher/
+  - infopic:
+      title: Celebrating Excellence and Fostering Connections
+      id: infopic
+      description: Featuring inspiring stories of recipients from the Academy Awards
+        for Professional Development 2024
+      button: Read more
+      url: /professional-excellence/academy-awards/aa-stories/
+      image: /images/Photo_1__Group.jpg
+      alt: Group photo at AA ceremony
   - infopic:
       title: How does learning come alive?
       subtitle: Spotlight
@@ -53,13 +48,4 @@ sections:
       url: /about-us/academies-and-language-centres/
       alt: Other Academies and LCs
       image: /images/acad-lc-logo-ver1.JPG
-  - infopic:
-      title: Celebrating Excellence and Fostering Connections
-      id: infopic
-      description: Featuring inspiring stories of recipients from the Academy Awards
-        for Professional Development 2024
-      button: Read more
-      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/academy-awards/aa-stories/
-      image: /images/Photo_1__Group.jpg
-      alt: Group photo at AA ceremony
 ---
