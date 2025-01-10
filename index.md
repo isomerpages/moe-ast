@@ -19,7 +19,7 @@ sections:
       description: Featuring inspiring stories of recipients from the Academy Awards
         for Professional Development 2024
       button: Read more
-      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/academy-awards/aa-stories/
+      url: /professional-excellence/academy-awards/aa-stories/
       image: /images/Photo_1__Group.jpg
       alt: Group photo at AA ceremony
   - infopic:
