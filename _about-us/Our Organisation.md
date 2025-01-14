@@ -23,18 +23,7 @@ the teaching fraternity to a higher international standing.</p>
 <h4>Many Academies. One Mission</h4>
 <p><strong>How we are connected</strong>
 </p>
-<table style="width: 0px">
-<colgroup></colgroup>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
-<table style="width: 0px">
-<colgroup></colgroup>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="One-Academy Org Chart" src="/images/Org Chart/One_Academy_orgchart_14Jan.png">
 </div>
