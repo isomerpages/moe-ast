@@ -38,8 +38,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/green1.png">
 </div>
-<p><strong>Use the </strong><a href="https://academyofsingaporeteachers.moe.edu.sg//files/ARC_Infographic_18_Sept_2023.pdf" rel="noopener nofollow" target="_blank">A-R-C Learning Model </a><strong>to provide a variety of learning experiences and use of the </strong>
-<a href="https://academyofsingaporeteachers.moe.edu.sg/files/Guide_to_Blended_PL_2024.pdf" rel="noopener nofollow" target="_blank">Blended PD Guide</a><strong> to feature different elements (e.g., synchronous/ asynchronous, online/in-person) in the learning. <br><br></strong>
+<p><strong>Use the </strong><a href="https://go.gov.sg/arc-info" rel="noopener nofollow" target="_blank">A-R-C Learning Model</a>
+<a href="https://academyofsingaporeteachers.moe.edu.sg//files/ARC_Infographic_18_Sept_2023.pdf" rel="noopener nofollow" target="_blank"></a><strong>to provide a variety of learning experiences and use of the </strong>
+<a href="https://go.gov.sg/plguide24" rel="noopener nofollow" target="_blank">Blended PD Guide</a><strong> to feature different elements (e.g., synchronous/ asynchronous, online/in-person) in the learning. <br><br></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/pldesign-01.png">
@@ -51,7 +52,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/yellow.png">
 </div>
-<p><strong>Understand the efficacy of PL – whether PL has been effective and relevant. Use the <a href="https://academyofsingaporeteachers.moe.edu.sg/files/LEARN_model.pdf" rel="noopener" target="\_blank">LEARN Model</a> to improve current efforts.</strong>
+<p><strong>Understand the efficacy of PL – whether PL has been effective and relevant. Use the <a href="https://go.gov.sg/learnmodel" rel="noopener" target="\_blank">LEARN Model</a> to improve current efforts.</strong>
 </p>
 </td>
 </tr>
@@ -94,7 +95,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>PL designers are at the heart of MOE's PL ecosystem, playing the <a href="https://academyofsingaporeteachers.moe.edu.sg/files/four-roles.pdf" rel="noopener noreferrer nofollow" target="_blank">roles of learning architects, learning technologists, curator-creators and data scientists</a>&nbsp;to
+<p>PL designers are at the heart of MOE's PL ecosystem, playing the <a href="https://go.gov.sg/four-roles" rel="noopener noreferrer nofollow" target="_blank">roles of learning architects, learning technologists, curator-creators and data scientists</a>&nbsp;to
 support teachers' holistic professional growth.</p>
 <p>To find out more, visit the&nbsp;<a href="https://go.gov.sg/pldesignwiki" rel="noopener noreferrer nofollow" target="_blank">Designing Professional Learnin​g Wikipage</a>.
 [OPAL2.0 login required.]​
