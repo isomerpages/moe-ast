@@ -219,7 +219,7 @@ sustained blended teacher professional development (TPD) communities.​</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3. <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/Guide%20to%20Blended%20PD-2024.pdf" rel="noopener" target="\_blank">Guide to Effective PD Vol 2: Blended PD Guide</a></strong>
+<p><strong>3. <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/Guide%20to%20Blended%20PL-2024.pdf" rel="noopener" target="\_blank">Guide to Effective PD Vol 2: Blended PD Guide</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
