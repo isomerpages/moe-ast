@@ -38,8 +38,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/green1.png">
 </div>
-<p><strong>Use the <a href="files/ARC_Infographic_18_Sept_2023.pdf" rel="noopener" target="\_blank">A-R-C Learning Model</a> to provide a variety of learning experiences and use of the </strong>
-<a href="files/Guide_to_Blended_PL_2024.pdf" rel="noopener nofollow" target="_blank">Blended PD Guide</a><strong> to feature different elements (e.g., synchronous/ asynchronous, online/in-person) in the learning. <br><br></strong>
+<p><strong>Use the </strong><a href="https://academyofsingaporeteachers.moe.edu.sg//files/ARC_Infographic_18_Sept_2023.pdf" rel="noopener nofollow" target="_blank">A-R-C Learning Model </a><strong>to provide a variety of learning experiences and use of the </strong>
+<a href="https://academyofsingaporeteachers.moe.edu.sg/files/Guide_to_Blended_PL_2024.pdf" rel="noopener nofollow" target="_blank">Blended PD Guide</a><strong> to feature different elements (e.g., synchronous/ asynchronous, online/in-person) in the learning. <br><br></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/pldesign-01.png">
@@ -51,7 +51,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/yellow.png">
 </div>
-<p><strong>Understand the efficacy of PL – whether PL has been effective and relevant. Use the <a href="files/LEARN_model.pdf" rel="noopener" target="\_blank">LEARN Model</a> to improve current efforts.</strong>
+<p><strong>Understand the efficacy of PL – whether PL has been effective and relevant. Use the <a href="https://academyofsingaporeteachers.moe.edu.sg/files/LEARN_model.pdf" rel="noopener" target="\_blank">LEARN Model</a> to improve current efforts.</strong>
 </p>
 </td>
 </tr>
