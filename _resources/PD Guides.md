@@ -94,6 +94,15 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p>PL designers are at the heart of MOE's PL ecosystem, playing the&nbsp;
+<a href="files/four-roles.pdf" rel="noopener noreferrer nofollow" target="_blank">roles of learning architects, learning technologists, curator-creators
+and data scientists</a>&nbsp;to support teachers' holistic professional
+growth.</p>
+<p>To find out more, visit the&nbsp;<a href="https://go.gov.sg/pldesignwiki" rel="noopener noreferrer nofollow" target="_blank">Designing Professional Learnin​g Wikipage</a>.
+[OPAL2.0 login required.]​
+<br>
+</p>
+<p>For further enquiries, please reach out to&nbsp;<a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/four-roles.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE_PDPO@moe.gov.sg</a>.​</p>
 <p>
 <br>
 <br>
