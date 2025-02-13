@@ -4,7 +4,7 @@ permalink: /resources/pd-guides/
 description: ""
 variant: tiptap
 ---
-<h3>Local</h3>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -249,32 +249,5 @@ sustained blended teacher professional development (TPD) communities.​</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Global</strong></h3>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Workshops and Learning Programmes<br></strong>
-</p>
-</li>
-</ol>
-<p><strong>a. Desimone, L. M. (2009). Improving impact studies of teachers’ professional development: Toward better conceptualizations and measures.&nbsp;<em>Educational Researcher, 38 </em>(3), 181-199. <br></strong>
-</p>
-<p><strong>b. Guskey, T. R. (2002). Professional development and teacher change.&nbsp;<em>Teachers and Teaching: Theory and Practice, 8 </em>(3), 381-391.<br><br></strong>
-</p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>Blended Learning for PD<br></strong>
-</p>
-</li>
-</ol>
-<p><strong>a. Community for Advancing Discovery Research in Education. (2017).&nbsp;<em>Emerging Design Principles for Online and Blended Teacher Professional Development in K-12 STEM Education</em>. Waltham, MA: Education Development Center, Inc.<br><br></strong>
-</p>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p><strong>Networked Learning Communities<br></strong>
-</p>
-</li>
-</ol>
-<p><strong>a. Katz, S., &amp; Earl, L. (2010). Learning about networked learning communities.&nbsp;<em>School Effectiveness and School Improvement: An International Journal of Research, Policy and Practice, 21</em>(1), 27–51.<br></strong>
-</p>
-<p><strong>b. Jackson, D., &amp; Temperley, J. (2007). From professional learning community to networked learning community. In L. Stoll &amp; K. S. Louis (Eds.),&nbsp; Professional learning communities: Divergence, depth and dilemmas (pp. 45–62). Maidenhead, England: Open University Press<br></strong>
-</p>
+<h3></h3>
+<p></p>
