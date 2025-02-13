@@ -38,8 +38,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/green1.png">
 </div>
-<p><strong>Use the </strong><a href="https://go.gov.sg/arc-info" rel="noopener nofollow" target="_blank">A-R-C Learning Model</a>
-<a href="https://academyofsingaporeteachers.moe.edu.sg//files/ARC_Infographic_18_Sept_2023.pdf" rel="noopener nofollow" target="_blank"></a><strong>to provide a variety of learning experiences and use of the </strong>
+<p><strong>Use the </strong><a href="https://go.gov.sg/arc-info" rel="noopener nofollow" target="_blank">A-R-C Learning Model</a><strong>to provide a variety of learning experiences and use of the </strong>
 <a href="https://go.gov.sg/plguide24" rel="noopener nofollow" target="_blank">Blended PD Guide</a><strong> to feature different elements (e.g., synchronous/ asynchronous, online/in-person) in the learning. <br><br></strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -69,32 +68,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/scans-workplace.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/nie-pl.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/supt-resources.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p>PL designers are at the heart of MOE's PL ecosystem, playing the <a href="https://go.gov.sg/four-roles" rel="noopener noreferrer nofollow" target="_blank">roles of learning architects, learning technologists, curator-creators and data scientists</a>&nbsp;to
 support teachers' holistic professional growth.</p>
 <p>To find out more, visit the&nbsp;<a href="https://go.gov.sg/pldesignwiki" rel="noopener noreferrer nofollow" target="_blank">Designing Professional Learnin​g Wikipage</a>.
@@ -106,16 +79,107 @@ support teachers' holistic professional growth.</p>
 <br>
 <br>
 <br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>​<strong>​​Scans on Workplace and Adult ​Learning​​​​</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​ ​​<a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/images/Modern%20Adult%20Learner%20Profile.pdf" rel="noopener noreferrer nofollow" target="_blank">Profile of Modern Adul​​t Learners</a>​</p>
+<p>​​This infographic summarises the learning preferences of modern adult
+learners</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​<a href="https://www.bcg.com/publications/2020/why-it-is-time-to-bring-learning-to-the-c-suite" rel="noopener noreferrer nofollow" target="_blank">Why It’s Time to Bring Learning to the C-Suite</a>&nbsp;(BCG)
+<br>This article suggests ways that organisational leaders can build a culture
+which ​promotes ​continuous learning.
 <br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​<a href="https://www.linkedin.com/pulse/five-ways-learning-needs-change-keep-up-modern-learner-" rel="noopener noreferrer nofollow" target="_blank">Five Ways Learning Needs to Change to Keep Up with the Modern Learner</a>&nbsp;
+(LinkedIn)
 <br>
 </p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">Scans on workplace and adult learning</a></strong>
+<p>This article shares five ways which organisations can adapt their learning
+strategies to meet the evolving needs of modern learners in an impactful
+and sustainable way.
+<br>
 </p>
-<p><strong><a href="https://www.linkedin.com/pulse/meet-modern-learner-cristina-brembilla" rel="noopener" target="\_blank">Meet the modern learner</a> <a href="https://www.linkedin.com/pulse/artificial-intelligence-reshaping-everything" rel="noopener" target="\_blank">Artificial Learning is Reshaping Everything</a></strong>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://hbr.org/2019/02/making-learning-a-part-of-everyday-work" rel="noopener noreferrer nofollow" target="_blank">Making Learning a Part of Everyday Work&nbsp;</a>(Harvard
+Business Review)
+<br>
 </p>
-<p><strong><br></strong>
+<p>This article recommends practical steps that individuals and organisations&nbsp;can
+take to enable learning in the flow of work.​</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
 </p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">Supporting Resources (Access to MOE Intranet and OPAL2.0 required)</a></strong>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>​​​<strong>​​NIE Research on Professional Learning&nbsp;​​</strong>
+</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="2">
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​​<a href="https://repository.nie.edu.sg/entities/publication/36d3d531-0e80-4f9b-9f0d-4fcdbd4e66e7/details" rel="noopener noreferrer nofollow" target="_blank">An Ecological Perspective of Teacher Professional Learning: Principles, Processes and Practice</a>
+</p>
+<p>&nbsp;This publication provides insights from literature relating to an
+ecological perspective of professional learning to enable the r​e-imagining
+of teacher professional learning in Singapore's context.&nbsp;​</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://repository.nie.edu.sg/entities/publication/4202c55c-abf4-472f-84ef-eda8cc5586e5/details" rel="noopener noreferrer nofollow" target="_blank">Blended Learning Environments to Support Teacher Professional Development Communities</a>
+</p>
+<p>This publication provides insights into the design and development of
+sustained blended teacher professional development (TPD) communities.​</p>
+</td>
+</tr>
+</tbody>
+</table>
+</th>
+</tr>
+</tbody>
+</table>
+<p>
+<br><strong><br></strong>
+</p>
+<p><strong>Supporting Resources​ (OPAL2.0 and MOE Intranet Access Required)</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -155,7 +219,7 @@ support teachers' holistic professional growth.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3. <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/Guide%20to%20Blended%20PD_2023.pdf" rel="noopener" target="\_blank">Guide to Effective PD Vol 2: Blended PD Guide</a></strong>
+<p><strong>3. <a href="https://intranet.moe.gov.sg/academy/Pages/professional-development/files/Guide%20to%20Blended%20PD-2024.pdf" rel="noopener" target="\_blank">Guide to Effective PD Vol 2: Blended PD Guide</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
