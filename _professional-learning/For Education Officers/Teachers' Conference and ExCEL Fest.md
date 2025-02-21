@@ -5,10 +5,14 @@ description: ""
 third_nav_title: For Education Officers
 variant: markdown
 ---
-#### About TCEF
+#### About Teachers’ Conference and ExCEL Fest 2025
 
-Teachers’ Conference and ExCEL Fest (TCEF) is the apex conference for Singapore teachers to affirm and celebrate the spirit of professional learning amongst teachers. Held biennially since 2001, Teachers’ Conference and ExCEL Fest 2023 (TCEF2023) will be our first edition that takes a blended format.
 
-Over the years, the Teachers’ Conference has incorporated the MOE Innergy and Outstanding Innovation Awards Ceremony, the MOE ExCEL Fest, the Conference for the Co-Curriculum, and the International Conference on Teaching and Learning with Technology. TCEF2023 now brings the Arts Education Conference (AEC), the ELIS Conference (ELISC) and the Physical and Sports Education Conference (PSEC) together as one.
+![](/images/TCEF2025_Logo.png)
 
-The conference aims to bring local educators together to learn, to connect and to engage with thought leaders and practitioners, as we explore possibilities for the future of teaching and learning. The theme of TCEF2023 is ‘Ignite Imagination. Empower Communities. Transform Practice’. It reinforces our fraternity’s emphasis on lifelong learning and supports us to continually deepen our beliefs, better understand our students, and further strengthen our classroom practice to nurture future-ready learners.
+
+The Teachers’ Conference and ExCEL Fest 2025 (TCEF2025) is MOE’s biennial signature event, aimed at supporting teachers' professional learning and strengthening their professional identity.
+
+The conference will bring educators together to ignite innovative ideas through the sharing and learning as a community, empower Teacher Ownership, Teacher Leadership (TOTL) in professional learning, and facilitate the transformation of practices within the local educational landscape to enact positive impact.
+
+Themed 'Readying Our Students for the Future', TCEF2025 is set to take place from 3 to 5 June 2025. This year, participants may take part in selected conference features and access all asynchronous learning content from 6 May 2025.
