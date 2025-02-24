@@ -5,7 +5,6 @@ description: ""
 third_nav_title: For Education Officers
 variant: tiptap
 ---
-<h4>About Teachers’ Conference and ExCEL Fest 2025</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/TCEF_Logo_Original_20250207.png">
