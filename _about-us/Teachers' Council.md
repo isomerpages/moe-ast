@@ -89,7 +89,7 @@ identifying and adopting good practices.</p>
 <p>4.&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Poh Mun See&nbsp;</p>
+<p>Mrs Loke-Yeo Teck Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Executive Director&nbsp;</p>
@@ -145,13 +145,31 @@ identifying and adopting good practices.</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Rahmat Subadah</p>
+<p>Dr Zheng Yingjiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal Master Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Centre for Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="9" data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sarinajit Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Master Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Malay Language Centre</p>
+<p>Academy of Singapore Teachers</p>
 </td>
 </tr>
 </tbody>
@@ -176,14 +194,13 @@ identifying and adopting good practices.</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Su-Jim Benjamin&nbsp;</p>
+<p>Ms Nur Sabariah Bte Mohd Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Master Teacher&nbsp;</p>
+<p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Physical Education and Sports Teacher Academy&nbsp;(Punggol Secondary
-School)</p>
+<p>Yew Tee Primary School</p>
 </td>
 </tr>
 <tr>
@@ -191,13 +208,13 @@ School)</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Mui Khoong</p>
+<p>Ms Carol Ann Martin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principal&nbsp;</p>
+<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>South View Primary School</p>
+<p>Holy Innocents’ High School</p>
 </td>
 </tr>
 <tr>
@@ -205,13 +222,13 @@ School)</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Loong Chieh Yung&nbsp;</p>
+<p>Ms Nurul Ain Binte Ramli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal&nbsp;</p>
+<p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yishun Town Secondary School&nbsp;</p>
+<p>Broadrick Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -219,13 +236,13 @@ School)</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Ain Binte Ramli&nbsp;</p>
+<p>Ms Foo Sze Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department&nbsp;</p>
+<p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Broadrick Secondary School&nbsp;</p>
+<p>Waterway Primary School</p>
 </td>
 </tr>
 <tr>
@@ -233,13 +250,13 @@ School)</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yap Zhi Jun Vivienne&nbsp;</p>
+<p>Ms Yap Zhi Jun Vivienne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head&nbsp;</p>
+<p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Greenridge Primary School&nbsp;</p>
+<p>Greenridge Primary School</p>
 </td>
 </tr>
 <tr>
@@ -247,13 +264,13 @@ School)</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rachel Subramaniam</p>
+<p>Ms Chiang Suet Ling Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head&nbsp;</p>
+<p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rivervale Primary School</p>
+<p>Eunoia Junior College</p>
 </td>
 </tr>
 <tr>
@@ -261,13 +278,13 @@ School)</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Amalina Binte Jamaludin&nbsp;</p>
+<p>Ms Rachel Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head&nbsp;</p>
+<p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Woodlands Secondary School</p>
+<p>Rivervale Primary School</p>
 </td>
 </tr>
 <tr>
@@ -275,13 +292,13 @@ School)</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Wang Zhi&nbsp;</p>
+<p>Ms Nurul Amalina Binte Jamaludin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head&nbsp;</p>
+<p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jurong West Secondary School&nbsp;</p>
+<p>Woodlands Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -289,13 +306,13 @@ School)</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Uma Magheswary D/o Pandyan</p>
+<p>Mr Tan Eng Leong, Alan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head&nbsp;</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hougang Secondary School</p>
+<p>Anderson Primary School</p>
 </td>
 </tr>
 <tr>
@@ -303,38 +320,10 @@ School)</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Hui Ling, Mabel&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Victoria Junior College</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Eng Leong, Alan&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Anderson Primary School&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Andrew Mathias Lim You Shun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher&nbsp;</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Unity Secondary School</p>
@@ -342,16 +331,44 @@ School)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kamalavani D/O Palaiyan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Anderson Serangoon Junior College</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kalvinder Jeet Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bendemeer Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Archana D/o Rethenam Loganathan</p>
+<p>Mr Lim Mingxun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher&nbsp;</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keming Primary School</p>
+<p>Edgefield Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -359,24 +376,10 @@ School)</p>
 <p>14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Mingxun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Edgefield Secondary School&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Lim Yu Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher&nbsp;</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Springfield Secondary School</p>
@@ -384,13 +387,13 @@ School)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Seow Siang Kim Edgar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher&nbsp;</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CHIJ St Theresa’s Convent</p>
@@ -398,21 +401,7 @@ School)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Shu Ting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>East Spring Secondary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wee Wan Ying Susanna</p>
@@ -426,30 +415,44 @@ School)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Norasiken Binte Mohamed Noor</p>
+<p>Ms Zulaiha Bte Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Academy Officer</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Academy of Singapore Teachers&nbsp;(formerly from Haig Girls' School)</p>
+<p>Pasir Ris Secondary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr See Yong Xin</p>
+<p>Ms Low Ying Si, Eliza</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Curriculum Policy Officer</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Curriculum Policy Office (formerly from Guangyang Secondary School)</p>
+<p>Nan Hua Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Su Hui, Clara</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines Meridian Junior College</p>
 </td>
 </tr>
 </tbody>
