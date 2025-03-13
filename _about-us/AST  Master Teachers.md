@@ -2,7 +2,7 @@
 title: AST  Master Teachers
 permalink: /about-us/ast-master-teachers/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20MTT/mtt_ast_2023.jpg">
@@ -16,7 +16,11 @@ of the teaching fraternity, leading, mentoring and inspiring teachers to
 be caring, competent and passionate educators who live out the ethos of
 our teaching profession, to provide quality education for our students.</p>
 <h5>Subject Chapters in AST</h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -188,8 +192,8 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <p><strong>Mr Tham Chin Pang Joseph</strong>
 <br>Master Teacher/ History
 <br>Email: <a href="mailto:Tham_Chin_Pang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tham_Chin_Pang@moe.gov.sg</a>
-<br><br>
-	
+<br>
+<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:80px;height:109px;margin-left:15px;" height="auto" width="100%" src="/images/hist3.png">
@@ -229,7 +233,8 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <p><strong>Ms Chan Min Lie</strong>
 <br>Master Teacher / Primary Mathematics
 <br>Email: <a href="mailto:CHAN_Min_Lie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHAN_Min_Lie@schools.gov.sg</a>
-<br><br>
+<br>
+<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/math3.png">
@@ -363,9 +368,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <hr>
-<p>
-
-</p>
+<p></p>
 <h4>Science (Chemistry) Master Teachers</h4>
 <div class="isomer-image-wrapper">
 <img style="width:90px;height:100px;margin-left:15px;" height="auto" width="100%" src="/images/sci4.png">
@@ -426,7 +429,6 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>Email: <a href="mailto:lee_siew_lin@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_siew_lin@moe.gov.sg</a>
 </p>
 <p></p>
-
 <div class="isomer-image-wrapper">
 <img style="width:80px;height:100px;margin-left:15px;" height="auto" width="100%" src="/images/sci12.png">
 </div>
@@ -449,7 +451,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <img style="width:80px;height:125px;margin-left:15px;" height="auto" width="100%" src="/images/sci15.png">
 </div>
 <p><strong>Mdm Wong Mei Leng, Anne</strong>
-<br>Principal Master Teacher / Primary Science 
+<br>Principal Master Teacher / Primary Science
 <br>Email: <a href="mailto:anne_wong@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anne_wong@moe.gov.sg</a>
 </p>
 <p></p>
@@ -490,7 +492,8 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </div>
 <p><strong>Mdm Yong Song Ling</strong>
 <br>Master Teacher / Primary Science
-<br>Email: <a href="mailto:YONG_Song_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">YONG_Song_Ling@schools.gov.sg</a></p>
+<br>Email: <a href="mailto:YONG_Song_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">YONG_Song_Ling@schools.gov.sg</a>
+</p>
 <p></p>
 <hr>
 <h4>Character and Citizenship Education Master Teachers</h4>
@@ -535,7 +538,9 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>Master Teacher / Educational Support
 <br>Email: <a href="mailto:Tan_Cher_Chong@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Cher_Chong@moe.gov.sg</a>
 </p>
+<p>
 <br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width:80px;height:100px;margin-left:15px;" height="auto" width="100%" src="/images/KohSeokHwee.jpg">
 </div>
