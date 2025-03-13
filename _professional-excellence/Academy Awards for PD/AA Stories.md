@@ -19,8 +19,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards/Photo_3__Kuan_Hoe.jpg">
 </div>
-<p><a href="https://go.gov.sg/fellow2024daniel" rel="noopener nofollow" target="_blank">Mr </a>
-<a href="https://go.gov.sg/fellow2024kuanhoe" rel="noopener nofollow" target="_blank">Lai Kuan Hoe</a>
+<p><a href="https://go.gov.sg/fellow2024kuanhoe" rel="noopener nofollow" target="_blank">Mr Lai Kuan Hoe</a>
 <br><strong>Innova Primary School</strong>
 </p>
 <p></p>
