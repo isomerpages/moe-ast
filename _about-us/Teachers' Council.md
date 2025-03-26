@@ -27,7 +27,7 @@ professional excellence.</p>
 identifying and adopting good practices.</p>
 </li>
 </ul>
-<h3>Members of Teachers’ Council (2024):</h3>
+<h3>Members of Teachers’ Council (2025):</h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -191,7 +191,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Sabariah Bte Mohd Ibrahim</p>
@@ -205,7 +205,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Carol Ann Martin</p>
@@ -219,7 +219,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nurul Ain Binte Ramli</p>
@@ -233,7 +233,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Foo Sze Ling</p>
@@ -247,7 +247,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>5.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yap Zhi Jun Vivienne</p>
@@ -261,7 +261,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>6.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chiang Suet Ling Michelle</p>
@@ -275,21 +275,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Rachel Subramaniam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rivervale Primary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>7.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nurul Amalina Binte Jamaludin</p>
@@ -303,7 +289,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>8.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Eng Leong, Alan</p>
@@ -317,7 +303,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>9.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Andrew Mathias Lim You Shun</p>
@@ -331,7 +317,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>10.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kamalavani D/O Palaiyan</p>
@@ -345,7 +331,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>11.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kalvinder Jeet Kaur</p>
@@ -359,7 +345,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>12.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Mingxun</p>
@@ -373,21 +359,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Yu Jie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Springfield Secondary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>13.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Seow Siang Kim Edgar</p>
@@ -401,13 +373,13 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>14.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wee Wan Ying Susanna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hua Yi Secondary School</p>
@@ -415,7 +387,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>15.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Zulaiha Bte Osman</p>
@@ -429,7 +401,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>16.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Low Ying Si, Eliza</p>
@@ -443,7 +415,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>17.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Su Hui, Clara</p>
@@ -453,6 +425,37 @@ identifying and adopting good practices.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tampines Meridian Junior College</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rachel Subramaniam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Assistant</p>
+<p>(Schools Div -North)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Schools Division</p>
+<p>(Formerly at Rivervale Primary School)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Yu Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Head (SkillsFuture)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SkillsFuture Division, Higher Education Group</p>
+<p>(Formerly at Springfield Secondary School)</p>
 </td>
 </tr>
 </tbody>
