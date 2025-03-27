@@ -435,12 +435,10 @@ identifying and adopting good practices.</p>
 <p>Ms Rachel Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Special Assistant</p>
-<p>(Schools Div -North)</p>
+<p>Special Assistant (Schools Div -North)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Schools Division</p>
-<p>(Formerly at Rivervale Primary School)</p>
+<p>Schools Division (Formerly at Rivervale Primary School)</p>
 </td>
 </tr>
 <tr>
@@ -454,8 +452,8 @@ identifying and adopting good practices.</p>
 <p>Senior Head (SkillsFuture)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SkillsFuture Division, Higher Education Group</p>
-<p>(Formerly at Springfield Secondary School)</p>
+<p>SkillsFuture Division, Higher Education Group (Formerly at Springfield
+Secondary School)</p>
 </td>
 </tr>
 </tbody>
