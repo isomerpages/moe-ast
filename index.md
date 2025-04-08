@@ -14,6 +14,14 @@ sections:
       backgroundColor: gray
       title: Welcome to Academy of Singapore Teachers
   - infopic:
+      title: TCEF 2025
+      id: infopic
+      description: TCEF is back again! Open for registration.
+      button: TCEF2025 website
+      url: https://tcef2025.sg/
+      image: /images/Events/TCEF2025_launch.png
+      alt: Image alt text
+  - infopic:
       title: Celebrating Excellence and Fostering Connections
       id: infopic
       description: Featuring inspiring stories of recipients from the Academy Awards
@@ -30,15 +38,6 @@ sections:
       url: https://www.youtube.com/watch?v=xxOqM610n2g
       image: /images/thumbnail_v3.jpg
       alt: Image alt text
-  - infopic:
-      title: Fulbright Teacher Exchanges
-      subtitle: Spotlight
-      button: Read more
-      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/international-awards/da-in-teaching-program/
-      alt: FB2023
-      image: /images/SGFulbrighters2023.png
-      description: Explore the journeys and inquiry projects of the 2022 - 2023
-        Singapore Fulbrighters
   - resources:
       title: Stories
       button: More stories
