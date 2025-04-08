@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Humanities and CCE
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/SubChap/cce-chapter-2023.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCE_MTTs.jpg">
 </div>
 <h3>Objectives of the Character and Citizenship Education Chapter</h3>
 <p><strong>The Character &amp; Citizenship Education (CCE) Chapter aims to support the delivery of the CCE curriculum through</strong>
@@ -36,7 +37,7 @@ the classroom and expertise across the system. As drivers of pedagogical
 leadership, we act as a focal point for teachers to gather and learn from
 one another. Together we build our professional ethos and develop a culture
 of professional excellence and pride in the fraternity.</p>
-<p><strong>We organise various professional learning activities for you: </strong>
+<p><strong>We organise various professional learning activities for you:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -54,7 +55,12 @@ of professional excellence and pride in the fraternity.</p>
 </ul>
 <hr>
 <h3>Our Subject Chapter Core Team</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -99,6 +105,28 @@ of professional excellence and pride in the fraternity.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Miss Ng Suan Khee Judy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Master Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST/PXB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Charmaine Gan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Academy Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST/PXB</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <p><strong>North Zone</strong>
 </p>
@@ -112,40 +140,40 @@ of professional excellence and pride in the fraternity.</p>
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHIJ St Nicholas Girls’ School&nbsp;</p>
+<p>CHIJ St Nicholas Girls’ School (Primary)&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Shamsulbadariah</p>
+<p>Mdm Foo Hui Ming Ann</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maris Stella High School (Primary)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Paul Ng Boon Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Edgefield Primary School&nbsp;</p>
+<p>Catholic High School (Secondary)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Ng Suan Kee Judy</p>
+<p>Mdm Nuraida Binte Ajmaain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hougang Secondary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Aaron Rajoo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Northland Secondary School</p>
+<p>Northbrooks Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -162,40 +190,40 @@ of professional excellence and pride in the fraternity.</p>
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHIJ Our Lady of Good Counsel&nbsp;</p>
+<p>CHIJ Our Lady Of Good Counsel</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Eng Lee Na</p>
+<p>Miss Tan Mei Ting (Chen Meiting)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St. Joseph's Institution Junior</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Tze Ling, Tricia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Raffles Girls’ Primary School&nbsp;</p>
+<p>Mayflower Secondary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Mohana Ratnam</p>
+<p>Mdm Wong Kit Han Clara</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ACS (Barker Road)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Chye Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kent Ridge Secondary School</p>
+<p>CHIJ St. Theresa's Convent</p>
 </td>
 </tr>
 <tr>
@@ -217,35 +245,35 @@ of professional excellence and pride in the fraternity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Chin Corinna</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>St Anthony’s Canossian Primary School&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Salina bte Abdul Majid</p>
+<p>Mdm Huang Qizhen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Manjusri Secondary School</p>
+<p>Casuarina Primary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Mariam bte Hashim</p>
+<p>Mdm Cheng Wan Li</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pasir Ris Secondary School</p>
+<p>Bedok South Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Thangaraj Pradeepa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines Meridian Junior College</p>
 </td>
 </tr>
 <tr>
@@ -256,13 +284,13 @@ of professional excellence and pride in the fraternity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Samsia bte Sulaiman</p>
+<p>Miss Ong Ai Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>West Grove Primary School&nbsp;</p>
+<p>Greenridge Primary School</p>
 </td>
 </tr>
 <tr>
@@ -273,7 +301,7 @@ of professional excellence and pride in the fraternity.</p>
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yew Tee Primary School&nbsp;</p>
+<p>Yew Tee Primary School</p>
 </td>
 </tr>
 <tr>
@@ -289,30 +317,30 @@ of professional excellence and pride in the fraternity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Loh Mui Ching</p>
+<p>Mr Ahmad Luqman Bin Ghazali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nan Hua High School</p>
+<p>Westwood Secondary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>HQ (CPDD, ETD) and NIE</strong>
+<p><strong>HQ and NIE</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alena Ho</p>
+<p>Ms Lim Wei Zhen Marilyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Educational Technology Officer</p>
+<p>Senior Specialist (Character and Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ETD/LPET</p>
+<p>SDCD1/CCEB</p>
 </td>
 </tr>
 <tr>
@@ -320,10 +348,32 @@ of professional excellence and pride in the fraternity.</p>
 <p>Mdm Selvathi d/o Sambasivam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SADCCE(Pr) &amp; SS(CCE)</p>
+<p>Senior Specialist (Character and Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SDCD1/CCEB&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Hui Yi Cheryl</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Specialist (Character and Citizenship Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SDCD1/CCEB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Alena Ho Li Na</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Educational Technology Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ETD/LPET3</p>
 </td>
 </tr>
 <tr>
@@ -342,7 +392,18 @@ of professional excellence and pride in the fraternity.</p>
 <p>A/P Sim Boon Yee Jasmine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dy Head, Policy, Curriculum &amp; Leadership</p>
+<p>Head, Policy, Curriculum &amp; Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A/P Suzanne Choo Shen Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head, Research</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIE</p>
