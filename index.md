@@ -32,7 +32,7 @@ sections:
       alt: Group photo at AA ceremony
   - infopic:
       title: How does learning come alive?
-      subtitle: Spotlight
+      subtitle: Spotlight PAT2024 Recipients
       id: infopic
       button: READ MORE
       url: https://www.youtube.com/watch?v=xxOqM610n2g
