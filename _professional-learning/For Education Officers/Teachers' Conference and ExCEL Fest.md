@@ -21,3 +21,6 @@ positive impact.</p>
 place from 3 to 5 June 2025. This year, participants may take part in selected
 conference features and access all asynchronous learning content from 6
 May 2025.</p>
+<p>Visit <a href="https://tcef2025.sg/" rel="noopener noreferrer nofollow" target="_blank">https://tcef2025.sg/</a> to
+find out more about the conference. MOE staff can register for TCEF2025
+through the site.</p>

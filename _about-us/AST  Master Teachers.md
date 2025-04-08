@@ -512,7 +512,13 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>Master Teacher / Character and Citizenship Education
 <br>Email: <a href="mailto:Osman_Abdullah@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Osman_Abdullah@moe.gov.sg</a>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Judy_Ng.jpg">
+</div>
+<p><strong>Miss Judy Ng</strong>
+<br>Master Teacher / Character and Citizenship Education
+<br>Email: <a href="mailto:judy_ng@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Judy_Ng@moe.gov.sg</a>
+</p>
 <hr>
 <h4>Educational Support Master Teachers</h4>
 <div class="isomer-image-wrapper">
