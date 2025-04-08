@@ -16,8 +16,8 @@ sections:
   - infopic:
       title: Teachers' Conference and ExCEL Fest 2025
       id: infopic
-      description: TCEF is back again! Open for registration.
-      button: TCEF2025 website
+      description: TCEF is back and open for registration.
+      button: Proceed to TCEF2025 website
       url: https://tcef2025.sg/
       image: /images/Events/TCEF2025_launch.png
       alt: Image alt text
