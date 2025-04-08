@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Humanities and CCE
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/SubChap/cce-chapter-2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_MTTs.jpg">
 </div>
 <h3>Objectives of the Character and Citizenship Education Chapter</h3>
 <p><strong>The Character &amp; Citizenship Education (CCE) Chapter aims to support the delivery of the CCE curriculum through</strong>
@@ -36,7 +37,7 @@ the classroom and expertise across the system. As drivers of pedagogical
 leadership, we act as a focal point for teachers to gather and learn from
 one another. Together we build our professional ethos and develop a culture
 of professional excellence and pride in the fraternity.</p>
-<p><strong>We organise various professional learning activities for you: </strong>
+<p><strong>We organise various professional learning activities for you:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -54,7 +55,12 @@ of professional excellence and pride in the fraternity.</p>
 </ul>
 <hr>
 <h3>Our Subject Chapter Core Team</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -96,6 +102,28 @@ of professional excellence and pride in the fraternity.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;AST/PXB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Ng Suan Khee Judy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Master Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST/PXB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Charmaine Gan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Academy Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST/PXB</p>
 </td>
 </tr>
 <tr>
@@ -306,13 +334,13 @@ of professional excellence and pride in the fraternity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alena Ho</p>
+<p>Ms Lim Wei Zhen Marilyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Educational Technology Officer</p>
+<p>Senior Specialist (Character and Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ETD/LPET</p>
+<p>SDCD1/CCEB</p>
 </td>
 </tr>
 <tr>
