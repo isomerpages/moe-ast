@@ -534,7 +534,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>Email: <a href="mailto:YONG_Song_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">YONG_Song_Ling@schools.gov.sg</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/madeline_chang.png">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/madeline_chang.png">
 </div>
 <p><strong>Ms Madeline Chang</strong>
 <br>Master Teacher / Primary Science
