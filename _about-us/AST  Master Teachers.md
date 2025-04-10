@@ -201,7 +201,23 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <p><strong>Mr Yeo Tze Chiang Lloyd Luc</strong>
 <br>Master Teacher/ History
 <br>Email: <a href="mailto:Lloyd_Luc_Yeo@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lloyd_Luc_Yeo@moe.gov.sg</a>
-<br>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/ong_daphne_rachel.png">
+</div>
+<p>
+<br><strong>Ms Ong Daphne Rachel</strong>
+<br>Master Teacher/ History
+<br>Email: <a href="mailto:Daphne_Rachel_ONG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Daphne_Rachel_ONG@moe.gov.sg</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/candice_seet.png">
+</div>
+<p><strong>Ms Candice Seet</strong>
+<br>Master Teacher/ History
+<br>Email: <a href="mailto:Candice_SEET@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Candice_SEET@moe.gov.sg</a>
 </p>
 <hr>
 <h4>Social Studies Master Teachers</h4>
@@ -211,6 +227,14 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <p><strong>Mdm Premaletha Gopalakrishnan</strong>
 <br>Master Teacher / Social Studies
 <br>Email: <a href="mailto:Premaletha_Gopalakrishnan@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Premaletha_Gopalakrishnan@moe.gov.sg</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/renuka_thankak_krishnah.png">
+</div>
+<p><strong>Mrs Renuka Thankak Krishnah</strong>
+<br>Master Teacher / Social Studies
+<br>Email: <a href="mailto:renuka_magaendran@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Renuka_Magaendran@moe.gov.sg</a>
 </p>
 <hr>
 <h4>Economics Master Teachers</h4>
