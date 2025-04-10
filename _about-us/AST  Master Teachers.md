@@ -374,7 +374,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/nicole_ng.png">
+<img style="width: 10%;margin-left:15px;" height="auto" width="100%" alt="" src="/images/nicole_ng.png">
 </div>
 <p><strong>Dr Ng Lay Keow, Nicole</strong>
 <br>Master Teacher / Secondary Mathematics
