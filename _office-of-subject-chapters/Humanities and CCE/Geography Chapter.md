@@ -159,24 +159,13 @@ content knowledge and pedagogical content knowledge.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Shu-Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Junior College</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Chenyee</p>
+<p>Mdm Rosmiliah Bte Kasmin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Peirce Secondary School</p>
+<p>Gan Eng Seng School</p>
 </td>
 </tr>
 <tr>
@@ -187,13 +176,13 @@ content knowledge and pedagogical content knowledge.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Soh Lay Na</p>
+<p>Mdm Chee Siew Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chung Cheng High School (Main)</p>
+<p>St. Hilda's Sec School</p>
 </td>
 </tr>
 <tr>
@@ -226,13 +215,13 @@ content knowledge and pedagogical content knowledge.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Osman B Rahamat</p>
+<p>Ms Chin Ying Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jurong Pioneer Junior College</p>
+<p>Jurongville Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -254,24 +243,13 @@ content knowledge and pedagogical content knowledge.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Soo Jiunn Huat</p>
+<p>Ms Ng Wen Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Specialist</p>
+<p>Educational Technology Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ETD/TfL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Oh Ee-Laine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teaching Fellow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NIE/HSSE</p>
 </td>
 </tr>
 <tr>
@@ -290,6 +268,7 @@ content knowledge and pedagogical content knowledge.</p>
 <hr>
 <h3>Our Calendar of Events</h3>
 <p>Click here to access our calendar of events.</p>
+<h3>Other Useful Links</h3>
 <p>Click here should you wish to engage in professional discussions and try
 out innovative pedagogical practices by joining our networked learning
 communities</p>
