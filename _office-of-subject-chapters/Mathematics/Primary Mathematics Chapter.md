@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Mathematics
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/SubChap/primarymaths-chapter-2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Primary Math Master Teachers" src="/images/Primary_Math_MTTs.jpg">
 </div>
 <p>The Primary Mathematics Chapter champions quality learning in mathematics
 by building teacher capacity, encouraging pedagogical innovations and facilitating
@@ -31,7 +32,12 @@ and teaching of mathematics
 teaching of mathematics</p>
 <hr>
 <h3>Our Subject Chapter Core Team</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -132,13 +138,35 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ling Peng Yap</p>
+<p>Dr Lim Li Gek Pearlyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Academy Officer</p>
+<p>Master Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AST/PDB1</p>
+<p>AST/PXB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Shu Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Academy Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST/PDB2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Jocelyn Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Academy Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST/PS</p>
 </td>
 </tr>
 <tr>
@@ -160,13 +188,13 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Liuu Mee Ann Adriel</p>
+<p>Mdm Lee Wee San</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Endeavour Primary School</p>
+<p>Hougang Primary School</p>
 </td>
 </tr>
 <tr>
@@ -177,35 +205,24 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Arif Hong (Rashidah)</p>
+<p>Mdm Yap Jee Cheng, Jessie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHIJ (Kellock)</p>
+<p>Mayflower Primary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Low Yew Fai</p>
+<p>Mr Lim En-Rui, Joel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>New Town Primary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Lim Li Gek Pearlyn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>St. Margaret’s Primary School</p>
+<p>Fairfield Methodist School (Primary)</p>
 </td>
 </tr>
 <tr>
@@ -216,13 +233,24 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim Chwee Neo Pearl</p>
+<p>Ms Phyllis Toh Xin Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junyuan Primary School</p>
+<p>Tampines North Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chan Pui Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>East Spring Primary School</p>
 </td>
 </tr>
 <tr>
@@ -233,24 +261,24 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheum Foong Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Keming Primary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chua Gek Tiang</p>
+<p>Mdm Wong-Tan Ser Huay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yew Tee Primary School</p>
+<p>Henry Park Primary Schooll</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ho Siew Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nanyang Primary School</p>
 </td>
 </tr>
 <tr>
@@ -267,7 +295,7 @@ teaching of mathematics</p>
 <p>Lead Specialist, Mathematics 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CPDD1: Sciences Branch: Mathematics Unit</p>
+<p>CPDD1/Sciences Branch/Mathematics Unit</p>
 </td>
 </tr>
 <tr>
@@ -278,18 +306,18 @@ teaching of mathematics</p>
 <p>Senior Educational Technology Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ETD</p>
+<p>ETD/LPET3</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Yeo Kai Kow, Joseph</p>
+<p>Dr Dawn Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Lecturer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NIE: Mathematics &amp; Mathematics Education</p>
+<p>NIE/Mathematics &amp; Mathematics Education</p>
 </td>
 </tr>
 </tbody>
