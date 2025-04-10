@@ -50,7 +50,12 @@ content knowledge and pedagogical content knowledge.</p>
 </ul>
 <hr>
 <h3>Our Subject Chapter Core Team</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -284,7 +289,10 @@ content knowledge and pedagogical content knowledge.</p>
 </table>
 <hr>
 <h3>Our Calendar of Events</h3>
-<p>For more information about chapter events, click on this&nbsp;<a href="https://www.opal2.moe.edu.sg/csl/s/2e0784bf-0536-4cc3-abb1-b737dccc64f1/" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;to
-access the chapter’s OPAL page (for MOE teachers only). Alternatively,
-you may contact our Master Teachers to find out more!</p>
+<p>Click here to access our calendar of events.</p>
+<p>Click here should you wish to engage in professional discussions and try
+out innovative pedagogical practices by joining our networked learning
+communities</p>
+<p>Check out our one-stop Geography Chapter google site for teaching ideas
+and resources by clicking here.</p>
 <p></p>
