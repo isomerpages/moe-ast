@@ -533,7 +533,13 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>Master Teacher / Primary Science
 <br>Email: <a href="mailto:YONG_Song_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">YONG_Song_Ling@schools.gov.sg</a>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/madeline_chang.png">
+</div>
+<p><strong>Ms Madeline Chang</strong>
+<br>Master Teacher / Primary Science
+<br>Email: <a href="mailto:Madeline_Chang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Madeline_Chang@moe.gov.sg</a>
+</p>
 <hr>
 <h4>Character and Citizenship Education Master Teachers</h4>
 <div class="isomer-image-wrapper">
