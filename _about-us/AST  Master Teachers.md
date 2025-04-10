@@ -373,6 +373,14 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/nicole_ng.png">
+</div>
+<p><strong>Dr Ng Lay Keow, Nicole</strong>
+<br>Master Teacher / Secondary Mathematics
+<br>Email: <a href="mailto:Nicole_NG@moe.gov.sg" rel="noopener nofollow" target="_blank">Nicole_NG@moe.gov.sg</a>
+</p>
+<p></p>
 <hr>
 <h4>Science (Biology) Master Teachers</h4>
 <div class="isomer-image-wrapper">
