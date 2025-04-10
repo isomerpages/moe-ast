@@ -25,7 +25,12 @@ and facilitate research-informed practice, with the aim of supporting high
 ability learners in every school towards actualising their potential.</p>
 <hr>
 <h3>Our Subject Chapter Core Team</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -57,10 +62,10 @@ ability learners in every school towards actualising their potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cindy Wah</p>
+<p>Leena Priya Segaran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mentor Coach</p>
+<p>Academy Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AST/PXB</p>
@@ -74,13 +79,24 @@ ability learners in every school towards actualising their potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ravinder Mohan Sharma</p>
+<p>Mdm Teo Yen Yen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Edgefield Secondary School</p>
+<p>Anchor Green Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Khoo Xin Hui, Myra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Huamin Primary School</p>
 </td>
 </tr>
 <tr>
@@ -91,13 +107,13 @@ ability learners in every school towards actualising their potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Yoke Joo</p>
+<p>Mr Chen Liangcai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Anglo-Chinese School (Pri)</p>
+<p>National Junior College</p>
 </td>
 </tr>
 <tr>
@@ -130,13 +146,13 @@ ability learners in every school towards actualising their potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ngiam Tee Teng</p>
+<p>Mdm Arafah Binte Tajudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tao Nan School</p>
+<p>Telok Kurau Primary School (East Zone)</p>
 </td>
 </tr>
 <tr>
@@ -147,24 +163,24 @@ ability learners in every school towards actualising their potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chiew Sook Yee</p>
+<p>Mdm Ho Siew Gek Catherine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nanyang Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Phang Xiu Zhen Grace</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nan Hua Primary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Melissa Foo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pioneer Primary School</p>
+<p>Boon Lay Garden Primary School</p>
 </td>
 </tr>
 <tr>
@@ -197,13 +213,13 @@ ability learners in every school towards actualising their potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Yi Xun, Kendrick</p>
+<p>Ms Athena Choo Jia Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Educational Technology Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ETD/LPET</p>
+<p>ETD/LPET2</p>
 </td>
 </tr>
 <tr>
