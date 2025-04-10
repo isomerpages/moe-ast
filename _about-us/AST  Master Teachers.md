@@ -274,6 +274,14 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <p><strong>Mdm Loh Guat Bee</strong>
 <br>Master Teacher / Primary Mathematics
 <br>Email: <a href="mailto:Loh_Guat_Bee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Loh_Guat_Bee@moe.gov.sg</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/pearlyn_lim.png">
+</div>
+<p><strong>Dr Lim Li Gek Pearlyn</strong>
+<br>Master Teacher / Primary Mathematics
+<br>Email: <a href="mailto:pearlyn_lim@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Pearlyn_Lim@moe.gov.sg</a>
 <br>
 </p>
 <hr>
@@ -594,7 +602,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </div>
 <p><strong>Ms Quek Sr Ling</strong>
 <br>Master Teacher / Special Educational Needs
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">Quek_Sr_Ling@moe.gov.sg</a>
+<br>Email: <a href="mailto:quek_sr_ling@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Quek_Sr_Ling@moe.gov.sg</a>
 </p>
 <hr>
 <h4>High Ability Learners Master Teachers</h4>
