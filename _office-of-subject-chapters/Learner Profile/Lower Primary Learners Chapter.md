@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Learner Profile
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Simple_Black_and_Turquoise_Welcome_Instagram_Post.png">
+<img style="width: 100%" height="auto" width="100%" alt="Lower Primary Learners Master Teacher" src="/images/Lower_Primary_Learners_MTT.jpg">
 </div>
 <p>The Lower Primary Learners (LPL) Chapter champions quality learning in
 Primary 1 and Primary 2 by building teacher capacity, encouraging pedagogical
@@ -72,7 +73,12 @@ leadership in leading, guiding and inspiring lower primary learners.</p>
 </ul>
 <hr>
 <h3>Our Subject Chapter Core Team</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -87,17 +93,6 @@ leadership in leading, guiding and inspiring lower primary learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teh Wan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Master Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AST/PXB</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Karen Low Lai Fong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -109,7 +104,7 @@ leadership in leading, guiding and inspiring lower primary learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Norasiken Mohd Noor</p>
+<p>Sim Shan Ting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Academy Officer</p>
@@ -126,13 +121,24 @@ leadership in leading, guiding and inspiring lower primary learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Low Yin Siang</p>
+<p>Nashita Bte Mohamed Idris</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Edgefield Primary School&nbsp;</p>
+<p>Rivervale Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Joanna Kong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Riverside Primary School</p>
 </td>
 </tr>
 <tr>
@@ -171,35 +177,24 @@ leadership in leading, guiding and inspiring lower primary learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Chee Ang Catherine</p>
+<p>Noraini Bte Niat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sengkang Green Primary School&nbsp;</p>
+<p>Pasir Ris Primary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Naziathul Suhailah Ibrahim</p>
+<p>Hadlia Binte Jamil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>White Sands Primary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Noraini Niat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pasir Ris Primary School&nbsp;</p>
+<p>Junyuan Primary School</p>
 </td>
 </tr>
 <tr>
@@ -210,13 +205,13 @@ leadership in leading, guiding and inspiring lower primary learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Suraya Yacob</p>
+<p>Nor Erwiena Bte Winarno P</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Clementi Primary School</p>
+<p>Qifa Primary School</p>
 </td>
 </tr>
 <tr>
@@ -273,7 +268,7 @@ leadership in leading, guiding and inspiring lower primary learners.</p>
 </table>
 <hr>
 <h3>Our Calendar of Events</h3>
-<p>For more information about chapter events, click on this <strong><a href="https://go.gov.sg/lowerprimarylearners" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> </strong>to
+<p>For more information about chapter events, click on this <strong><a href="https://www.opal2.moe.edu.sg/csl/s/u-in-lower-primary-learners-lpl-chapter2/" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> </strong>to
 access the chapter’s OPAL page (<em>for MOE teachers only</em>). Alternatively,
 you may contact our Master Teachers to find out more!</p>
 <p></p>
