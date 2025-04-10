@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Mathematics
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/SubChap/secondarymaths-chapter-2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_Math_MTTs.jpg">
 </div>
 <p>The Secondary Mathematics Chapter champions quality learning in mathematics
 by building teacher capacity, encouraging pedagogical innovations and facilitating
@@ -19,44 +20,40 @@ and external partners, the Secondary Mathematics Chapter seeks to raise
 the professional standards in the learning and teaching of mathematics
 in Singapore.</p>
 <h3>Objectives of the Secondary Mathematics Chapter</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Deepen the pedagogical content knowledge of teachers for quality student
+learning through the subject</p>
+</li>
+<li>
+<p>Build a culture of teacher-led professionalism and pride in the subject
+fraternity</p>
+</li>
+<li>
+<p>Champion professional collaboration and networked learning among subject
+teachers</p>
+</li>
+</ul>
 <p>A key focus of the Secondary Mathematics Chapter is building teachers’
 capacity in pedagogical content knowledge and subject matter knowledge
 in the teaching and learning of Secondary Mathematics. As a catalyst for
 professional growth, it facilitates classroom research and helps teachers
 to make connections in the theory-practice nexus.</p>
-<p><strong>A special announcement:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>In promoting STEM education among our teachers, 49 team advisers were
-engaged in sustained professional learning to mentor their team of students
-for the International Mathematical Modelling Challenge (IM²C) 2021.&nbsp;</p>
-</li>
-<li>
-<p>Hwa Chong Institution has emerged as one of two top teams, out of 51 teams
-from 27 countries/regions, to be accorded the Outstanding Award in the
-international round of IM²C. This is the second consecutive win in IM²C
-for Singapore. Victoria School was accorded the Honorable Mention award.</p>
-</li>
-</ul>
-<p>Congratulations to Hwa Chong Institution and Victoria School for doing
-Singapore proud! More details can be found at <a href="https://www.immcsingapore.org/" rel="noopener noreferrer nofollow" target="_blank">https://www.immcsingapore.org/</a>
-</p>
-<p>You can access the video of the IMMC 2021 Virtual Award and Sharing Session
-<a href="https://app.wipster.io/Review/CQq-OAC154NjA8moiT64SQThjM48BnQvD_LbOOiCi28BdAVcgQ" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>
-</p>
 <p><strong>Mission:</strong>
 </p>
 <p>To build a teacher-led culture of professional excellence in the learning
 and teaching of mathematics</p>
-<p></p>
 <p><strong>Vision:</strong>
 </p>
 <p>A community of competent teacher leaders who inspire the learning and
 teaching of mathematics</p>
 <h3>Our Subject Chapter Core Team</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -168,6 +165,17 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Dr Ng Lay Keow, Nicole</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Master Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST/PXB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Jacey Lau</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -185,30 +193,36 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wee Meng Kiat</p>
+<p>Mr Loo Hup Tee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Greendale Secondary School</p>
+<p>Maris Stella High School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nicole Ng Lay Keow</p>
+<p>Mdm Tan-Phay Mei Eng Anna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Woodgrove Secondary School</p>
+<p>Catholic High School</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p><strong>South Zone</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -224,13 +238,13 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Bek Aik Chiang Alvin</p>
+<p>Miss Chua Siok Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Junior College&nbsp;</p>
+<p>National Junior College</p>
 </td>
 </tr>
 <tr>
@@ -241,24 +255,24 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Radha Devi D/O R. Oonnithan</p>
+<p>Mdm Huang Yaling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hai Sing Catholic School</p>
+<p>Changkat Changi Secondary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Wei Yin Selina</p>
+<p>Mr Yip Wai Kit Charles</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>St. Anthony’s Canossian Secondary School</p>
+<p>Tampines Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -280,13 +294,13 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sim Puay Hoon</p>
+<p>Mr Liu Sijian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nan Hua High School&nbsp;</p>
+<p>Bukit View Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -308,18 +322,18 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wang Kangcheng</p>
+<p>Ms Tan Kai Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Educational Technology Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;ETD/LPET</p>
+<p>&nbsp;ETD/TfL</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst. Prof Choy Ban Heng</p>
+<p>Asst. Prof Tay Eng Guan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Professor</p>

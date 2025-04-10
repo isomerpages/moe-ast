@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Humanities and CCE
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/SubChap/history-chapter-2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/History_MTTs.jpg">
 </div>
 <h3>Objectives of the History Chapter</h3>
 <p>The History Chapter provides a platform for the History fraternity to
@@ -55,7 +56,12 @@ practitioners</p>
 </ul>
 <hr>
 <h3>Our Subject Chapter Core Team</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -112,13 +118,35 @@ practitioners</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Arwinder Kaur&nbsp;&nbsp;</p>
+<p>Ms Candice Seet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Master Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST/PXB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Daphne Rachel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Master Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST/PXB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Stephanie Pan&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Academy Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AST/PDB2</p>
+<p>AST/PXB</p>
 </td>
 </tr>
 <tr>
@@ -129,13 +157,13 @@ practitioners</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Suan Swee Ashley</p>
+<p>Mrs Sasidharan Indra Devi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Christ Church Secondary School&nbsp;</p>
+<p>Northbrooks Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -168,13 +196,13 @@ practitioners</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Weng Cheong Alex</p>
+<p>Mr Chew Ee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Catholic Junior College&nbsp;</p>
+<p>St Andrews’ Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -185,24 +213,24 @@ practitioners</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Daphne Rachel Ong</p>
+<p>Mr Samuel Wee&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Broadrick Secondary School</p>
+<p>Bedok Green Secondary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Candice Yvette Seet Siew Yan</p>
+<p>Mr Chee Yao Rong Brendon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Loyang View Secondary School&nbsp;</p>
+<p>Temasek Junior College</p>
 </td>
 </tr>
 <tr>
@@ -213,24 +241,24 @@ practitioners</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Liang Meng Augustine</p>
+<p>Ms Yang Huilin&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jurong Pioneer Junior College&nbsp;</p>
+<p>River Valley High School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Natasha Teo-Wong Liru</p>
+<p>Ms Natasha Teo-Wong Li Ru</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hillgrove Secondary School&nbsp;</p>
+<p>Hillgrove Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -244,42 +272,55 @@ practitioners</p>
 <p>Dr Suhaimi Bin Mohamed Afandi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Lecturer</p>
+<p>Assistant Dean (GPL) and Senior Lecturer (HSSE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NIE/HSSE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Brandon Albert Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Education Technology Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ETD/LPET</p>
+<p>NIE</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Edward Tan Yu Fan</p>
+<p>Ms Valerie Keh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Curriculum Resource Development Officer</p>
+<p>Senior Specialist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CPDD2/Humanities Branch</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chong Yoke Khee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Director</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CPDD2/Humanities Branch</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jocelyn Oh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Educational Technology Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ETD/LPET6</p>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
 <h3>How to join us?</h3>
-<p>For more information about chapter events, click on this <strong><a href="https://www.opal2.moe.edu.sg/csl/s/76b96c35-73b6-47e1-a729-8d71895bc048/space/calendar" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> </strong>to
+<p>For more information about chapter events, click on this <a href="https://www.opal2.moe.edu.sg/csl/s/76b96c35-73b6-47e1-a729-8d71895bc048/space/calendar" rel="noopener noreferrer nofollow" target="_blank">link</a> to
 access the chapter’s OPAL page (<em>for MOE teachers only</em>). Alternatively,
 you may contact our Master Teachers to find out more!</p>
 <p>Join our Facebook social media page <a href="https://www.facebook.com/groups/365900394326375" rel="noopener noreferrer nofollow" target="_blank">here</a> for the
 latest updates.</p>
+<p>Join our Instagram <a href="https://www.instagram.com/history_subject_chapter_sg?igsh=MTlpaDlyNm1kM2w3cg==" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+the latest updates.</p>
 <p></p>
 <p></p>

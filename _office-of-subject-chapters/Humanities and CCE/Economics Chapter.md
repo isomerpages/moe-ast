@@ -68,7 +68,12 @@ in the teaching of Economics.</p>
 <p>The Economics Chapter is led by a Master Teacher who works closely with
 a core team that comprises representatives from CPDD, ETD and Teacher Leaders
 from all zones.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -120,24 +125,13 @@ from all zones.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Loh Xin Min</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Eunoia Junior College</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Kat Kar Hwee</p>
+<p>Mdm Lim Pow Choo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Anderson Serangoon Junior College</p>
+<p>Yishun Innova Junior College</p>
 </td>
 </tr>
 <tr>
@@ -148,10 +142,10 @@ from all zones.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Haniss B Ali</p>
+<p>Mdm Nurain Mohd Saad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nanyang Junior College</p>
@@ -159,13 +153,13 @@ from all zones.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Soong Yin-yin Sharon</p>
+<p>Mdm Lim Lai Har Karen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Catholic Junior College</p>
+<p>National Junior College</p>
 </td>
 </tr>
 <tr>
@@ -187,7 +181,7 @@ from all zones.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zeng Wenjie</p>
+<p>Ms Kat Kar Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
@@ -232,31 +226,24 @@ from all zones.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Aik Leong Basil</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Curriculum Resource Development Officer, Economics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CPDD2/Humanities&nbsp;</p>
-<p>
-<br>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Khai Ming Nicholas</p>
+<p>Mr Teo Jun Jie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Educational Technology Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;ETD</p>
-<p>
-<br>
-</p>
+<p>ETD/TfL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zeng Wenjie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Curriculum Planning Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CPDD2/Humanities Branch</p>
 </td>
 </tr>
 </tbody>

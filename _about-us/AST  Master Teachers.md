@@ -2,7 +2,7 @@
 title: AST  Master Teachers
 permalink: /about-us/ast-master-teachers/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20MTT/mtt_ast_2023.jpg">
@@ -371,6 +371,14 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>Master Teacher / Secondary Mathematics
 <br>Email: <a href="mailto:Sharon_Lee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sharon_Lee@moe.gov.sg</a>
 <br>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;margin-left:15px;" height="auto" width="100%" alt="" src="/images/nicole_ng.png">
+</div>
+<p><strong>Dr Ng Lay Keow, Nicole</strong>
+<br>Master Teacher / Secondary Mathematics
+<br>Email: <a href="mailto:Nicole_NG@moe.gov.sg" rel="noopener nofollow" target="_blank">Nicole_NG@moe.gov.sg</a>
 </p>
 <p></p>
 <hr>
