@@ -8,7 +8,7 @@ variant: tiptap
 <p></p>
 <h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Simple_Black_and_Turquoise_Welcome_Instagram_Post__5_.png">
+<img style="width: 100%" height="auto" width="100%" alt="SEN Master Teachers" src="/images/SEN_Chapter_MTTs.jpg">
 </div>
 <h3>Objectives of the Special Educational Needs Chapter</h3>
 <p>The Special Educational Needs (SEN) Chapter is a professional network
@@ -24,7 +24,12 @@ sector, the SEN Chapter promotes evidence-based pedagogical practice, with
 the aim of providing inclusive learning opportunities for all learners.</p>
 <hr>
 <h3>Our Subject Chapter Core Team</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -59,6 +64,17 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Quek Sr Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Master Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST/PXB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Rachel Teo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,24 +92,24 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Guan Chin, Alvin</p>
+<p>Tina Leong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hougang Pri School</p>
+<p>Evergreen Primary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>H’ng Hwee Shi, Joey</p>
+<p>Usha Krishnasamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Xishan Pri School</p>
+<p>North View Pri School</p>
 </td>
 </tr>
 <tr>
@@ -104,24 +120,24 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Cher Kiak, Christopher</p>
+<p>Elaine Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zhonghua Pri School</p>
+<p>Gan Eng Seng Pri School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Usha Surendran</p>
+<p>Alex Woo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Townsville Pri School</p>
+<p>Fairfield Methodist Sec School</p>
 </td>
 </tr>
 <tr>
@@ -132,24 +148,24 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Leow Wee Meng, Frankie</p>
+<p>Rachel Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bedok Green Sec School</p>
+<p>Poi Ching School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Siew Hoon</p>
+<p>Lee Mi Liang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fern Green Pri School</p>
+<p>Angsana Pri School</p>
 </td>
 </tr>
 <tr>
@@ -160,24 +176,24 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hedzlyn Hezwany</p>
+<p>Teo Foong Min Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Crest Sec School</p>
+<p>West Spring Pri School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nooraisha Bte Mohamad</p>
+<p>Syed Imran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pioneer Pri School</p>
+<p>Dazhong Pri School</p>
 </td>
 </tr>
 <tr>
@@ -199,10 +215,10 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cheryl Ng</p>
+<p>Clare Yip</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Director</p>
+<p>Senior Educational Psychologist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SEND/Psychological Services Branch&nbsp;</p>
@@ -223,7 +239,7 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </table>
 <hr>
 <h3>Our Calendar of Events</h3>
-<p>For more information about chapter events, click on this <strong><a href="https://www.opal2.moe.edu.sg/csl/s/psb-senpd/wiki/page/view?title=SEN+PD+for+Teachers%3A+Workshops+%26+Webinars+by+AST+SEN+Chapter" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> </strong>to
+<p>For more information about chapter events, click on this <strong><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=387924" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> </strong>to
 access the chapter’s OPAL page (<em>for MOE teachers only</em>). Alternatively,
-you may contact the Master Teacher to find out more!</p>
+you may contact the Master Teachers to find out more!</p>
 <p></p>
