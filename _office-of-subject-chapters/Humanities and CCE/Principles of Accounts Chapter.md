@@ -71,7 +71,7 @@ leadership.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Don Liew Ping An</p>
+<p>Ms Tang Yu Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Academy Officer</p>
@@ -99,13 +99,13 @@ leadership.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Zhi Li</p>
+<p>Mr Kenneth Yeo Wei Qiang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Serangoon Secondary School&nbsp;</p>
+<p>Pei Hwa Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -116,24 +116,24 @@ leadership.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Loh Hwee Hwa</p>
+<p>Mr Tuang Fook Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Peirce Secondary School&nbsp;</p>
+<p>St. Gabriel's Secondary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tengku Rashida Bte T Salleh</p>
+<p>Mr Teo Wen Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guangyang Secondary School</p>
+<p>CHIJ Secondary (Toa Payoh)</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +147,7 @@ leadership.</p>
 <p>Ms Aileen Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Changkat Changi Secondary School</p>
@@ -172,13 +172,13 @@ leadership.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chan Hwei Hwei Juliet</p>
+<p>Mr Ng Boon Teck</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>West Spring Secondary School&nbsp;</p>
+<p>Jurongville Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -211,13 +211,13 @@ leadership.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jamie Chua</p>
+<p>Ms Teo Wei Ting Eunice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Educational Technology Officer</p>
+<p>Educational Technology Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ETD/LPET&nbsp;</p>
+<p>ETO/LPET2</p>
 </td>
 </tr>
 </tbody>

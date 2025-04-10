@@ -50,7 +50,12 @@ content knowledge and pedagogical content knowledge.</p>
 </ul>
 <hr>
 <h3>Our Subject Chapter Core Team</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -154,24 +159,13 @@ content knowledge and pedagogical content knowledge.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Shu-Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Junior College</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Chenyee</p>
+<p>Mdm Rosmiliah Bte Kasmin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Peirce Secondary School</p>
+<p>Gan Eng Seng School</p>
 </td>
 </tr>
 <tr>
@@ -182,13 +176,13 @@ content knowledge and pedagogical content knowledge.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Soh Lay Na</p>
+<p>Mdm Chee Siew Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chung Cheng High School (Main)</p>
+<p>St. Hilda's Sec School</p>
 </td>
 </tr>
 <tr>
@@ -221,13 +215,13 @@ content knowledge and pedagogical content knowledge.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Osman B Rahamat</p>
+<p>Ms Chin Ying Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jurong Pioneer Junior College</p>
+<p>Jurongville Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -249,24 +243,13 @@ content knowledge and pedagogical content knowledge.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Soo Jiunn Huat</p>
+<p>Ms Ng Wen Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Specialist</p>
+<p>Educational Technology Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ETD/TfL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Oh Ee-Laine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teaching Fellow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NIE/HSSE</p>
 </td>
 </tr>
 <tr>
@@ -284,7 +267,12 @@ content knowledge and pedagogical content knowledge.</p>
 </table>
 <hr>
 <h3>Our Calendar of Events</h3>
-<p>For more information about chapter events, click on this&nbsp;<a href="https://www.opal2.moe.edu.sg/csl/s/2e0784bf-0536-4cc3-abb1-b737dccc64f1/" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;to
-access the chapter’s OPAL page (for MOE teachers only). Alternatively,
-you may contact our Master Teachers to find out more!</p>
+<p>Click <a href="https://bit.ly/m/Geography-Resources" rel="noopener nofollow" target="_blank">here</a> to
+access our calendar of events.</p>
+<h3>Other Useful Links</h3>
+<p>Click <a href="https://go.gov.sg/2025geognlcs" rel="noopener nofollow" target="_blank">here</a> should
+you wish to engage in professional discussions and try out innovative pedagogical
+practices by joining our networked learning communities</p>
+<p>Check out our one-stop Geography Chapter google site for teaching ideas
+and resources by clicking <a href="https://sites.google.com/moe.edu.sg/ast-geog-chapter-2025/home" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>

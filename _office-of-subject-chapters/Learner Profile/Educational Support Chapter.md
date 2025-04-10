@@ -95,21 +95,10 @@ Knowledge (PCK) pertaining to motivation and engagement in learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Mei Tay Mui Fong</p>
+<p>Ms Julinda Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mentor Coach</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AST/PXB</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Deepa Nanwani Singh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Academy Officer</p>
+<p>Academy Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AST/PDB1</p>
@@ -123,24 +112,24 @@ Knowledge (PCK) pertaining to motivation and engagement in learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lai Kuan Hoe Leslie</p>
+<p>Mdm Soh Seok Khim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lnnova Primary School</p>
+<p>Fernvale Primary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Ling Yuan</p>
+<p>Mr Ghazali B Md Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Edgefield Primary School</p>
+<p>Springdale Primary School</p>
 </td>
 </tr>
 <tr>
@@ -151,24 +140,24 @@ Knowledge (PCK) pertaining to motivation and engagement in learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Xu Yue Min Michelle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ang Mo Kio Primary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Beng Kim</p>
+<p>Mr Chong Eng-Tat Jerome Gerard</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zhonghua Primary School</p>
+<p>Cantonment Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Koh Ching Hwee Sharon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St Andrew's Junior College</p>
 </td>
 </tr>
 <tr>
@@ -179,13 +168,24 @@ Knowledge (PCK) pertaining to motivation and engagement in learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan Lay Chiat Agnes</p>
+<p>Mr Sulaiman Bin Zainal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Canossa Catholic Primary School</p>
+<p>Dunman Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Lim Mei Yin Diane</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bedok Green Primary School</p>
 </td>
 </tr>
 <tr>
@@ -196,24 +196,24 @@ Knowledge (PCK) pertaining to motivation and engagement in learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Syam Lal s/o Sadanandan</p>
+<p>Miss Tengku Merduati Bte Tengku M</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bukit Batok Secondary School</p>
+<p>Chua Chu Kang Secondary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Suneeta Kaur</p>
+<p>Mdm Rohaila Bte Sanusi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>West Grove Primary School</p>
+<p>Unity Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -224,7 +224,18 @@ Knowledge (PCK) pertaining to motivation and engagement in learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hor I Wei</p>
+<p>Ms Ker Hui Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Educational Technology Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ETD/LPET</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Yulianty Wibawa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Guidance Officer</p>
@@ -235,10 +246,10 @@ Knowledge (PCK) pertaining to motivation and engagement in learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Han Wee</p>
+<p>Mr Chua Han Wee Gabriel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Educational Support Officer</p>
+<p>Uplift Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SD/UESB</p>
@@ -246,21 +257,21 @@ Knowledge (PCK) pertaining to motivation and engagement in learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jean Phua</p>
+<p>Dr Tan Aik Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Specialist</p>
+<p>Research Fellow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ETD/LPET</p>
+<p>NIE/SoLEC</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Carol Tan Sao Ching</p>
+<p>Dr Carol Tan Soo Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lecturer</p>
+<p>Senior Lecturer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIE/PCHD</p>
@@ -270,6 +281,7 @@ Knowledge (PCK) pertaining to motivation and engagement in learning.</p>
 </table>
 <hr>
 <h3>Our Calendar of Events</h3>
-<p>For more information about chapter events, click on this <a href="https://www.opal2.moe.edu.sg/csl/s/b5b026f3-00f9-47f6-948c-3696cdff262b/home" rel="noopener noreferrer nofollow" target="_blank">link</a> to
-access the chapter’s OPAL page (for MOE teachers only). Alternatively,
-you may contact our Master Teachers to find out more!</p>
+<p>Click on this <a href="https://drive.google.com/drive/folders/1d8KhdYLbPHXEQFnHfezqJ77wsXg0IVBD?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">link</a> to
+find out more about workshops organised by the Educational Support Chapter.</p>
+<p>Click on this <a href="https://www.opal2.moe.edu.sg/csl/s/b5b026f3-00f9-47f6-948c-3696cdff262b/home" rel="noopener noreferrer nofollow" target="_blank">link</a> to
+access the chapter’s OPAL page.</p>

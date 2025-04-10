@@ -201,7 +201,23 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <p><strong>Mr Yeo Tze Chiang Lloyd Luc</strong>
 <br>Master Teacher/ History
 <br>Email: <a href="mailto:Lloyd_Luc_Yeo@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lloyd_Luc_Yeo@moe.gov.sg</a>
-<br>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/ong_daphne_rachel.png">
+</div>
+<p>
+<br><strong>Ms Ong Daphne Rachel</strong>
+<br>Master Teacher/ History
+<br>Email: <a href="mailto:Daphne_Rachel_ONG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Daphne_Rachel_ONG@moe.gov.sg</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/candice_seet.png">
+</div>
+<p><strong>Ms Candice Seet</strong>
+<br>Master Teacher/ History
+<br>Email: <a href="mailto:Candice_SEET@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Candice_SEET@moe.gov.sg</a>
 </p>
 <hr>
 <h4>Social Studies Master Teachers</h4>
@@ -211,6 +227,14 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <p><strong>Mdm Premaletha Gopalakrishnan</strong>
 <br>Master Teacher / Social Studies
 <br>Email: <a href="mailto:Premaletha_Gopalakrishnan@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Premaletha_Gopalakrishnan@moe.gov.sg</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/renuka_thankak_krishnah.png">
+</div>
+<p><strong>Mrs Renuka Thankak Krishnah</strong>
+<br>Master Teacher / Social Studies
+<br>Email: <a href="mailto:renuka_magaendran@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Renuka_Magaendran@moe.gov.sg</a>
 </p>
 <hr>
 <h4>Economics Master Teachers</h4>
@@ -251,6 +275,13 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>Master Teacher / Primary Mathematics
 <br>Email: <a href="mailto:Theresa_Heng@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Theresa_Heng@moe.gov.sg</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/math5.png">
+</div>
+<p><strong>Ms Teh Wan</strong>
+<br>Master Teacher / Lower Primary Learners
+<br>Email: <a href="mailto:Teh_Wan@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teh_Wan@moe.gov.sg</a>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/pxb-changsuohuib825d0ad8ec447f6a35273e332cb7ac6.jpg">
@@ -267,6 +298,14 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <p><strong>Mdm Loh Guat Bee</strong>
 <br>Master Teacher / Primary Mathematics
 <br>Email: <a href="mailto:Loh_Guat_Bee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Loh_Guat_Bee@moe.gov.sg</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/pearlyn_lim.png">
+</div>
+<p><strong>Dr Lim Li Gek Pearlyn</strong>
+<br>Master Teacher / Primary Mathematics
+<br>Email: <a href="mailto:pearlyn_lim@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Pearlyn_Lim@moe.gov.sg</a>
 <br>
 </p>
 <hr>
@@ -582,7 +621,13 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>Master Teacher / Special Educational Needs
 <br>Email: <a href="mailto:Sarinajit_Kaur@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sarinajit_Kaur@moe.gov.sg</a>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/quek_sr_ling.png">
+</div>
+<p><strong>Ms Quek Sr Ling</strong>
+<br>Master Teacher / Special Educational Needs
+<br>Email: <a href="mailto:quek_sr_ling@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Quek_Sr_Ling@moe.gov.sg</a>
+</p>
 <hr>
 <h4>High Ability Learners Master Teachers</h4>
 <div class="isomer-image-wrapper">

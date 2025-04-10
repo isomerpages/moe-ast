@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Humanities and CCE
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/SubChap/socialstudies-chapter-2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AST_SS_subj_chapter_website_pic_2025.jpg">
 </div>
 <h3>Objectives of the Social Studies Chapter</h3>
 <p>The Social Studies Chapter provides teachers with learning opportunities
@@ -38,7 +39,12 @@ and helps teachers stay current and connected with the fraternity.</p>
 <hr>
 <h3>Our Subject Chapter Core Team</h3>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -73,7 +79,18 @@ and helps teachers stay current and connected with the fraternity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jason Seng Yang Sun</p>
+<p>Mrs Renuka Thankak Krishnah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Master Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST/PXB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Amos Kow</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Academy Officer</p>
@@ -90,41 +107,30 @@ and helps teachers stay current and connected with the fraternity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Xiu Yan</p>
+<p>Mdm Ng-Lo Weng Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maris Stella High School (Sec)</p>
+<p>Orchid Park Secondary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Aishah Bte Ibrahim</p>
+<p>Ms Lin Airong Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Greendale Secondary School</p>
+<p>Pei Hwa Secondary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
 <p><strong>South Zone</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Renuka d/o Magaendran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Holy Innocents' High School</p>
 </td>
 </tr>
 <tr>
@@ -139,6 +145,17 @@ and helps teachers stay current and connected with the fraternity.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Esther Leong Pooi Pooi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St. Margaret's Secondary School</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <p><strong>East Zone</strong>
 </p>
@@ -146,13 +163,13 @@ and helps teachers stay current and connected with the fraternity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hairunisa Hosnin</p>
+<p>Mdm Leung Wai Ching Juliane</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pasir Ris Secondary School</p>
+<p>Hai Sing Catholic School</p>
 </td>
 </tr>
 <tr>
@@ -160,7 +177,7 @@ and helps teachers stay current and connected with the fraternity.</p>
 <p>Ms Noriff Elyn Mohd Ariffin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Anglican High School</p>
@@ -174,24 +191,24 @@ and helps teachers stay current and connected with the fraternity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Adlin Ratini Binte Anwar</p>
+<p>Mdm Chan Gek Chu Vena</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hua Yi Secondary School</p>
+<p>Chua Chu Kang Secondary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rashidah Bte Kassim</p>
+<p>Mdm Sutinah Bte Suid</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Clementi Town Secondary School</p>
+<p>New Town Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -214,10 +231,10 @@ and helps teachers stay current and connected with the fraternity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sin Yueh Taur, Anita</p>
+<p>Ms Lim Yan Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Curriculum Planning Officer, Social Studies (Sec)</p>
+<p>Curriculum Resource Development Officer, Social Studies (Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CPDD2/Humanities Branch</p>
@@ -225,13 +242,13 @@ and helps teachers stay current and connected with the fraternity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Jill-lynn Gwen</p>
+<p>Mr Gordon Shiau</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Educational Technology Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ETD/LPET</p>
+<p>ETD/LPET2</p>
 </td>
 </tr>
 </tbody>
