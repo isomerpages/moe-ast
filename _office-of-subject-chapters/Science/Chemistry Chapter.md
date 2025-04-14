@@ -101,10 +101,12 @@ BTs, ST-LT Network Learning, etc.</p>
 </div>
 <hr>
 <h3>Our Subject Chapter Core Team</h3>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/cc11.png">
-</div>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -183,13 +185,13 @@ BTs, ST-LT Network Learning, etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Bing Qin</p>
+<p>Ms Shree Kumar Arita</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Academy Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AST / PDB1</p>
+<p>AST / PXB</p>
 </td>
 </tr>
 <tr>
@@ -211,13 +213,13 @@ BTs, ST-LT Network Learning, etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Kwok Honey</p>
+<p>Ms Lee Ruo-Ning</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Seng Kang Secondary School</p>
+<p>CHIJ St.Nicholas Girls' School (Secondary)</p>
 </td>
 </tr>
 <tr>
@@ -228,24 +230,24 @@ BTs, ST-LT Network Learning, etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chia Chee Weng</p>
+<p>Mr Tan Weiliang Jansen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Serangoon Garden Secondary School</p>
+<p>Gan Eng Seng School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Tay Siew Peng</p>
+<p>Ms Leong Jia Hui Grace</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ang Mo Kio Secondary School</p>
+<p>St. Andrew's Junior College</p>
 </td>
 </tr>
 <tr>
@@ -256,13 +258,13 @@ BTs, ST-LT Network Learning, etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Shu-Hui, Audrey</p>
+<p>Lim Sue Yee Tracy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Anglican High School</p>
+<p>Temasek Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -323,31 +325,34 @@ BTs, ST-LT Network Learning, etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jee Wan Yi Stephanie</p>
+<p>Ms Teo Qin Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Specialist, Chemistry</p>
+<p>Assistant Director</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CPDD1 / Sciences Branch (Science Unit)</p>
+<p>CPDD1 / Sciences Branch</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Teoh Tick Meng</p>
+<p>Corrina Teo Wei Qin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Educational Technology Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ETD / LPET Branch</p>
+<p>ETD / LPET3</p>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
 <h3>Our Calendar of Events</h3>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="2" colspan="1">
