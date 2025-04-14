@@ -75,7 +75,12 @@ capability of teachers in the learning and teaching of Biology.
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/2023coreteam-png.jpg">
 </div>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -177,24 +182,24 @@ capability of teachers in the learning and teaching of Biology.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Bing Fu</p>
+<p>Mdm Lui Yan Ling Esther</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Peirce Secondary School</p>
+<p>Bukit Merah Secondary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Poh Wei Leong</p>
+<p>Mr Ng Bing Fu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Raffles Institution</p>
+<p>Peirce Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -233,13 +238,13 @@ capability of teachers in the learning and teaching of Biology.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Jun Keong Owen</p>
+<p>Mr Jason Seow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fuhua Secondary School</p>
+<p>Swiss Cottage Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -267,18 +272,29 @@ capability of teachers in the learning and teaching of Biology.
 <p>Lead Specialist, Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CPDD1/Sciences</p>
+<p>CPDD1/Science Branch</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Reef Koh</p>
+<p>Ms Rystine Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Educational Technology Officer</p>
+<p>Educational Technology Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ETD/LPET</p>
+<p>ETD/TfL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ang Xiu Qin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Educational Technology Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ETD/TfL</p>
 </td>
 </tr>
 <tr>
