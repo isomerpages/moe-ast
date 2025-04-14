@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Science
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/SubChap/primary-science-subject-chapter-2023-2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Primary_Science_MTTs.jpg">
 </div>
 <h3>Objectives of the Primary Science Chapter</h3>
 <p>The key objective of the Primary Science Chapter is to deepen primary
@@ -37,7 +38,7 @@ professional knowledge and improve their practice. The workshops run by
 Master Teachers adopt a 5C approach whereby participants are guided into
 translating what they learnt in the workshop in their classroom practice.
 <br>
-<br><strong>We organise various professional learning activities for you:</strong> 
+<br><strong>We organise various professional learning activities for you:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -58,7 +59,12 @@ translating what they learnt in the workshop in their classroom practice.
 </ul>
 <hr>
 <h3>Our Subject Chapter Core Team</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -126,13 +132,13 @@ translating what they learnt in the workshop in their classroom practice.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Michael Long Tian Heng</p>
+<p>Ms Madeline Chang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Master Teacher (School)</p>
+<p>Master Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fernvale Primary School</p>
+<p>AST/PXB</p>
 </td>
 </tr>
 <tr>
@@ -144,17 +150,6 @@ translating what they learnt in the workshop in their classroom practice.
 </td>
 <td rowspan="1" colspan="1">
 <p>Bukit View Primary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Shree Kumar Arita</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Academy Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AST/PXB</p>
 </td>
 </tr>
 <tr>
@@ -176,6 +171,17 @@ translating what they learnt in the workshop in their classroom practice.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Chia Peng Lin Kelvin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Palm View Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Oh Mei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -186,17 +192,6 @@ translating what they learnt in the workshop in their classroom practice.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ms Serene Han</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Montfort Junior School</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="3">
 <p><strong>South Zone</strong>
 </p>
@@ -204,24 +199,24 @@ translating what they learnt in the workshop in their classroom practice.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Ying Fong</p>
+<p>Ms Soh Xinyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Holy Innocents’ Primary School</p>
+<p>Fairfield Methodist School (Primary)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Chen-Tan Soon Shan</p>
+<p>Ms Peh Sway Gek Christina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Queenstown Primary School</p>
+<p>Ai Tong School</p>
 </td>
 </tr>
 <tr>
@@ -232,13 +227,13 @@ translating what they learnt in the workshop in their classroom practice.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Raeburn Sim</p>
+<p>Mdm Yeo Peck Hoon Anastacia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Waterway Primary School</p>
+<p>Elias Park Primary School</p>
 </td>
 </tr>
 <tr>
@@ -260,24 +255,24 @@ translating what they learnt in the workshop in their classroom practice.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Siew Ping, Hazel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fuhua Primary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wee-Qi-Rong Ronald</p>
+<p>Ms Xu Huimin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>De La Salle School</p>
+<p>Princess Elizabeth Primary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Ying Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fuhua Primary School</p>
 </td>
 </tr>
 <tr>
@@ -288,10 +283,10 @@ translating what they learnt in the workshop in their classroom practice.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurhida Binte Sapiie</p>
+<p>Mr Wu Zongbing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Curriculum Planning Officer</p>
+<p>Senior Curriculum Resource Development Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CPDD1: Sciences Branch: Science Unit</p>
@@ -310,13 +305,13 @@ translating what they learnt in the workshop in their classroom practice.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assoc Prof Lee Yew Jin</p>
+<p>A/P Jina Chang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Associate Professor</p>
+<p>Assistant Professor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NIE: Natural Sciences &amp; Science Education</p>
+<p>NIE: Natural Sciences &amp; Science Education (NSSE)</p>
 </td>
 </tr>
 </tbody>
