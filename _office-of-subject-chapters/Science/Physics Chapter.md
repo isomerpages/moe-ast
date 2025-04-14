@@ -51,7 +51,12 @@ with Physics or a Physics-related STEM course in higher education institutes.
 </ul>
 <hr>
 <h3>Our Subject Chapter Core Team</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -81,7 +86,7 @@ with Physics or a Physics-related STEM course in higher education institutes.
 <p>Master Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AST</p>
+<p>AST/PXB</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +97,7 @@ with Physics or a Physics-related STEM course in higher education institutes.
 <p>Master Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AST</p>
+<p>AST/PXB</p>
 </td>
 </tr>
 <tr>
@@ -103,7 +108,7 @@ with Physics or a Physics-related STEM course in higher education institutes.
 <p>Master Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AST</p>
+<p>AST/PXB</p>
 </td>
 </tr>
 <tr>
@@ -114,18 +119,18 @@ with Physics or a Physics-related STEM course in higher education institutes.
 <p>Master Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AST</p>
+<p>AST/PXB</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Andy Yeo</p>
+<p>Mr Marcus Huang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Academy Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AST</p>
+<p>AST/PDB1</p>
 </td>
 </tr>
 <tr>
@@ -136,24 +141,24 @@ with Physics or a Physics-related STEM course in higher education institutes.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Latifah Binte Noorahman</p>
+<p>Mr Low Swee Hian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ahmad Ibrahim Secondary School</p>
+<p>Christ Church Secondary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Khoon Siong</p>
+<p>Miss Chua Yi Wen Rebecca</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admiralty Secondary School</p>
+<p>Bowen Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -164,35 +169,24 @@ with Physics or a Physics-related STEM course in higher education institutes.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tay Su Lynn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Catholic Junior College</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Soh Wei Yong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Presbyterian High School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Chang Jee Yen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Holy Innocents' High School</p>
+<p>Holy Innocents’ High School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Tzi Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bukit Merah Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -203,13 +197,13 @@ with Physics or a Physics-related STEM course in higher education institutes.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Chee Kiang</p>
+<p>Mr Tan Seng Kwang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Victoria School</p>
+<p>Temasek Junior College</p>
 </td>
 </tr>
 <tr>
@@ -242,13 +236,13 @@ with Physics or a Physics-related STEM course in higher education institutes.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Syed Ali Bin Mohamed Alhabshee</p>
+<p>Mr Lee Zshen Chou</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Westwood Secondary School</p>
+<p>Hwa Chong Institution</p>
 </td>
 </tr>
 <tr>
@@ -284,13 +278,13 @@ with Physics or a Physics-related STEM course in higher education institutes.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Jin Yi</p>
+<p>Mr Vincent Chung</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Educational Technology Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ETD/LPET</p>
+<p>ETD/LPET2</p>
 </td>
 </tr>
 </tbody>
