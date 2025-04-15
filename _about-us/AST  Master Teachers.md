@@ -204,7 +204,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/rachel_ong.jpg">
+<img style="width:80px;margin-left:15px;" height="auto" width="100%" alt="" src="/images/rachel_ong.jpg">
 </div>
 <p>
 <br><strong>Ms Ong Daphne Rachel</strong>
@@ -213,7 +213,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/candice_seet.jpg">
+<img style="width:80px;margin-left:15px;" height="auto" width="100%" alt="" src="/images/candice_seet.jpg">
 </div>
 <p><strong>Ms Candice Seet</strong>
 <br>Master Teacher/ History
@@ -230,7 +230,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/renuka.jpg">
+<img style="width:80px;margin-left:15px;" height="auto" width="100%" alt="" src="/images/renuka.jpg">
 </div>
 <p><strong>Mrs Renuka Thankak Krishnah</strong>
 <br>Master Teacher / Social Studies
@@ -294,7 +294,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/pearlyn_lim.jpg">
+<img style="width:80px;margin-left:15px;" height="auto" width="100%" alt="" src="/images/pearlyn_lim.jpg">
 </div>
 <p><strong>Dr Lim Li Gek Pearlyn</strong>
 <br>Master Teacher / Primary Mathematics
@@ -374,7 +374,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/nicole_ng.jpg">
+<img style="width:80px;margin-left:15px;" height="auto" width="100%" alt="" src="/images/nicole_ng.jpg">
 </div>
 <p><strong>Dr Ng Lay Keow, Nicole</strong>
 <br>Master Teacher / Secondary Mathematics
@@ -536,7 +536,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/madeline_chang.jpg">
+<img style="width:80px;margin-left:15px;" height="auto" width="100%" alt="" src="/images/madeline_chang.jpg">
 </div>
 <p><strong>Ms Madeline Chang</strong>
 <br>Master Teacher / Primary Science
@@ -545,7 +545,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <hr>
 <h4>Character and Citizenship Education Master Teachers</h4>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:97px;margin-left:15px;" height="auto" width="100%" src="/images/cce1.png">
+<img style="width:80px;margin-left:15px;" height="auto" width="100%" src="/images/cce1.png">
 </div>
 <p><strong>Mdm Brenda Lee Chew Yan</strong>
 <br>Master Teacher / Character and Citizenship Education
@@ -561,7 +561,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/judy_ng.jpg">
+<img style="width:80px;margin-left:15px;" height="auto" width="100%" alt="" src="/images/judy_ng.jpg">
 </div>
 <p><strong>Miss Judy Ng</strong>
 <br>Master Teacher / Character and Citizenship Education
@@ -632,7 +632,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/quek_sr_ling.jpg">
+<img style="width:80px;margin-left:15px;" height="auto" width="100%" alt="" src="/images/quek_sr_ling.jpg">
 </div>
 <p><strong>Ms Quek Sr Ling</strong>
 <br>Master Teacher / Special Educational Needs
