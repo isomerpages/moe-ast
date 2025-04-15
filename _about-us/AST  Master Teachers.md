@@ -641,7 +641,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <hr>
 <h4>High Ability Learners Master Teachers</h4>
 <div class="isomer-image-wrapper">
-<img style="width:100px;height:90px;margin-left:15px;" height="auto" width="100%" src="/images/hal.png">
+<img style="width:110px;margin-left:15px;" height="auto" width="100%" src="/images/hal.png">
 </div>
 <p><strong>Mdm Evelyn Yeo</strong>
 <br>Master Teacher/ High Ability Learners
