@@ -204,7 +204,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;margin-left:15px;" height="auto" width="100%" alt="" src="/images/ong_daphne_rachel.png">
+<img style="width:80px;margin-left:15px;" height="auto" width="100%" alt="" src="/images/rachel_ong.jpg">
 </div>
 <p>
 <br><strong>Ms Ong Daphne Rachel</strong>
@@ -213,7 +213,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;margin-left:15px;" height="auto" width="100%" alt="" src="/images/candice_seet.png">
+<img style="width:80px;margin-left:15px;" height="auto" width="100%" alt="" src="/images/candice_seet.jpg">
 </div>
 <p><strong>Ms Candice Seet</strong>
 <br>Master Teacher/ History
@@ -230,7 +230,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;margin-left:15px;" height="auto" width="100%" alt="" src="/images/renuka_thankak_krishnah.png">
+<img style="width:80px;margin-left:15px;" height="auto" width="100%" alt="" src="/images/renuka.jpg">
 </div>
 <p><strong>Mrs Renuka Thankak Krishnah</strong>
 <br>Master Teacher / Social Studies
@@ -294,7 +294,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;margin-left:15px;" height="auto" width="100%" alt="" src="/images/pearlyn_lim.png">
+<img style="width:80px;margin-left:15px;" height="auto" width="100%" alt="" src="/images/pearlyn_lim.jpg">
 </div>
 <p><strong>Dr Lim Li Gek Pearlyn</strong>
 <br>Master Teacher / Primary Mathematics
@@ -374,7 +374,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;margin-left:15px;" height="auto" width="100%" alt="" src="/images/nicole_ng.png">
+<img style="width:80px;margin-left:15px;" height="auto" width="100%" alt="" src="/images/nicole_ng.jpg">
 </div>
 <p><strong>Dr Ng Lay Keow, Nicole</strong>
 <br>Master Teacher / Secondary Mathematics
@@ -534,8 +534,9 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>Master Teacher / Primary Science
 <br>Email: <a href="mailto:YONG_Song_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">YONG_Song_Ling@schools.gov.sg</a>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 15%;margin-left:15px;" height="auto" width="100%" alt="" src="/images/madeline_chang.png">
+<img style="width:80px;margin-left:15px;" height="auto" width="100%" alt="" src="/images/madeline_chang.jpg">
 </div>
 <p><strong>Ms Madeline Chang</strong>
 <br>Master Teacher / Primary Science
@@ -544,7 +545,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <hr>
 <h4>Character and Citizenship Education Master Teachers</h4>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:97px;margin-left:15px;" height="auto" width="100%" src="/images/cce1.png">
+<img style="width:80px;margin-left:15px;" height="auto" width="100%" src="/images/cce1.png">
 </div>
 <p><strong>Mdm Brenda Lee Chew Yan</strong>
 <br>Master Teacher / Character and Citizenship Education
@@ -558,8 +559,9 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>Master Teacher / Character and Citizenship Education
 <br>Email: <a href="mailto:Osman_Abdullah@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Osman_Abdullah@moe.gov.sg</a>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;margin-left:15px;" height="auto" width="100%" alt="" src="/images/Judy_Ng.jpg">
+<img style="width:80px;margin-left:15px;" height="auto" width="100%" alt="" src="/images/judy_ng.jpg">
 </div>
 <p><strong>Miss Judy Ng</strong>
 <br>Master Teacher / Character and Citizenship Education
@@ -628,8 +630,9 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>Master Teacher / Special Educational Needs
 <br>Email: <a href="mailto:Sarinajit_Kaur@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sarinajit_Kaur@moe.gov.sg</a>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;margin-left:15px;" height="auto" width="100%" alt="" src="/images/quek_sr_ling.png">
+<img style="width:80px;margin-left:15px;" height="auto" width="100%" alt="" src="/images/quek_sr_ling.jpg">
 </div>
 <p><strong>Ms Quek Sr Ling</strong>
 <br>Master Teacher / Special Educational Needs
@@ -638,7 +641,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <hr>
 <h4>High Ability Learners Master Teachers</h4>
 <div class="isomer-image-wrapper">
-<img style="width:100px;height:90px;margin-left:15px;" height="auto" width="100%" src="/images/hal.png">
+<img style="width:110px;margin-left:15px;" height="auto" width="100%" src="/images/hal.png">
 </div>
 <p><strong>Mdm Evelyn Yeo</strong>
 <br>Master Teacher/ High Ability Learners
