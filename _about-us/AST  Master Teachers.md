@@ -206,7 +206,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <div class="isomer-image-wrapper">
 <img style="width:80px;margin-left:15px;" height="auto" width="100%" alt="" src="/images/rachel_ong.jpg">
 </div>
-<br><p><strong>Ms Ong Daphne Rachel</strong>
+<p><strong>Ms Ong Daphne Rachel</strong>
 <br>Master Teacher/ History
 <br>Email: <a href="mailto:Daphne_Rachel_ONG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Daphne_Rachel_ONG@moe.gov.sg</a>
 </p>
