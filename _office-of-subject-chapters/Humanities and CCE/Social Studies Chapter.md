@@ -68,7 +68,7 @@ and helps teachers stay current and connected with the fraternity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Premaletha Gopalakrishnan</p>
+<p>Mrs Premaletha Gopala Krishnan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Master Teacher</p>
@@ -79,7 +79,7 @@ and helps teachers stay current and connected with the fraternity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Renuka Thankak Krishnah</p>
+<p>Mdm Renuka d/o Magaendran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Master Teacher</p>
@@ -107,7 +107,7 @@ and helps teachers stay current and connected with the fraternity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng-Lo Weng Han</p>
+<p>Mdm Lo Weng Han</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
@@ -118,7 +118,7 @@ and helps teachers stay current and connected with the fraternity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lin Airong Michelle</p>
+<p>Mdm Lin Airong Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
@@ -152,7 +152,7 @@ and helps teachers stay current and connected with the fraternity.</p>
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>St. Margaret's Secondary School</p>
+<p>St. Margaret's School (Secondary)</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +163,7 @@ and helps teachers stay current and connected with the fraternity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Leung Wai Ching Juliane</p>
+<p>Mdm Leung Wai Ching</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
@@ -174,7 +174,7 @@ and helps teachers stay current and connected with the fraternity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Noriff Elyn Mohd Ariffin</p>
+<p>Mdm Noriff Elyn Mohd Ariffin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
@@ -219,11 +219,10 @@ and helps teachers stay current and connected with the fraternity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Yang Peidong</p>
+<p>A/P Yang Peidong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asst Professor</p>
-<p>Humanities &amp; Social Studies Education</p>
+<p>Associate Professor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NIE/HSS</p>
@@ -231,7 +230,7 @@ and helps teachers stay current and connected with the fraternity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Yan Li</p>
+<p>Mdm Lim Yan Li</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Curriculum Resource Development Officer, Social Studies (Sec)</p>
@@ -242,7 +241,7 @@ and helps teachers stay current and connected with the fraternity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Gordon Shiau</p>
+<p>Mr Gordon Shiau Rong Kang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Educational Technology Officer</p>
