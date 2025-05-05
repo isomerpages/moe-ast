@@ -240,7 +240,7 @@ of professional excellence and pride in the fraternity.</p>
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Geylang Methodist School (Pr)&nbsp;</p>
+<p>Geylang Methodist School (Primary)&nbsp;</p>
 </td>
 </tr>
 <tr>

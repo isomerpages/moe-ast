@@ -191,7 +191,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </div>
 <p><strong>Mr Tham Chin Pang Joseph</strong>
 <br>Master Teacher/ History
-<br>Email: <a href="mailto:Tham_Chin_Pang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tham_Chin_Pang@moe.gov.sg</a>
+<br>Email: <a href="mailto:Tham_Chin_Pang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tham_Chin_Pang@schools.gov.sg</a>
 <br>
 <br>
 </p>
@@ -206,8 +206,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <div class="isomer-image-wrapper">
 <img style="width:80px;margin-left:15px;" height="auto" width="100%" alt="" src="/images/rachel_ong.jpg">
 </div>
-<p>
-<br><strong>Ms Ong Daphne Rachel</strong>
+<p><strong>Ms Ong Daphne Rachel</strong>
 <br>Master Teacher/ History
 <br>Email: <a href="mailto:Daphne_Rachel_ONG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Daphne_Rachel_ONG@moe.gov.sg</a>
 </p>
@@ -265,7 +264,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </div>
 <p><strong>Mr Choon Ming Kwang</strong>
 <br>Master Teacher / Primary Mathematics
-<br>Email: <a href="mailto:Choon_Ming_Kwang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Choon_Ming_Kwang@schools.gov.sg</a>
+<br>Email: <a href="mailto:Choon_Ming_Kwang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Choon_Ming_Kwang@moe.gov.sg</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
