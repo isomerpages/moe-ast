@@ -53,7 +53,7 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sarinajit Kaur</p>
+<p>Ms Sarinajit Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Master Teacher</p>
@@ -64,7 +64,7 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Quek Sr Ling</p>
+<p>Mdm Quek Sr Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Master Teacher</p>
@@ -75,7 +75,7 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rachel Teo</p>
+<p>Miss Rachel Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Academy Officer</p>
@@ -92,7 +92,7 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tina Leong</p>
+<p>Mdm Tina Leong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
@@ -103,13 +103,13 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Usha Krishnasamy</p>
+<p>Mdm Usha Krishnasamy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>North View Pri School</p>
+<p>North View Primary School</p>
 </td>
 </tr>
 <tr>
@@ -120,24 +120,24 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Elaine Lim</p>
+<p>Ms Elaine Lim Chiu Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gan Eng Seng Pri School</p>
+<p>Gan Eng Seng Primary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alex Woo</p>
+<p>Mr Alex Woo Chee Keong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fairfield Methodist Sec School</p>
+<p>Fairfield Methodist School (Secondary)</p>
 </td>
 </tr>
 <tr>
@@ -148,7 +148,7 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rachel Tan</p>
+<p>Mdm Tan Ching Ling Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
@@ -159,13 +159,13 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Mi Liang</p>
+<p>Mdm Tan-Lee Mi Liang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Angsana Pri School</p>
+<p>Angsana Primary School</p>
 </td>
 </tr>
 <tr>
@@ -176,24 +176,24 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teo Foong Min Yee</p>
+<p>Mrs Teo Foong Min Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>West Spring Pri School</p>
+<p>West Spring Primary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Syed Imran</p>
+<p>Mr Syed Imran Bin Jamaluddin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dazhong Pri School</p>
+<p>Dazhong Primary School</p>
 </td>
 </tr>
 <tr>
@@ -204,18 +204,18 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ho Huay Yee,Freida</p>
+<p>Miss Ho Huay Yee Frieda</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior ETO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Educational Technology Division/LPET&nbsp;</p>
+<p>Educational Technology Division/LPET2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Clare Yip</p>
+<p>Mdm Yip Mingli Clare</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Educational Psychologist</p>
@@ -226,7 +226,7 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Levan Lim Heng Fook</p>
+<p>A/P Lim Heng Fook, Levan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assoc Professor</p>
