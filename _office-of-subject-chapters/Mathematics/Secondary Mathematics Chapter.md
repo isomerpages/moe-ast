@@ -199,7 +199,7 @@ teaching of mathematics</p>
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Maris Stella High School</p>
+<p>Maris Stella High School (Secondary)</p>
 </td>
 </tr>
 <tr>
@@ -210,7 +210,7 @@ teaching of mathematics</p>
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Catholic High School</p>
+<p>Catholic High School (Secondary)</p>
 </td>
 </tr>
 <tr>
@@ -283,7 +283,7 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Hwee Ping</p>
+<p>Mrs Tan Hwee Ping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
@@ -322,7 +322,7 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Kai Lin</p>
+<p>Mdm Tan Kai Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Educational Technology Officer</p>
@@ -333,7 +333,7 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst. Prof Tay Eng Guan</p>
+<p>A/P Tay Eng Guan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Professor</p>
