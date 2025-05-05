@@ -205,7 +205,7 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yap Jee Cheng, Jessie</p>
+<p>Mdm Yip Jee Cheng, Jessie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
@@ -216,7 +216,7 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim En-Rui, Joel</p>
+<p>Mr Lim En-rui, Joel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
@@ -233,7 +233,7 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Phyllis Toh Xin Hui</p>
+<p>Ms Toh Xin Hui Phyllis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
@@ -261,13 +261,13 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong-Tan Ser Huay</p>
+<p>Mdm Tan Ser Huay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Henry Park Primary Schooll</p>
+<p>Henry Park Primary School</p>
 </td>
 </tr>
 <tr>
@@ -289,10 +289,10 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Loh Mei Yoke</p>
+<p>Miss Loh Mei Yoke</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Specialist, Mathematics 2</p>
+<p>Lead Specialist, Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CPDD1/Sciences Branch/Mathematics Unit</p>
@@ -300,7 +300,7 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Najeeb Hassan</p>
+<p>Mr Mohamed Najeeb Bin Mohamed Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Educational Technology Officer</p>
@@ -311,7 +311,7 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Dawn Ng</p>
+<p>Dr Ng Kit Ee, Dawn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Lecturer</p>
