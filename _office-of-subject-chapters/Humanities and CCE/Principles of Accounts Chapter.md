@@ -155,13 +155,13 @@ leadership.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Simon Sng</p>
+<p>Mr Tan Weiliang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bedok South Secondary School</p>
+<p>Paya Lebar Methodist Girls' School (Secondary)</p>
 </td>
 </tr>
 <tr>
