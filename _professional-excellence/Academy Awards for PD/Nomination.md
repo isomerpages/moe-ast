@@ -7,10 +7,11 @@ variant: tiptap
 ---
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Nomination period is now closed" src="/images/Awards/Closed_AA_Poster.png">
+<img style="width: 100%" height="auto" width="100%" alt="Nomination details" src="/images/Awards/Opening_Soon_First_EDM_A.png">
 </div>
-<p><strong>For more information,&nbsp; you may refer to the following:</strong>
+<p><strong>For more information,&nbsp; you may refer to the following</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -20,28 +21,52 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Nomination Guide:</strong>
+<p><strong>Nomination Guide</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/aa-nominationguide2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aa-nominationguide2024</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aa-nomination-guide-2025</a>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
-</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Academy Awards Community Wiki:</strong>
+<p><strong>Nomination Form (Fellow/Associate)</strong>
+</p>
+<p><em>(open from 26 May to 11 July 2025)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/aa-wiki" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aa-wiki</a> 
-<a href="https://go.gov.sg/aa-wiki" rel="noopener noreferrer nofollow" target="_blank">&nbsp;&nbsp;</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aa-nomination-fellowassociate2025</a>
 </p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Nomination Form (Partner)</strong>
+</p>
+<p><em>(open from 26 May to 11 July 2025)</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aa-nomination-partner2025</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Academy Awards Community Wiki</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aa-wikipage</a>
+</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p></p>
