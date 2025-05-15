@@ -25,9 +25,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aa-nomination-guide-2025</a>
+<p><a href="https://go.gov.sg/aa-nomination-guide-2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aa-nomination-guide-2025</a>
 </p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +39,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/aa-nomination-fellowassociate2025</a>
 </p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
