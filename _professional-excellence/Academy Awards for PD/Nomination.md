@@ -7,10 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Nomination details" src="/images/Awards/Opening_Soon_First_EDM_A.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/aa-nomination-guide-2025"><img style="width: 100%" height="auto" width="100%" alt="Nomination details" src="/images/Awards/Opening_Soon_First_EDM_A.png"></a>
 <p><strong>For more information,&nbsp; you may refer to the following</strong>
 </p>
 <table style="minWidth: 50px">
