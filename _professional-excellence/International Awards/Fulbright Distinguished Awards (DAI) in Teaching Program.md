@@ -119,8 +119,7 @@ DAI Program against our local educational context.
 </th>
 <td rowspan="1" colspan="2">
 <p><strong>Ms Michelle Goh Si Rong&nbsp;</strong>
-</p>
-<p>Victoria Junior College</p>
+<br>Victoria Junior College</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/FulbrightDAI/Reflection__Faith_Kaylie_Ong_.pdf" rel="noopener noreferrer nofollow" target="_blank">Reflection (Michelle Goh)</a>
@@ -142,8 +141,7 @@ DAI Program against our local educational context.
 </td>
 <td rowspan="1" colspan="2">
 <p><strong>Ms Huang Xiujuan Michelle</strong>
-</p>
-<p>Valour Primary School</p>
+<br>Valour Primary School</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/FulbrightDAI/Reflection__Michelle_Huang_.pdf" rel="noopener nofollow" target="_blank">Reflection (Michelle Huang)</a>
@@ -165,8 +163,7 @@ DAI Program against our local educational context.
 </td>
 <td rowspan="1" colspan="2">
 <p><strong>Ms Sukhjeet Kaur</strong>
-</p>
-<p>CHIJ Katong Convent</p>
+<br>CHIJ Katong Convent</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/FulbrightDAI/Reflection__Sukhjeet_Kaur_.pdf" rel="noopener nofollow" target="_blank">Reflection (Sukhjeet Kaur)</a>
@@ -199,7 +196,7 @@ teachers in the schools to which they are attached.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Geraldine_Maskelony.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Geraldine_Maskelony.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="2">
