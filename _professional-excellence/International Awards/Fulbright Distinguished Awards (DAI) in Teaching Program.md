@@ -117,12 +117,10 @@ DAI Program against our local educational context.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Michelle_Goh_Si_Rong.jpg">
 </div>
 </th>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Ms Michelle Goh Si Rong&nbsp;</strong>
 </p>
 <p>Victoria Junior College</p>
-</td>
-<th rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/FulbrightDAI/Reflection__Faith_Kaylie_Ong_.pdf" rel="noopener noreferrer nofollow" target="_blank">Reflection (Michelle Goh)</a>
@@ -133,7 +131,7 @@ DAI Program against our local educational context.
 </p>
 </li>
 </ul>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
