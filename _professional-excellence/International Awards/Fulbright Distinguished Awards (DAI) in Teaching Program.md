@@ -141,7 +141,7 @@ DAI Program against our local educational context.
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Ms Huang Xiujuan </strong>
+<p><strong>Ms Huang Xiujuan</strong>
 </p>
 <p>Michelle Valour Primary School</p>
 <ul data-tight="true" class="tight">
@@ -198,6 +198,7 @@ teachers in the schools to which they are attached.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Geraldine_Maskelony.jpg">
 </div>
@@ -208,12 +209,9 @@ teachers in the schools to which they are attached.</p>
 <p>Arlington Tech&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/FulbrightDAI/Reflection__Sukhjeet_Kaur_.pdf" rel="noopener nofollow" target="_blank">Reflection (Sukhjeet Kaur)</a>
+<p><a href="/files/FulbrightDAI/Reflection__Geraldine_Maskelony_.pdf" rel="noopener nofollow" target="_blank">Reflection (Sukhjeet Kaur)</a>
 </p>
-</li>
-<li>
-<p><a href="https://go.gov.sg/rp-applying-a-thinking-approach-24-25usfulbrighter" rel="noopener nofollow" target="_blank">Research Project (Applying a Thinking Approach when Reading and Responding to Literature Texts)</a>
-</p>
+<p></p>
 </li>
 </ul>
 </td>
