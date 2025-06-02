@@ -141,9 +141,9 @@ DAI Program against our local educational context.
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Ms Huang Xiujuan</strong>
+<p><strong>Ms Huang Xiujuan Michelle </strong>
 </p>
-<p>Michelle Valour Primary School</p>
+<p>Valour Primary School</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/FulbrightDAI/Reflection__Michelle_Huang_.pdf" rel="noopener nofollow" target="_blank">Reflection (Michelle Huang)</a>
