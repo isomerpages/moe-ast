@@ -141,7 +141,7 @@ DAI Program against our local educational context.
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Ms Huang Xiujuan Michelle </strong>
+<p><strong>Ms Huang Xiujuan Michelle</strong>
 </p>
 <p>Valour Primary School</p>
 <ul data-tight="true" class="tight">
