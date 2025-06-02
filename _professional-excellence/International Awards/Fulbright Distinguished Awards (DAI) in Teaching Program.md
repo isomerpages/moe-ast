@@ -211,7 +211,6 @@ teachers in the schools to which they are attached.</p>
 <li>
 <p><a href="/files/FulbrightDAI/Reflection__Geraldine_Maskelony_.pdf" rel="noopener nofollow" target="_blank">Reflection (Sukhjeet Kaur)</a>
 </p>
-<p></p>
 </li>
 </ul>
 </td>
