@@ -135,51 +135,45 @@ DAI Program against our local educational context.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Faith Kaylie Ong Yi Cheng</strong> 
-<br>Manjusri Secondary School</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Huang_Xiujuan_Michelle.jpg">
+</div>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Sarifah Noor Aini Bte Syed Mahmood</strong> 
-<br>Guangyang Secondary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Ng Ee Noch</strong> 
-<br>Boon Lay Garden Primary School</p>
+<td rowspan="1" colspan="2">
+<p><strong>Ms Huang Xiujuan </strong>
+</p>
+<p>Michelle Valour Primary School</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/FulbrightDAI/Reflection__Michelle_Huang_.pdf" rel="noopener nofollow" target="_blank">Reflection (Michelle Huang)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/FulbrightDAI/Research_Project__An_Approach_to_Cooperative_Learning_Considerations_for_Implementation_.pdf" rel="noopener nofollow" target="_blank">Research Project (An Approach to Cooperative Learning Considerations for Implementation)</a>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/FulbrightDAI/Reflection__Faith_Kaylie_Ong_.pdf" rel="noopener noreferrer nofollow" target="_blank">Reflection (Faith Kaylie Ong)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/FulbrightDAI/Research_Project__Faith_Kaylie_Ong_Yi_Cheng_.pdf" rel="noopener noreferrer nofollow" target="_blank">Research Project (Faith Kaylie Ong)</a>
-</p>
-</li>
-</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sukhjeet_Kaur.jpg">
+</div>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
+<p><strong>Ms Sukhjeet Kaur</strong>
+</p>
+<p>CHIJ Katong Convent</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/FulbrightDAI/Reflection_Sarifah.pdf" rel="noopener noreferrer nofollow" target="_blank">Reflection (Sarifah)</a>
+<p><a href="/files/FulbrightDAI/Reflection__Sukhjeet_Kaur_.pdf" rel="noopener nofollow" target="_blank">Reflection (Sukhjeet Kaur)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/FulbrightDAI/Research_Project__Sarifah_Noor_Aini_Syed_Mahmood_.pdf" rel="noopener noreferrer nofollow" target="_blank">Research Project (Sarifah)</a>
-</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/FulbrightDAI/Reflection__Ng_Ee_Noch_.pdf" rel="noopener noreferrer nofollow" target="_blank">Reflection (Ng Ee Noch)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/FulbrightDAI/Research_Project__Ng_Ee_Noch_.pdf" rel="noopener noreferrer nofollow" target="_blank">Research Project (Ng Ee Noch)</a>
+<p><a href="https://go.gov.sg/rp-applying-a-thinking-approach-24-25usfulbrighter" rel="noopener nofollow" target="_blank">Research Project (Applying a Thinking Approach when Reading and Responding to Literature Texts)</a>
 </p>
 </li>
 </ul>
@@ -202,23 +196,27 @@ teachers in the schools to which they are attached.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:210px; height:210px" height="auto" width="100%" alt="Image" src="/images/Fulbrighte%20Award/lauren_hubert.jpg">
-</div>
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Mrs Lauren Marce Hubert<br></strong>Camelback High School</p>
-</th>
-<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Geraldine_Maskelony.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Ms Geraldine Maskelony</strong>
+</p>
+<p>Arlington Tech&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/rp-applying-a-thinking-approach-24-25usfulbrighter" rel="noopener nofollow" target="_blank">New reflection_</a>
+<p><a href="/files/FulbrightDAI/Reflection__Sukhjeet_Kaur_.pdf" rel="noopener nofollow" target="_blank">Reflection (Sukhjeet Kaur)</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/rp-applying-a-thinking-approach-24-25usfulbrighter" rel="noopener nofollow" target="_blank">Research Project (Applying a Thinking Approach when Reading and Responding to Literature Texts)</a>
 </p>
 </li>
 </ul>
-</th>
+</td>
 </tr>
 </tbody>
 </table>
