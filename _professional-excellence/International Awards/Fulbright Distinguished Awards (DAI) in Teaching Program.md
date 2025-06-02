@@ -198,7 +198,6 @@ teachers in the schools to which they are attached.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Geraldine_Maskelony.jpg">
 </div>
@@ -209,7 +208,7 @@ teachers in the schools to which they are attached.</p>
 <p>Arlington Tech&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/FulbrightDAI/Reflection__Geraldine_Maskelony_.pdf" rel="noopener nofollow" target="_blank">Reflection (Sukhjeet Kaur)</a>
+<p><a href="/files/FulbrightDAI/Reflection__Geraldine_Maskelony_.pdf" rel="noopener nofollow" target="_blank">Reflection (Geraldine Maskelony)</a>
 </p>
 </li>
 </ul>
