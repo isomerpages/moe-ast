@@ -24,7 +24,13 @@ networked learning and dialogue with educators from the U.S. and from other
 participating countries.</p>
 <p><strong>Participating countries/region :</strong>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -95,26 +101,38 @@ DAI Program against our local educational context.
 <br>
 </p>
 <h4><strong>Hear more from our Fulbrighters!</strong></h4>
-<p><strong>SINGAPORE FULBRIGHT AWARD RECIPIENTS 2023</strong>
+<p><strong>SINGAPORE FULBRIGHT AWARD RECIPIENTS 2024</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 62%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Ms_Faith.jpg">
-</div>
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Ms_Sarifah.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Michelle_Goh_Si_Rong.jpg">
 </div>
 </th>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Michelle Goh Si Rong&nbsp;</strong>
+</p>
+<p>Victoria Junior College</p>
+</td>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Mr_Ng_Ee_Noch.jpg">
-</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/FulbrightDAI/Reflection__Faith_Kaylie_Ong_.pdf" rel="noopener noreferrer nofollow" target="_blank">Reflection (Michelle Goh)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/FulbrightDAI/Research_Project__Engaging_Youths_in_Conversations_on_Mental_Health_.pdf" rel="noopener nofollow" target="_blank">Research Project (Engaging Youths in Conversations on Mental Health</a>
+</p>
+</li>
+</ul>
 </th>
 </tr>
 <tr>
@@ -172,13 +190,18 @@ DAI Program against our local educational context.
 </tbody>
 </table>
 <hr>
-<p><strong>US FULBRIGHT AWARD RECIPIENTS 2022</strong>
+<p><strong>US FULBRIGHT AWARD RECIPIENTS 2024</strong>
 </p>
 <p>The DAI Program also involves educators from the U.S. coming to Singapore
 for an exchange. These educators are attached to Singapore schools and
 MOE HQ divisions, and also provide professional development offerings to
 teachers in the schools to which they are attached.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -188,66 +211,16 @@ teachers in the schools to which they are attached.</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:210px; height:210px" height="auto" width="100%" alt="Image" src="/images/Fulbrighte%20Award/damon_peterson.jpg">
-</div>
+<p><strong>Mrs Lauren Marce Hubert<br></strong>Camelback High School</p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:210px; height:210px" height="auto" width="100%" alt="Image" src="/images/Fulbrighte%20Award/iling_hsiung.jpg">
-</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/rp-applying-a-thinking-approach-24-25usfulbrighter" rel="noopener nofollow" target="_blank">New reflection_</a>
+</p>
+</li>
+</ul>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Lauren Marce Hubert<br></strong>Camelback High School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Damon Peterson</strong> 
-<br>Dorothy I. Height Elementary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms I Ling Hsiung</strong> 
-<br>Anthony Sprangler Elementary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/FulbrightDAI/2023%20fulbright%20reflection%20(lauren).pdf" rel="noopener noreferrer" target="_blank"><u>[Lauren's Reflection]</u></a>
-</p>
-</li>
-<li>
-<p><a href="/files/FulbrightDAI/ss3601%20teaching%20sustainability%20through%20project-based%20learning.pdf" rel="noopener noreferrer" target="_blank">[Lauren's Slides]</a>
-</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/FulbrightDAI/2023%20fulbright%20reflection%20(damon).pdf" rel="noopener noreferrer" target="_blank"><u>[Damon's Reflection]</u></a>
-</p>
-</li>
-<li>
-<p><a href="/files/FulbrightDAI/ss1226%20global%20literacy%20and%20philosophy%20for%20the%2021st%20century%20(1).pdf" rel="noopener noreferrer" target="_blank">[Damon's Slides]</a>
-</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/FulbrightDAI/2023%20fulbright%20reflection%20(i%20ling).pdf" rel="noopener noreferrer" target="_blank"><u>[I-Ling's Reflection]</u></a>
-</p>
-</li>
-<li>
-<p><a href="/files/FulbrightDAI/ss1106%20a%20technology-based%20mathematics%20enrichment%20program.pdf" rel="noopener noreferrer" target="_blank">[I-Ling's Slides]</a>
-</p>
-</li>
-</ul>
-</td>
 </tr>
 </tbody>
 </table>
