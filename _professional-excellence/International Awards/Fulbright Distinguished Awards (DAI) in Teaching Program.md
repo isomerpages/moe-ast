@@ -164,28 +164,6 @@ DAI Program against our local educational context.
 for an exchange. These educators are attached to Singapore schools and
 MOE HQ divisions, and also provide professional development offerings to
 teachers in the schools to which they are attached.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Geraldine_Maskelony.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Ms Geraldine Maskelony</strong>
-<br>Arlington Tech&nbsp;
-<br><a href="/files/FulbrightDAI/Reflection__Geraldine_Maskelony_.pdf" rel="noopener nofollow" target="_blank">Reflection (Geraldine Maskelony)</a>
-</p>
-</th>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -194,13 +172,20 @@ teachers in the schools to which they are attached.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Geraldine_Maskelony.jpg">
+</div>
+</th>
+<td width="70%" rowspan="1" colspan="2">
+<p><strong>Ms Geraldine Maskelony</strong>
+<br>Arlington Tech&nbsp;
+<br><a href="/files/FulbrightDAI/Reflection__Geraldine_Maskelony_.pdf" rel="noopener noreferrer nofollow" target="_blank">Reflection (Geraldine Maskelony)</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
+
 <p></p>
