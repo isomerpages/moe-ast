@@ -117,7 +117,7 @@ DAI Program against our local educational context.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Michelle_Goh_Si_Rong.jpg">
 </div>
 </th>
-<td rowspan="1" colspan="2">
+<td width="70%" rowspan="1" colspan="2">
 <p><strong>Ms Michelle Goh Si Rong&nbsp;</strong>
 <br>Victoria Junior College
 <br><a href="/files/FulbrightDAI/Reflection__Faith_Kaylie_Ong_.pdf" rel="noopener noreferrer nofollow" target="_blank">Reflection (Michelle Goh)</a>
@@ -132,7 +132,7 @@ DAI Program against our local educational context.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Huang_Xiujuan_Michelle.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="2">
+<td width="70%" rowspan="1" colspan="2">
 <p><strong>Ms Huang Xiujuan Michelle</strong>
 <br>Valour Primary School
 <br><a href="/files/FulbrightDAI/Reflection__Michelle_Huang_.pdf" rel="noopener nofollow" target="_blank">Reflection (Michelle Huang)</a>
@@ -147,7 +147,7 @@ DAI Program against our local educational context.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sukhjeet_Kaur.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="2">
+<td width="70%" rowspan="1" colspan="2">
 <p><strong>Ms Sukhjeet Kaur</strong>
 <br>CHIJ Katong Convent
 <br><a href="/files/FulbrightDAI/Reflection__Sukhjeet_Kaur_.pdf" rel="noopener nofollow" target="_blank">Reflection (Sukhjeet Kaur)</a>
