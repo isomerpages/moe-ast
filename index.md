@@ -16,7 +16,6 @@ sections:
   - infopic:
       title: Teachers' Conference and ExCEL Fest 2025
       id: infopic
-      description: The biennial conference is back and open for registration.
       button: Proceed to our microsite
       url: https://tcef2025.sg/
       image: /images/Events/TCEF2025_launch.png
