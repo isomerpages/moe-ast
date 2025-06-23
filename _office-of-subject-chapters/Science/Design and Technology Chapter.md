@@ -264,20 +264,16 @@ approach of design thinking and STEM</p>
 <h3>Past Events</h3>
 <h4>Chapter Learning Day 2024</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D_T_Chapter_Learning_Day_2024_USS.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D_T_Chapter_Learning_Day_2024_USS.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D_T_Chapter_Learning_Day_2024_Zoo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D_T_Chapter_Learning_Day_2024_Zoo.png">
 </div>
 <h4>STEM Interest NLC (Queenstown, Changkat Changi, Compassvale, Mayflower and East Spring Secondary Schools)</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM_Interest_NLC__Queenstown__Changkat_Changi__Compassvale__Mayflower_and_East_Spring_Secondary_Schools_.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM_Interest_NLC__Queenstown__Changkat_Changi__Compassvale__Mayflower_and_East_Spring_Secondary_Schools__Part_2.jpg">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM_Interest_NLC__Queenstown__Changkat_Changi__Compassvale__Mayflower_and_East_Spring_Secondary_Schools__Part_2.jpg">
 </div>
@@ -290,7 +286,6 @@ approach of design thinking and STEM</p>
 </div>
 <h4>Interdisciplinary STEM NLC</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interdisciplinary_STEM_NLC.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interdisciplinary_STEM_NLC.png">
 </div>
-<h4></h4>
 <p></p>
