@@ -239,7 +239,7 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </table>
 <hr>
 <h3>Our Calendar of Events</h3>
-<p>For more information about chapter events, click on this <strong><a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=387924" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> </strong>to
+<p>For more information about chapter events, click on this <strong><a href="https://go.gov.sg/u-in-special-educational-needs" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> </strong>to
 access the chapter’s OPAL page (<em>for MOE teachers only</em>). Alternatively,
 you may contact the Master Teachers to find out more!</p>
 <p></p>
