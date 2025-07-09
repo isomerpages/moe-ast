@@ -17,7 +17,7 @@ sections:
       title: Congratulations to OYEA 2025 Recipients and Finalists
       id: infopic
       button: Read more
-      url: /professional-excellence/oyea/stories/
+      url: /professional-excellence/oyea/recipients-and-finalists/
       image: /images/Awards/OYEA25_Announcement_Collage_25Jun.png
       alt: Group photo at AA ceremony
   - infopic:
