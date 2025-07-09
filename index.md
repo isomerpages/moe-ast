@@ -22,13 +22,11 @@ sections:
       alt: Image alt text
       description: Thank you for your participation!
   - infopic:
-      title: Celebrating Excellence and Fostering Connections
+      title: Congratulations to OYEA 2025 Recipients and Finalists
       id: infopic
-      description: Featuring inspiring stories of recipients from the Academy Awards
-        for Professional Development 2024
       button: Read more
-      url: /professional-excellence/academy-awards/aa-stories/
-      image: /images/Photo_1__Group.jpg
+      url: //professional-excellence/oyea/recipients-and-finalists//aa-stories/
+      image: /images/Awards/OYEA25_Announcement_Collage_25Jun.png
       alt: Group photo at AA ceremony
   - infopic:
       title: How does learning come alive?
