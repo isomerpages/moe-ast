@@ -77,7 +77,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Muhammad Sultan Karimshah Bin Mohaideen</p>
+<p>Muhammad Sultan
+<br>Karimshah Bin Mohaideen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>St. Joseph's Institution</p>
