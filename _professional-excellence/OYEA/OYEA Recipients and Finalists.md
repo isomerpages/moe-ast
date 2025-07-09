@@ -5,12 +5,12 @@ description: ""
 third_nav_title: OYEA
 variant: tiptap
 ---
-<h4><strong>Congratulations to Our OYEA 2024 Recipients and Finalists</strong></h4>
+<h4><strong>Congratulations to Our OYEA 2025 Recipients and Finalists</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards/OYEA24_AnnounceCollage_15_Jul.png">
+<img style="width: 100%" height="auto" width="100%" alt="OYEA25" src="/images/Awards/OYEA25_Announcement_Collage_25Jun.png">
 </div>
-<h4><strong>OYEA Recipients and Finalists 2024</strong></h4>
+<h4><strong>OYEA Recipients and Finalists 2025</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -29,31 +29,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kua Li En</p>
+<p>Lim Yang Jun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alexandra Primary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Amirinazeb D/O Aurangzeb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHIJ (Kellock)</p>
+<p>Fuhua Primary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ong Shaoxian, Edwin</p>
+<p>Lim Yen Mei, Amanda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>St. Anthony’s Primary School</p>
+<p>Nan Chiau Primary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Ai Zi Sheena Wijaya</p>
+<p>Kartik Gayan S/o Rajaram</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Compassvale Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ervine Quek Cheng Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nan Hua High School</p>
@@ -61,18 +61,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Jin Wee</p>
+<p>Hshieh Szu An</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Riverside Secondary School</p>
+<p>Presbyterian High School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Siew Hon Charlene</p>
+<p>Lim Siew Gek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>St. Andrew’s Secondary School</p>
+<p>St. Gabriel's Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhammad Sultan
+<br>Karimshah Bin Mohaideen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St. Joseph's Institution</p>
 </td>
 </tr>
 </tbody>
@@ -95,42 +104,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Wei Heng, Edwin</p>
+<p>Kho Suat Ling, Eunice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dazhong Primary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Andrea Brendan Ang Chin Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Compassvale Secondary School</p>
+<p>Bukit View Primary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chia Xian Siew, Priscilla</p>
+<p>Esther Mak En-Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hwa Chong Institution</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Jerome Lim Jit How</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Whitley Secondary School</p>
+<p>Nanyang Primary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tsering Choden</p>
+<p>Chang Wan Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yuan Ching Secondary School</p>
+<p>Dunman High School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Charlene Chan Shu Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Xinmin Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Seok Xian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Anderson Serangoon Junior College</p>
 </td>
 </tr>
 </tbody>
