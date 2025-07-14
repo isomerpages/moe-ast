@@ -120,8 +120,8 @@ DAI Program against our local educational context.
 <td rowspan="1" colspan="2">
 <p><strong>Ms Michelle Goh Si Rong&nbsp;</strong>
 <br>Victoria Junior College
-<br><a href="/files/FulbrightDAI/Reflection__Faith_Kaylie_Ong_.pdf" rel="noopener noreferrer nofollow" target="_blank">Reflection (Michell</a>
-<a href="/files/Reflection__Michelle_Goh_.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/FulbrightDAI/Reflection__Faith_Kaylie_Ong_.pdf" rel="noopener noreferrer nofollow" target="_blank">e Goh)</a>
+<br><a href="/files/FulbrightDAI/Reflection__Faith_Kaylie_Ong_.pdf" rel="noopener noreferrer nofollow" target="_blank">Reflection (</a>
+<a href="/files/Reflection__Michelle_Goh_.pdf" rel="noopener noreferrer nofollow" target="_blank">Michelle</a><a href="/files/FulbrightDAI/Reflection__Faith_Kaylie_Ong_.pdf" rel="noopener noreferrer nofollow" target="_blank">Goh)</a>
 <br><a href="/files/FulbrightDAI/Research_Project__Engaging_Youths_in_Conversations_on_Mental_Health_.pdf" rel="noopener nofollow" target="_blank">Research Project (Engaging Youths in Conversations on Mental Health</a>
 </p>
 </td>
