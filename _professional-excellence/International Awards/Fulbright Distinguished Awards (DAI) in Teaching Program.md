@@ -3,7 +3,7 @@ title: Fulbright Distinguished Awards (DAI) in Teaching Program
 permalink: /professional-excellence/international-awards/da-in-teaching-program/
 description: ""
 third_nav_title: International Awards
-variant: tiptap
+variant: markdown
 ---
 <h3><strong>Fulbright Distinguished Awards in Teaching Program for International Teachers</strong></h3>
 <div class="isomer-image-wrapper">
@@ -179,7 +179,7 @@ teachers in the schools to which they are attached.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Geraldine_Maskelony.jpg">
 </div>
 </th>
-<td rowspan="1" colspan="2">
+<td width="70%" rowspan="1" colspan="2">
 <p><strong>Ms Geraldine Maskelony</strong>
 <br>Arlington Tech&nbsp;
 <br><a href="/files/FulbrightDAI/Reflection__Geraldine_Maskelony_.pdf" rel="noopener noreferrer nofollow" target="_blank">Reflection (Geraldine Maskelony)</a>
