@@ -29,13 +29,15 @@ sections:
       alt: Image alt text
       description: Thank you for your participation!
   - infopic:
-      title: How does learning come alive?
-      subtitle: Spotlight PAT2024 Recipients
+      title: VISTAs Returns with Exciting New Content
+      subtitle: TWA Plus Programme
       id: infopic
       button: READ MORE
-      url: https://www.youtube.com/watch?v=xxOqM610n2g
-      image: /images/thumbnail_v3.jpg
+      url: /professional-learning/twa-plus/
+      image: /images/TWAplus_VISTAs.jpg
       alt: Image alt text
+      description: "VISTAs: Voices of Entrepreneurs explores how today’s entrepreneurs
+        are innovating and reshaping their industries for tomorrow."
   - resources:
       title: Stories
       button: More stories
