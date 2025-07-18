@@ -18,10 +18,7 @@ feature adaptive and inventive thinking, risk-taking, and leadership.
 <br>Enrich Your Teaching:&nbsp;Take away ideas that can enrich classroom learning
 and school programmes.</p>
 <h4>Episodes</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Ep1" src="/images/TWAplus_VISTAs.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/vistas-vodcast-ep-1"><img style="width: 80%;" height="auto" width="100%" alt="Ep1" src="/images/TWAplus_VISTAs.jpg"></a>
 <p><strong>From Textbook to Career: Unconventional Passion, Carving the Future of Craft </strong>
 <br>What if the unconventional career path is actually your perfect path?</p>
 <p></p>
