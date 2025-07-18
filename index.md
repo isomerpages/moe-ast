@@ -29,6 +29,7 @@ sections:
       image: /images/TWAplus_VISTAs.jpg
       description: "VISTAs: Voices of Entrepreneurs explores how today’s entrepreneurs
         are innovating and reshaping their industries for tomorrow."
+      alt: VISTAS
   - infopic:
       title: Teachers' Conference and ExCEL Fest 2025
       id: infopic
