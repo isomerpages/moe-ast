@@ -2,6 +2,7 @@ collections:
   professional-learning:
     output: true
     order:
+      - Teacher Work Attachment Plus/.keep
       - For Education Officers/.keep
       - For Education Officers/Overview.md
       - For Education Officers/Critical Inquiry in Professional Development.md
