@@ -20,10 +20,9 @@ and school programmes.</p>
 <h4>Episodes</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ep1" src="/images/TWAplus_VISTAs.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Ep1" src="/images/TWAplus_VISTAs.jpg">
 </div>
-<p>From Textbook to Career: Unconventional Passion, Carving the Future of
-Craft
+<p><strong>From Textbook to Career: Unconventional Passion, Carving the Future of Craft </strong>
 <br>What if the unconventional career path is actually your perfect path?</p>
 <p></p>
 <h4>Get Involved</h4>
