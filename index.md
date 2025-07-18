@@ -27,7 +27,6 @@ sections:
       button: READ MORE
       url: /professional-learning/twa-plus-vistas/
       image: /images/TWAplus_VISTAs.jpg
-      alt: Image alt text
       description: "VISTAs: Voices of Entrepreneurs explores how today’s entrepreneurs
         are innovating and reshaping their industries for tomorrow."
   - infopic:
