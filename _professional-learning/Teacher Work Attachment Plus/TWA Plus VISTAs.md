@@ -7,9 +7,9 @@ third_nav_title: Teacher Work Attachment Plus
 ---
 <h3>TWA+ VISTAs: Voices of Entrepreneurs</h3>
 <p>In ‘Voices of Entrepreneurs’, VISTAs offer educators valuable industry
-insights through the personal lens of entrepreneurs. View the vodcast or
-podcast now to find out how today’s entrepreneurs are innovating and reshaping
-various industries for tomorrow.</p>
+insights through the personal lens of entrepreneurs. View the <a href="https://go.gov.sg/vistas-vodcast-ep-1" rel="noopener nofollow" target="_blank">vodcast</a> or
+<a href="https://go.gov.sg/vistas-podcast-ep-1" rel="noopener nofollow" target="_blank">podcast</a>now to find out how today’s entrepreneurs are innovating and
+reshaping various industries for tomorrow.</p>
 <h4>Why tune in?</h4>
 <p>Broaden Perspectives:&nbsp;Gain valuable insights on the forces and trends
 shaping the working world and the competencies needed.
