@@ -12,13 +12,16 @@ podcast now to find out how today’s entrepreneurs are innovating and reshaping
 various industries for tomorrow.</p>
 <h4>Why tune in?</h4>
 <p>Broaden Perspectives:&nbsp;Gain valuable insights on the forces and trends
-shaping the working world and the competencies needed.</p>
-<p>Stay Inspired:&nbsp;Learn from personal stories of entrepreneurs that
-feature adaptive and inventive thinking, risk-taking, and leadership.</p>
-<p>Enrich Your Teaching:&nbsp;Take away ideas that can enrich classroom learning
+shaping the working world and the competencies needed.
+<br>Stay Inspired:&nbsp;Learn from personal stories of entrepreneurs that
+feature adaptive and inventive thinking, risk-taking, and leadership.
+<br>Enrich Your Teaching:&nbsp;Take away ideas that can enrich classroom learning
 and school programmes.</p>
 <h4>Episodes</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ep1" src="/images/TWAplus_VISTAs.jpg">
+</div>
 <p>From Textbook to Career: Unconventional Passion, Carving the Future of
 Craft
 <br>What if the unconventional career path is actually your perfect path?</p>
@@ -27,7 +30,8 @@ Craft
 <p>Don’t miss out! Tune in to our VISTAs vodcast and podcast episodes. Stay
 tuned for updates on episode releases. Click and subscribe to our channel
 to be part of our growing community.</p>
-<p>For more information, please contact TWA+ team at&nbsp;TWA_plus@moe.gov.sg</p>
+<p>For more information, please contact TWA+ team at&nbsp;<a href="mailto:TWA_plus@moe.gov.sg" rel="noopener nofollow" target="_blank">TWA_plus@moe.gov.sg</a>
+</p>
 <p>Empowering educators. Inspiring futures. Join the VISTAs Voices of Entrepreneurs
 channel, and be part of Singapore’s journey toward innovative, future-ready
 education.</p>
