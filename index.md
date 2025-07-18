@@ -21,6 +21,16 @@ sections:
       image: /images/Awards/OYEA25_Announcement_Collage_25Jun.png
       alt: Group photo at AA ceremony
   - infopic:
+      title: VISTAs Returns with Exciting New Content
+      subtitle: TWA Plus Programme
+      id: infopic
+      button: READ MORE
+      url: /professional-learning/twa-plus-vistas/
+      image: /images/TWAplus_VISTAs.jpg
+      description: "VISTAs: Voices of Entrepreneurs explores how today’s entrepreneurs
+        are innovating and reshaping their industries for tomorrow."
+      alt: VISTAS
+  - infopic:
       title: Teachers' Conference and ExCEL Fest 2025
       id: infopic
       button: View TCEF2025 highlights
@@ -28,14 +38,6 @@ sections:
       image: /images/Events/TCEF2025_launch.png
       alt: Image alt text
       description: Thank you for your participation!
-  - infopic:
-      title: How does learning come alive?
-      subtitle: Spotlight PAT2024 Recipients
-      id: infopic
-      button: READ MORE
-      url: https://www.youtube.com/watch?v=xxOqM610n2g
-      image: /images/thumbnail_v3.jpg
-      alt: Image alt text
   - resources:
       title: Stories
       button: More stories

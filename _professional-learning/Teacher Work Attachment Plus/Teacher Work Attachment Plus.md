@@ -1,8 +1,8 @@
 ---
-title: Teacher Work Attachment Plus Programme
-permalink: /professional-learning/for-eos/twa-plus/
+title: Teacher Work Attachment Plus
+permalink: /professional-learning/twa-plus/
 description: ""
-third_nav_title: For Education Officers
+third_nav_title: Teacher Work Attachment Plus
 variant: markdown
 ---
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/yS5nIsbxUrs" height="500" width="900"></iframe>
