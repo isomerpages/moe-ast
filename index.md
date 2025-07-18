@@ -31,6 +31,16 @@ sections:
         are innovating and reshaping their industries for tomorrow."
       alt: VISTAS
   - infopic:
+      title: Fulbright Distinguished Award Recipients of 2023 – 2024
+      subtitle: Fulbright DAI
+      id: infopic
+      description: Learn about their inquiry projects and reflections from their
+        four-month attachment to University of Rochester, U.S.
+      button: READ more
+      url: /professional-excellence/international-awards/da-in-teaching-program/
+      image: /images/Awards/SG_Fulbrighters2024.jpg
+      alt: Image alt text
+  - infopic:
       title: Teachers' Conference and ExCEL Fest 2025
       id: infopic
       button: View TCEF2025 highlights
