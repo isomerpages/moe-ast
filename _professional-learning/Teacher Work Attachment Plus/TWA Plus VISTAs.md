@@ -13,8 +13,8 @@ reshaping various industries for tomorrow.</p>
 <h4>Why tune in?</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Broaden Perspectives:&nbsp;Gain valuable insights on the forces and trends
-shaping the working world and the competencies needed.</p>
+<p>Broaden Perspectives:&nbsp;Gain valuable insights into the forces and
+trends shaping the working world and the competencies needed.</p>
 </li>
 <li>
 <p>Stay Inspired:&nbsp;Learn from personal stories of entrepreneurs that
