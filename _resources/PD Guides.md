@@ -39,7 +39,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" src="/images/green1.png">
 </div>
 <p><strong>Use the </strong><a href="https://go.gov.sg/arc-info" rel="noopener nofollow" target="_blank">A-R-C Learning Model</a><strong>to provide a variety of learning experiences and use of the </strong>
-<a href="https://go.gov.sg/plguide24" rel="noopener nofollow" target="_blank">Blended PD Guide</a><strong> to feature different elements (e.g., synchronous/ asynchronous, online/in-person) in the learning. <br><br></strong>
+<a href="https://go.gov.sg/plguide24" rel="noopener nofollow" target="_blank">Blended PL Guide</a><strong> to feature different elements (e.g., synchronous/ asynchronous, online/in-person) in the learning. <br><br></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/pldesign-01.png">
