@@ -3,31 +3,80 @@ title: Princess Maha Chakri Award (PMCA)
 permalink: /professional-excellence/international-awards/pmca/
 description: ""
 third_nav_title: International Awards
+variant: tiptap
 ---
-### Princess Maha Chakri Award (PMCA)
-
-<img style="width:20%" src="/images/PMCA%20logo.jpg"> 
-
-PMCA is a royal award to be presented by Her Royal Highness Princess Maha Chakri Sirindhorn of Thailand to commemorate her 60th birthday. This award will be offered once in two years, starting from 2015, to one teacher from each of the 11 SEAMEO member countries (10 ASEAN countries and Timor Leste) to celebrate excellence in the teaching profession and recognise teachers for their contribution to the future generation.
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/zL3M8VihlFQ?si=emSJStNWum39atVg" height="500" width="900"></iframe>
-
-**2023 Recipient**
-  
-  
-<p>
-	
-
-<img src="/images/pennychong-pmca.png" style="width:20%">      
-</p><center><b><p></p><center><b>Mdm Chong Chew Luan Penny <br>
-Ahmad Ibrahim Secondary School </b></center><br></b></center>
-
-Mdm Chong Chew Luan Penny is a teacher for visually impaired (VI) students, and she strongly believes in inclusive education. She has dedicated 15 years of excellent service to nurturing VI students in Ahmad Ibrahim Secondary School (AISS), which has 7 students who are VI and need additional support. Mdm Chong has been a dedicated resource teacher for all subjects that her VI students undertake. This duty also includes converting academic materials into Braille, developing additional materials, or embarking on ad hoc projects like learning an online tool for music composition to assist a student how to use it for his music examination at O-level. She also leads the other VI resource teachers in providing the best coaching programme for the VI students in the school.<br><br>
-
-Mdm Chong played an instrumental role in the holistic development of VI students through the implementation of various initiatives. For instance, she initiated a collaboration between the school and National University of Singapore’s College of Alice and Peter Tan since 2018 to reinforce the school's 2-level approach to the VI programme, whereby VI students learn daily living skills to gain greater independence and our sighted students learn to help and care for the VI. Building on this collaboration, Mdm Chong continued to develop the character and confidence of her VI students through service-learning experiences with the elderly in St. Luke’s Care Centre, and through teaching Braille to younger children from Tasek Jurong, a non-profit organisation that runs programmes to support and uplift the community.<br><br>
-
-While working on her students’ academic progress, Mdm Chong is also conscious about promoting inclusion in and outside of school. Therefore, she creates opportunities for VI students to interact with sighted students and get them involved in activities externally, where they work with mentors to pursue their interests or showcase their talents. For instance, since 2014, Penny has liaised with Ngee Ann Polytechnic (NP) and coordinated with the Assistant Year-Head and Form Teachers to organise the annual Dialogue-in-the-Dark Learning Journey in NP. This aims to provide first-hand experience of the challenges which VI persons face in their daily lives. Another partnership was with the Singapore Art Museum, where artists like Ling Nah and Angie Seah incorporated adaptations in their artworks for the VI students, allowing them to have hands-on activities that develop their analytical skills in art.<br><br>
-
-Mdm Chong is regarded as an expert on educational matters for VI students due to her rich experience and the depth of her work. As a result, Mdm Chong often shares her knowledge with officers in MOE HQ, other education institutions and Singapore Examinations and Assessment Board on VI-related issues. Beyond Singapore, Mdm Chong had also hosted a Vietnamese delegate from Nguyen Ding Chiu School for the Blind in Ho Chih Minh City, where she shared and exchanged pedagogy and practices with the delegate. This exchange also broadened her views on VI education which enriches her work with her VI students. These professional conversations have helped the fraternity grow its knowledge in teaching VI students. Furthermore, her work with the VI students at AISS has broadly shaped the school’s way of managing and working with SEN students, and in supporting access arrangement for students with various impairments for learning and examinations.
- 
-Read more about Mdm Chong here: [https://www.schoolbag.edu.sg/story/teaching-independence-in-a-sighted-world](https://www.schoolbag.edu.sg/story/teaching-independence-in-a-sighted-world)
+<h3>Princess Maha Chakri Award (PMCA)</h3>
+<div class="isomer-image-wrapper">
+<img style="width:20%" height="auto" width="100%" src="/images/PMCA%20logo.jpg">
+</div>
+<p>PMCA is a royal award to be presented by Her Royal Highness Princess Maha
+Chakri Sirindhorn of Thailand to commemorate her 60th birthday. This award
+will be offered once in two years, starting from 2015, to one teacher from
+each of the 11 SEAMEO member countries (10 ASEAN countries and Timor Leste)
+to celebrate excellence in the teaching profession and recognise teachers
+for their contribution to the future generation.</p>
+<p><strong>2025 PMCA Recipient</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Sing_Yee_PMCA_1.jpg">
+</div>
+<p><strong>Mdm Ang Sing Yee</strong>
+</p>
+<p><strong>Guidance Branch, Student Development Curriculum Division 1 Formerly Compassvale Secondary School</strong>
+</p>
+<p>Mdm Ang Sing Yee champions inclusive education anchored in strong teacher-student
+relationships. She focuses on supporting students with special educational
+needs and those from challenging backgrounds, fostering a supportive learning
+environment for all students.</p>
+<p></p>
+<p>As the team lead for special educational needs in her school, Mdm Ang
+is a role model for the staff in building a warm and supportive culture.
+She collaborates closely with the school's special educational needs officer
+to understand and effectively address these students' challenges and help
+them to develop holistically. This teamwork has resulted in significant
+improvements in both students' behaviour and development, and academic
+confidence as they progress through school. For example, one student, who
+was disruptive and unfocused in Secondary 1, graduated as a top student
+of the cohort and progressed to a polytechnic. Mdm Ang also creates tailored
+intervention plans for her students with additional needs, teaching them
+life skills and transforming their lives. With her intensive support plan,
+another student from a challenging family background learnt to manage the
+demands of home and school, and successfully applied to polytechnic, thus
+gaining renewed optimism for the future.</p>
+<p></p>
+<p>Mdm Ang leveraged her experience in fostering strong teacher-student relationships
+to pioneer the use of the Teacher-Student Relationship Inventory, developed
+by the Singapore Ministry of Education. &nbsp;Her effort successfully helped
+teachers in her school foster strong relationships with their students
+as they adjusted their practices to better support students’ needs. She
+was invited by the Ministry to share her approach implementing the inventory
+at the 2023 Teachers' Conference and ExCEL Fest, inspiring educators nationwide.&nbsp;
+She also partnered the Ministry to develop a video showcasing the impact
+of the inventory, that was widely shared with all teachers.&nbsp; She has
+also implemented various school-wide initiatives to build teacher-student
+relationships and to enhance student well-being, for example, “Tender Tuesdays”,
+to provide weekly opportunities for one-on-one teacher-student chats, a
+“Back-to-School” package, to ease students' transition to school after
+long holidays, and “Mindful Monday” to build emotional regulation and resilience.</p>
+<p></p>
+<p>Recognising the importance of holistic development, Mdm Ang refreshed
+the school's signature STAR Programme to heighten students’ awareness of
+community needs. This programme provides students with authentic experiences
+to develop their character and 21st-century competencies, with themes expanding
+from “Self” in Secondary 1 to “World” in Secondary 4. To provide community-related
+experiences, her team planned visits to various community groups, allowing
+students to gain better awareness of diverse communities in Singapore.
+For example, some Secondary 3 students went on a learning journey to Enabling
+Village, where they had the opportunity to interact with people of varied
+abilities and hear their inspiring stories, helping them better relate
+to schoolmates with different abilities and special educational needs.
+She also initiated “Felicitous Friday” to celebrate student successes and
+share inspirational stories, contributing to a positive school culture.
+&nbsp;In 2023, she invited students to share their inspiring community
+service experiences of “Volunteering at International Migrants Day”.</p>
+<p></p>
+<p>Beyond her school, Mdm Ang actively engages with parents and the community.
+&nbsp;She strengthened parent-school partnerships by establishing four
+annual touchpoints between parents and teachers. &nbsp;Her efforts extend
+to collaborating with external agencies like TOUCH Youth and REACH to support
+students with more complex needs.</p>
