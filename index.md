@@ -14,6 +14,13 @@ sections:
       backgroundColor: gray
       title: Welcome to Academy of Singapore Teachers
   - infopic:
+      title: Congratulations to our PAT 2025 Recipients and Finalists!
+      id: infopic
+      button: Read More
+      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/presidents-award-for-teachers/recipients-and-finalists/
+      image: /images/Awards/PAT25_5Sep25.png
+      alt: Image alt text
+  - infopic:
       title: Congratulations to OYEA 2025 Recipients and Finalists
       id: infopic
       button: Read more
