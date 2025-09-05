@@ -19,12 +19,12 @@ the 21st&nbsp;Century.</p>
 <p><strong>Recipients</strong>
 <br>Nurul Huda Bte Juma'at
 <br>Fuhua Primary School
-<br><a href="https://www.schoolbag.edu.sg/story/she-finds-ways-to-lift-her-students-invisible-burdens/" rel="noopener nofollow" target="_blank">She finds ways to lift her students’ ‘invisible burdens’ </a>
+<br><a href="https://www.schoolbag.edu.sg/story/she-finds-ways-to-lift-her-students-invisible-burdens/" rel="noopener nofollow" target="_blank">She finds ways to lift her students’ ‘invisible burdens’</a>
 </p>
 <p></p>
 <p>Usha d/o Krishnasamy
 <br>North View Primary School
-<br><a href="https://www.schoolbag.edu.sg/story/she-ensures-that-students-with-different-needs-have-opportunities-to-shine/" rel="noopener nofollow" target="_blank">She ensures that students with different needs have opportunities to shine. </a>
+<br><a href="https://www.schoolbag.edu.sg/story/she-ensures-that-students-with-different-needs-have-opportunities-to-shine/" rel="noopener nofollow" target="_blank">She ensures that students with different needs have opportunities to shine.</a>
 </p>
 <p>Sng Kuo Wai Simon
 <br>Bedok South Secondary School
@@ -38,7 +38,7 @@ the 21st&nbsp;Century.</p>
 <p></p>
 <p>Abdul Hadi Bin Abdul Wahab
 <br>Holy Innocents’ High School
-<br><a href="https://www.schoolbag.edu.sg/story/he-turns-classrooms-into-creative-spaces-and-safe-havens/" rel="noopener nofollow" target="_blank">He turns classrooms into creative spaces and safe havens. </a> 
+<br><a href="https://www.schoolbag.edu.sg/story/he-turns-classrooms-into-creative-spaces-and-safe-havens/" rel="noopener nofollow" target="_blank">He turns classrooms into creative spaces and safe havens.</a>
 </p>
 <p>Wong Mei Ying, Debbie
 <br>North Vista Secondary School
@@ -52,8 +52,7 @@ the 21st&nbsp;Century.</p>
 <p>Lina Tan Lay Nah
 <br>Nanyang Polytechnic
 <br><a href="https://www.schoolbag.edu.sg/story/she-teaches-lessons-in-flavour-grit-and-dignity/" rel="noopener nofollow" target="_blank">She teaches lessons in flavour, grit and dignity.</a> 
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/she-teaches-lessons-in-flavour-grit-and-dignity/</a> )</p>
-<p>&nbsp;</p>
+<br>&nbsp;</p>
 <p><strong>Finalists</strong>&nbsp;</p>
 <p>Lo Zhi Hui Jonathan
 <br>Endeavour Primary School
@@ -66,7 +65,7 @@ the 21st&nbsp;Century.</p>
 <p></p>
 <p>Lee Siok Kwan
 <br>Woodgrove Primary School
-<br><a href="https://www.schoolbag.edu.sg/story/family-tradition-that-led-to-her-career-of-a-lifetime/" rel="noopener nofollow" target="_blank">Family tradition that led to her career of a lifetime. </a>
+<br><a href="https://www.schoolbag.edu.sg/story/family-tradition-that-led-to-her-career-of-a-lifetime/" rel="noopener nofollow" target="_blank">Family tradition that led to her career of a lifetime.</a>
 </p>
 <p>Quek Shir Ryn
 <br>Bartley Secondary School
@@ -82,19 +81,19 @@ the 21st&nbsp;Century.</p>
 <br><a href="https://www.schoolbag.edu.sg/story/he-brings-purpose-and-precision-to-every-classroom-move/" rel="noopener nofollow" target="_blank">He brings purpose and precision to every classroom move</a> &nbsp;</p>
 <p>Izriena Idris
 <br>Institute of Technical Education
-<br><a href="https://www.schoolbag.edu.sg/story/she-tailors-lessons-to-her-students-trades-and-traits/" rel="noopener nofollow" target="_blank">She tailors lessons to her students’ trades and traits</a> 
+<br><a href="https://www.schoolbag.edu.sg/story/she-tailors-lessons-to-her-students-trades-and-traits/" rel="noopener nofollow" target="_blank">She tailors lessons to her students’ trades and traits</a>
 </p>
 <p></p>
 <p>Ng Wen Lei
 <br>Nanyang Polytechnic
-<br><a href="https://www.schoolbag.edu.sg/story/this-artist-lecturer-designs-hope-and-confidence-in-her-students/" rel="noopener nofollow" target="_blank">This artist-lecturer designs hope and confidence in her students </a>
+<br><a href="https://www.schoolbag.edu.sg/story/this-artist-lecturer-designs-hope-and-confidence-in-her-students/" rel="noopener nofollow" target="_blank">This artist-lecturer designs hope and confidence in her students</a>
 </p>
 <p>Goh Kheng Hsiang Mario
 <br>Ngee Ann Polytechnic
-<br><a href="https://www.schoolbag.edu.sg/story/his-dual-empathy-approach-helps-students-find-their-true-north/" rel="noopener nofollow" target="_blank">His 'dual empathy' approach helps students find their True North </a>
+<br><a href="https://www.schoolbag.edu.sg/story/his-dual-empathy-approach-helps-students-find-their-true-north/" rel="noopener nofollow" target="_blank">His 'dual empathy' approach helps students find their True North</a>
 </p>
 <p></p>
 <p>Kwek Kah Hwee, Eric
 <br>Republic Polytechnic
-<br><a href="https://www.schoolbag.edu.sg/story/this-accidental-lecturer-is-poised-to-help-students-find-their-way/" rel="noopener nofollow" target="_blank">This accidental lecturer is poised to help students find their way.</a> 
+<br><a href="https://www.schoolbag.edu.sg/story/this-accidental-lecturer-is-poised-to-help-students-find-their-way/" rel="noopener nofollow" target="_blank">This accidental lecturer is poised to help students find their way.</a>
 </p>
