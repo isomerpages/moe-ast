@@ -5,14 +5,13 @@ description: ""
 third_nav_title: President's Award for Teachers
 variant: tiptap
 ---
-<h3>Congratulations to our PAT 2024 Recipients and Finalists!</h3>
+<h3>Congratulations to our PAT 2025 Recipients and Finalists!</h3>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards/PAT_v2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="PAT2025" src="/images/Awards/PAT25_5Sep25.png">
 </div>
 <p></p>
-<p>
-<br><strong>PAT Recipients and Finalists 2024</strong>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -31,66 +30,66 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Shang Thian Huat</p>
+<p>Nurul Huda Bte Juma'at&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Blangah Rise Primary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Kevin Joseph Francis</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chongzheng Primary School</p>
+<p>Fuhua Primary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mohan s/o Krishnamoorthy</p>
+<p>Usha d/o Krishnasamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Greendale Primary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chua Jin Xun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Opera Estate Primary School</p>
+<p>North View Primary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bryan Tan Yong Hao</p>
+<p>Sng Kuo Wai Simon&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Temasek Secondary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nan Zhonghua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yuan Ching Secondary School</p>
+<p>Bedok South Secondary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Eunice Chia Siew Peng</p>
+<p>Kang Yin Ga, Germain&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fuhua Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Abdul Hadi Bin Abdul Wahab&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Holy Innocents’ High School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wong Mei Ying, Debbie&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Vista Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Max Chua Kang Loong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Institute of Technical Education College West</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lina Tan Lay Nah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nanyang Polytechnic</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Clarice Sim Chwei Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Polytechnic</p>
 </td>
 </tr>
 </tbody>
@@ -113,82 +112,82 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Guo Yuanhui Adelene</p>
+<p>Lo Zhi Hui Jonathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Anderson Primary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chan Zi Xian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yio Chu Kang Primary School</p>
+<p>Endeavour Primary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Toh Ji Rong</p>
+<p>Lin Shiying Diana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Beatty Secondary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ang Sing Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Compassvale Secondary School</p>
+<p>Kong Hwa Primary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Suan Khee Judy</p>
+<p>Lee Siok Kwan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hougang Secondary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Yogeswari d/o Ponnambalam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Punggol Secondary School</p>
+<p>Woodgrove Primary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jebaraj Preethi</p>
+<p>Quek Shir Ryn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Institute of Technical Education</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Leong Kim Soon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Institute of Technical Education</p>
+<p>Bartley Secondary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Boon Yang Vincent</p>
+<p>Elsie Cheng Swee Eng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Edgefield Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Marek Otreba</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St. Andrew’s Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Izriena Idris</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Institute of Technical Education College East</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Wen Lei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nanyang Polytechnic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Goh Kheng Hsiang Mario</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ngee Ann Polytechnic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kwek Kah Hwee, Eric</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Republic Polytechnic</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Zhang Huiyu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Temasek Polytechnic</p>
 </td>
 </tr>
 </tbody>
