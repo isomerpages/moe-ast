@@ -18,7 +18,7 @@ for their contribution to the future generation.</p>
 <p><strong>2025 PMCA Recipient</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sing_Yee_PMCA_1.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Sing_Yee_PMCA_1.jpg">
 </div>
 <p><strong>Mdm Ang Sing Yee</strong>
 </p>
