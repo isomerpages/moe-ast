@@ -20,7 +20,11 @@ for their contribution to the future generation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Sing_Yee_PMCA_1.jpg">
 </div>
-<p><strong>Mdm Ang Sing Yee                                                                                                                      Guidance Branch, Student Development Curriculum Division 1                             Formerly Compassvale Secondary School</strong>
+<p><strong>Mdm Ang Sing Yee </strong>
+</p>
+<p><strong>Guidance Branch, Student Development Curriculum Division 1 </strong>
+</p>
+<p><strong>Formerly Compassvale Secondary School</strong>
 </p>
 <p>Mdm Ang Sing Yee champions inclusive education anchored in strong teacher-student
 relationships. She focuses on supporting students with special educational
