@@ -18,17 +18,14 @@ for their contribution to the future generation.</p>
 <p><strong>2025 PMCA Recipient</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Sing_Yee_PMCA_1.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Sing_Yee_PMCA_1.jpg">
 </div>
-<p><strong>Mdm Ang Sing Yee</strong>
-</p>
-<p><strong>Guidance Branch, Student Development Curriculum Division 1 Formerly Compassvale Secondary School</strong>
+<p><strong>Mdm Ang Sing Yee<br>Guidance Branch, Student Development Curriculum Division 1<br>Formerly Compassvale Secondary School</strong>
 </p>
 <p>Mdm Ang Sing Yee champions inclusive education anchored in strong teacher-student
 relationships. She focuses on supporting students with special educational
 needs and those from challenging backgrounds, fostering a supportive learning
 environment for all students.</p>
-<p></p>
 <p>As the team lead for special educational needs in her school, Mdm Ang
 is a role model for the staff in building a warm and supportive culture.
 She collaborates closely with the school's special educational needs officer
@@ -43,7 +40,6 @@ life skills and transforming their lives. With her intensive support plan,
 another student from a challenging family background learnt to manage the
 demands of home and school, and successfully applied to polytechnic, thus
 gaining renewed optimism for the future.</p>
-<p></p>
 <p>Mdm Ang leveraged her experience in fostering strong teacher-student relationships
 to pioneer the use of the Teacher-Student Relationship Inventory, developed
 by the Singapore Ministry of Education. &nbsp;Her effort successfully helped
@@ -58,7 +54,6 @@ relationships and to enhance student well-being, for example, “Tender Tuesdays
 to provide weekly opportunities for one-on-one teacher-student chats, a
 “Back-to-School” package, to ease students' transition to school after
 long holidays, and “Mindful Monday” to build emotional regulation and resilience.</p>
-<p></p>
 <p>Recognising the importance of holistic development, Mdm Ang refreshed
 the school's signature STAR Programme to heighten students’ awareness of
 community needs. This programme provides students with authentic experiences
@@ -74,7 +69,6 @@ She also initiated “Felicitous Friday” to celebrate student successes and
 share inspirational stories, contributing to a positive school culture.
 &nbsp;In 2023, she invited students to share their inspiring community
 service experiences of “Volunteering at International Migrants Day”.</p>
-<p></p>
 <p>Beyond her school, Mdm Ang actively engages with parents and the community.
 &nbsp;She strengthened parent-school partnerships by establishing four
 annual touchpoints between parents and teachers. &nbsp;Her efforts extend
