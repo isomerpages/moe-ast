@@ -56,7 +56,7 @@ the 21st&nbsp;Century.</p>
 <p><strong>Finalists</strong>&nbsp;</p>
 <p>Lo Zhi Hui Jonathan
 <br>Endeavour Primary School
-<br><a href="https://www.schoolbag.edu.sg/story/she-teaches-lessons-in-flavour-grit-and-dignity/" rel="noopener nofollow" target="_blank">This Science teacher is a ‘balsam plant’ for spreading knowledge and kindness</a>
+<br><a href="https://www.schoolbag.edu.sg/story/this-science-teacher-is-a-balsam-plant-for-spreading-knowledge-and-kindness/" rel="noopener nofollow" target="_blank">This Science teacher is a ‘balsam plant’ for spreading knowledge and kindness</a>
 </p>
 <p>Lin Shiying Diana
 <br>Kong Hwa Primary School
