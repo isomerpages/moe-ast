@@ -25,8 +25,9 @@ the teaching fraternity to a higher international standing.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="One-Academy Org Chart" src="/images/Org Chart/One_Academy_orgchart_14Jan.png">
+<img style="width: 100%" height="auto" width="100%" alt="orgchart-sep25" src="/images/Org Chart/One_Academy_orgchart_17Sep25.png">
 </div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -71,6 +72,14 @@ the teaching fraternity to a higher international standing.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pedagogical Excellence Branch</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PDPO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Professional Development Planning Office</p>
 </td>
 </tr>
 <tr>
