@@ -264,7 +264,7 @@ BTs, ST-LT Network Learning, etc.</p>
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Temasek Secondary School</p>
+<p>Pasir Ris Crest Secondary School</p>
 </td>
 </tr>
 <tr>
