@@ -250,10 +250,24 @@ identifying and adopting good practices.</p>
 <p>5.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Nurul Amalina Binte Jamaludin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Maris Stella High School (Primary)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Yap Zhi Jun Vivienne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
+<p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Greenridge Primary School</p>
@@ -261,7 +275,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6.</p>
+<p>7.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chiang Suet Ling Michelle</p>
@@ -275,24 +289,10 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nurul Amalina Binte Jamaludin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Woodlands Secondary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>8.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Eng Leong, Alan</p>
+<p>Mr Tan Eng Leong Alan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
@@ -435,10 +435,12 @@ identifying and adopting good practices.</p>
 <p>Ms Rachel Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Special Assistant (Schools Div -North)</p>
+<p>Special Assistant</p>
+<p>(Schools Div -North)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Schools Division (Formerly at Rivervale Primary School)</p>
+<p>Schools Division</p>
+<p>(Formerly at Rivervale Primary School)</p>
 </td>
 </tr>
 <tr>
@@ -449,11 +451,11 @@ identifying and adopting good practices.</p>
 <p>Mr Lim Yu Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Head (SkillsFuture)</p>
+<p>Senior Manager (SkillsFuture)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SkillsFuture Division, Higher Education Group (Formerly at Springfield
-Secondary School)</p>
+<p>Higher Education Group</p>
+<p>(Formerly at Springfield Secondary School)</p>
 </td>
 </tr>
 </tbody>
