@@ -604,14 +604,8 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <p></p>
 <hr>
 <h4>Nutrition and Food Science Master Teachers</h4>
-<div class="isomer-image-wrapper">
-<img style="width:80px;height:106px;margin-left:15px;" height="auto" width="100%" src="/images/nfs.png">
-</div>
-<p><strong>Mdm Gnanamany Yacob</strong>
-<br>Master Teacher / Nutrition and Food Science
-<br>Email: <a href="mailto:Gnanamany_Yacob@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Gnanamany_Yacob@moe.gov.sg</a>
-</p>
-<p></p>
+<br>
+
 <div class="isomer-image-wrapper">
 <img style="width:80px;height:106px;margin-left:15px;" height="auto" width="100%" src="/images/pxb-anglaykheng8a0cdc2b154748df97af4a86840c0942.jpg">
 </div>
