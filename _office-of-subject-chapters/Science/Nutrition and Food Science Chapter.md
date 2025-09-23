@@ -41,7 +41,12 @@ and to&nbsp;share ideas and resources with fellow teachers in the NFS&nbsp;frate
 </ul>
 <hr>
 <h3>Our Subject Chapter Core Team</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -61,17 +66,6 @@ and to&nbsp;share ideas and resources with fellow teachers in the NFS&nbsp;frate
 <td rowspan="1" colspan="1">
 <p><strong>Division/Branch or School</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Gnanamany Yacob (Mrs Philip)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Master Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AST/PXB</p>
 </td>
 </tr>
 <tr>
