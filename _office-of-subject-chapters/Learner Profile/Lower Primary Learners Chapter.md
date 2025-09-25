@@ -43,8 +43,11 @@ to primary school education.</p>
 them for the next level (P3) as well as to foster the holistic development
 of each child.</p>
 </li>
+</ul>
+<p><strong>Vision of LPL Chapter</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Vision of LPL Chapter (What)</p>
 <p>A community of&nbsp;competent teacher&nbsp;leaders&nbsp;with strong pedagogical
 leadership in leading, guiding and inspiring lower primary learners.</p>
 </li>
@@ -160,7 +163,7 @@ leadership in leading, guiding and inspiring lower primary learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Pei Sze Amanda</p>
+<p>Amanda Tan Pei Sze</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
