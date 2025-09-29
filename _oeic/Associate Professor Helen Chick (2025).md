@@ -26,5 +26,29 @@ in teacher development, A/P Helen is ideally suited to inspire and upskill
 Singapore's Mathematics teachers. Her expertise in explicit teaching, problem-solving,
 and effective classroom dialogue was invaluable in enhancing our educators'
 capabilities.</p>
-<h4>Overview of Collaboration between Outstanding Educator (OE), Master Teachers (MTT) and Teacher Collaborator (TC)</h4>
+<p><u>Overview of Collaboration between Outstanding Educator (OE), Master Teachers (MTT) and Teacher Collaborator (TC)</u>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.png">
+</div>
+<p><u>Overview of MLD1 and MMTL Webinars</u>
+</p>
+<h3><strong>Keynote Address at Mathematics Learning Day 1 (22 April)</strong></h3>
+<p><strong><em>Critical, Adaptive, and Inventive Thinking in the Mathematics Classroom</em></strong>
+</p>
+<p>This keynote presentation by A/P Helen explored how Critical, Adaptive,
+and Inventive Thinking (CAIT) can be fostered in Mathematics education.
+The presentation demonstrated that developing CAIT requires deliberate
+teacher effort in planning, task selection, classroom culture development,
+and questioning. Importantly, fostering CAIT in students also requires
+CAIT from teachers themselves. The overarching message was that Mathematics
+classrooms can indeed be spaces for creative, critical thinking when teachers
+thoughtfully design tasks, cultivate appropriate classroom cultures, and
+employ strategic teaching actions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.png">
+</div>
 <p></p>
