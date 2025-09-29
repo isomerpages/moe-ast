@@ -64,4 +64,66 @@ learning, as teaching is fundamentally about ensuring students learn.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.png">
 </div>
+<p><u>Overview of Lesson Demonstration at Casuarina Primary School</u>
+</p>
+<p>A/P Helen collaborated with our local Teacher Collaborator, Mrs Sarah
+Teng (Senior Teacher/Mathematics, Casuarina Primary School), to design
+and enact a lesson on ‘Fraction as Part of a Whole’ for Primary 2 students.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
+</div>
+<p>The lesson systematically built students' understanding of unit fractions
+through review, exploration, and application.</p>
+<p>Throughout each phase, consistent questioning encouraged students to identify
+patterns in notation, naming conventions, and the relationship between
+denominators and equal parts, whilst comparing fraction sizes to develop
+proportional reasoning.</p>
+<p>The lesson concluded with an interactive matching activity where students
+identified and grouped fraction cards based on mathematical properties,
+effectively consolidating understanding through hands-on manipulatives
+and collaborative<strong> </strong>learning.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
+</div>
+<p><u>Overview of Lesson Demonstration at Changkat Changi Secondary School</u>
+</p>
+<p>A/P Helen collaborated with our local Teacher Collaborator, Ms Huang Yaling
+(Senior Teacher/Mathematics, Changkat Changi Secondary School), to design
+and enact a lesson on ‘Line Graphs’ for Secondary 1 students.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8.jpg">
+</div>
+<p>The lesson systematically developed students' understanding of line graphs
+through critical analysis of flawed infographics, practical construction
+using real-world temperature data of Singapore and Hobart, and comparative
+interpretation techniques.</p>
+<p>Beginning with examination of a deliberately problematic infographic to
+establish graphs as tools for revealing data patterns, students progressed
+through structured exploration where they plotted multiple datasets on
+shared axes, discovering how visual representation makes patterns more
+apparent than tabular data when examining seasonal variation and geographical
+differences.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
+</div>
+<p>The lesson effectively integrated guided questioning about design choices,
+scale selection, and axis labelling, while extending learning through rainfall
+analysis and bar graph comparison, demonstrating how hands-on graphing
+activities can enhance students' ability to interpret and construct meaningful
+statistical representations that facilitate direct data comparison and
+trend analysis.</p>
+<h4>Overview of Workshops</h4>
+<p>A/P Helen conducted four workshops which explored how strategic questioning
+transforms Mathematics learning by developing students' CAIT capabilities.
+Participants examined six evidence-based question types that enhance classroom
+discourse and mathematical reasoning: Reasoning Questions ("How do you
+know?") that emphasise justification and reveal student thinking, Hypothetical
+Exploration ("What happens if...?") that develops key mathematical ideas
+and extends thinking, Example Generation ("Can you give me an example of...?")
+that builds students' conceptual understanding through varied examples,
+Conditional Reasoning ("Sometimes, always or never true?") that explores
+when principles apply and develops logical thinking, Fermi Questions that
+develop real-world problem-solving and estimation skills, and Backwards
+Questions ("If this is the answer, what might the question have been?")
+that emphasise mathematical structure and reversibility.</p>
 <p></p>
