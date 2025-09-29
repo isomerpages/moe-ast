@@ -64,8 +64,7 @@ learning, as teaching is fundamentally about ensuring students learn.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.png">
 </div>
-<p><u>Overview of Lesson Demonstration at Casuarina Primary School</u>
-</p>
+<h4>Overview of Lesson Demonstration at Casuarina Primary School</h4>
 <p>A/P Helen collaborated with our local Teacher Collaborator, Mrs Sarah
 Teng (Senior Teacher/Mathematics, Casuarina Primary School), to design
 and enact a lesson on ‘Fraction as Part of a Whole’ for Primary 2 students.</p>
@@ -155,8 +154,7 @@ for real-world problem-solving, and "Sometimes/always/never true" statements
 for promoting Mathematical communication. Teachers also appreciated backwards
 questioning techniques and found the "How do you know" prompts effective
 for encouraging student reasoning.</p>
-<p><u>Contextualisation and Application by our Teacher Collaborators</u>
-</p>
+<h4>Contextualisation and Application by our Teacher Collaborators</h4>
 <p>Our Teacher Collaborators, Mrs Sarah Teng (ST/Mathematics, Casuarina Primary
 School) and Ms Huang Yaling (ST/Mathematics, Changkat Changi Secondary
 School) both contextualised and applied the questioning techniques they
@@ -182,4 +180,57 @@ symbols and terminology.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture14.jpg">
 </div>
+<p>Yaling's statistics lesson at Changkat Changi Secondary School exemplifies
+effective blended learning, combining pre-lesson SLS activities on pictograms
+and bar graphs with classroom application to pie chart construction using
+authentic CCA data. The lesson systematically built understanding through
+structured comparison of statistical representations, progressing from
+review and analysis to hands-on construction using GeoGebra, while addressing
+a common misconception that larger pie chart sectors always indicate a
+larger number by comparing different-sized datasets. Employing questioning
+techniques inspired by A/P Helen’s workshop on fostering Critical, Adaptive
+and Inventive Thinking, Yaling used strategic prompts like "Which statistical
+diagram is easier to draw?" and "Is it sometimes, always or never true
+that...?" to develop students' critical thinking about data interpretation.
+The lesson integrated continuous formative assessment through Classkick
+uploads, real-time feedback, and confidence scale self-assessment, demonstrating
+how technology tools can enhance mathematical understanding while encouraging
+students to justify their reasoning rather than simply providing correct
+answers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture15.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture16.png">
+</div>
+<h4>OEIC Insights from Professional Conversation(s) with NIE, CPDD, and AST</h4>
+<p>A/P Helen found the professional dialogues to be valuable and mutually
+beneficial. These conversations enabled all participants to compare education
+systems, discuss current priorities for Mathematics learning and teaching
+in a rapidly changing world. She expressed appreciation for meeting educators
+who demonstrate strong commitment to making a difference for the teachers
+they work with and, ultimately, for students.</p>
+<h4>OEIC Insights for Mathematics Education</h4>
+<p>A/P Helen's educational philosophy is deeply rooted in her multifaceted
+background as a mathematician and mathematics educator. Her approach is
+founded on a deep belief that everyone has a right to access the power
+and beauty of mathematics, viewing her role as facilitating students' pathways
+to familiarity and fluency with key Mathematical concepts. She advocates
+for a balanced approach where students develop core skills applicable in
+routine contexts while engaging in genuine problem-solving, emphasising
+that Mathematics fundamentally involves generalising from specific cases.
+Central to her philosophy is the belief that students should understand
+Mathematics conceptually, not merely perform tasks procedurally, requiring
+both relational and instrumental understanding through carefully designed
+classroom activities, discussions, and questioning strategies.</p>
+<p>A/P Helen acknowledges that teachers may hold different views of Mathematics
+and student learning but believes that appropriate professional learning
+can enhance teachers' repertoires by demonstrating new practices, developing
+new skills, and generating productive reflection. She recognises the practical
+challenges in ensuring professional learning programmes<a rel="noopener noreferrer nofollow" target="_blank"> </a>reach as many teachers as possible
+to enhance teaching practices that help students see Mathematics as meaningful,
+useful, and beautiful while building strong conceptual connections.</p>
+<p>We are honoured to have collaborated with A/P Helen through the OEIC Programme
+and we would like to thank her for her generosity in sharing her insights
+with our local educators.</p>
