@@ -51,4 +51,17 @@ employ strategic teaching actions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.png">
 </div>
+<h4><strong>Keynote Address at Professional Learning Session 2 for MMs/TLs (29 July)</strong></h4>
+<p><strong><em>Planning for Explicit Learning in Mathematics to Deepen Connections</em></strong>
+</p>
+<p>This presentation by A/P Helen Chick focused on planning Mathematics lessons
+for explicit learning. The session emphasised that planning is critical
+as it challenges teachers to identify what explicit learning they want
+for their students. Teachers may make different planning decisions, but
+what matters are the reasons for their choices. Thinking carefully about
+examples, tasks, questions, and connections can significantly impact student
+learning, as teaching is fundamentally about ensuring students learn.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.png">
+</div>
 <p></p>
