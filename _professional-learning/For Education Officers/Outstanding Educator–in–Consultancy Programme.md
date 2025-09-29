@@ -51,6 +51,9 @@ platforms via our OEIC OPAL2.0 Wikipage: <a rel="noopener noreferrer nofollow" t
 login is required.)</p>
 <ul>
 <li>
+<p>2025 OEIC: Associate Professor Helen Chick</p>
+</li>
+<li>
 <p>2024 OEIC: <a href="https://academyofsingaporeteachers.moe.edu.sg/dr-emma-rawlings-smith-2024/" rel="noopener noreferrer" target="_blank"><u>Dr Emma Rawlings Smith</u></a>
 </p>
 </li>
