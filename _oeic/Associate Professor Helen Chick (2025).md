@@ -126,4 +126,60 @@ when principles apply and develops logical thinking, Fermi Questions that
 develop real-world problem-solving and estimation skills, and Backwards
 Questions ("If this is the answer, what might the question have been?")
 that emphasise mathematical structure and reversibility.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture10.jpg">
+</div>
+<p>Through practical implementation strategies and classroom application
+examples, teachers gained insights into the power of purposeful questioning
+to help students generalise, form Mathematical abstractions, and engage
+in deeper mathematical reasoning within active questioning environments.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture11.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture12.jpg">
+</div>
+<p><u>Feedback from Workshop Participants</u>
+</p>
+<p>Participants found the workshop on questioning techniques to be highly
+practical and immediately applicable to their classroom practice. They
+particularly valued the structured six question types framework, which
+provided ready-to-use templates with clear purposes for developing students'
+Critical, Adaptive and Inventive Thinking (CAIT). Using these questions
+strategically make students’ thinking visible and help students develop
+Mathematical generalisations.</p>
+<p>There were strong interests for specific questioning strategies, especially
+"What if" questions for deepening conceptual understanding, Fermi questions
+for real-world problem-solving, and "Sometimes/always/never true" statements
+for promoting Mathematical communication. Teachers also appreciated backwards
+questioning techniques and found the "How do you know" prompts effective
+for encouraging student reasoning.</p>
+<p><u>Contextualisation and Application by our Teacher Collaborators</u>
+</p>
+<p>Our Teacher Collaborators, Mrs Sarah Teng (ST/Mathematics, Casuarina Primary
+School) and Ms Huang Yaling (ST/Mathematics, Changkat Changi Secondary
+School) both contextualised and applied the questioning techniques they
+gleaned from A/P Helen in their own classrooms.</p>
+<p>Sarah’s innovative fractions lesson at Casuarina Primary School demonstrated
+exemplary use of the Concrete-Pictorial-Abstract approach, where students
+explored halves and quarters through hands-on manipulation of square paper
+"brownies" before progressing to mathematical notation. Building on familiar
+concepts from the "Give me half" story, students discovered that equal
+parts can look different while maintaining the same size, developing deep
+conceptual understanding through active learning strategies including peer
+sharing, class discussions, and visual representations. The lesson effectively
+integrated formative assessment through continuous checking for understanding,
+thumbs up/down responses, and exit tickets, while employing strategic questioning
+techniques to elicit student thinking and build mathematical understanding
+through meaningful dialogue, ultimately helping students grasp the concept
+that fractions represent equal parts of a whole before introducing abstract
+symbols and terminology.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture13.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture14.jpg">
+</div>
 <p></p>
