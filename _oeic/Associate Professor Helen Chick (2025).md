@@ -234,3 +234,5 @@ useful, and beautiful while building strong conceptual connections.</p>
 <p>We are honoured to have collaborated with A/P Helen through the OEIC Programme
 and we would like to thank her for her generosity in sharing her insights
 with our local educators.</p>
+<p><em>(All images featured on this website are used with proper authorisation and necessary permissions have been obtained.)</em>
+</p>
