@@ -49,7 +49,7 @@ classrooms can indeed be spaces for creative, critical thinking when teachers
 thoughtfully design tasks, cultivate appropriate classroom cultures, and
 employ strategic teaching actions.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture4.png">
 </div>
 <h4><strong>Keynote Address at Professional Learning Session 2 for MMs/TLs (29 July)</strong></h4>
 <p><strong><em>Planning for Explicit Learning in Mathematics to Deepen Connections</em></strong>
