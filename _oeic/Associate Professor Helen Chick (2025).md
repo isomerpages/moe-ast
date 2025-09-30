@@ -49,7 +49,7 @@ classrooms can indeed be spaces for creative, critical thinking when teachers
 thoughtfully design tasks, cultivate appropriate classroom cultures, and
 employ strategic teaching actions.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture4.png">
 </div>
 <h4><strong>Keynote Address at Professional Learning Session 2 for MMs/TLs (29 July)</strong></h4>
 <p><strong><em>Planning for Explicit Learning in Mathematics to Deepen Connections</em></strong>
@@ -62,7 +62,7 @@ what matters are the reasons for their choices. Thinking carefully about
 examples, tasks, questions, and connections can significantly impact student
 learning, as teaching is fundamentally about ensuring students learn.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture5.png">
 </div>
 <h4>Overview of Lesson Demonstration at Casuarina Primary School</h4>
 <p>A/P Helen collaborated with our local Teacher Collaborator, Mrs Sarah
@@ -198,7 +198,7 @@ how technology tools can enhance mathematical understanding while encouraging
 students to justify their reasoning rather than simply providing correct
 answers.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture15.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture15.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
