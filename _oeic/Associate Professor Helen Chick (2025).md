@@ -198,7 +198,7 @@ how technology tools can enhance mathematical understanding while encouraging
 students to justify their reasoning rather than simply providing correct
 answers.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture15.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture15.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
