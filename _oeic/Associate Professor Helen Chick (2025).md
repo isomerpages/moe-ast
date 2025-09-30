@@ -62,7 +62,7 @@ what matters are the reasons for their choices. Thinking carefully about
 examples, tasks, questions, and connections can significantly impact student
 learning, as teaching is fundamentally about ensuring students learn.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture5.png">
 </div>
 <h4>Overview of Lesson Demonstration at Casuarina Primary School</h4>
 <p>A/P Helen collaborated with our local Teacher Collaborator, Mrs Sarah
