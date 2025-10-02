@@ -68,8 +68,9 @@ learning, as teaching is fundamentally about ensuring students learn.</p>
 <p>A/P Helen collaborated with our local Teacher Collaborator, Mrs Sarah
 Teng (Senior Teacher/Mathematics, Casuarina Primary School), to design
 and enact a lesson on ‘Fraction as Part of a Whole’ for Primary 2 students.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6a.png">
 </div>
 <p>The lesson systematically built students' understanding of unit fractions
 through review, exploration, and application.</p>
@@ -81,30 +82,24 @@ proportional reasoning.</p>
 identified and grouped fraction cards based on mathematical properties,
 effectively consolidating understanding through hands-on manipulatives
 and collaborative<strong> </strong>learning.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
-</div>
 <p><u>Overview of Lesson Demonstration at Changkat Changi Secondary School</u>
 </p>
 <p>A/P Helen collaborated with our local Teacher Collaborator, Ms Huang Yaling
 (Senior Teacher/Mathematics, Changkat Changi Secondary School), to design
 and enact a lesson on ‘Line Graphs’ for Secondary 1 students.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8.jpg">
-</div>
 <p>The lesson systematically developed students' understanding of line graphs
 through critical analysis of flawed infographics, practical construction
 using real-world temperature data of Singapore and Hobart, and comparative
 interpretation techniques.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7a.png">
+</div>
 <p>Beginning with examination of a deliberately problematic infographic to
 establish graphs as tools for revealing data patterns, students progressed
 through structured exploration where they plotted multiple datasets on
 shared axes, discovering how visual representation makes patterns more
 apparent than tabular data when examining seasonal variation and geographical
 differences.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
-</div>
 <p>The lesson effectively integrated guided questioning about design choices,
 scale selection, and axis labelling, while extending learning through rainfall
 analysis and bar graph comparison, demonstrating how hands-on graphing
@@ -126,19 +121,12 @@ develop real-world problem-solving and estimation skills, and Backwards
 Questions ("If this is the answer, what might the question have been?")
 that emphasise mathematical structure and reversibility.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture10a.png">
 </div>
 <p>Through practical implementation strategies and classroom application
 examples, teachers gained insights into the power of purposeful questioning
 to help students generalise, form Mathematical abstractions, and engage
 in deeper mathematical reasoning within active questioning environments.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture11.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture12.jpg">
-</div>
 <p><u>Feedback from Workshop Participants</u>
 </p>
 <p>Participants found the workshop on questioning techniques to be highly
@@ -174,11 +162,7 @@ through meaningful dialogue, ultimately helping students grasp the concept
 that fractions represent equal parts of a whole before introducing abstract
 symbols and terminology.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture13.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture14.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture13a.png">
 </div>
 <p>Yaling's statistics lesson at Changkat Changi Secondary School exemplifies
 effective blended learning, combining pre-lesson SLS activities on pictograms
@@ -198,11 +182,7 @@ how technology tools can enhance mathematical understanding while encouraging
 students to justify their reasoning rather than simply providing correct
 answers.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture15.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture16.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture15a.png">
 </div>
 <h4>OEIC Insights from Professional Conversation(s) with NIE, CPDD, and AST</h4>
 <p>A/P Helen found the professional dialogues to be valuable and mutually
