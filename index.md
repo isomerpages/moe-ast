@@ -47,14 +47,6 @@ sections:
       url: /professional-excellence/international-awards/da-in-teaching-program/
       image: /images/Awards/SG_Fulbrighters2024.jpg
       alt: Image alt text
-  - infopic:
-      title: Teachers' Conference and ExCEL Fest 2025
-      id: infopic
-      button: View TCEF2025 highlights
-      url: https://tcef2025.sg/
-      image: /images/Events/TCEF2025_launch.png
-      alt: Image alt text
-      description: Thank you for your participation!
   - resources:
       title: Stories
       button: More stories
