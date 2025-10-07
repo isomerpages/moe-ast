@@ -5,38 +5,41 @@ description: ""
 third_nav_title: Academy Awards for PD
 variant: tiptap
 ---
-<h4>Read about the inspiring stories of some of the 2024 Academy Awards Recipients</h4>
-<p><strong>2024 Fellow of AST Recipients</strong>
+<h4>Read about the inspiring stories of some of the 2025 Academy Awards Recipients</h4>
+<p><strong>2025 Fellow of AST Recipients</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards/Photo_2__Daniel.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Awards/AA25_Damon.jpg">
 </div>
-<p><a href="https://go.gov.sg/fellow2024daniel" rel="noopener nofollow" target="_blank">Mr Chua Boon Hwee Daniel, </a>
-<br><strong>Chongzheng Primary School</strong>
-</p>
+<p><strong>Mr Chu Kin Cheong Damon</strong>
+<br>St. Gabriel's Secondary School
+<br>Click <a href="https://go.gov.sg/aa2025damon" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+read his story!</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards/Photo_3__Kuan_Hoe.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Awards/AA25_Brendon.jpg">
 </div>
-<p><a href="https://go.gov.sg/fellow2024kuanhoe" rel="noopener nofollow" target="_blank">Mr Lai Kuan Hoe</a>
-<br><strong>Innova Primary School</strong>
-</p>
+<p><strong>Mr Chee Yao Rong Brendon</strong>
+<br>Temasek Junior College
+<br>Click <a href="https://go.gov.sg/aa2025brendon" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+read his story!</p>
 <p></p>
-<p><strong>2024 Associate of AST Recipients</strong>
-</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards/Photo_4__Associates.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Awards/AA25_Alex.jpg">
 </div>
-<p>Click <a href="https://go.gov.sg/aaplspotlight" rel="noopener nofollow" target="_blank">here </a>for
-inspiring stories of some of the 2024 Associate of AST recipients.</p>
 <p></p>
-<p><strong>2024 Partner of AST Recipients</strong>
-</p>
+<p><strong>Mr Tan Weng Cheong Alex</strong>
+<br>Catholic Junior College
+<br>Click <a href="https://go.gov.sg/aa2025alex" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+read his story!</p>
+<p></p>
+<h2><strong>2025 Partner of AST Recipients</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards/Photo_5__Partners.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards/AA_partner_list_25.jpg">
 </div>
 <p>Thank you to our partners for supporting the professional learning of
 our officers. Their expertise and dedication have played a vital role in

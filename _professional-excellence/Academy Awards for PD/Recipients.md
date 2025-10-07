@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024 Results" src="/images/Awards/Heartiest_Congratulations_2024_results.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards/AA_2025.jpg">
 </div>
-<p>For the full list of awardees, please click <a href="https://file.go.gov.sg/aaresults2024.pdf" rel="noopener nofollow" target="_blank">here</a>
+<p>For the full list of awardees, please click <a href="https://go.gov.sg/aa2025recipients" rel="noopener nofollow" target="_blank">here</a>
 </p>
