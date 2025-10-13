@@ -39,7 +39,7 @@ read his story!</p>
 <h2><strong>2025 Partner of AST Recipients</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards/AA_partner_list_25.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_AA_Partners_updated.jpg">
 </div>
 <p>Thank you to our partners for supporting the professional learning of
 our officers. Their expertise and dedication have played a vital role in
