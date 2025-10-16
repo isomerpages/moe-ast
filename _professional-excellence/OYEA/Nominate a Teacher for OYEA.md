@@ -14,7 +14,8 @@ of the nation.</p>
 <p></p>
 <p>OYEA is open to teachers <strong>aged 35 years and below in 2026</strong>,
 and presently in service at a primary school, secondary school, junior
-college/Millennia Institute.</p>
-<p>Express your appreciation by submitting a nomination here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/oyea2026</a>
+college/Millennia Institute.
+<br>
+<br>Express your appreciation by submitting a nomination here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/oyea2026</a>
 </p>
 <p>Nomination closes on <strong><u>9 January 2026, Friday</u></strong>.</p>
