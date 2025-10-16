@@ -11,7 +11,6 @@ educators motivate, challenge and inspire their students to realise their
 full potential. They personify deep passion for teaching, youthful idealism,
 energy and enthusiasm, and play a critical role in moulding the future
 of the nation.</p>
-<p></p>
 <p>OYEA is open to teachers <strong>aged 35 years and below in 2026</strong>,
 and presently in service at a primary school, secondary school, junior
 college/Millennia Institute.
