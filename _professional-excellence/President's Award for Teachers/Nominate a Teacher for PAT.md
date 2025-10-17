@@ -15,5 +15,6 @@ school, Junior College/Millennia Institute, Polytechnic, Institute of Technical
 Education, or National Institute of Early Childhood Development.</p>
 <p>Express your appreciation by submitting a nomination here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pat2026</a>
 </p>
-<p>Nomination closes on <strong><u>9 January 2026, Friday</u></strong>.</p>
+<p>Nomination closes on <strong><u>9 January 2026, Friday, at 12pm.</u></strong>
+</p>
 <p></p>
