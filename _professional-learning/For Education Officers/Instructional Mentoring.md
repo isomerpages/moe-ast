@@ -42,7 +42,7 @@ are valued and sought by all, i.e., to all Beginning Teachers who are new
 to the profession and school, or experienced teachers seeking to grow and
 deepen their teaching practice.</p>
 <p>For MOE educators who are keen to learn more about instructional mentoring,
-visit the Singapore Instructional Mentoring Wiki via this <a href="https://go.gov.sg/sim-wiki-opal" rel="noopener noreferrer nofollow" target="_blank">link</a> OPAL2.0
+visit the Singapore Instructional Mentoring Wiki via this <a href="https://go.gov.sg/sim-wiki-opal" rel="noopener noreferrer nofollow" target="_blank">link</a> (OPAL2.0
 login is required).</p>
 <p>You may also register for the ‘Introduction to Instructional Mentoring’
 course via this <a href="https://go.gov.sg/iim-sdl-opal" rel="noopener noreferrer nofollow" target="_blank">link</a> (OPAL2.0
