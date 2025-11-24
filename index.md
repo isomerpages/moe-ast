@@ -13,6 +13,20 @@ sections:
       alignment: right
       backgroundColor: gray
       title: Welcome to Academy of Singapore Teachers
+  - announcements:
+      title: PAT and OYEA 2026 Nominations
+      id: announcements
+      announcement_items:
+        - title: President's Award for Teachers (PAT)  2026
+          date: 24 November 2025
+          announcement: Nominations open till 9 Jan 2026
+          link_text: Read more and nominate
+          link_url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/presidents-award-for-teachers/nomination/
+        - title: Outstanding Youth in Education Award (OYEA) 2026
+          date: 24 November 2025
+          announcement: Nominations open till 9 Jan 2026
+          link_text: Read more and nominate
+          link_url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/oyea/nominate-a-teacher/
   - infopic:
       title: Congratulations to our PAT 2025 Recipients and Finalists!
       id: infopic
@@ -37,16 +51,6 @@ sections:
       description: "VISTAs: Voices of Entrepreneurs explores how today’s entrepreneurs
         are innovating and reshaping their industries for tomorrow."
       alt: VISTAS
-  - infopic:
-      title: Fulbright Distinguished Award Recipients of 2023 – 2024
-      subtitle: Fulbright DAI
-      id: infopic
-      description: Learn about their inquiry projects and reflections from their
-        four-month attachment to University of Rochester, U.S.
-      button: READ more
-      url: /professional-excellence/international-awards/da-in-teaching-program/
-      image: /images/Awards/SG_Fulbrighters2024.jpg
-      alt: Image alt text
   - resources:
       title: Stories
       button: More stories
