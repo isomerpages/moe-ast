@@ -14,9 +14,8 @@ sections:
       backgroundColor: gray
       title: Welcome to Academy of Singapore Teachers
   - announcements:
-      title: PAT and OYEA Nomination 2026
+      title: PAT and OYEA 2026 Nominations
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: President's Award for Teachers (PAT)  2026
           date: 24 November 2025
