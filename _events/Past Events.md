@@ -2,5 +2,6 @@
 title: Past Events
 permalink: /events/past-events/
 description: ""
-variant: markdown
+variant: tiptap
 ---
+<p></p>
