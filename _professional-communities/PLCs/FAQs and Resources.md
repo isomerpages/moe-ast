@@ -71,7 +71,7 @@ Source:&nbsp;<i>PLC Starter Kit</i>
 <div>  
   
 <p>
-To access relevant PLC resources, please click on this <a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=72031">link</a> (OPAL2.0 login required). <br><br>
+To access relevant PLC resources, please click on this <a href="https://go.gov.sg/plcciwiki">link</a> (OPAL2.0 login required). <br><br>
 
 Here are the resources that you could find in OPAL2.0.&nbsp;
 <br><br>
