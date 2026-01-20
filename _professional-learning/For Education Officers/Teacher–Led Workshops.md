@@ -54,11 +54,6 @@ professional learning</p>
 you are interested in the TLWs, as registration is limited via first-come-first-served
 basis!</p>
 <p></p>
-<p>Please contact the AST TLW team (<a href="mailto:moe_ast_tlw@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_ast_tlw@moe.gov.sg</a>) should
-there be any queries.</p>
-<p>After the TLWs have been completed, AST will extend e-Certificates of
-Appreciation and the collated feedback from the participants to the facilitators
-through their principals.</p>
 <h5>Presentation Modes of Teacher-led Workshops (TLW)</h5>
 <p>In-person and online TLWs are conducted in the afternoons of Tuesdays,
 Thursdays and Fridays across the academic year approximately from Term
@@ -66,5 +61,6 @@ Thursdays and Fridays across the academic year approximately from Term
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TLW_Presentation_Modes.png">
 </div>
-<p></p>
+<p>Please contact the AST TLW team (<a href="mailto:moe_ast_tlw@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">moe_ast_tlw@moe.gov.sg</a>) should
+there be any queries.</p>
 <p></p>
