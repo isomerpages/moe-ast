@@ -47,7 +47,7 @@ professional learning</p>
 </tr>
 </tbody>
 </table>
-<h4>2025 Teacher-led Workshops (TLW)</h4>
+<h4>2026 Teacher-led Workshops (TLW)</h4>
 <p>You can access TLW2026 listings through this link&nbsp;<a href="http://go.gov.sg/2026tlws" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>We strongly encourage all teachers to promptly sign up for TLWs via&nbsp;OPAL2.0
 (<a rel="noopener noreferrer nofollow" target="_blank">https://www.opal2.moe.edu.sg</a>)&nbsp;if
