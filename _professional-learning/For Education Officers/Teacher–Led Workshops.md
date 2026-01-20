@@ -54,10 +54,10 @@ professional learning</p>
 you are interested in the TLWs, as registration is limited via first-come-first-served
 basis!</p>
 <p></p>
-<h5>Presentation Modes of Teacher-led Workshops (TLW)</h5>
-<p>In-person and online TLWs are conducted in the afternoons of Tuesdays,
-Wednesdays, Thursdays and Fridays across the academic year approximately
-from Term 1 Week 9 to Term 4 Week 1.</p>
+<h5>Presentation Modes and Schedule of Teacher-led Workshops (TLW)</h5>
+<p>In-person and online TLWs are held on Tuesday to Friday afternoons across
+the academic year, running approximately from Term 1 Week 9 to Term 4 Week
+1.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TLW_Presentation_Modes.png">
 </div>
