@@ -9,14 +9,14 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="TLW Banner" src="/images/tlw%20banner.png">
 </div>
 <h4>Overview of Teacher-led Workshops (TLW)</h4>
-<p>Teacher-Led Workshops (TLWs) are conducted <strong>by teachers for teachers</strong>.</p>
+<p>Teacher-led Workshops (TLWs) are conducted <strong>by teachers for teachers</strong>.</p>
 <p>Guided by the mission of the Academy of Singapore Teachers (AST) to develop
 a <strong>teacher-led culture of professional excellence, </strong>TLW is
 a platform to <strong>provide professional opportunities </strong>for our
 teachers <strong>to share their good practices</strong> within the fraternity.</p>
 <p>Through this platform, teachers will <strong>engage in professional exchange of pedagogical content knowledge</strong>, <strong>leading to enhanced pedagogical practice</strong>
 </p>
-<h4>Objectives of Teacher-Led Workshops (TLW)</h4>
+<h4>Objectives of Teacher-led Workshops (TLW)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -48,17 +48,13 @@ professional learning</p>
 </tbody>
 </table>
 <h4>2025 Teacher-led Workshops (TLW)</h4>
-<p>You can access TLW2025 listings through this link&nbsp;<a href="http://go.gov.sg/2025tlws" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;or
-by scanning the QR code below.</p>
+<p>You can access TLW2026 listings through this link&nbsp;<a href="http://go.gov.sg/2026tlws" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>We strongly encourage all teachers to promptly sign up for TLWs via&nbsp;OPAL2.0
 (<a rel="noopener noreferrer nofollow" target="_blank">https://www.opal2.moe.edu.sg</a>)&nbsp;if
 you are interested in the TLWs, as registration is limited via first-come-first-served
 basis!</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/TLW2025_QR_Code.png">
-</div>
-<h4>Call for Proposals for 2026 Teacher -Led Workshops (TLW) [OPEN]</h4>
+<h4>Call for Proposals for 2026 Teacher-led Workshops (TLW) [OPEN]</h4>
 <p>The Academy of Singapore Teachers (AST) is inviting educators to submit
 proposals for Teacher-Led Workshops (TLWs). The proposed TLW should be
 minimally shared previously at school-based or cluster-based platforms.
