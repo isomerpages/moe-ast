@@ -1,6 +1,0 @@
-collections:
-  events:
-    output: true
-    order:
-      - Upcoming Events.md
-      - Past Events.md
