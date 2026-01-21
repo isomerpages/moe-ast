@@ -79,7 +79,7 @@ and helps teachers stay current and connected with the fraternity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Renuka d/o Magaendran</p>
+<p>Mrs Renuka Thankak Krishnah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Master Teacher</p>
