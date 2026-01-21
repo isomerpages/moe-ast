@@ -90,6 +90,17 @@ and helps teachers stay current and connected with the fraternity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Esther Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Master Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST/PXB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Amos Kow</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,17 +153,6 @@ and helps teachers stay current and connected with the fraternity.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>St. Andrew's Secondary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Esther Leong Pooi Pooi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>St. Margaret's School (Secondary)</p>
 </td>
 </tr>
 <tr>
