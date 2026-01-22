@@ -185,17 +185,6 @@ practitioners</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ezal Bin Sani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fairfield Methodist Secondary School&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Chew Ee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -237,6 +226,17 @@ practitioners</p>
 <td rowspan="1" colspan="3">
 <p><strong>West Zone</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ezal Bin Sani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fairfield Methodist Secondary School&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -284,17 +284,6 @@ practitioners</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Specialist</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CPDD2/Humanities Branch</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chong Yoke Khee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Director</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CPDD2/Humanities Branch</p>
