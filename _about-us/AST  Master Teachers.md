@@ -255,7 +255,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </div>
 <p><strong>Ms Chan Min Lie</strong>
 <br>Master Teacher / Primary Mathematics
-<br>Email: <a href="mailto:CHAN_Min_Lie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHAN_Min_Lie@schools.gov.sg</a>
+<br>Email: <a href="mailto:CHAN_Min_Lie@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHAN_Min_Lie@moe.gov.sg</a>
 <br>
 <br>
 </p>
@@ -268,13 +268,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/math4.png">
-</div>
-<p><strong>Ms Heng Chor Hui Theresa</strong>
-<br>Master Teacher / Primary Mathematics
-<br>Email: <a href="mailto:Theresa_Heng@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Theresa_Heng@moe.gov.sg</a>
-</p>
-<p></p>
+
 <div class="isomer-image-wrapper">
 <img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/pxb-changsuohuib825d0ad8ec447f6a35273e332cb7ac6.jpg">
 </div>
@@ -660,4 +654,4 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>Email: <a href="mailto:Low_Lai_Fong@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Low_Lai_Fong@moe.gov.sg</a>
 <br>
 </p>
-<p></p>
+<p></p></div>
