@@ -153,7 +153,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </div>
 <p><strong>Ms Lim Puay Yin</strong>
 <br>Master Teacher / Geography
-<br>Email: <a href="mailto:Lim_Puay_Yin@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Puay_Yin@schools.gov.sg</a>
+<br>Email: <a href="mailto:Lim_Puay_Yin@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Puay_Yin@moe.gov.sg</a>
 <br>
 </p>
 <p></p>
@@ -191,7 +191,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </div>
 <p><strong>Mr Tham Chin Pang Joseph</strong>
 <br>Master Teacher/ History
-<br>Email: <a href="mailto:Tham_Chin_Pang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tham_Chin_Pang@schools.gov.sg</a>
+<br>Email: <a href="mailto:Tham_Chin_Pang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tham_Chin_Pang@moe.gov.sg</a>
 <br>
 <br>
 </p>
