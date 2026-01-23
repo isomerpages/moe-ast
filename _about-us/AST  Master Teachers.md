@@ -236,6 +236,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>Email: <a href="mailto:renuka_thankak_krishnah@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">renuka_thankak_krishnah@moe.gov.sg</a>
 </p>
 
+<hr>
 <h4>Economics Master Teachers</h4>
 <div class="isomer-image-wrapper">
 <img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/econs1.png">
