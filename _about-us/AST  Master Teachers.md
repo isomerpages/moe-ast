@@ -2,7 +2,7 @@
 title: AST  Master Teachers
 permalink: /about-us/ast-master-teachers/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20MTT/mtt_ast_2023.jpg">
@@ -449,6 +449,14 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <p><strong>Dr Md Shahrin K S Moorthy</strong>
 <br>Master Teacher / Chemistry
 <br>Email: <a href="mailto:Md_Shahrin@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Md_Shahrin@moe.gov.sg</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/PXB_MTT_AudreyTan.jpg">
+</div>
+<p><strong>Mdm Audrey Tan</strong>
+<br>Master Teacher / Chemistry
+<br>Email: <a href="mailto:Audrey_Tan@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Audrey_Tan@moe.gov.sg</a>
 </p>
 <p></p>
 <hr>
