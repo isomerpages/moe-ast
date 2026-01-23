@@ -237,7 +237,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:120px;height:100px;margin-left:15px;" height="auto" width="100%" src="/images/ss1.png">
+<img style="width:120px;height:100px;margin-left:15px;" height="auto" width="100%" src="/images/PXB-MTT-Esther Leong 031EJPG">
 </div>
 <p></p>
 <p><strong>Mdm Esther Leong Pooi Pooi</strong>
