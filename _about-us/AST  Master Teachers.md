@@ -2,7 +2,7 @@
 title: AST  Master Teachers
 permalink: /about-us/ast-master-teachers/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20MTT/mtt_ast_2023.jpg">
@@ -237,7 +237,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:120px;height:100px;margin-left:15px;" height="auto" width="100%" src="/images/PXB-MTT-Esther Leong 031EJPG">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/PXB_MTT_Esther_Leong_031E.jpg">
 </div>
 <p></p>
 <p><strong>Mdm Esther Leong Pooi Pooi</strong>
@@ -277,8 +277,6 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>Email: <a href="mailto:Choon_Ming_Kwang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Choon_Ming_Kwang@moe.gov.sg</a>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-
 <div class="isomer-image-wrapper">
 <img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/pxb-changsuohuib825d0ad8ec447f6a35273e332cb7ac6.jpg">
 </div>
@@ -497,7 +495,6 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>Email: <a href="mailto:anne_wong@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anne_wong@moe.gov.sg</a>
 </p>
 <p></p>
-
 <div class="isomer-image-wrapper">
 <img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/sci16.png">
 </div>
@@ -600,8 +597,9 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <p></p>
 <hr>
 <h4>Nutrition and Food Science Master Teachers</h4>
+<p>
 <br>
-
+</p>
 <div class="isomer-image-wrapper">
 <img style="width:80px;height:106px;margin-left:15px;" height="auto" width="100%" src="/images/pxb-anglaykheng8a0cdc2b154748df97af4a86840c0942.jpg">
 </div>
@@ -656,4 +654,4 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>Email: <a href="mailto:Low_Lai_Fong@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Low_Lai_Fong@moe.gov.sg</a>
 <br>
 </p>
-<p></p></div>
+<p></p>
