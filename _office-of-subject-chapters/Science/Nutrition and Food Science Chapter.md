@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Science
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/SubChap/nfs-chapter-2023.jpg">
-</div>
+<h3></h3>
 <h3>Objectives of the Nutrition &amp; Food Science Chapter</h3>
 <p>The NFS Chapter works closely with Curriculum Planning and Development
 Division and other related educational agencies to extend learning in Nutrition
