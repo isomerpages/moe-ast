@@ -2,7 +2,7 @@
 title: Our Organisation
 permalink: /about-us/ast/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p>The Academy of Singapore Teachers (AST) was set up to spearhead the professional
 development of MOE staff. AST together with the other teacher academies
@@ -10,7 +10,7 @@ aim to build communities of practice for like-minded professionals of&nbsp;subje
 disciplines, for teachers to come together and learn from one another,
 developing stronger camaraderie and esprit de corps.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FO031R-ydg8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FO031R-ydg8"></iframe>
 </div>
 <p>Apart from these dedicated teacher academies and language institutes,
 Subject Chapters in AST are set up as networked learning communities for
@@ -24,10 +24,10 @@ the teaching fraternity to a higher international standing.</p>
 <p><strong>How we are connected</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="orgchart-sep25" src="/images/Org Chart/One_Academy_orgchart_17Sep25.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width:150%;height:auto" alt="One-Academy Org Chart" src="/images/Org Chart/One_Academy_orgchart_Jan2026.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
