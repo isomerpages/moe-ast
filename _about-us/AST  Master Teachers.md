@@ -153,7 +153,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </div>
 <p><strong>Ms Lim Puay Yin</strong>
 <br>Master Teacher / Geography
-<br>Email: <a href="mailto:Lim_Puay_Yin@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Puay_Yin@schools.gov.sg</a>
+<br>Email: <a href="mailto:Lim_Puay_Yin@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Puay_Yin@moe.gov.sg</a>
 <br>
 </p>
 <p></p>
@@ -191,7 +191,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </div>
 <p><strong>Mr Tham Chin Pang Joseph</strong>
 <br>Master Teacher/ History
-<br>Email: <a href="mailto:Tham_Chin_Pang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tham_Chin_Pang@schools.gov.sg</a>
+<br>Email: <a href="mailto:Tham_Chin_Pang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tham_Chin_Pang@moe.gov.sg</a>
 <br>
 <br>
 </p>
@@ -233,9 +233,9 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </div>
 <p><strong>Mrs Renuka Thankak Krishnah</strong>
 <br>Master Teacher / Social Studies
-<br>Email: <a href="mailto:renuka_magaendran@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Renuka_Magaendran@moe.gov.sg</a>
+<br>Email: <a href="mailto:renuka_thankak_krishnah@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">renuka_thankak_krishnah@moe.gov.sg</a>
 </p>
-<hr>
+
 <h4>Economics Master Teachers</h4>
 <div class="isomer-image-wrapper">
 <img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/econs1.png">
@@ -255,7 +255,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </div>
 <p><strong>Ms Chan Min Lie</strong>
 <br>Master Teacher / Primary Mathematics
-<br>Email: <a href="mailto:CHAN_Min_Lie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHAN_Min_Lie@schools.gov.sg</a>
+<br>Email: <a href="mailto:CHAN_Min_Lie@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHAN_Min_Lie@moe.gov.sg</a>
 <br>
 <br>
 </p>
@@ -268,13 +268,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/math4.png">
-</div>
-<p><strong>Ms Heng Chor Hui Theresa</strong>
-<br>Master Teacher / Primary Mathematics
-<br>Email: <a href="mailto:Theresa_Heng@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Theresa_Heng@moe.gov.sg</a>
-</p>
-<p></p>
+
 <div class="isomer-image-wrapper">
 <img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/pxb-changsuohuib825d0ad8ec447f6a35273e332cb7ac6.jpg">
 </div>
@@ -322,8 +316,8 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/math7.png">
 </div>
 <p><strong>Dr Leong Swee Ling</strong>
-<br>Master Teacher / Secondary Mathematics (Bukit Merah Secondary School)
-<br>Email: <a href="mailto:leong_swee_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_swee_ling@schools.gov.sg</a>
+<br>Master Teacher / Secondary Mathematics
+<br>Email: <a href="mailto:leong_swee_ling@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_swee_ling@moe.gov.sg</a>
 <br>
 </p>
 <p></p>
@@ -332,7 +326,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </div>
 <p><strong>Mr Chew Chong Kiat</strong>
 <br>Master Teacher / Secondary Mathematics
-<br>Email: <a href="mailto:Chew_Chong_Kiat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chew_Chong_Kiat@schools.gov.sg</a>
+<br>Email: <a href="mailto:Chew_Chong_Kiat@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chew_Chong_Kiat@moe.gov.sg</a>
 <br>
 </p>
 <p></p>
@@ -422,7 +416,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </div>
 <p><strong>Ms Teng Siew Lee</strong>
 <br>Master Teacher / Chemistry
-<br>Email: <a href="mailto:Teng_Siew_Lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teng_Siew_Lee@schools.gov.sg</a>
+<br>Email: <a href="mailto:Teng_Siew_Lee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teng_Siew_Lee@moe.gov.sg</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -456,8 +450,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </div>
 <p><strong>Mr Yap Boon Chien</strong>
 <br>Master Teacher / Physics
-<br>(Changkat Changi Secondary School)
-<br>Email: <a href="mailto:yap_boon_chien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_boon_chien@schools.gov.sg</a>
+<br>Email: <a href="mailto:yap_boon_chien@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_boon_chien@moe.gov.sg</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -494,14 +487,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>Email: <a href="mailto:anne_wong@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anne_wong@moe.gov.sg</a>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:80px;height:115px;margin-left:15px;" height="auto" width="100%" src="/images/sci14.png">
-</div>
-<p><strong>Mr Michael Long</strong>
-<br>Master Teacher / Primary Science (New Town Primary School)
-<br>Email: <a href="mailto:michael_long_tian_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">michael_long_tian_heng@schools.gov.sg</a>
-</p>
-<p></p>
+
 <div class="isomer-image-wrapper">
 <img style="width:80px;height:105px;margin-left:15px;" height="auto" width="100%" src="/images/sci16.png">
 </div>
@@ -531,7 +517,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </div>
 <p><strong>Mdm Yong Song Ling</strong>
 <br>Master Teacher / Primary Science
-<br>Email: <a href="mailto:YONG_Song_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">YONG_Song_Ling@schools.gov.sg</a>
+<br>Email: <a href="mailto:YONG_Song_Ling@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">YONG_Song_Ling@moe.gov.sg</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -660,4 +646,4 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>Email: <a href="mailto:Low_Lai_Fong@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Low_Lai_Fong@moe.gov.sg</a>
 <br>
 </p>
-<p></p>
+<p></p></div>
