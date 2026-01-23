@@ -235,7 +235,16 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>Master Teacher / Social Studies
 <br>Email: <a href="mailto:renuka_thankak_krishnah@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">renuka_thankak_krishnah@moe.gov.sg</a>
 </p>
-
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:120px;height:100px;margin-left:15px;" height="auto" width="100%" src="/images/ss1.png">
+</div>
+<p></p>
+<p><strong>Mdm Esther Leong Pooi Pooi</strong>
+<br>Master Teacher / Social Studies
+<br>Email: <a href="mailto:Esther_LEONG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Esther_Leong@moe.gov.sg</a>
+</p>
+<p></p>
 <hr>
 <h4>Economics Master Teachers</h4>
 <div class="isomer-image-wrapper">
