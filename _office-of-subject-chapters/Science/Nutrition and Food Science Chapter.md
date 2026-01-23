@@ -78,17 +78,6 @@ and to&nbsp;share ideas and resources with fellow teachers in the NFS&nbsp;frate
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lee Yu Xuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Academy Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AST/PXB</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="3">
 <p><strong>North Zone</strong>
 </p>
