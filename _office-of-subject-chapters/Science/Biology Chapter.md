@@ -72,8 +72,9 @@ capability of teachers in the learning and teaching of Biology.
 </div>
 <hr>
 <h3>Our Subject Chapter Core Team</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/2023coreteam-png.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bio_chapter.png">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
@@ -107,21 +108,10 @@ capability of teachers in the learning and teaching of Biology.
 <p>Ms Anna Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Master Teacher</p>
+<p>Master Teacher/Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AST/PXB&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhamad Salahuddin Ibrahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Master Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AST/PXB</p>
+<p>PXB/AST</p>
 </td>
 </tr>
 <tr>
@@ -129,10 +119,22 @@ capability of teachers in the learning and teaching of Biology.
 <p>Mr Poh Meng Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Master Teacher</p>
+<p>Master Teacher/Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AST/PXB</p>
+<p>PXB/AST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhamad Salahuddin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Master Teacher/Biology</p>
+<p>(School-based Master Teacher)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PXB/AST, Anderson Serangoon Junior College</p>
 </td>
 </tr>
 <tr>
@@ -154,10 +156,10 @@ capability of teachers in the learning and teaching of Biology.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Fazleen Binte Mahmud</p>
+<p>Ms Fazleen Mahmud</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Senior Teacher/Biology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Compassvale Secondary School</p>
@@ -165,10 +167,10 @@ capability of teachers in the learning and teaching of Biology.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Diyana Rahayu Binte Suratnoh</p>
+<p>Ms Diyana Rahayu Binte Suratnoh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Senior Teacher/Biology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Marsiling Secondary School</p>
@@ -182,10 +184,10 @@ capability of teachers in the learning and teaching of Biology.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lui Yan Ling Esther</p>
+<p>Ms Lui Yan Ling Esther</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Lead Teacher/Biology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bukit Merah Secondary School</p>
@@ -196,7 +198,7 @@ capability of teachers in the learning and teaching of Biology.
 <p>Mr Ng Bing Fu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Lead Teacher/Biology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Peirce Secondary School</p>
@@ -210,24 +212,24 @@ capability of teachers in the learning and teaching of Biology.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Adeline Yong Yean</p>
+<p>Ms Teo Li Jun Lilian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Senior Teacher/Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dunman Secondary School</p>
+<p>Temasek Secondary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Li Jun Lilian</p>
+<p>Dr Adeline Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head</p>
+<p>Lead Teacher/Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pasir Ris Crest Secondary School</p>
+<p>Secondment to Science Centre Singapore</p>
 </td>
 </tr>
 <tr>
@@ -241,7 +243,7 @@ capability of teachers in the learning and teaching of Biology.
 <p>Mr Jason Seow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Lead Teacher/Biology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Swiss Cottage Secondary School</p>
@@ -252,7 +254,7 @@ capability of teachers in the learning and teaching of Biology.
 <p>Ms Tan Lin Yin Jacqueline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher&nbsp;</p>
+<p>Lead Teacher/Biology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Unity Secondary School</p>
@@ -266,13 +268,25 @@ capability of teachers in the learning and teaching of Biology.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Assoc Prof Tan Aik Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Head, NSSE, NIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Natural Sciences and Science Education (NSSE)</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Tay Wee Beng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Specialist, Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CPDD1/Science Branch</p>
+<p>CPDD1, Sciences Branch</p>
 </td>
 </tr>
 <tr>
@@ -283,7 +297,7 @@ capability of teachers in the learning and teaching of Biology.
 <p>Educational Technology Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ETD/TfL</p>
+<p>Learning Partnership in Educational Technology Branch</p>
 </td>
 </tr>
 <tr>
@@ -294,19 +308,7 @@ capability of teachers in the learning and teaching of Biology.
 <p>Educational Technology Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ETD/TfL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>A/P Tan Aik Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Head (Teaching &amp; Curriculum Matters), Natural Sciences &amp;
-Science Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NIE/NSSE</p>
+<p>Learning Partnership in Educational Technology Branch</p>
 </td>
 </tr>
 </tbody>
