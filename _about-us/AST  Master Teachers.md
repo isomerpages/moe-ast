@@ -452,7 +452,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/PXB_MTT_AudreyTan.jpg">
+<img style="width: 15%;margin-left:15px" height="auto" width="100%" alt="" src="/images/PXB_MTT_AudreyTan.jpg">
 </div>
 <p><strong>Mdm Audrey Tan</strong>
 <br>Master Teacher / Chemistry
