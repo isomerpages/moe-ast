@@ -114,10 +114,10 @@ content knowledge and pedagogical content knowledge.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Loo An Qi</p>
+<p>Ms Tan Mei Yen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Academy Officer</p>
+<p>Mentor Coach</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AST/PXB</p>
@@ -267,12 +267,12 @@ content knowledge and pedagogical content knowledge.</p>
 </table>
 <hr>
 <h3>Our Calendar of Events</h3>
-<p>Click <a href="https://bit.ly/m/Geography-Resources" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="https://docs.google.com/document/d/1yFr48Biu1F3UmnUGolTxf_5paoSstprJ/edit?usp=sharing&amp;ouid=110388551702758041164&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">here</a> to
 access our calendar of events.</p>
 <h3>Other Useful Links</h3>
-<p>Click <a href="https://go.gov.sg/2025geognlcs" rel="noopener nofollow" target="_blank">here</a> should
+<p>Click <a href="https://docs.google.com/document/d/1opW9gaaPI6Fq1baP98nCrPXwpXdIhIEKSaPCfq2x_rc/edit?usp=sharing" rel="noopener nofollow" target="_blank">here</a> should
 you wish to engage in professional discussions and try out innovative pedagogical
 practices by joining our networked learning communities</p>
 <p>Check out our one-stop Geography Chapter google site for teaching ideas
-and resources by clicking <a href="https://sites.google.com/moe.edu.sg/ast-geog-chapter-2025/home" rel="noopener nofollow" target="_blank">here</a>.</p>
+and resources by clicking <a href="https://go.gov.sg/geogchapter" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
