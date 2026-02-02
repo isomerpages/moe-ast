@@ -72,13 +72,13 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Heng Chor Hui Theresa</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Master Teacher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AST/PXB</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -149,24 +149,13 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Shu Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Academy Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AST/PDB2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Jocelyn Tay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Academy Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AST/PS</p>
+<p>AST/PDB1</p>
 </td>
 </tr>
 <tr>
@@ -300,17 +289,6 @@ teaching of mathematics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Najeeb Bin Mohamed Hassan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Educational Technology Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ETD/LPET3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Dr Ng Kit Ee, Dawn</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -324,6 +302,6 @@ teaching of mathematics</p>
 </table>
 <hr>
 <h3>Our Calendar of Events</h3>
-<p>For more information about chapter events, click on this <strong><a href="https://www.opal2.moe.edu.sg/csl/s/fab0b8d2-c750-48d3-aa0d-9a9af04c8950/space/calendar" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> </strong>to
+<p>For more information about chapter events, click on this <strong><a href="https://www.opal2.moe.edu.sg/csl/s/fab0b8d2-c750-48d3-aa0d-9a9af04c8950/wiki/page/view?title=Primary+Mathematics+Chapter" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> </strong>to
 access the chapter’s OPAL page (<em>for MOE teachers only</em>). Alternatively,
 you may contact our Master Teachers to find out more!</p>
