@@ -451,6 +451,14 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>Email: <a href="mailto:Md_Shahrin@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Md_Shahrin@moe.gov.sg</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 15%;margin-left:15px" height="auto" width="100%" alt="" src="/images/PXB_MTT_AudreyTan.jpg">
+</div>
+<p><strong>Mdm Audrey Tan</strong>
+<br>Master Teacher / Chemistry
+<br>Email: <a href="mailto:Audrey_Tan@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Audrey_Tan@moe.gov.sg</a>
+</p>
+<p></p>
 <hr>
 <h4>Science (Physics) Master Teachers</h4>
 <div class="isomer-image-wrapper">
