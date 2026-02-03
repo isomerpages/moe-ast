@@ -452,7 +452,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 15%;margin-left:15px" height="auto" width="100%" alt="" src="/images/PXB_MTT_AudreyTan.jpg">
+<img style="width: 15%;margin-left:15px" height="auto" width="80%" alt="" src="/images/PXB_MTT_AudreyTan.jpg">
 </div>
 <p><strong>Mdm Audrey Tan</strong>
 <br>Master Teacher / Chemistry
@@ -615,7 +615,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <br>Email: <a href="mailto:ang_lay_kheng@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_lay_kheng@moe.gov.sg</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:80px;height:106px;margin-left:15px;" height="auto" width="100%" src="/images/.jpg">
+<img style="width:80px;height:106px;margin-left:15px;" height="auto" width="100%" src="/images/PXB_MTT_Lily_Paul.jpg">
 </div>
 <p><strong>Mdm Paul Lily Jebamony</strong>
 <br>Master Teacher / Food and Consumer Education
