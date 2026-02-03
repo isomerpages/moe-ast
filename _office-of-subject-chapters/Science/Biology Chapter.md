@@ -139,13 +139,13 @@ capability of teachers in the learning and teaching of Biology.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Christopher Wong</p>
+<p>Ms Ting Hui Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Academy Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AST/PXB</p>
+<p>PDB2/AST</p>
 </td>
 </tr>
 <tr>
