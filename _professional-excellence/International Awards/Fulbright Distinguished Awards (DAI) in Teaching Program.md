@@ -3,7 +3,7 @@ title: Fulbright Distinguished Awards (DAI) in Teaching Program
 permalink: /professional-excellence/international-awards/da-in-teaching-program/
 description: ""
 third_nav_title: International Awards
-variant: markdown
+variant: tiptap
 ---
 <h3><strong>Fulbright Distinguished Awards in Teaching Program for International Teachers</strong></h3>
 <div class="isomer-image-wrapper">
@@ -120,8 +120,7 @@ DAI Program against our local educational context.
 <td rowspan="1" colspan="2">
 <p><strong>Ms Michelle Goh Si Rong&nbsp;</strong>
 <br>Victoria Junior College
-<br><a href="/files/FulbrightDAI/Reflection__Faith_Kaylie_Ong_.pdf" rel="noopener noreferrer nofollow" target="_blank">Reflection (</a>
-<a href="/files/Reflection__Michelle_Goh_.pdf" rel="noopener noreferrer nofollow" target="_blank">Michelle</a><a href="/files/FulbrightDAI/Reflection__Faith_Kaylie_Ong_.pdf" rel="noopener noreferrer nofollow" target="_blank">Goh)</a>
+<br><a href="/files/FulbrightDAI/Reflection__Michelle_Goh_.pdf" rel="noopener nofollow" target="_blank">Reflection (Michelle Goh)</a>
 <br><a href="/files/FulbrightDAI/Research_Project__Engaging_Youths_in_Conversations_on_Mental_Health_.pdf" rel="noopener nofollow" target="_blank">Research Project (Engaging Youths in Conversations on Mental Health</a>
 </p>
 </td>
@@ -179,7 +178,7 @@ teachers in the schools to which they are attached.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Geraldine_Maskelony.jpg">
 </div>
 </th>
-<td width="70%" rowspan="1" colspan="2">
+<td rowspan="1" colspan="2">
 <p><strong>Ms Geraldine Maskelony</strong>
 <br>Arlington Tech&nbsp;
 <br><a href="/files/FulbrightDAI/Reflection__Geraldine_Maskelony_.pdf" rel="noopener noreferrer nofollow" target="_blank">Reflection (Geraldine Maskelony)</a>
