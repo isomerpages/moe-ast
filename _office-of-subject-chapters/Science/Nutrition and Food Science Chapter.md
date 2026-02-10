@@ -6,6 +6,9 @@ third_nav_title: Science
 variant: tiptap
 ---
 <h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFS_MTTs.png">
+</div>
 <h3>Objectives of the Nutrition &amp; Food Science Chapter</h3>
 <p>The NFS Chapter works closely with Curriculum Planning and Development
 Division and other related educational agencies to extend learning in Nutrition
@@ -78,20 +81,31 @@ and to&nbsp;share ideas and resources with fellow teachers in the NFS&nbsp;frate
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p><strong>North Zone</strong>
-</p>
+<td rowspan="1" colspan="1">
+<p>Mdm Lily Paul <strong>&nbsp;</strong>Jebamony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Master Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST/PXB</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lily Theodore</p>
+<p>Ms Teo Siew Kuang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Senior Academy Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>North Vista Secondary School</p>
+<p>AST/PXB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>North Zone</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -106,20 +120,20 @@ and to&nbsp;share ideas and resources with fellow teachers in the NFS&nbsp;frate
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p><strong>South Zone</strong>
-</p>
+<td rowspan="1" colspan="1">
+<p>Ms Winnie Chia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Compassvale Secondary School</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ms Julia Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Anglo-Chinese School (Barker Road)</p>
+<td rowspan="1" colspan="3">
+<p><strong>South Zone</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -134,6 +148,17 @@ and to&nbsp;share ideas and resources with fellow teachers in the NFS&nbsp;frate
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Kathy Lau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kuo Chuan Presbyterian Secondary School</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <p><strong>East Zone</strong>
 </p>
@@ -141,24 +166,13 @@ and to&nbsp;share ideas and resources with fellow teachers in the NFS&nbsp;frate
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ambika Nair</p>
+<p>Ms Lim Mei Qiao</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paya Lebar Methodist (Sec)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Chek Quay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Temasek Secondary School</p>
+<p>Yusof Ishak Sec School</p>
 </td>
 </tr>
 <tr>
@@ -176,17 +190,6 @@ and to&nbsp;share ideas and resources with fellow teachers in the NFS&nbsp;frate
 </td>
 <td rowspan="1" colspan="1">
 <p>Bukit Panjang Government High School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Selena Samat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>West Spring Secondary School</p>
 </td>
 </tr>
 <tr>
