@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AST_SS_subj_chapter_website_pic_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_SS_subj_chapter_main_banner.jpg">
 </div>
 <h3>Objectives of the Social Studies Chapter</h3>
 <p>The Social Studies Chapter provides teachers with learning opportunities
@@ -230,10 +230,10 @@ and helps teachers stay current and connected with the fraternity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Yan Li</p>
+<p>Ms Wan Rajemainuri Bte D.A.S</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Curriculum Resource Development Officer, Social Studies (Sec)</p>
+<p>Assistant Director, Social Studies (Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CPDD2/Humanities Branch</p>

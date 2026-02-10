@@ -154,10 +154,21 @@ translating what they learnt in the workshop in their classroom practice.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Denise Ann Yeoh</p>
+<p>Ms Angeline Loh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Academy Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST/PXB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Pei Pei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Academy Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AST/PDB2</p>
