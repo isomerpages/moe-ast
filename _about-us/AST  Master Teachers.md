@@ -2,7 +2,7 @@
 title: AST  Master Teachers
 permalink: /about-us/ast-master-teachers/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20MTT/mtt_ast_2023.jpg">
@@ -240,7 +240,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <img style="width: 15%;margin-left:15px;" height="auto" width="100%" alt="" src="/images/PXB_MTT_Esther_Leong_031E.jpg">
 </div>
 <p></p>
-<p><strong>Mdm Esther Leong Pooi Pooi</strong>
+<p><strong>Ms Esther Leong</strong>
 <br>Master Teacher / Social Studies
 <br>Email: <a href="mailto:Esther_LEONG@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Esther_Leong@moe.gov.sg</a>
 </p>
@@ -605,8 +605,7 @@ supported by the ST-LT Network Core Team and MTTs.</p>
 <p></p>
 <hr>
 <h4>Nutrition and Food Science/Food and Consumer Education Master Teachers</h4>
-<p>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:80px;height:106px;margin-left:15px;" height="auto" width="100%" src="/images/pxb-anglaykheng8a0cdc2b154748df97af4a86840c0942.jpg">
 </div>
