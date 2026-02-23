@@ -214,13 +214,24 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Ho Huay Yee Frieda</p>
+<p>Dr Bryan Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior ETO</p>
+<p>Senior Educational Technology Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Educational Technology Division/LPET2</p>
+<p>ETD/LPET</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Li Huili Harley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Educational Technology Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ETD/TfL</p>
 </td>
 </tr>
 <tr>
@@ -231,7 +242,7 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 <p>Senior Educational Psychologist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEND/Psychological Services Branch&nbsp;</p>
+<p>SEND/PSB</p>
 </td>
 </tr>
 <tr>
@@ -242,7 +253,7 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 <p>Assoc Professor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Institute of Education/PCHD&nbsp;</p>
+<p>NIE/PCHD</p>
 </td>
 </tr>
 </tbody>
