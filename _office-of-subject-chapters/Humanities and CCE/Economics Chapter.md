@@ -108,30 +108,13 @@ from all zones.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rachel Yong</p>
+<p>Mr Oh Keng Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Academy Officer</p>
+<p>Senior Academy Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AST/PXB</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p><strong>North Zone</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Pow Choo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yishun Innova Junior College</p>
+<p>AST / PDB2</p>
 </td>
 </tr>
 <tr>
@@ -209,7 +192,7 @@ from all zones.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Chen Jiayi</p>
+<p>Ms Chen Jiayi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
@@ -226,24 +209,13 @@ from all zones.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Jun Jie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Educational Technology Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ETD/TfL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Zeng Wenjie</p>
+<p>Ms Zeng Wen Jie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Curriculum Planning Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CPDD2/Humanities Branch</p>
+<p>CPDD2/HUMB</p>
 </td>
 </tr>
 </tbody>
