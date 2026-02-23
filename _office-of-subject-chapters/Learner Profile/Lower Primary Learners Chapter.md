@@ -107,13 +107,24 @@ leadership in leading, guiding and inspiring lower primary learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sim Shan Ting</p>
+<p>Teresa Luo Xinyi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Academy Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AST/PDB2</p>
+<p>AST/ PXB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Steffi Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Academy Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST/ PDB1</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +174,7 @@ leadership in leading, guiding and inspiring lower primary learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Amanda Tan Pei Sze</p>
+<p>Amanda Tan Pei Tze</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
@@ -247,10 +258,10 @@ leadership in leading, guiding and inspiring lower primary learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Wei Li</p>
+<p>Gayathri Mangai Asogan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Educational Technology Officer</p>
+<p>Educational Technology Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ETD/LPET</p>
