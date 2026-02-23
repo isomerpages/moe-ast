@@ -5,21 +5,26 @@ description: ""
 third_nav_title: Science
 variant: tiptap
 ---
-<p></p>
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Simple_Black_and_Turquoise_Welcome_Instagram_Post__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chemistry_MTTs.png">
 </div>
 <h3>Objectives of the Chemistry Chapter</h3>
-<p>The key objective of the Chemistry Chapter is to enhance the capacity
-and capability of teachers in the learning and teaching of Chemistry through
-<br>(i) deepening the pedagogical content knowledge of teachers for quality
-student learning;</p>
-<p>(ii) building a culture of teacher-led professionalism and pride in the
+<p>The Chemistry Chapter aims to enhance teachers' capacity and capability
+in Chemistry education through three core areas:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>deepening pedagogical content knowledge for quality student learning;</p>
+</li>
+<li>
+<p>building a culture of teacher-led professionalism and pride within the
 teaching fraternity; and</p>
-<p>(iii) championing professional collaboration and networked learning among
-teachers.</p>
-<p></p>
-<p>Master Teachers, sometimes together with Lead or Senior Teachers, organise
+</li>
+<li>
+<p>championing professional collaboration and networked learning among teachers.</p>
+</li>
+</ul>
+<p>Master Teachers, often collaborating with Lead or Senior Teachers, organise
 and facilitate professional workshops in various areas, for example:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -38,31 +43,28 @@ and facilitate professional workshops in various areas, for example:</p>
 <p>Question-based Instruction</p>
 </li>
 <li>
-<p>Identifying and Addressing Alternative Conceptions</p>
+<p>e-Pedagogy</p>
+</li>
+<li>
+<p>STEM education</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2023_05_18_at_11_11_40.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chemistry_workshop.jpg">
 </div>
-<p>From the workshops, effective classroom practices are surfaced and contextualised
-to the needs of the Chemistry teachers. Through collaborative learning,
-the teacher could deepen his or her professional knowledge and practices
-and respond more effectively to the complexity of the classroom. The workshops
-that are run by Chemistry Master Teachers often adopt a 5Cs Approach (Curiosity,
-Comprehension, Convincing, Contextualisation, and Changed practice) where
-teachers are closely guided into transforming what they have learnt to
-good and effective classroom practices.</p>
-<p></p>
+<p>These workshops serve as platforms for surfacing effective classroom practices,
+which are then contextualised to meet the specific needs of Chemistry teachers.
+Through this collaborative learning approach, teachers deepen their professional
+knowledge and practices whilst developing more effective responses to classroom
+complexities. The workshops typically employ a 5Cs Approach—Curiosity,
+Comprehension, Convincing, Contextualisation, and Changed Practice—providing
+close guidance as teachers transform their learning into effective classroom
+applications.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2023_05_18_at_11_11_39.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chemistry_eped_workshop.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_Kien_Huay.png">
-</div>
-<p><strong>The Chapter organises a diverse range of professional learning activities to cater to different learning preference and interest:</strong>
-</p>
+<p>To accommodate varying learning preferences and interests, the Chapter
+also organises a comprehensive range of professional learning opportunities:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Learning journeys to industries and Institutes of Higher Learning</p>
@@ -77,30 +79,29 @@ O- and A-level Practical NLC, Visible Thinking Routine NLC, Microscale
 </li>
 <li>
 <p>NLC-led workshops e.g.&nbsp; Learning to write Data-based Questions (O-level),
-Enhancing Students’ Conceptual Understanding of Chemistry through Microscale
-Experiments Workshop, etc.</p>
+Fostering Students’ Inquiry Skills through Microscale Experiments Workshop,
+etc.</p>
 </li>
 <li>
-<p>Role-based Learning Sessions for e.g. Professional Learning Sessions for
+<p>Role-based Learning Sessions, e.g. Professional Learning Sessions for
 BTs, ST-LT Network Learning, etc.</p>
 </li>
 <li>
-<p>Masterclasses by Experts</p>
+<p>Masterclasses</p>
 </li>
 <li>
-<p>Chemistry Learning Day (biennial)
-<br>
-</p>
+<p>Chemistry Learning Day (biennial)</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_03_06_at_4_34_29_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chemistry_learning_day.png">
 </div>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/cc5.png">
-</div>
 <hr>
 <h3>Our Subject Chapter Core Team</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chemistry_core_team.png">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -169,12 +170,13 @@ BTs, ST-LT Network Learning, etc.</p>
 <p>Master Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AST / PXB</p>
+<p>AST / PXB,</p>
+<p>Yishun Innova Junior College</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Goh Ai Lian</p>
+<p>Ms Goh Ai Lian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Master Teacher</p>
@@ -185,10 +187,21 @@ BTs, ST-LT Network Learning, etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shree Kumar Arita</p>
+<p>Ms Audrey Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Academy Officer</p>
+<p>Master Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST / PXB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Madeleine Chew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mentor Coach</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AST / PXB</p>
@@ -202,7 +215,7 @@ BTs, ST-LT Network Learning, etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Ainul Hani Bte Indra Faisal</p>
+<p>Ms Ainul Hani Bte Indra Faisal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
@@ -258,7 +271,7 @@ BTs, ST-LT Network Learning, etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Sue Yee Tracy</p>
+<p>Ms Lim Sue Yee Tracy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
@@ -289,7 +302,7 @@ BTs, ST-LT Network Learning, etc.</p>
 <p>Mdm Lim Ching Yi Jacinta</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Anglo-Chinese Junior College</p>
@@ -336,7 +349,7 @@ BTs, ST-LT Network Learning, etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Corrina Teo Wei Qin</p>
+<p>Ms Corrina Teo Wei Qin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Educational Technology Officer</p>
@@ -349,19 +362,7 @@ BTs, ST-LT Network Learning, etc.</p>
 </table>
 <hr>
 <h3>Our Calendar of Events</h3>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="2" colspan="1">
-<p>For more information about chapter events, click on this <strong><a href="https://go.gov.sg/uincc" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> </strong>to
+<p>For more information about chapter events, click on this&nbsp;<strong><a href="https://go.gov.sg/uincc" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;</strong>to
 access the chapter’s OPAL page (<em>for MOE teachers only</em>). Alternatively,
 you may contact our Master Teachers to find out more!</p>
-</td>
-</tr>
-<tr></tr>
-</tbody>
-</table>
 <p></p>

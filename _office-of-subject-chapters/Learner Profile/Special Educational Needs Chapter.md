@@ -5,10 +5,9 @@ description: ""
 third_nav_title: Learner Profile
 variant: tiptap
 ---
-<p></p>
 <h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SEN Master Teachers" src="/images/SEN_Chapter_MTTs.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEN_MTTs.png">
 </div>
 <h3>Objectives of the Special Educational Needs Chapter</h3>
 <p>The Special Educational Needs (SEN) Chapter is a professional network
@@ -75,13 +74,24 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Rachel Teo</p>
+<p>Mr Tan Zuo Hou</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Academy Officer</p>
+<p>Mentor Coach</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AST/PXB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Yu Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Academy Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST/PDB2</p>
 </td>
 </tr>
 <tr>
@@ -187,13 +197,13 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Syed Imran Bin Jamaluddin</p>
+<p>Mdm Nooraisha Bte Mohamad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dazhong Primary School</p>
+<p>Corporation Primary School</p>
 </td>
 </tr>
 <tr>
@@ -204,13 +214,24 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Ho Huay Yee Frieda</p>
+<p>Dr Bryan Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior ETO</p>
+<p>Senior Educational Technology Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Educational Technology Division/LPET2</p>
+<p>ETD/LPET</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Li Huili Harley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Educational Technology Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ETD/TfL</p>
 </td>
 </tr>
 <tr>
@@ -221,7 +242,7 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 <p>Senior Educational Psychologist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEND/Psychological Services Branch&nbsp;</p>
+<p>SEND/PSB</p>
 </td>
 </tr>
 <tr>
@@ -232,7 +253,7 @@ the aim of providing inclusive learning opportunities for all learners.</p>
 <p>Assoc Professor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Institute of Education/PCHD&nbsp;</p>
+<p>NIE/PCHD</p>
 </td>
 </tr>
 </tbody>
