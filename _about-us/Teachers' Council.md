@@ -263,10 +263,10 @@ identifying and adopting good practices.</p>
 <p>Ms MacKenzie Rae Schoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Catholic Junior College</p>
 </td>
 </tr>
 <tr>
@@ -274,13 +274,13 @@ identifying and adopting good practices.</p>
 <p>8.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Yap Sze Hui, Stella</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Hua Yi Secondary School</p>
 </td>
 </tr>
 <tr>
@@ -288,13 +288,13 @@ identifying and adopting good practices.</p>
 <p>9.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Teo Wei Loon&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tao Nan School</p>
 </td>
 </tr>
 <tr>
@@ -330,13 +330,13 @@ identifying and adopting good practices.</p>
 <p>12.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Mingxun</p>
+<p>Ms Marianne Elizabeth John&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Edgefield Secondary School</p>
+<p>Cedar Girls' Secondary School&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -344,13 +344,13 @@ identifying and adopting good practices.</p>
 <p>13.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Seow Siang Kim Edgar</p>
+<p>Mr Dylan Raj Singh&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHIJ St Theresa’s Convent</p>
+<p>Kuo Chuan Presbyterian Secondary School&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -358,18 +358,32 @@ identifying and adopting good practices.</p>
 <p>14.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wee Wan Ying Susanna</p>
+<p>Ms Mavis Teo&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hua Yi Secondary School</p>
+<p>Westwood Secondary School&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>15.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lam Zihan&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pei Hwa Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Zulaiha Bte Osman</p>
@@ -383,7 +397,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16.</p>
+<p>17.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Low Ying Si, Eliza</p>
@@ -397,7 +411,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17.</p>
+<p>18.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Su Hui, Clara</p>
@@ -407,34 +421,6 @@ identifying and adopting good practices.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tampines Meridian Junior College</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>18.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Rachel Subramaniam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Assistant (Schools Div -North)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Schools Division (Formerly at Rivervale Primary School)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>19.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Yu Jie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Manager (SkillsFuture)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Higher Education Group (Formerly at Springfield Secondary School)</p>
 </td>
 </tr>
 </tbody>
