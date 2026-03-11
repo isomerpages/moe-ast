@@ -27,7 +27,7 @@ professional excellence.</p>
 identifying and adopting good practices.</p>
 </li>
 </ul>
-<h3>Members of Teachers’ Council (2025):</h3>
+<h3>Members of Teachers’ Council (2026):</h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -131,20 +131,6 @@ identifying and adopting good practices.</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Anne Wong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Principal Master Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Academy of Singapore Teachers&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Dr Zheng Yingjiang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -156,11 +142,7 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="9" data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ol>
+<p>8.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sarinajit Kaur</p>
@@ -222,13 +204,13 @@ identifying and adopting good practices.</p>
 <p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Ain Binte Ramli</p>
+<p>Mr Ahmad Zakir Bin Mokhtar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department</p>
+<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Broadrick Secondary School</p>
+<p>Jiemin Primary School</p>
 </td>
 </tr>
 <tr>
@@ -250,34 +232,6 @@ identifying and adopting good practices.</p>
 <p>5.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Amalina Binte Jamaludin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maris Stella High School (Primary)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yap Zhi Jun Vivienne</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Greenridge Primary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7.</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Chiang Suet Ling Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -289,16 +243,44 @@ identifying and adopting good practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>6.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amanda Soo Li Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hillgrove Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms MacKenzie Rae Schoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>8.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Eng Leong Alan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Anderson Primary School</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -306,13 +288,13 @@ identifying and adopting good practices.</p>
 <p>9.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Andrew Mathias Lim You Shun</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Unity Secondary School</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -396,7 +378,7 @@ identifying and adopting good practices.</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pasir Ris Secondary School</p>
+<p>Tampines Secondary School</p>
 </td>
 </tr>
 <tr>
