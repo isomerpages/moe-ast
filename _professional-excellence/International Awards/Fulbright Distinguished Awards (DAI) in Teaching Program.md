@@ -114,7 +114,7 @@ DAI Program against our local educational context.
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Mdm_Edwina_Cheng_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Mdm_Edwina_Cheng_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="2">
@@ -130,7 +130,7 @@ DAI Program against our local educational context.
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Ms_Lee_Huoy_Fen.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Ms_Lee_Huoy_Fen.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="2">
@@ -146,7 +146,7 @@ DAI Program against our local educational context.
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Mrs_Shirley_Charles.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Mrs_Shirley_Charles.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="2">
