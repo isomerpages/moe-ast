@@ -103,6 +103,18 @@ DAI Program against our local educational context.
 <h4><strong>Hear more from our Fulbrighters!</strong></h4>
 <p><strong>SINGAPORE FULBRIGHT AWARD RECIPIENTS 2024</strong>
 </p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -111,12 +123,12 @@ DAI Program against our local educational context.
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Michelle_Goh_Si_Rong.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Mdm_Edwina_Cheng_.jpg">
 </div>
-</th>
+</td>
 <td rowspan="1" colspan="2">
 <p><strong>Ms Michelle Goh Si Rong&nbsp;</strong>
 <br>Victoria Junior College
@@ -129,7 +141,7 @@ DAI Program against our local educational context.
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Huang_Xiujuan_Michelle.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Ms_Lee_Huoy_Fen.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="2">
@@ -144,7 +156,7 @@ DAI Program against our local educational context.
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sukhjeet_Kaur.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Mrs_Shirley_Charles.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="2">
