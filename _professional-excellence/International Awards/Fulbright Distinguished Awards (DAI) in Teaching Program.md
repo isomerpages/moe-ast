@@ -101,20 +101,8 @@ DAI Program against our local educational context.
 <br>
 </p>
 <h4><strong>Hear more from our Fulbrighters!</strong></h4>
-<p><strong>SINGAPORE FULBRIGHT AWARD RECIPIENTS 2024</strong>
+<p><strong>SINGAPORE FULBRIGHT AWARD RECIPIENTS 2025</strong>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -130,8 +118,8 @@ DAI Program against our local educational context.
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Ms Michelle Goh Si Rong&nbsp;</strong>
-<br>Victoria Junior College
+<p><strong>Mdm Edwina Cheng</strong>
+<br>Compassvale Secondary School
 <br><a href="/files/FulbrightDAI/Reflection__Michelle_Goh_.pdf" rel="noopener nofollow" target="_blank">Reflection (Michelle Goh)</a>
 <br><a href="/files/FulbrightDAI/Research_Project__Engaging_Youths_in_Conversations_on_Mental_Health_.pdf" rel="noopener nofollow" target="_blank">Research Project (Engaging Youths in Conversations on Mental Health</a>
 </p>
@@ -145,8 +133,8 @@ DAI Program against our local educational context.
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Ms Huang Xiujuan Michelle</strong>
-<br>Valour Primary School
+<p><strong>MMs Lee Huoy Fe</strong>
+<br>Chong Fu School
 <br><a href="/files/FulbrightDAI/Reflection__Michelle_Huang_.pdf" rel="noopener nofollow" target="_blank">Reflection (Michelle Huang)</a>
 <br><a href="/files/FulbrightDAI/Research_Project__An_Approach_to_Cooperative_Learning_Considerations_for_Implementation_.pdf" rel="noopener nofollow" target="_blank">Research Project (An Approach to Cooperative Learning Considerations for Implementation)</a>
 </p>
@@ -160,8 +148,8 @@ DAI Program against our local educational context.
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Ms Sukhjeet Kaur</strong>
-<br>CHIJ Katong Convent
+<p><strong>Mrs Shirley Charles</strong>
+<br>Yishun Innova Junior College
 <br><a href="/files/FulbrightDAI/Reflection__Sukhjeet_Kaur_.pdf" rel="noopener nofollow" target="_blank">Reflection (Sukhjeet Kaur)</a>
 <br><a href="https://go.gov.sg/rp-applying-a-thinking-approach-24-25usfulbrighter" rel="noopener nofollow" target="_blank">Research Project (Applying a Thinking Approach when Reading and Responding to Literature Texts)</a>
 </p>
