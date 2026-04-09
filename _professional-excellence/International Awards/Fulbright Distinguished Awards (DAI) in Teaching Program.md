@@ -119,9 +119,10 @@ DAI Program against our local educational context.
 </td>
 <td rowspan="1" colspan="2">
 <p><strong>Mdm Edwina Cheng</strong>
-<br>Compassvale Secondary School
-<br><a href="/files/FulbrightDAI/Reflection__Michelle_Goh_.pdf" rel="noopener nofollow" target="_blank">Reflection (Michelle Goh)</a>
-<br><a href="/files/FulbrightDAI/Research_Project__Engaging_Youths_in_Conversations_on_Mental_Health_.pdf" rel="noopener nofollow" target="_blank">Research Project (Engaging Youths in Conversations on Mental Health</a>
+<br>Compassvale Secondary School</p>
+<p><a href="/files/FulbrightDAI/Reflections__Edwina_Cheng_.pdf" rel="noopener nofollow" target="_blank">Reflections (Edwina Cheng)</a>
+</p>
+<p><a href="/files/FulbrightDAI/Research_Project__Engaging_Students_with_Instructional_Strategies_Mapped_Against_the_SkillWill_Matrix_.pdf" rel="noopener nofollow" target="_blank">Research Project (Engaging Students with Instructional Strategies Mapped Against Skill/Will Matrix)</a>
 </p>
 </td>
 </tr>
@@ -135,8 +136,9 @@ DAI Program against our local educational context.
 <td rowspan="1" colspan="2">
 <p><strong>MMs Lee Huoy Fe</strong>
 <br>Chong Fu School
-<br><a href="/files/FulbrightDAI/Reflection__Michelle_Huang_.pdf" rel="noopener nofollow" target="_blank">Reflection (Michelle Huang)</a>
-<br><a href="/files/FulbrightDAI/Research_Project__An_Approach_to_Cooperative_Learning_Considerations_for_Implementation_.pdf" rel="noopener nofollow" target="_blank">Research Project (An Approach to Cooperative Learning Considerations for Implementation)</a>
+<br><a href="/files/FulbrightDAI/Reflections__Lee_Huoy_Fen_.pdf" rel="noopener nofollow" target="_blank">Reflections (Huoy Fen)</a>
+</p>
+<p><a href="/files/FulbrightDAI/Research_Project__Maker_Sprint_STEAM_Resource_Package_for_the_Busy_Teacher_.pdf" rel="noopener nofollow" target="_blank">Research Project (Maker Sprint-STEAM Resource Package for the Busy Teacher)</a>
 </p>
 </td>
 </tr>
@@ -150,8 +152,7 @@ DAI Program against our local educational context.
 <td rowspan="1" colspan="2">
 <p><strong>Mrs Shirley Charles</strong>
 <br>Yishun Innova Junior College
-<br><a href="/files/FulbrightDAI/Reflection__Sukhjeet_Kaur_.pdf" rel="noopener nofollow" target="_blank">Reflection (Sukhjeet Kaur)</a>
-<br><a href="https://go.gov.sg/rp-applying-a-thinking-approach-24-25usfulbrighter" rel="noopener nofollow" target="_blank">Research Project (Applying a Thinking Approach when Reading and Responding to Literature Texts)</a>
+<br><a href="/files/FulbrightDAI/Reflections__Shirley_Charles_.pdf" rel="noopener nofollow" target="_blank">Reflections (Shirley Charles)</a>
 </p>
 </td>
 </tr>
