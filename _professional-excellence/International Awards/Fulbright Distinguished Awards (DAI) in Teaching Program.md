@@ -176,7 +176,7 @@ teachers in the schools to which they are attached.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Geraldine_Maskelony.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Geraldine_Maskelony.jpg">
 </div>
 </th>
 <td rowspan="1" colspan="2">
