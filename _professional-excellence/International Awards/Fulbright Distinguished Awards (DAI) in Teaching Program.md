@@ -101,7 +101,7 @@ DAI Program against our local educational context.
 <br>
 </p>
 <h4><strong>Hear more from our Fulbrighters!</strong></h4>
-<p><strong>SINGAPORE FULBRIGHT AWARD RECIPIENTS 2024</strong>
+<p><strong>SINGAPORE FULBRIGHT AWARD RECIPIENTS 2025</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -111,17 +111,17 @@ DAI Program against our local educational context.
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Michelle_Goh_Si_Rong.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Mdm_Edwina_Cheng_.jpg">
 </div>
-</th>
+</td>
 <td rowspan="1" colspan="2">
-<p><strong>Ms Michelle Goh Si Rong&nbsp;</strong>
-<br>Victoria Junior College
-<br><a href="/files/FulbrightDAI/Reflection__Michelle_Goh_.pdf" rel="noopener nofollow" target="_blank">Reflection (Michelle Goh)</a>
-<br><a href="/files/FulbrightDAI/Research_Project__Engaging_Youths_in_Conversations_on_Mental_Health_.pdf" rel="noopener nofollow" target="_blank">Research Project (Engaging Youths in Conversations on Mental Health</a>
+<p><strong>Mdm Edwina Cheng</strong>
+<br>Compassvale Secondary School
+<br><a href="/files/FulbrightDAI/Reflections__Edwina_Cheng_.pdf" rel="noopener nofollow" target="_blank">Reflections (Edwina Cheng)</a>
+<br><a href="/files/FulbrightDAI/Research_Project__Engaging_Students_with_Instructional_Strategies_Mapped_Against_the_SkillWill_Matrix_.pdf" rel="noopener nofollow" target="_blank">Research Project (Engaging Students with Instructional Strategies Mapped Against Skill/Will Matrix)</a>
 </p>
 </td>
 </tr>
@@ -129,14 +129,14 @@ DAI Program against our local educational context.
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Huang_Xiujuan_Michelle.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Ms_Lee_Huoy_Fen.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Ms Huang Xiujuan Michelle</strong>
-<br>Valour Primary School
-<br><a href="/files/FulbrightDAI/Reflection__Michelle_Huang_.pdf" rel="noopener nofollow" target="_blank">Reflection (Michelle Huang)</a>
-<br><a href="/files/FulbrightDAI/Research_Project__An_Approach_to_Cooperative_Learning_Considerations_for_Implementation_.pdf" rel="noopener nofollow" target="_blank">Research Project (An Approach to Cooperative Learning Considerations for Implementation)</a>
+<p><strong>MMs Lee Huoy Fe</strong>
+<br>Chong Fu School
+<br><a href="/files/FulbrightDAI/Reflections__Lee_Huoy_Fen_.pdf" rel="noopener nofollow" target="_blank">Reflections (Huoy Fen)</a>
+<br><a href="/files/FulbrightDAI/Research_Project__Maker_Sprint_STEAM_Resource_Package_for_the_Busy_Teacher_.pdf" rel="noopener nofollow" target="_blank">Research Project (Maker Sprint-STEAM Resource Package for the Busy Teacher)</a>
 </p>
 </td>
 </tr>
@@ -144,15 +144,16 @@ DAI Program against our local educational context.
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sukhjeet_Kaur.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Fulbrighte Award/Mrs_Shirley_Charles.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Ms Sukhjeet Kaur</strong>
-<br>CHIJ Katong Convent
-<br><a href="/files/FulbrightDAI/Reflection__Sukhjeet_Kaur_.pdf" rel="noopener nofollow" target="_blank">Reflection (Sukhjeet Kaur)</a>
-<br><a href="https://go.gov.sg/rp-applying-a-thinking-approach-24-25usfulbrighter" rel="noopener nofollow" target="_blank">Research Project (Applying a Thinking Approach when Reading and Responding to Literature Texts)</a>
+<p><strong>Mrs Shirley Charles</strong>
+<br>Yishun Innova Junior College
+<br><a href="/files/FulbrightDAI/Reflections__Shirley_Charles_.pdf" rel="noopener nofollow" target="_blank">Reflections (Shirley Charles)</a>
+<br><a href="/files/FulbrightDAI/Research_Project__An_Inclusive_Toolkit_for_Supporting_Adolescent_Learners_with_Special_Education_Needs_.pdf" rel="noopener nofollow" target="_blank">Research Project (Inclusive Toolkit for Supporting Adolescent Learners with Special Education Needs)</a>
 </p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -175,7 +176,7 @@ teachers in the schools to which they are attached.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Geraldine_Maskelony.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Geraldine_Maskelony.jpg">
 </div>
 </th>
 <td rowspan="1" colspan="2">
