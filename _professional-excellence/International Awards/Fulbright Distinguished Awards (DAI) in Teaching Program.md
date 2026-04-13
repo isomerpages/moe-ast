@@ -133,8 +133,8 @@ DAI Program against our local educational context.
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Ms Lee Huoy Fe</strong>
-<br>Chong Fu School
+<p><strong>Ms Lee Huoy Fen</strong>
+<br>Chongfu School
 <br><a href="/files/FulbrightDAI/Reflections__Lee_Huoy_Fen_.pdf" rel="noopener nofollow" target="_blank">Reflections (Huoy Fen)</a>
 <br><a href="/files/FulbrightDAI/Research_Project__Maker_Sprint_STEAM_Resource_Package_for_the_Busy_Teacher_.pdf" rel="noopener nofollow" target="_blank">Research Project (Maker Sprint-STEAM Resource Package for the Busy Teacher)</a>
 </p>
