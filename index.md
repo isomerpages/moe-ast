@@ -14,6 +14,14 @@ sections:
       backgroundColor: gray
       title: Welcome to Academy of Singapore Teachers
   - infopic:
+      title: Nomination for Academy Awards 2026
+      id: infopic
+      description: "Nomination period : 25 May to 15 July 2026"
+      button: Read More
+      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/academy-awards/nomination/
+      image: /images/Awards/AAnom2026_small.png
+      alt: Image alt text
+  - infopic:
       title: Congratulations to our PAT 2025 Recipients and Finalists!
       id: infopic
       button: Read More
