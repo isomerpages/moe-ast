@@ -14,8 +14,7 @@ sections:
       backgroundColor: gray
       title: Welcome to Academy of Singapore Teachers
   - infopic:
-      title: Academy Awards 2026 Nomination
-      subtitle: Add an image and text
+      title: Nomination for Academy Awards 2026
       id: infopic
       description: "Nomination period : 25 May to 15 July 2026"
       button: Read More
