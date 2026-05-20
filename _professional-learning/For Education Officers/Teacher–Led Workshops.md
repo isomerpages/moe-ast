@@ -42,7 +42,7 @@ leading to <strong>enhanced pedagogical practice</strong>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Grow Teacher Leaders to champion <strong>Teacher Ownership Teacher Leadership (TOTL)</strong> in
-professional learning</p>
+professional learning.</p>
 </td>
 </tr>
 </tbody>
