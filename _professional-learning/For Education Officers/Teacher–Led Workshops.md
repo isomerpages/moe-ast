@@ -14,7 +14,7 @@ variant: tiptap
 a <strong>teacher-led culture of professional excellence, </strong>TLW is
 a platform to <strong>provide professional opportunities </strong>for our
 teachers <strong>to share their good practices</strong> within the fraternity.</p>
-<p>Through this platform, teachers will <strong>engage in professional exchange of pedagogical content knowledge</strong>, <strong>leading to enhanced pedagogical practice</strong>
+<p>Through this platform, teachers will <strong>engage in professional exchange of pedagogical content knowledge</strong>, <strong>leading to enhanced pedagogical practice.</strong>
 </p>
 <h4>Objectives of Teacher-led Workshops (TLW)</h4>
 <table style="minWidth: 50px">
@@ -42,7 +42,7 @@ leading to <strong>enhanced pedagogical practice</strong>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Grow Teacher Leaders to champion <strong>Teacher Ownership Teacher Leadership (TOTL)</strong> in
-professional learning</p>
+professional learning.</p>
 </td>
 </tr>
 </tbody>

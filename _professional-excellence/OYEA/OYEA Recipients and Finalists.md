@@ -5,12 +5,12 @@ description: ""
 third_nav_title: OYEA
 variant: tiptap
 ---
-<h4><strong>Congratulations to Our OYEA 2025 Recipients and Finalists</strong></h4>
+<h4><strong>Congratulations to Our OYEA 2026 Recipients and Finalists</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="OYEA25" src="/images/Awards/OYEA25_Announcement_Collage_25Jun.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Awards/OYEA26_Announcement_Collage_Final.jpg">
 </div>
-<h4><strong>OYEA Recipients and Finalists 2025</strong></h4>
+<h4><strong>OYEA Recipients and Finalists 2026</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -29,59 +29,50 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Yang Jun</p>
+<p>Mdm Faridah Binte Mohamed Ali&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fuhua Primary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lim Yen Mei, Amanda</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nan Chiau Primary School</p>
+<p>Fuhua Primary School&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kartik Gayan S/o Rajaram</p>
+<p>Ms Lena Teo Ying Hui&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Compassvale Secondary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ervine Quek Cheng Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nan Hua High School</p>
+<p>Zhonghua Secondary School&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hshieh Szu An</p>
+<p>Mr Ng Jun Kian, Eugene&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Presbyterian High School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lim Siew Gek</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>St. Gabriel's Secondary School</p>
+<p>Springfield Secondary School&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Muhammad Sultan
-<br>Karimshah Bin Mohaideen</p>
+<p>Mr Rishvinder Singh&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>St. Joseph's Institution</p>
+<p>Changkat Changi Secondary School&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yeo Rong Yao Jeremy&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yishun Innova Junior College&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yip Joo Yee&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>New Town Primary School&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -104,42 +95,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kho Suat Ling, Eunice</p>
+<p>Mr Ahmad Nabil Bin Ahmad Al-Kastalani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bukit View Primary School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Esther Mak En-Hua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nanyang Primary School</p>
+<p>Manjusri Secondary School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chang Wan Yin</p>
+<p>Ms Chen Si Shann, Shannon&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dunman High School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Charlene Chan Shu Min</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Xinmin Secondary School</p>
+<p>Temasek Secondary School&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Koh Seok Xian</p>
+<p>Mdm D H Ayesha Thasneem&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Anderson Serangoon Junior College</p>
+<p>Woodgrove Secondary School&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Foo Shi Ping Melissa&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pioneer Primary School&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sean Tan Jun Eng&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hillgrove Secondary School&nbsp;</p>
 </td>
 </tr>
 </tbody>

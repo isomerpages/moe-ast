@@ -14,6 +14,13 @@ sections:
       backgroundColor: gray
       title: Welcome to Academy of Singapore Teachers
   - infopic:
+      title: Congratulations to OYEA 2026 Recipients and Finalists
+      id: infopic
+      button: Read more
+      url: /professional-excellence/oyea/recipients-and-finalists/
+      image: /images/Awards/OYEA26_Announcement_Collage_Final.jpg
+      alt: Group photo at AA ceremony
+  - infopic:
       title: Nomination for Academy Awards 2026
       id: infopic
       description: "Nomination period : 25 May to 15 July 2026"
@@ -21,20 +28,6 @@ sections:
       url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/academy-awards/nomination/
       image: /images/Awards/AAnom2026_small.png
       alt: Image alt text
-  - infopic:
-      title: Congratulations to our PAT 2025 Recipients and Finalists!
-      id: infopic
-      button: Read More
-      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/presidents-award-for-teachers/recipients-and-finalists/
-      image: /images/Awards/PAT25_5Sep25.png
-      alt: Image alt text
-  - infopic:
-      title: Congratulations to OYEA 2025 Recipients and Finalists
-      id: infopic
-      button: Read more
-      url: /professional-excellence/oyea/recipients-and-finalists/
-      image: /images/Awards/OYEA25_Announcement_Collage_25Jun.png
-      alt: Group photo at AA ceremony
   - infopic:
       title: VISTAs Returns with Exciting New Content
       subtitle: TWA Plus Programme
