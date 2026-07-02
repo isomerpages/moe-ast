@@ -95,7 +95,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Nabil Bin Ahmad Al-Kastalani</p>
+<p>Mr Ahmad Nabil Bin Ahmad
+<br>Al Kastalani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Manjusri Secondary School</p>
