@@ -21,14 +21,6 @@ sections:
       image: /images/Awards/OYEA26_Announcement_Collage_Final.jpg
       alt: Group photo at AA ceremony
   - infopic:
-      title: Nomination for Academy Awards 2026
-      id: infopic
-      description: "Nomination period : 25 May to 15 July 2026"
-      button: Read More
-      url: https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/academy-awards/nomination/
-      image: /images/Awards/AAnom2026_small.png
-      alt: Image alt text
-  - infopic:
       title: VISTAs Returns with Exciting New Content
       subtitle: TWA Plus Programme
       id: infopic
